@@ -1,0 +1,3 @@
+#core/appliedneuroscience 
+
+Radical behaviourism is a philosophy and theoretical framework for analysing human and animal behaviour. It emphasises the role of environmental factors in shaping behaviour and rejects using mentalistic concepts such as "thoughts" and "feelings" to explain behaviour. Radical behaviourism is associated with the work of B.F. [[The operant chamber (Skinner box)|Skinner]] and his followers and is often contrasted with cognitive and psychoanalytic approaches to psychology.

@@ -1,0 +1,3 @@
+#core/simulationphysics 
+
+Strong emergence in physics refers to phenomena that can't be fully predicted or explained by understanding their individual parts. Examples may include complex systems or consciousness. While it suggests higher-level properties appear from nowhere, proponents argue it recognises complex phenomena that are best understood at their own level. Contrastingly, weak emergence refers to phenomena that, while unexpected, can be derived from lower-level properties.
