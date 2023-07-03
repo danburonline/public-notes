@@ -1,4 +1,4 @@
-#core/neuroscience
+#core/appliedneuroscience 
 
 Long Term [[Working memory model|Memory]] (LTM) is divided into two types: Explicit [[Working memory model|Memory]] and Implicit Memory.
 

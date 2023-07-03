@@ -1,4 +1,4 @@
-#core/neuroscience
+#core/appliedneuroscience 
 
 ## Anterograde Amnesia
 

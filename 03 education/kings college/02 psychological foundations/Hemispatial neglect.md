@@ -1,4 +1,4 @@
-#core/neuroscience
+#core/appliedneuroscience 
 
 ![[neglect.jpg]]
 

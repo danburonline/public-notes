@@ -1,4 +1,4 @@
-#core/neuroscience
+#core/appliedneuroscience 
 
 ## Mood-Congruent [[Working memory model|Memory]]
 

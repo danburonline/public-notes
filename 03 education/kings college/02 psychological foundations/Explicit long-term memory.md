@@ -1,4 +1,4 @@
-#core/neuroscience
+#core/appliedneuroscience 
 
 ## Episodic [[Working memory model|Memory]]
 
