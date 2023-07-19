@@ -1,4 +1,4 @@
-#lead/neuralcomputing 
+#lead/cognitivecomputing 
 
 ![[engram-cell-connectivity.jpeg]]
 

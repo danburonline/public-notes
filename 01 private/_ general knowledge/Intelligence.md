@@ -1,4 +1,4 @@
-#lead/neuralcomputing 
+#lead/cognitivecomputing 
 
 1. **Spatial Intelligence**: The ability to visualise with the mind’s eye and to understand and manipulate spatial fields. It’s often associated with navigation, map reading, and handling objects.
 2. **Linguistic Intelligence**: The capacity to use language, your native language, and perhaps other languages, to express what’s on your mind and to understand other people.

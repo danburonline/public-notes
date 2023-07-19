@@ -1,4 +1,4 @@
-#lead/neuralcomputing 
+#lead/cognitivecomputing 
 
 Adaptive suppression refers to a technique or process that **dynamically adjusts or modulates the suppression or reduction of unwanted signals or noise in a system.** It involves continuously monitoring the input or environment and automatically adapting the suppression parameters or algorithms in order to enhance the desired signals while minimising the impact of interference or noise.
 
