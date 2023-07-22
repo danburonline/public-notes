@@ -1,4 +1,4 @@
-#core/simulationphysics
+#core/mathematicalphysics
 
 ![[no-boundary.jpg]]
 

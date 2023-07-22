@@ -1,4 +1,4 @@
-#core/simulationphysics
+#core/mathematicalphysics
 
 ![[soliton.png]]
 

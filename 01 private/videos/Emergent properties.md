@@ -1,4 +1,4 @@
-#fundamental/research #core/simulationphysics
+#fundamental/research #core/mathematicalphysics
 
 ![[emergent.png]]
 
