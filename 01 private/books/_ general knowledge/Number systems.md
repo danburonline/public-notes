@@ -1,4 +1,4 @@
-#fundamental/mathematics
+#fundamental/logic
 
 In mathematics, numbers are classified into various categories based on their properties. These categories are known as number systems. Let’s discuss the main number systems.
 

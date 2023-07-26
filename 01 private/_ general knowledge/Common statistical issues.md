@@ -1,4 +1,4 @@
-#fundamental/research #core/machinelearning
+#core/machinelearning
 
 - Have the author’s considered possible sources of bias?
 - Using parametric tests when your data or residuals are not normally distributed

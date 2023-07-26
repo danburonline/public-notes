@@ -1,4 +1,4 @@
-#fundamental/mathematics
+#fundamental/logic
 
 In logic, a **disjunction** is a compound statement formed by joining two or more statements with the word ‘or’.
 

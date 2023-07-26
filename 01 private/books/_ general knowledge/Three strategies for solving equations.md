@@ -1,4 +1,4 @@
-#fundamental/mathematics
+#fundamental/logic
 
 1. **Explicit Solutions:** This is the best-case scenario where a general formula in terms of known functions can be found to solve the equations. While these exact solutions are rare, they are extremely valuable due to their precise representation of known quantities.
 

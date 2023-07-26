@@ -1,4 +1,4 @@
-#fundamental/mathematics
+#fundamental/logic
 
 ![[variables.jpg]]
 

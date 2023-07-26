@@ -1,4 +1,4 @@
-#fundamental/research
+#fundamental/communication
 
 ![[biblical-hermeneutics.png]]
 
