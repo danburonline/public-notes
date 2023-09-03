@@ -22,7 +22,7 @@ Activity-dependent plasticity is the **adaptive process of the brain, changing i
 ### Structural Plasticity
 
 - Structural plasticity involves changes in the brain’s physical structure.
-- Changes can include the growth of new neurons ([[neurogenesis]]), the formation of new neural connections (synaptogenesis), or the pruning away of less-used connections (synaptic pruning).
+- Changes can include the growth of new neurons ([[Neurogenesis]]), the formation of new neural connections (synaptogenesis), or the pruning away of less-used connections (synaptic pruning).
 
 ## Key Principle
 
