@@ -1,4 +1,4 @@
-#fundamental
+#fundamental/communication 
 
 1. **Understanding Team Members:** Understanding how each team member’s role aligns with their life goals is crucial. This includes developing real human relationships that evolve as people change.
 2. **Role Assignment:** Challenge and position your team members in roles that will significantly affect their emotions, income, career growth, and overall life satisfaction. It’s about cultivating people on both steep and gradual growth trajectories.
