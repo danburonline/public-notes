@@ -1,0 +1,3 @@
+#core/mathematicalphysics 
+
+Decoupling of scale refers to the principle that behaviours or properties at different scales can often be treated independently, with phenomena at one scale not significantly impacting another. It allows for simplified models in science and engineering by focusing on relevant scales. However, in some fields, different scales are closely linked and can't be considered independently.

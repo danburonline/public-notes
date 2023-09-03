@@ -1,4 +1,4 @@
-#fundamental/mathematics #fundamental/research #fundamental/programming
+#fundamental/logic #fundamental/communication
 
 1. **Principle of Insatiable Curiosity:** As a polymath, make inquisitiveness your second nature. Continually question, seek novel experiences and venture into diverse subject areas.
 
