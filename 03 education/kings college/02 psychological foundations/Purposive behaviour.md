@@ -7,7 +7,8 @@
 - Purposive behaviour involves **setting goals, formulating cognitive maps, and anticipating outcomes** to guide behaviour.
 - Animals and humans engage in purposive behaviour by using **internal representations to plan and execute behaviour** towards desired goals.
 
-**Key Points:**
+## Key Points
+
 1. Neobehaviorism emphasises the active, goal-directed nature of behaviour.
 2. Internal mental processes drive purposive behaviour.
 3. Tolman’s experiments with rats in mazes highlighted the development of cognitive maps.

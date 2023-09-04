@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-Flashbulb memories are **detailed and vivid “snapshot” memories of momentous or emotionally charged events.** They are named “flashbulbs” because they seem to capture the situation in which they were learned as if it were illuminated by a camera’s flash.
+Flashbulb memories are **detailed and vivid “snapshot” memories of momentous or emotionally charged events.** They are named “flashbulbs” because they seem to capture the situation in which they were learned as if a camera’s flash illuminated it.
 
 ## Key Features
 

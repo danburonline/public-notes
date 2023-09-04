@@ -1,13 +1,18 @@
 #core/appliedneuroscience
 
+![[activity-dependent-plasticity.png]]
+
 Activity-dependent plasticity is the **adaptive process of the brain, changing in response to experiences, behaviours, and stimuli.** This plasticity is crucial for the nervous system as it enables adaptability, learning, and recovery from injury.
 
 ## Types of Activity-Dependent Plasticity
 
 ### Long-Term Potentiation (LTP)
 
-- [[Long-term memory|Long-term]] potentiation is the process of strengthening synapses based on recent patterns of activity.
+- [[Long-term memory|Long-term]] potentiation is the process of strengthening synapses based on recent patterns of activity. (There is also a short-term potentiation (STP)).
 - It is considered one of the brain’s primary mechanisms for memory storage.
+
+Here are some properties of LTP:
+![[properties-of-ltp.png]]
 
 ### Long-Term Depression (LTD)
 
