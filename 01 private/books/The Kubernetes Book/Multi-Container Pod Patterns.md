@@ -1,4 +1,4 @@
-#core/softwareengineering 
+#core/softwareengineering
 
 Kubernetes supports the design of multi-container pods, **where multiple containers are deployed in the same pod.** In these scenarios, the containers share the same network and storage resources, allowing them to cooperate and provide combined functionality. Here are some common multi-container pod patterns:
 
@@ -38,7 +38,7 @@ spec:
 
 ## 3. Adapter Pattern
 
-The adapter pattern normalizes and exposes the monitoring data from the main application to be consumed in a standard way. The adapter container transforms the output into a format that monitoring tools can understand.
+The adapter pattern normalises and exposes the monitoring data from the main application to be consumed in a standard way. The adapter container transforms the output into a format that monitoring tools can understand.
 
 ```
 apiVersion: v1
@@ -74,11 +74,11 @@ spec:
 ## Advantages of Multi-Container Pods
 
 - **Shared resources**: Containers inside a pod share the same network space, which means they can communicate with each other using `localhost`. They can also share storage volumes.
-- **Simplified communication**: The inter-container communication is simplified as they're deployed on the same host.
+- **Simplified communication**: The inter-container communication is simplified as they’re deployed on the same host.
 - **Tight coupling**: If the containers are tightly coupled and need to be scaled together, deploying them in the same pod simplifies the process.
 
 ## Disadvantages of Multi-Container Pods
 
-- **Limited scalability**: Since all containers in a pod are scheduled on the same node, you can't scale them individually. They have to be scaled together.
+- **Limited scalability**: Since all containers in a pod are scheduled on the same node, you can’t scale them individually. They have to be scaled together.
 - **Shared resources can be a disadvantage**: If one container uses up most of the resources, it can starve the other containers, leading to performance issues.
 - **Failure propagation**: If one container fails, it could bring down the entire pod.
