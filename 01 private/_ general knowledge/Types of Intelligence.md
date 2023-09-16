@@ -1,4 +1,4 @@
-#lead/cognitivecomputing 
+#lead/cognitivecomputing
 
 1. **Spatial Intelligence**: The ability to visualise with the mind’s eye and to understand and manipulate spatial fields. It’s often associated with navigation, map reading, and handling objects.
 2. **Linguistic Intelligence**: The capacity to use language, your native language, and perhaps other languages, to express what’s on your mind and to understand other people.
@@ -10,6 +10,9 @@
 8. **Naturalist Intelligence**: The ability to discriminate among living things (plants, animals) and sensitivity to other natural world features (clouds, rock configurations).
 
 These types of intelligence are part of the Multiple Intelligences theory proposed by [Howard Gardner](https://en.wikipedia.org/wiki/Howard_Gardner).
+
+> [!warning]
+> They have been criticised as a [[Neuromyths]] as no empirical evidence or statistical analysis was used in order to deduce these types of intelligence. Mostly, they can be broken down into acquired skills. Gardner even added more types of intelligence over the years of his career.
 
 ---
 
