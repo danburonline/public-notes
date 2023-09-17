@@ -37,9 +37,3 @@
 
 - Models that involve tasks that would take an infinite amount of time on a Turing machine.
 - Examples include accelerating Turing machines or Zeno machines.
-
-## Further Reading
-
-- “The Universal Computer” by Martin Davis.
-- “Introduction to the Theory of Computation” by Michael Sipser.
-- “Quantum Computation and Quantum Information” by Michael A. Nielsen and Isaac L. Chuang.
