@@ -10,7 +10,7 @@ Explicit memory, also known as declarative memory, is a type of long-term memory
 
 ### Semantic Memory
 
-Semantic memory is a sub-category of declarative memory that includes general knowledge about the world, independent of personal experience. This includes facts, concepts, ideas, and vocabulary. For example, knowing that Paris is the capital of France is a piece of semantic memory.
+Semantic memory is a sub-category of declarative memory that includes general knowledge about the world, independent of personal experience. This includes facts, concepts, ideas, and vocabulary. For example, knowing that Paris is the capital of France is a piece of semantic memory. The process of creating semantic memory is sometimes referred to as “semantic encoding”.
 
 ### Episodic Memory
 
