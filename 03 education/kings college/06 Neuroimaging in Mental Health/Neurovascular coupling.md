@@ -2,12 +2,12 @@
 
 ![[astrocyte.jpg]]
 
-Neurovascular coupling (NVC) is the mechanism by which **cerebral blood flow is regulated in response to neural activity.** This process is critical in the brain, which has high energy demands but lacks significant energy reserves.
+Neurovascular coupling (NVC) is the mechanism by which **[[Cerebral blood flow]] is regulated in response to neural activity.** This process is critical in the brain, which has high energy demands but lacks significant energy reserves.
 
 ## Energy Demands of the Brain
 
 - **High Metabolic Rate**: The brain, although only a small fraction of the body’s weight, consumes a disproportionately large amount of the body’s energy.
-- **Lack of Energy Reserves**: Unlike other organs, the brain does not store energy. It relies on a continuous supply of oxygen and glucose from the bloodstream.
+- **Lack of Energy Reserves**: The brain does not store energy unlike other organs. It relies on a continuous supply of oxygen and glucose from the bloodstream.
 - [[Aerobic and anaerobic glycolysis#Aerobic Glycolysis|Aerobic]] Glycolysis**: The brain primarily uses aerobic glycolysis for energy production. This process requires a steady supply of oxygen and glucose, making the regulation of blood flow crucial.
 
 ## Mechanism of NVC
