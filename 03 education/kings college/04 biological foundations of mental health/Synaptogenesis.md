@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[synaptogenesis.jpg]]
+![[synaptogenesis.png]]
 
 Synaptogenesis is the **formation of synapses between neurons in the nervous system.** This process is fundamental to building the complex neural circuits that make up the brain.
 
