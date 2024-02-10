@@ -1,6 +1,6 @@
 #lead/cognitivecomputing
 
-The **Synthetic Neural Substrate Sequential Layering Transfer for Cognitive Preservation** (SNSSLT-CP) is a hypothetical procedure envisioned to seamlessly transition encoded neural information from a biological to a synthetic substrate, ensuring the preservation of cognitive functions and personal identity. This is pursued with the ultimate goal of enabling simulated reality experiences through embedded electrode technology.
+The **Synthetic Neural Substrate Sequential Layering Transfer for Cognitive Preservation** (SNSSLT-CP) is a hypothetical procedure envisioned to seamlessly transition encoded neural information from a biological to a synthetic substrate, ensuring the preservation of cognitive functions and personal identity. This is pursued to enable simulated reality experiences through, for example, embedded electrode technology or optogenetics as sensory inputs.
 
 ## Procedure
 
