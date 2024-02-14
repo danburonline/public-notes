@@ -25,7 +25,7 @@ Where:
 ## Applications
 
 - **Classification Tasks**: Primarily used in multi-class classification problems in various domains like image recognition, language modelling, etc.
-- [[Reinforcement schedules|Reinforcement]]nt Learning**: Used in policy gradient methods where the actions are discrete.
+- **[[Reinforcement schedules|Reinforcement]] Learning**: Used in policy gradient methods where the actions are discrete.
 
 ## Example
 
