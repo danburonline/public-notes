@@ -14,4 +14,4 @@ The matrix is typically set up with actual values in rows and predicted values i
 - **Accuracy:** This measures the overall correctness of the model and is calculated as (TP + TN) / (TP + TN + FP + FN).
 - **Precision:** This indicates the proportion of positive identifications that were actually correct, calculated as TP / (TP + FP).
 - **Recall (or Sensitivity):** This measures the proportion of actual positives that were correctly identified, calculated as TP / (TP + FN).
-- **F1 Score:** This is a harmonic mean of precision and recall, balancing them. It’s calculated as 2 * (Precision * Recall) / (Precision + Recall).
+- **F1 Score:** This is a harmonic mean of precision and recall, balancing them. It’s calculated as 2 \* (Precision * Recall) / (Precision + Recall).
