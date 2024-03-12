@@ -40,7 +40,7 @@ The peripheral nervous system plays a key role in transmitting sensory informati
 
 ### General Sensations
 
-- General sensations are those that are felt throughout the body, such as temperature, pain, touch, pressure, vibration, and [[proprioception]] (body position).
+- General sensations are those that are felt throughout the body, such as temperature, pain, touch, pressure, vibration, and [[Proprioception]] (body position).
 
 ## Functions
 
