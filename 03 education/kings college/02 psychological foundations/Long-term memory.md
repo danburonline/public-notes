@@ -16,6 +16,8 @@ Semantic memory is a sub-category of declarative memory that includes general kn
 
 Episodic memory, another sub-category of declarative memory, involves the recollection of specific events, situations, and experiences. These memories are personally experienced events that occur in a particular place at a specific time. For example, remembering your last vacation trip to Paris is episodic.
 
+---
+
 ## Implicit Memory (Nondeclarative Memory)
 
 Implicit memory, also known as nondeclarative memory, is a type of long-term memory that is not consciously controlled. It is acquired and used unconsciously and can influence thoughts and behaviours without the person’s awareness. This type of memory primarily involves skills and routine procedures that are performed automatically.
