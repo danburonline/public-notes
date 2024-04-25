@@ -1,5 +1,6 @@
 #core/appliedneuroscience
 
+![[levels-of-consciousness.jpeg]]
 ## Sentience
 
 - **Definition**: The basic capacity to feel, perceive, or experience subjectively.
