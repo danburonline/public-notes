@@ -21,7 +21,8 @@ In contrast to other work, such as that from the [Hébert Lab](https://hebertlab
 3. **Cognitive Preservation Verification**:
     - Utilise the integrated electrode arrays to perform comprehensive testing to ensure cognitive functions and personal identity have been preserved.
     - Conduct simulated reality testing to verify the synthetic brain’s functionality and the individual’s ability to interact with simulated environments.
-4. **Simulated Reality Engagement**:
+    - Initially, the preserved brain can be set into an artificial coma, for example, via anesthetics, until simulated reality technology and/or robot technology is advanced enough to host the preserved individuals.
+1. **Simulated Reality Engagement**:
     - Utilise the electrode technology to facilitate immersive simulated reality experiences.
     - Monitor and assess the individual’s interaction within simulated environments, ensuring a seamless transition from biological to synthetic cognitive functioning.
 
