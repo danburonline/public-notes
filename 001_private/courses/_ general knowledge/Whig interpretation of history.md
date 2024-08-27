@@ -1,0 +1,3 @@
+#fundamental/logic 
+
+The Whig **interpretation of history** is an approach that emerged in the 19th century, mainly in Britain. It posits a **progressive view of history as a steady march toward greater freedom, democracy, and progress.** Whig historians tend to highlight the achievements of individuals and institutions that contributed to constitutional and political developments leading to present-day liberal democratic societies. "Whig" originally referred to a British political faction but has since been applied to this historical perspective.
