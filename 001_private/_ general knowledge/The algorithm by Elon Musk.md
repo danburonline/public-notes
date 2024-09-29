@@ -1,7 +1,23 @@
 #fundamental/communication
 
-1. **Question every requirement:** Each should come with the name of the person who made it. You should never accept that a requirement came from a department, such as from “the legal department” or “the safety department.” You need to know the name of the real person who made that requirement. Then you should question it, no matter how smart that person is. Requirements from smart people are the most dangerous because people are less likely to question them. Always do so, even if the requirement came from me. Then, make the requirements less dumb.
-2. **Delete any part or process you can:** You may have to add them back later. In fact, if you do not end up adding at least 10% of them, you didn’t delete enough.
-3. **Simplify and optimise:** This should come after step two. A common mistake is simplifying and optimising a part or a process that should not exist.
-4. **Accelerate cycle time:** Every process can be speeded up. But only do this after you have followed the first three steps. In the Tesla factory, I mistakenly spent a lot of time accelerating processes that I later realised should have been deleted.
-5. **Automate:** That comes last. The big mistake in Nevada and at Fremont was that I began by trying to automate every step. We should have waited until all the requirements had been questioned, parts and processes deleted, and the bugs were shaken out.
+Elon Musk’s “algorithm” is a **five-step process for product development and manufacturing optimisation**, developed from his experiences at Tesla and SpaceX. It emphasizes efficiency, rapid iteration, and challenging conventional wisdom.
+
+## Core Steps
+
+1. **Question every requirement:** Don’t blindly accept specifications. Identify the individual responsible and challenge its necessity, even if it came from Musk. Make requirements “less dumb.”
+2. **Delete any part or process you can:** Aggressively eliminate unnecessary components and steps. Add some back later if needed (a sign you deleted enough).
+
+3. **Simplify and optimize:** Streamline remaining parts and processes for efficiency. Do this *after* deletion.
+4. **Accelerate cycle time:** Speed up every step, but only *after* simplification.
+5. **Automate:** Introduce automation *last*, after addressing previous steps.
+
+## Corollaries
+
+- **Hands-on experience for managers:** Technical managers must have direct experience (e.g., software managers should code).
+- **Beware of camaraderie:** Excessive team cohesion stifles critical feedback.
+- **It’s OK to be wrong, but not confidently wrong:** Admit mistakes and learn.
+- **Lead by example:** Don’t ask employees to do what you wouldn’t.
+- **Skip-level meetings:** Gather information directly from employees below management.
+- **Prioritise attitude over skills:** Mindset is crucial; skills can be taught.
+- **Maniacal sense of urgency:** Maintain a relentless drive.
+- **Physics are the only rules:** All other requirements are recommendations.
