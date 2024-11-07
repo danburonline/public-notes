@@ -1,7 +1,6 @@
 ## Companies
 
 - Mind in a device: <https://mindinadevice.com>
-- Next up Neuro: <https://www.nextupneuro.org>
 - Nectome ("just" preservation): <https://nectome.com>
 - Neuralink (long-term for sure): <https://neuralink.com>
 - Science (long-term for sure): https://science.xyz
