@@ -2,7 +2,7 @@
 
 [[Types of Data|Data]] skew refers to the uneven distribution of data points within a dataset. It occurs when some values occur more frequently than others, leading to an imbalance in the data distribution. Skewed data can significantly impact statistical analysis and modelling in data science.
 
-## There are two types of data skew
+## There Are Two Types of Data Skew
 
 ![[data-skew.png]]
 

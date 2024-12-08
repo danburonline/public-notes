@@ -17,9 +17,9 @@ Structured Hypothesis Testing is a **methodical approach that combines data coll
 > - **Null Hypothesis (H0)**: The drug has no effect on headache duration.
 > - **Alternative Hypothesis (H1)**: The drug reduces headache duration.
 > 
->   You choose a significance level of 0.05 and collect data by having a sample of patients use the drug and record their headache duration. You perform a statistical test (e.g., a t-test) on the data.
+> You choose a significance level of 0.05 and collect data by having a sample of patients use the drug and record their headache duration. You perform a statistical test (e.g., a t-test) on the data.
 > 
->   If your p-value is less than 0.05, you would reject the null hypothesis and conclude that the drug is effective at reducing headache duration. If your p-value is greater than 0.05, you would not reject the null hypothesis, meaning you don’t have enough evidence to say the drug is effective.
+> If your p-value is less than 0.05, you would reject the null hypothesis and conclude that the drug is effective at reducing headache duration. If your p-value is greater than 0.05, you would not reject the null hypothesis, meaning you don’t have enough evidence to say the drug is effective.
 
 > [!note]
 > Remember, hypothesis testing doesn’t “prove” a hypothesis. It provides evidence to either support or refute it within the constraints of the chosen significance level and the quality and quantity of the data.

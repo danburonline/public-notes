@@ -2,7 +2,7 @@
 
  A sophisticated perceptual strategy is an advanced approach to perceiving and interpreting information from the environment to guide decision-making and actions. It involves selectively attending to relevant stimuli, efficiently organising perceptual input, and mapping percepts to appropriate responses, often in an optimised way based on experience.
 
-## Key aspects
+## Key Aspects
 
  1. **Perceptual learning and expertise**
 	 - Through experience and training, perceptual skills can be honed to extract task-relevant information more efficiently

@@ -10,5 +10,5 @@ While the Yoneda lemma may not solve the problem of qualia, there are still inte
 
 > [!note]
 > More information:
-> - https://www.youtube.com/watch?v=4GJ4UQZvCNM
-> - https://matteocapucci.wordpress.com/2023/07/15/no-the-yoneda-lemma-doesnt-solve-the-problem-of-qualia
+> - <https://www.youtube.com/watch?v=4GJ4UQZvCNM>
+> - <https://matteocapucci.wordpress.com/2023/07/15/no-the-yoneda-lemma-doesnt-solve-the-problem-of-qualia>

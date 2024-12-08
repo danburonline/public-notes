@@ -4,13 +4,13 @@
 
 Electroencephalography (EEG) measures the brain's **electrical activity by recording voltage fluctuations resulting from ionic current flows within neurons.** A fundamental concept in understanding how EEG works is the notion of the dipole, which refers to the difference in electric potential that occurs during neuronal activity.
 
-#### The Concept of Dipoles in EEG
+## The Concept of Dipoles in EEG
 
 - **Neuronal Dipoles**: A dipole in the context of EEG is created by the separation of charges within neurons, particularly during synaptic excitation or inhibition. These charge separations generate an electric field that electrodes on the scalp can detect.
 - **Orientation and Location**: The orientation and location of a dipole influence the EEG signal. Dipoles that are perpendicular to the surface of the scalp are more likely to produce a detectable signal than those that are parallel.
 - **[[Interbrain synchrony|Synchrony]] of [[Types of biological electrical activity|Activity]]**: EEG is most sensitive to the synchronous activity of neurons with similar spatial orientation, creating a larger and more coherent electric field.
 
-#### Populations of Dipoles
+## Populations of Dipoles
 
 - **Aggregate [[The BOLD effect|Effect]]**: EEG does not measure the activity of individual neurons but rather the summation of synchronous activity of thousands or millions of dipoles. This is referred to as the "accumulated field."
 - **Pyramidal Neurons**: The primary contributors to the EEG signal are the pyramidal neurons in the cerebral cortex due to their aligned perpendicular orientation to the cortical surface.

@@ -73,4 +73,4 @@ The fundamental equations of the Hodgkin-Huxley model include:
 ---
 
 > [!example] Applications
->  The Hodgkin-Huxley model has been fundamental in neurophysiology, contributing to our understanding of the ionic basis of action potentials. It is widely used in computational neuroscience to simulate the behaviour of neurons and neural circuits.
+> The Hodgkin-Huxley model has been fundamental in neurophysiology, contributing to our understanding of the ionic basis of action potentials. It is widely used in computational neuroscience to simulate the behaviour of neurons and neural circuits.
