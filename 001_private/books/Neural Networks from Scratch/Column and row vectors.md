@@ -5,7 +5,7 @@
 - **Structure**: Consists of a single column with multiple rows.
 - **Notation Example**:
 
-  $$
+$$
 \begin{bmatrix} a_1 \\ a_2 \\ \vdots \\ a_n \end{bmatrix}
 $$
 - **Usage in Mathematics**:

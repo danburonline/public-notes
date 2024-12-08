@@ -18,7 +18,7 @@ The corpus callosum is a large, C-shaped **nerve fibre bundle found beneath the 
 - The corpus callosum enables the two hemispheres of the brain to communicate and coordinate with each other.
 - It transfers motor, sensory, and cognitive information between the brain hemispheres.
 
-## [[Peripheral nervous system#Diseases and Disorders|Disorders]] and Syndromes
+## [[Peripheral nervous system#Diseases and Disorders|Disorders]] And Syndromes
 
 - **Agenesis of the Corpus Callosum (ACC)**: A birth defect where the corpus callosum is partially or completely absent.
 - **Split-brain Syndrome**: This can occur when the corpus callosum is surgically cut to reduce epileptic seizures.

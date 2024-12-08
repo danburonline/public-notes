@@ -4,7 +4,7 @@ Linkage and association studies are **two fundamental genetic approaches used in
 
 ![[linkage-association.png]]
 
-## [[Forward and backward genetics|Genetics]] and Environment in Neurobehavioral Studies
+## [[Forward and backward genetics|Genetics]] And Environment in Neurobehavioral Studies
 
 Linkage and association studies are central in examining the role of genetics and environmental factors on behaviour. These studies help uncover the influence of genes and their interaction with environmental variables on neurological and psychiatric conditions.
 

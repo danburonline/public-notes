@@ -20,7 +20,7 @@ Readiness [[Graded potential|Potential]] (RP), also known as Bereitschaftspotent
 
 - **Free will debate:** The discovery of RP has sparked a debate on free will, as some interpret it as evidence that our brains decide to move before we’re consciously aware of the decision
 
-## Current research
+## Current Research
 
 - **Prediction of movement:** Researchers are exploring how RP can be used to predict movement, which could be particularly useful in neuroprosthetics
 - **Understanding cognitive processes:** RP is also studied to further understand cognitive processes related to the planning and initiation of actions

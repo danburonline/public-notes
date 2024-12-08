@@ -19,4 +19,4 @@ Priming can influence learning by making certain information more accessible and
 >  2. **Semantic Priming**: They use words like “artisan” and “gourmet” in their menu descriptions to create luxury and high-quality associations.
 > 3. **Sensory Priming**: They brew coffee near the entrance, so the aroma primes customers’ senses and increases their desire for coffee.
 > 
->    By the time customers order, they’ve been primed to desire speciality coffees, likely increasing sales of these high-end products. This example illustrates how marketers use priming as a subtle tool to influence consumer behaviour.
+> By the time customers order, they’ve been primed to desire speciality coffees, likely increasing sales of these high-end products. This example illustrates how marketers use priming as a subtle tool to influence consumer behaviour.

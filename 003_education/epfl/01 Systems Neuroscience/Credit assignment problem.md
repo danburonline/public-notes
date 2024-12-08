@@ -17,6 +17,7 @@ The credit assignment problem is a fundamental challenge in various fields, incl
 - **Solutions**: Theories like dopamine-based reward prediction error signalling hypothesise mechanisms the brain might use to solve the credit assignment problem. [[Hedonic system#Role of Dopamine|Dopamine]] neurons signal the difference between expected and actual rewards, guiding the adjustment of synaptic strengths.
 
 ---
+
 ## Key Concepts
 
 - **[[Synaptic plasticity|Synaptic]] Plasticity:** The ability of synapses to strengthen or weaken over time, based on their activity levels. This is fundamental to learning and memory in the brain.

@@ -2,7 +2,7 @@
 
 The theory of mind is the **cognitive ability to understand and attribute mental states, such as beliefs, desires, intentions, and emotions, to oneself and others.** It involves recognising that people have different perspectives, thoughts, and feelings and using that understanding to interpret and predict behaviour. This ability is typically developed in humans during early childhood and plays a fundamental role in social interactions and communication. An understanding of the theory of mind is also crucial to help us to emphasise with others.
 
-### How to test if a child developed the theory of mind
+## How to Test if a Child Developed the Theory of Mind
 
 ![[sally-anne.png]]
 
