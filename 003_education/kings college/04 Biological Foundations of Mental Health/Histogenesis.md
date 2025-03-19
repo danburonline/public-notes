@@ -9,4 +9,4 @@ Histogenesis includes several stages:
 1. **Proliferation**: In this stage, the cells divide and multiply.
 2. **Migration**: The cells move to their appropriate locations.
 3. **Differentiation**: The cells take on specific characteristics and functions.
-4. **Death** (also known as apoptosis): Some cells die to shape the final structure of the tissue or organ.
+4. **Death** (also known as [[apoptosis]]): Some cells die to shape the final structure of the tissue or organ.

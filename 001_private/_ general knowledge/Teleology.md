@@ -1,6 +1,6 @@
 #fundamental/logic
 
-**Definition:** Teleology is a philosophical term that refers to the explanation of phenomena based on their purpose rather than their cause. The term comes from the Greek word “telos,” meaning “end,” “aim,” or “purpose,” and “logos,” meaning “study.” Teleology assesses the purpose or direction of features within given entities, such as organisms, systems, or actions.
+Teleology is a philosophical term that refers to **the explanation of phenomena based on their purpose rather than their cause.** The term comes from the Greek word “telos,” meaning “end,” “aim,” or “purpose,” and “logos,” meaning “study.” Teleology assesses the purpose or direction of features within given entities, such as organisms, systems, or actions.
 
 **Origin and Historical Context:**
 - The concept has roots in ancient philosophy, notably in the works of Aristotle who proposed that understanding the purpose of an object or behavior is crucial to understanding its essence and nature.
