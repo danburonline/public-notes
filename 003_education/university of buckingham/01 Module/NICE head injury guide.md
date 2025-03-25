@@ -7,6 +7,12 @@
 *   **Early Senior Involvement:** For significant head injuries (especially GCS ≤ 8), involve senior clinicians early.
 *   **Safeguarding:** Always consider the possibility of non-accidental injury, especially in children. Document and escalate any concerns.
 
+> [!Concepts]
+> *   **Initial Assessment:** Prioritise ABCDE and establish GCS.  Involve senior clinicians early for severe cases.
+> *   **Neuroimaging (CT):**  Specific criteria dictate the need and timing of CT scans, varying with age, GCS, and symptoms.
+> * **Management:** Close neurological monitoring is crucial.  Guidance is provided for managing ICP, pain, and other issues.
+> * **Discharge:**  Clear criteria ensure safe discharge, with appropriate patient education and communication with GPs.  Specific guidance exists for children and patients on anticoagulants.
+
 ## Glasgow Coma Scale (GCS)
 
 *   Report *both* the total score (out of 15) *and* the individual components (E, V, M).
