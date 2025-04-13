@@ -16,7 +16,7 @@ A population includes all members of a defined group that we are studying or col
 
 ## Sample
 
-Conversely, a sample is a subset of the population used to represent the entire group.
+Conversely, a sample is **a subset of the population used to represent the entire group.**
 
 ### Key Features
 
