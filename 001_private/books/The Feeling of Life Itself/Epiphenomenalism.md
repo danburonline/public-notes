@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-Epiphenomenalism is a theory in philosophy of mind that posits mental states or conscious experiences are byproducts (epiphenomena) of physical brain states, without causal power over physical states or behaviour.
+Epiphenomenalism is a theory in philosophy of mind that posits **mental states or conscious experiences are byproducts (epiphenomena) of physical brain states**, without causal power over physical states or behaviour.
 
 ## Key Points
 
@@ -28,7 +28,7 @@ Epiphenomenalism is a theory in philosophy of mind that posits mental states or 
    - Challenge to epiphenomenalism: Natural selection typically acts on traits with causal impact
 
 2. **Knowledge Argument**:
-   - Question: How can we know about our conscious states if they don’t causally impact our behavior?
+   - Question: How can we know about our conscious states if they don’t causally impact our behaviour?
    - Challenge: Our ability to report on conscious states seems to imply some causal efficacy
 
 3. **Self-Stultification Argument**:
