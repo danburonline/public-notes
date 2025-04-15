@@ -2,7 +2,7 @@
 
 From Keith Wiley’s book “Taxonomy and Metaphysics of Mind-Uploading”.
 
-## 1. GRADUAL REPLACEMENT PROCEDURES
+## 1. Gradual Replacement Procedures
 
 ### 1.1. Essentially-in-place Procedures
 
@@ -22,9 +22,11 @@ From Keith Wiley’s book “Taxonomy and Metaphysics of Mind-Uploading”.
 
 ### 1.2. Non-in-place Procedures
 
-- **1.2.1. Moravec bush-robot**: Utilizes a robotic mechanism to replace brain functions, potentially allowing for a non-destructive transition.
+- **1.2.1. Moravec bush-robot**: Utilises a robotic mechanism to replace brain functions, potentially allowing for a non-destructive transition.
 
-## 2. SCAN-AND-DUPLICATE PROCEDURES
+---
+
+## 2. Scan-And-Duplicate Procedures
 
 ### 2.1. Frozen Scan-and-copy Procedures
 
@@ -36,6 +38,8 @@ From Keith Wiley’s book “Taxonomy and Metaphysics of Mind-Uploading”.
 - **2.2.1. Conscious destructive**: Involves scanning the brain while conscious, leading to either immediate (`Teleportation`) or gradual duplication.
 - **2.2.2. Conscious nondestructive**: The brain is scanned without destruction, considering the immediacy of the scan and the sensory environment of the upload’s reception.
 
-## 3. BRAIN DIVISION PROCEDURES
+---
 
-- **3.1. - 3.7.**: These techniques involve dividing the brain’s functions or structure at varying percentages and frequencies, questioning identity and continuity during the transfer process.
+## 3. Brain Division Procedures
+
+- **3.1. – 3.7.**: These techniques involve dividing the brain’s functions or structure at varying percentages and frequencies, questioning identity and continuity during the transfer process.

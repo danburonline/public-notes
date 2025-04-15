@@ -2,11 +2,11 @@
 
 ![[stress-types.jpg]]
 
-In the field of psychology, “stress” is an umbrella term used to describe the mental, emotional, or physical strain that people experience in response to events perceived as challenging or threatening. This strain can either be positive (eustress) or negative (distress), adding depth to this overarching concept.
+In the field of psychology, “stress” is an umbrella term used to describe the mental, emotional, or physical strain that people experience in response to events perceived as challenging or threatening. This strain can either be positive ([[eustress]]) or negative ([[distress]]), adding depth to this overarching concept.
 
 1. [[Eustress]]: This is a positive form of stress that arises from dealing with manageable challenges or achieving goals. It can contribute to feelings of fulfilment and personal growth. Examples include starting a new job, moving to a new city, or running a marathon.
 
-2. [[Distress]]: Distress, in contrast, is a negative form of stress. It occurs when a situation is perceived as beyond an individual’s ability to cope, leading to feelings of discomfort, anxiety, or worry. This type of stress can have negative impacts on mental and physical health. Examples include excessive workload, loss of a loved one, or experiencing a traumatic event.
+2. [[Distress]]: [[Distress]], in contrast, is a negative form of stress. It occurs when a situation is perceived as beyond an individual’s ability to cope, leading to feelings of discomfort, anxiety, or worry. This type of stress can have negative impacts on mental and physical health. Examples include excessive workload, loss of a loved one, or experiencing a traumatic event.
 
 Stress can also be categorised based on its duration:
 
