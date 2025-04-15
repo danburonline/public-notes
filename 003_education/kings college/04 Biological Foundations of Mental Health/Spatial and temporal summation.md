@@ -14,7 +14,7 @@ Spatial summation occurs when graded potentials from multiple locations on the n
 
 ## Temporal Summation
 
-Temporal summation occurs when a single presynaptic neuron fires action potentials so rapidly that the effects of each individual graded potential are combined.
+Temporal summation occurs when a single presynaptic neuron fires action potentials so rapidly that the effects of each individual [[graded potential]] are combined.
 
 - It refers to the addition of successive inputs from the same location on the dendrites and cell body over a short period of time.
 - A single presynaptic neuron can thus influence whether the postsynaptic neuron reaches the threshold potential.
