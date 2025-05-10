@@ -1,6 +1,6 @@
 #fundamental/logic 
 
-A truth table is a mathematical table used in logic to compute the functional values of logical expressions on each of their functional arguments. It is used to depict the possible outcomes of a particular proposition or combination of propositions. The primary logical operators are ``NOT``, ``AND``, ``OR``, ``IF…THEN`` (implies), and ``IF AND ONLY IF`` (biconditional).
+A truth table is a mathematical **table used in logic to compute the functional values of logical expressions on each of their functional arguments.** It is used to depict the possible outcomes of a particular proposition or combination of propositions. The primary logical operators are ``NOT``, ``AND``, ``OR``, ``IF…THEN`` (implies), and ``IF AND ONLY IF`` (bi-conditional).
 
 Here are some basic truth tables:
 
