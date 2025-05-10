@@ -1,6 +1,6 @@
 #lead/cognitivecomputing #core/appliedneuroscience
 
-A mental state becomes conscious when it is the object of a higher-order representation, such as a higher-order thought or perception.
+A **mental state becomes conscious when it is the object of a higher-order representation**, such as a higher-order thought or perception.
 
 **Motivation**:
 - Explain the difference between conscious and unconscious mental states in representational terms, without appealing directly to neural mechanisms.

@@ -2,7 +2,7 @@
 
 ![[hemispherotomy.png]]
 
-Hemispherotomy is a surgical procedure used in the treatment of severe and intractable epilepsy. It is a modified version of hemispherectomy, which involves **removing or disconnection one of the brain’s hemispheres.** Hemispherotomy, by contrast, aims to preserve more of the brain’s structure while still achieving the desired disconnection to control seizures.
+Hemispherotomy is a surgical procedure used in the treatment of severe and intractable epilepsy. It is a modified version of [hemispherectomy](https://en.wikipedia.org/wiki/Hemispherectomy), which involves **removing or disconnection one of the brain’s hemispheres.** Hemispherotomy, by contrast, aims to preserve more of the brain’s structure while still achieving the desired disconnection to control seizures.
 
 ## Indications
 

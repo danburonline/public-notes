@@ -1,12 +1,8 @@
 #core/appliedneuroscience #fundamental/communication
 
-[[Working memory model|Memory]] techniques are **tools that help in improving memory and recall.** Here are some commonly used techniques:
+Mnemonics are **memory aids that help in retaining information.** They work by associating easy-to-remember clues with complex or unfamiliar data.
 
-## Mnemonics
-
-Mnemonics are memory aids that help in retaining information. They work by associating easy-to-remember clues with complex or unfamiliar data.
-
-### Types of Mnemonics
+## Types of Mnemonics
 
 1. **Acronyms**: Forming a word from the initial letters of a series of words. For example, “HOMES” to remember the Great Lakes (Huron, Ontario, Michigan, Erie, Superior).
 2. **Rhymes**: Using short rhymes to remember facts, like “Thirty days hath September, April, June, and November…”
