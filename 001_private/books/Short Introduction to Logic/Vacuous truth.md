@@ -1,6 +1,6 @@
 #fundamental/logic
 
-Vacuous truth is a term used in logic, mathematics, and computer science to refer to statements that are considered true because they do not make any concrete or definite assertion. More specifically, a statement is considered vacuously true if it is not applicable to any object or situation or if its conditions can never be met.
+Vacuous truth is a term used in logic, mathematics, and computer science to refer to **statements that are considered true because they do not make any concrete or definite assertion.** More specifically, a statement is considered vacuously true if it is not applicable to any object or situation or if its conditions can never be met.
 
 **1. Conditional Statements:** The concept of vacuous truth is most commonly encountered in the context of conditional statements of the form “if P then Q” (symbolically, P → Q). In such a statement, if P (the antecedent) is false, the statement as a whole is considered to be true, regardless of whether Q (the consequent) is true or false. This is known as “vacuously true” or “true by default.”
 

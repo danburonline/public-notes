@@ -28,7 +28,3 @@ Dual stack networking is a **transition technology for the migration from IPv4 t
 
 - Ensures uninterrupted internet services during the transition from IPv4 to IPv6.
 - Allows network operators to deploy IPv6 in their networks gradually.
-
-## Challenges
-
-- Managing a dual-stack network can be complex and resource-intensive, requiring managing and operating two separate protocol stacks.
