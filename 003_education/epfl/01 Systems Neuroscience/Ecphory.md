@@ -2,10 +2,7 @@
 
 ![[ecphory.png]]
 
-## Overview of Ecphory
-
-- **Definition**: Ecphory is a cognitive process involving retrieving memories by activating the neural patterns representing an engram in response to specific cues (also called [[Engram]]).
-- **Origin**: The term was introduced by [Endel Tulving](https://en.wikipedia.org/wiki/Endel_Tulving), a key figure in studying human memory.
+Ecphory is a **cognitive process involving retrieving memories by activating the neural patterns representing an engram** in response to specific cues (also called [[Engram]]). **Origin**: The term was introduced by [Endel Tulving](https://en.wikipedia.org/wiki/Endel_Tulving), a key figure in studying human memory.
 
 ## Process of Ecphory
 

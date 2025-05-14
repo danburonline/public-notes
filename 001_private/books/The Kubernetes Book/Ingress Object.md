@@ -4,7 +4,7 @@ In Kubernetes, an Ingress is **an API object that manages external access to s
 
 ## Purpose
 
-Ingress in Kubernetes is a set of routing rules dictating how external users can access services within a [[Multi-Container Pod Patterns|Kubernetes]] cluster.
+Ingress in Kubernetes is a set of routing rules dictating how external users can access services within a [[Multi-container pod patterns|Kubernetes]] cluster.
 
 ## Example
 

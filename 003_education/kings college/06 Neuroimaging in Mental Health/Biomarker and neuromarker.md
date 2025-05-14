@@ -46,6 +46,8 @@
 - **Beta-Amyloid plaques** in Alzheimer’s disease.
 - **Dopamine levels** in Parkinson’s disease.
 
+---
+
 ## Differences Between Biomarkers and Neuromarkers
 
 - **Scope:** Biomarkers cover a broad range of biological markers, while neuromarkers are specifically related to the nervous system.
