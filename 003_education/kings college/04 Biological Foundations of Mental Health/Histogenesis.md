@@ -1,5 +1,7 @@
 #core/appliedneuroscience
 
+![[histogenesis.jpg]]
+
 Histogenesis is the **process of the formation and development of different types of tissues from embryonic cells.** This process occurs during embryonic development, guiding cells into differentiating into the various types of tissues that make up an organism’s body.
 
 ## Stages of Histogenesis

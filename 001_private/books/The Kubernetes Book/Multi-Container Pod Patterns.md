@@ -71,6 +71,8 @@ spec:
     image: myapp
 ```
 
+---
+
 ## Advantages of Multi-Container Pods
 
 - **Shared resources**: Containers inside a pod share the same network space, which means they can communicate with each other using `localhost`. They can also share storage volumes.

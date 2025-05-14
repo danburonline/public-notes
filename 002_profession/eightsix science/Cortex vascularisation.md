@@ -11,6 +11,8 @@
   2. Middle cerebral arteries
   3. Posterior cerebral arteries
 
+---
+
 ## Cortical Vascular Architecture
 
 ### Pial Vessels
