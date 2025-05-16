@@ -33,7 +33,7 @@ Optogenetics uses light to control genetically modified neurons expressing light
 - **Function**: Yellow light (590 nm) activates NpHR, hyperpolarising and inhibiting neurons.
 - **Application**: Viral transduction introduces NpHR into neurons, enabling precise inhibition with yellow light.
 
-## Applications of Optogenetics
+### Applications of Optogenetics
 
 - **Neural Circuit Mapping**: Selective activation/inhibition of neurons to map circuits.
 - **Behavioral Studies**: Control of neuronal activity during behaviour experiments.

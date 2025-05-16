@@ -26,7 +26,7 @@
 - **What**: Private-public partnership and ZEDE on Roatán, launched in 2020.  
 - **Key Features**:  
   - Operates under Honduran constitution but with autonomous governance.  
-  - Business-friendly: $260-$1,300 annual residency fees, U.S. common law for contracts, Bitcoin as legal tender.
+  - Business-friendly: $260–$1,300 annual residency fees, U.S. common law for contracts, Bitcoin as legal tender.
   - Attracted $120M+ investment from Silicon Valley figures (Peter Thiel, Marc Andreessen).  
   - Controversies: Criticised as "corporate monarchy" with limited local democratic input.  
 

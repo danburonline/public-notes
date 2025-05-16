@@ -91,7 +91,7 @@
 
 *   Witnessed LOC > 5 minutes.
 *   Abnormal drowsiness.
-*   ≥ 3 episodes of vomiting.
+*   ≥3 episodes of vomiting.
 *   Dangerous mechanism of injury.
 *   Amnesia (> 5 minutes).
 *   Current bleeding/clotting disorder.
