@@ -30,6 +30,8 @@ The IDEAL framework provides a structured approach for evaluating surgical innov
 - Monitoring device longevity (average 5-year survival rate: 74% for current BCIs)
 - Registry tracking of infection risks (2.3% annual rate for invasive BCIs)
 
+---
+
 ## Special Considerations for BCIs
 
 **Surgical Categorisation**
