@@ -10,8 +10,6 @@ A Minimal Working Example (MWE) is a critical concept in software development an
 
 ## Creating an MWE
 
-To create an effective MWE, follow these steps:
-
 1. **Isolate the Problem:** Start by stripping away any part of your project or code that is not related to the issue.
 2. **Simplify:** Reduce your code or project to the bare minimum required to reproduce the problem or demonstrate the concept.
 3. **Verify:** Ensure that the MWE still reproduces the issue or adequately demonstrates the concept you’re focused on.
