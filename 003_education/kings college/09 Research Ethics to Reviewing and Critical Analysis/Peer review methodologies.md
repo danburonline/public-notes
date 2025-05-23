@@ -1,16 +1,20 @@
 #fundamental/communication
 
-Peer review is a critical process in the publication of scientific research, serving as a quality control mechanism to ensure the validity, significance, and originality of submitted manuscripts. This process involves the evaluation of a manuscript by experts in the same field, who provide feedback and recommendations for improvement. The history of peer review dates back to the early days of scientific journals in the 17th century, with the first recorded peer review taking place in the Philosophical Transactions of the Royal Society in 1665. Over the centuries, various methodologies of peer review have evolved to address the changing needs and challenges of scientific publishing.
+Peer review is a critical **process in the publication of scientific research, serving as a quality control mechanism to ensure the validity, significance, and originality of submitted manuscripts.** This process involves the evaluation of a manuscript by experts in the same field, who provide feedback and recommendations for improvement.
 
-## Single Blind Peer Review
+The history of peer review dates back to the early days of scientific journals in the 17th century, with the first recorded peer review taking place in the Philosophical Transactions of the Royal Society in 1665. Over the centuries, various methodologies of peer review have evolved to address the changing needs and challenges of scientific publishing.
+
+## Types of Peer-reviews
+
+### Single Blind Peer Review
 
 In a single blind peer review, the reviewers are aware of the authors’ identities, but the authors do not know who the reviewers are. This method aims to reduce bias by keeping the reviewers’ identities anonymous, thereby encouraging honest and critical feedback. However, this approach can still be subject to biases related to the reviewers’ knowledge of the authors, such as institutional or geographical affiliations.
 
-## Open Peer Review
+### Open Peer Review
 
 Open peer review is a more transparent approach where both the reviewers and the authors are aware of each other’s identities. This method promotes accountability and can reduce potential biases, as reviewers are more likely to provide constructive and respectful feedback. Additionally, open peer review can increase the perceived fairness and credibility of the review process. However, it may also discourage some reviewers from participating due to fear of potential conflicts or repercussions.
 
-## Result-Free Review
+### Result-Free Review
 
 Result-free review, also known as Registered Reports, focuses on evaluating the research question and methodology before the results are known. This approach aims to eliminate publication bias, where studies with positive or significant results are more likely to be published. By assessing the study design and planned analyses beforehand, result-free review ensures that the research is methodologically sound and that the findings, regardless of the outcome, contribute to scientific knowledge.
 

@@ -18,6 +18,8 @@
   - Focuses on categorising entities into groups based on shared attributes.
   - Originated in library science and biology.
 
+---
+
 ## Key Differences
 
 - **Structure**: Taxonomies are generally hierarchical, while ontologies are more complex, often structured as semantic networks.
