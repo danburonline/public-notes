@@ -24,6 +24,8 @@ Problem decomposition is the **process of breaking down a complex problem into s
 - **Foundation for Advanced Methods:**  
   Many sophisticated techniques—such as divide and conquer algorithms, functional decomposition in programming, and microservices in software architecture—are built on the principles of problem decomposition.
 
+---
+
 ## Examples
 
 ### Software Development

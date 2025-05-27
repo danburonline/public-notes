@@ -2,7 +2,7 @@
 
 ![[binomial-distribution.jpg]]
 
-The binomial distribution is a probability distribution with two possible outcomes (hence the term “bi” in binomial). In statistics, it’s used to model events in a fixed number of trials of a random experiment.
+The binomial distribution is a **probability distribution with two possible outcomes** (hence the term “bi” in binomial). In statistics, it’s used to model events in a fixed number of trials of a random experiment.
 
 ## Definition
 
@@ -45,10 +45,11 @@ The binomial distribution is widely used in statistics and data analysis. Some a
 - Quality control in manufacturing processes.
 - Modelling conversion rates in marketing campaigns.
 
-## Example
-
-Suppose you flip a fair coin (`p = 0.5`) 10 times (`n = 10`). The probability of getting exactly 6 heads (successes) can be calculated using the binomial distribution:
-
-```
-P(X = 6) = C(10, 6) * (0.5^6) * ((1 - 0.5)^(10 - 6))
-```
+ > [!example]  Example: Calculating Binomial Probability
+> Suppose you flip a fair coin ($p = 0.5$) 10 times ($n = 10$). What is the probability of getting exactly 6 heads (successes)?
+> 
+> $$
+> P(X = 6) = C(10, 6) \times (0.5^6) \times (0.5^{4}) = \frac{10!}{6!4!} \times 0.5^{10}
+> $$
+> 
+> This calculation gives the probability of observing exactly 6 heads in 10 coin tosses.
