@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-Fading qualia is a **thought experiment proposed by philosopher [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)** in his 1996 book "The Conscious Mind." It forms part of his argument for organisational invariance in consciousness, challenging the idea that consciousness requires a specific biological substrate. By imagining the gradual replacement of biological neurons with artificial components, Chalmers explores the implications for conscious experience, questioning whether consciousness is tied to biology or could potentially exist in non-biological systems with equivalent functional organisation.
+Fading qualia is a **thought experiment proposed by philosopher [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)** in his 1996 book "[The Conscious Mind](https://www.amazon.com/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891)." It forms part of his argument for organisational invariance in consciousness, challenging the idea that consciousness requires a specific biological substrate. By imagining the gradual replacement of biological neurons with artificial components, Chalmers explores the implications for conscious experience, questioning whether consciousness is tied to biology or could potentially exist in non-biological systems with equivalent functional organisation.
 
 ## The Experiment
 
@@ -10,7 +10,7 @@ Fading qualia is a **thought experiment proposed by philosopher [David Chalmers]
 
 ## Possible Outcomes
 
-1. Suddenly Disappearing Qualia: Consciousness vanishes at a specific point
+1. Suddenly Disappearing Qualia: [[Levels of cognitive complexity#Consciousness|Consciousness]] vanishes at a specific point
 2. Fading Qualia: Consciousness gradually fades away
 3. Unchanged Qualia: Consciousness remains the same
 

@@ -1,8 +1,6 @@
 #core/appliedneuroscience #lead/cognitivecomputing #core/machinelearning
 
-## Definition
-
-A latent construct, also known as a latent variable or hidden variable, is a variable that is not directly observed but inferred from other observed or measured variables. [[Latent space|Latent]] constructs are often used in psychological testing and other areas of research where certain phenomena cannot be directly observed.
+A latent construct, also known as a latent variable or hidden variable, is **a variable that is not directly observed but inferred from other observed or measured variables.** [[Latent space|Latent]] constructs are often used in psychological testing and other areas of research where certain phenomena cannot be directly observed.
 
 > [!example] Examples
 > - **Intelligence**: It is a latent construct because it cannot be directly observed or measured but is inferred from variables that can be measured, such as scores on intelligence tests, academic performance, etc.
