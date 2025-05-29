@@ -2,7 +2,7 @@
 
 ![[eugenics.jpg]]
 
-Coined by [Francis Galton](https://en.wikipedia.org/wiki/Francis_Galton) in 1883, the concept of eugenics aimed to improve the genetic quality of the human population. However, it was founded on a flawed understanding of heredity and human traits, leading to significant ethical concerns and controversies surrounding its application.
+Coined by [Francis Galton](https://en.wikipedia.org/wiki/Francis_Galton) in 1883, the concept of eugenics aimed to **improve the genetic quality of the human population.** However, it was founded on a flawed understanding of heredity and human traits, leading to significant ethical concerns and controversies surrounding its application.
 
 ## Key Aspects
 

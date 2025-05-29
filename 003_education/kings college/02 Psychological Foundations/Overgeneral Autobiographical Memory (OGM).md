@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-Overgeneral autobiographical memory is a phenomenon where individuals have difficulty recalling specific events from their personal past and instead provide generalised summaries of events.
+Overgeneral autobiographical memory is a phenomenon where **individuals have difficulty recalling specific events from their personal past and instead provide generalised summaries of events.**
 
 ## Key Features
 
