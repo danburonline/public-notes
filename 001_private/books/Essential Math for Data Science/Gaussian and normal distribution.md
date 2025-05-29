@@ -2,7 +2,7 @@
 
 ![[normal-distribution.png]]
 
-Gaussian Distribution, also known as Normal Distribution, is a type of continuous probability distribution for a real-valued random variable. It forms a bell-shaped curve when plotted on a graph.
+Gaussian Distribution, also known as **Normal Distribution**, is a type of **continuous probability distribution for a real-valued random variable.** It forms a bell-shaped curve when plotted on a graph.
 
 ## Key Points
 
