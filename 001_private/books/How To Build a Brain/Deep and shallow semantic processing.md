@@ -14,6 +14,8 @@ Semantic processing is a **cognitive science and linguistics concept relating to
 - **Reading Comprehension**: Deep processing is essential for understanding complex texts and literature, where nuances and deeper meanings are prevalent.
 - **Learning and Memory**: It’s associated with better retention and recall, as information is more meaningfully processed and connected to existing knowledge.
 
+---
+
 ## Shallow [[Long-term memory#Semantic Memory|Semantic]] Processing
 
 ### Description
@@ -25,6 +27,8 @@ Semantic processing is a **cognitive science and linguistics concept relating to
 
 - **Skimming and Scanning**: Useful in quickly going through texts to get a gist or find specific information.
 - **First Language Processing**: Native speakers often use shallow processing for routine understanding of familiar language.
+
+---
 
 ## Comparative Analysis
 

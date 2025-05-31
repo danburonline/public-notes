@@ -2,7 +2,7 @@
 
 ![[diffusion-tensor-tractography.jpeg]]
 
-Diffusion tensor tractography uses DTI data to map white matter tracts in the brain. It estimates the trajectory and connectivity patterns of neural fibres by measuring water diffusion along them.
+Diffusion tensor tractography **uses DTI data to map white matter tracts in the brain.** It estimates the trajectory and connectivity patterns of neural fibres by measuring water diffusion along them.
 
 ## Applications
 

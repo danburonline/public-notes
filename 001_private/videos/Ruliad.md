@@ -14,7 +14,7 @@
 
 2. **Multiverse and Observers**: The concept also ties into ideas about the multiverse. Different observers might experience different “slices” of the ruliad based on their own computational processes. This means that what we perceive as reality is just one perspective within the vast computational structure of the ruliad.
 
-3. **Computational Irreducibility**: One of Wolfram’s key ideas is that many computational processes are irreducible, meaning their outcomes cannot be predicted without actually performing the computation. The ruliad, being the totality of all computations, inherently includes this irreducibility.
+3. **Computational [[Computational irreducibility|Irreducibility]]**: One of Wolfram’s key ideas is that many computational processes are irreducible, meaning their outcomes cannot be predicted without actually performing the computation. The ruliad, being the totality of all computations, inherently includes this irreducibility.
 
 ## Applications
 
