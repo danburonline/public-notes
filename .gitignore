@@ -3,3 +3,4 @@
 .DS_Store
 000_inbox/*
 !000_inbox/attachments
+piecesdb.json
