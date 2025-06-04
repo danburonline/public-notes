@@ -8,13 +8,12 @@ A dichotomy is a **division into two mutually exclusive and contradictory catego
 *   **Mutual Exclusivity:** An element can only belong to one category or the other; it cannot be in both simultaneously.
 *   **Contradiction:** The categories represent opposing or contrasting concepts. They are often presented as "either/or" scenarios.
 
-## Examples
-
-*   **True/False:** A statement is either true or false (in classical logic).
-*   **On/Off:** A switch can be either on or off.
-*   **Good/Evil:** (Often used in moral philosophy and literature, though the strictness of this dichotomy can be debated).
-*   **Male/Female:** (Biological sex, although gender identity is more complex).
-*   **Alive/Dead:** An organism is either alive or dead.
+> [!example] Examples of Dichotomies
+> - **True/False:** A statement is either true or false (in classical logic).
+> - **On/Off:** A switch can be either on or off.
+> - **Good/Evil:** (Often used in moral philosophy and literature, though the strictness of this dichotomy can be debated).
+> - **Male/Female:** (Biological sex, although gender identity is more complex).
+> - **Alive/Dead:** An organism is either alive or dead.
 
 ## Usage and Considerations
 

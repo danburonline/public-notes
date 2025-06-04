@@ -36,10 +36,10 @@
 
 - **Description**: Provide a quick, structured synthesis of available evidence, often used to inform urgent decision-making.
 - **Purpose**: To quickly inform policy or practice by summarising the best available evidence.
-- **Methodology**: Streamlined systematic review methods, often with simplified search and appraisal processes.
+- **Methodology**: Streamlined systematic review methods, often with simplified search and [[appraisal]] processes.
 
 ### 7. Umbrella Reviews
 
 - **Description**: Synthesise findings from multiple systematic reviews on a broad topic.
 - **Purpose**: To provide a high-level summary of evidence from several systematic reviews.
-- **Methodology**: Systematic, often involving a critical appraisal of the included systematic reviews.
+- **Methodology**: Systematic, often involving a critical [[appraisal]] of the included systematic reviews.
