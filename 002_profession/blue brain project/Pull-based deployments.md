@@ -1,5 +1,7 @@
 #core/softwareengineering
 
+![[pull-approach.png]]
+
 Pull-based deployments involve **target environments autonomously pulling updates from a repository instead of receiving them through external pushes.**
 
 ## Characteristics

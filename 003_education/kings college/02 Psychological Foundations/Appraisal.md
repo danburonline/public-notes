@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-An appraisal is a **cognitive process that involves evaluating and interpreting events and situations, affecting our emotional responses and subsequent behaviour.** This concept plays a crucial role in various psychological theories, particularly those related to stress and emotion.
+An appraisal is a **cognitive process that involves evaluating and interpreting events and situations, affecting our emotional responses and subsequent behaviour.** This concept plays a crucial role in various psychological theories, particularly those related to [[stress]] and emotion.
 
 ## Types of Appraisal
 
@@ -24,7 +24,7 @@ Different appraisals of the same event can lead to different emotional responses
 
 ## Appraisal and [[Stress]]
 
-In the context of stress, appraisal is crucial in determining whether a situation is considered stressful. If an individual appraises a situation as beyond their coping abilities, it becomes a stressor.
+In the context of [[stress]], appraisal is crucial in determining whether a situation is considered stressful. If an individual appraises a situation as beyond their coping abilities, it becomes a stressor.
 
 ## Cognitive [[Emotion reappraisal strategy|Reappraisal]]
 
