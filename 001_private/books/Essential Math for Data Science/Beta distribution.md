@@ -2,17 +2,15 @@
 
 ![[beta-distribution.png]]
 
-The Beta distribution is a family of continuous probability distributions defined on the interval [0, 1]. It’s characterised by two shape parameters, often denoted as `α` (alpha) and `β` (beta).
+The Beta distribution is a family of **continuous probability distributions defined on the interval [0, 1].** It’s characterised by two shape parameters, often denoted as `α` (alpha) and `β` (beta).
 
 ## Definition
 
 The probability density function (PDF) of a Beta distribution is given by:
 
-Copy
-
-```
+$$
 f(x; α, β) = (x^(α - 1) * (1 - x)^(β - 1)) / B(α, β)
-```
+$$
 
 Where:
 
@@ -48,6 +46,6 @@ The Beta distribution is widely used in various fields:
 
 Suppose you have a random variable `X` that follows a Beta distribution with parameters `α = 2` and `β = 3`. The probability density function would be:
 
-```
+$$
 f(x; 2, 3) = (x^(2 - 1) * (1 - x)^(3 - 1)) / B(2, 3)
-```
+$$
