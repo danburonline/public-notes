@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-The histology process involves studying the microscopic anatomy of biological tissues, typically obtained from biopsies or post-mortem specimens. One crucial step in the process is the sectioning of the tissue, which involves cutting thin slices from the tissue sample. This is done using a microtome, a machine that cuts sections of uniform thickness. The sections are then placed onto glass slides specially treated to prevent the tissue from sticking to the surface.
+The histology process involves **studying the microscopic anatomy of biological tissues, typically obtained from biopsies or post-mortem specimens.** One crucial step in the process is the sectioning of the tissue, which involves cutting thin slices from the tissue sample. This is done using a microtome, a machine that cuts sections of uniform thickness. The sections are then placed onto glass slides specially treated to prevent the tissue from sticking to the surface.
 
 Once the sections are on the slides, they are usually stained using various dyes or stains to enhance the visibility of specific components under a microscope. Some of the commonly used stains include Hematoxylin and Eosin (H&E), Masson’s Trichrome, and PAS (Periodic Acid-Schiff). The choice of stain depends on the type of tissue being studied and the specific components of interest.
 
