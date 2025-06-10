@@ -2,7 +2,7 @@
 
 Understanding the cardinal features of a symptom is crucial in **medical diagnosis and treatment.** Here are the seven key aspects to consider:
 
-1. [[Spatial and temporal summation#Temporal Summation|Temporal]] Characteristics**
+1. **[[Spatial and temporal summation#Temporal Summation|Temporal]] Characteristics**
    - *Key Questions*: When did it start? What has happened over time? Is it constant or intermittent?
    - *Importance*: Helps determine the symptom’s onset, duration, and pattern.
 2. **Location**

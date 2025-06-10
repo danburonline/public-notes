@@ -1,13 +1,11 @@
 #fundamental/communication
 
-## Overview
-
 - **Definition**: Broken Glass [[Charles Bonnet syndrome|Syndrome]] refers to a situation where a small problem, like a broken window, is ignored or not fixed in a timely manner, leading to larger issues or a decline in standards.
 - **Origin**: The term is derived from the "broken windows theory" in criminology, which suggests that visible signs of disorder and neglect lead to an increase in crime and anti-social behaviour.
 
 ## Key Points
 
-- **Implications**: The syndrome can apply to various areas such as urban planning, organizational management, and personal life.
+- **Implications**: The syndrome can apply to various areas such as urban planning, organisational management, and personal life.
 - **Prevention**: Timely intervention and addressing small issues before they escalate are crucial in preventing the syndrome.
 - **Examples**: In a business, ignoring minor compliance issues can lead to a culture of negligence. In urban environments, a single broken window can lead to more vandalism.
 
