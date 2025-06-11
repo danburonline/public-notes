@@ -1,37 +1,42 @@
 #core/appliedneuroscience
 
-[Derek Parfit](https://en.wikipedia.org/wiki/Derek_Parfit), a British philosopher, developed a theory about personal identity over time, focusing on the concepts of psychological and physical continuity. This theory challenges our conventional understanding of self and has significant implications for ethics and our view of death.
+[Derek Parfit](https://en.wikipedia.org/wiki/Derek_Parfit), a British philosopher, developed a **groundbreaking theory of personal identity over time, centring on the concepts of psychological and physical continuity.** His work challenges traditional views of the self and has far-reaching implications for ethics, survival, and our [[attitudes]] towards death.
 
 ## Key Concepts
 
-### 1. Physical Continuity
+### Physical Continuity
 
-- Definition: The persistence of our physical body and brain over time
-- Idea: We remain the same person because our body continues to exist
-- Note: Cells in our body are constantly being replaced
+- **Definition:** The persistence of the physical body and brain through time.
+- **Central idea:** Personal identity is maintained because the same body endures.
+- **Caveat:** The body's cells are continually replaced, raising questions about whether strict physical continuity truly exists.
 
-### 2. Psychological Continuity
+### Psychological Continuity
 
-- Definition: The continuity of our mental states, memories, beliefs, and personality traits
-- Idea: We remain the same person because our mental life continues in a connected way
-- Parfit’s view: More important for personal identity than physical continuity
+- **Definition:** The ongoing continuity of mental states, memories, beliefs, and personality traits.
+- **Central idea:** Identity persists because one’s mental life remains connected over time.
+- **Parfit’s stance:** Psychological continuity is more significant for personal identity than mere physical continuity.
 
 ## Thought Experiments
 
-### Teleportation Scenario
+### Teleportation
 
-- Setup: A person is scanned, their body destroyed, and an exact copy (including memories and personality) is created elsewhere
-- Question: Is this the same person?
-- Parfit’s argument: Psychological continuity is maintained, so in an important sense, it is the same person
+- **Scenario:** A person is scanned, their original body is destroyed, and an exact replica (with identical memories and personality) is created elsewhere.
+- **Key question:** Is the replica the same person as the original?
+- **Parfit’s answer:** Yes, because psychological continuity is preserved, personal identity, in a significant sense, survives.
 
 ### Gradual Replacement
 
-- Setup: Brain neurons are gradually replaced with functionally identical artificial ones
-- Question: At what point would you cease to be you?
-- Implication: There’s no clear cut-off, highlighting problems with relying solely on physical continuity
+- **Scenario:** The brain’s neurons are gradually replaced with functionally identical artificial ones.
+- **Key question:** At what point, if any, does personal identity cease?
+- **Implication:** The absence of a clear threshold exposes the limitations of relying solely on physical continuity for identity.
 
 ### Branching
 
-- Setup: The teleporter creates two identical copies
-- Question: Which one is “you”?
-- Parfit’s conclusion: The concept of a single, persistent self is flawed
+- **Scenario:** The teleportation process produces two exact copies.
+- **Key question:** Which, if either, is truly “you”?
+- **Parfit’s conclusion:** The notion of a single, unique, persistent self is problematic; identity may branch, and there need not be a single answer.
+
+## Implications
+
+- Parfit’s theory undermines the idea of a simple, unchanging self.
+- Ethical questions about responsibility, survival, and death should focus on psychological connections rather than physical persistence.

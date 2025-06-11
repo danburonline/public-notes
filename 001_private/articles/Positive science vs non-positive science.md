@@ -10,6 +10,8 @@ Positive science, **also known as positivist or empirical science,** refers to t
 - **Chemistry:** The reactions between different chemicals and their outcomes can be studied and predicted, which makes it a part of positive science.
 - **Biology:** The study of cellular processes is based on observable and measurable phenomena.
 
+---
+
 ## Non-Positive Science
 
 Non-positive science refers to areas of study that are not solely based on empirical observations or measurable data. This could include disciplines that are interpretative, subjective, or value-based.

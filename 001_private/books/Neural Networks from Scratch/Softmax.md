@@ -1,7 +1,6 @@
 #core/machinelearning
 
-- Softmax is a mathematical function used in the output layer of neural network models that handle multi-class classification problems.
-- It converts the raw output scores (also known as logits) into probabilities that sum up to one.
+Softmax is a **mathematical function used in the output layer of neural network models that handle multi-class classification problems.** It converts the raw output scores (also known as logits) into probabilities that sum up to one.
 
 ## Formula
 
