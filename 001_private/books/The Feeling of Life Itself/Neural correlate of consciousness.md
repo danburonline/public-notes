@@ -6,6 +6,8 @@ The neural correlate of consciousness (NCC) refers to the **specific patterns of
 
 ![[perturbational-complexity-index.png]]
 
+## Approach to Test NCCs
+
 One proposed approach to identifying the NCC is the [Perturbational Complexity Index](<https://www.brainstimjrnl.com/article/S1935-861X(23)00733-7/fulltext>) (PCI), developed by [Giulio Tononi](https://en.wikipedia.org/wiki/Giulio_Tononi). PCI is a measure of the complexity of a system’s response to a perturbation, with the idea that conscious systems should be able to generate a complex, differentiated response.
 
 Tononi has proposed a specific “zap-and-zip” method for measuring PCI:
