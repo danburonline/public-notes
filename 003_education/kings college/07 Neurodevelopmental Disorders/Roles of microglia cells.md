@@ -2,7 +2,7 @@
 
 ![[roles-microglia.png]]
 
-Microglia cells are **specialised immune cells in the brain with a variety of functions** essential for central nervous system (CNS) homeostasis and health:
+Microglia cells are **specialised immune cells in the brain with a variety of functions** essential for [[central nervous system]] (CNS) homeostasis and health:
 
 - **Surveillant Microglia**: These cells constantly **scan the brain microenvironment** to detect minor changes and maintain CNS homeostasis.
   - They are vigilant against **neurotoxic substances** and **inflammatory mediators** coming from the systemic circulation.

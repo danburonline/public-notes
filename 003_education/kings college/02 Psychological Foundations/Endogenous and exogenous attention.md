@@ -2,7 +2,7 @@
 
 ![[attention.png]]
 
-Endogenous and exogenous attention refers to two types of attentional control: the ability to direct focus and ignore irrelevant stimuli.
+Endogenous and exogenous attention refers to **two types of attentional control:** the ability to direct focus and ignore irrelevant stimuli.
 
 1. **Endogenous Attention:** This is also known as voluntary attention. It’s goal-directed, meaning it’s under conscious control and is typically driven by internal cues, desires, or goals. For example, when you choose to concentrate on studying for a test or focus on a conversation in a crowded room, you are using endogenous attention. The defining characteristic of endogenous attention is that the individual directs it based on their current goals or tasks.
 

@@ -8,7 +8,7 @@ An inception loop in neuroscience is a **closed-loop experimental paradigm** tha
 
 1. **In Vivo Recordings**: Initially, researchers record the neural responses of large populations of neurons to a variety of natural stimuli using techniques such as two-photon calcium imaging. This step is typically performed on awake animals, like mice, to capture realistic neural activity patterns.
 
-2. **In Silico Modelling**: The recorded neural responses are then used to train deep learning models, such as convolutional neural networks (CNNs), to predict how neurons respond to different stimuli. These models serve as "in silico avatars" of the neural populations, allowing researchers to simulate and analyse neural behaviour in a controlled environment.
+2. **[[In Silico]] Modelling**: The recorded neural responses are then used to train deep learning models, such as convolutional neural networks (CNNs), to predict how neurons respond to different stimuli. These models serve as "[[in silico]] avatars" of the neural populations, allowing researchers to simulate and analyse neural behaviour in a controlled environment.
 
 3. **Stimulus Optimisation**: Using the trained models, researchers generate **Most Exciting Images (MEIs)**—stimuli that are predicted to elicit the strongest responses from specific neurons. These MEIs often exhibit complex spatial features that differ from traditional stimuli like Gabor patterns, which were previously thought to be optimal for neurons in the primary visual cortex (V1).
 
