@@ -8,7 +8,7 @@ In simpler terms, heterophenomenology involves the collection of data on what it
 
 **Here’s the basic process:**
 1. **Data Collection:** The observer asks the subject to describe their subjective experience. This can be done in real-time (e.g., during a meditation session) or retrospectively (e.g., asking about a dream).
-2. **Interpretation:** The observer interprets the subject’s report as a series of propositional attitudes or beliefs about the world. This is done without making any assumptions about whether these beliefs accurately reflect the subject’s actual experience.
+2. **Interpretation:** The observer interprets the subject’s report as a series of propositional [[attitudes]] or beliefs about the world. This is done without making any assumptions about whether these beliefs accurately reflect the subject’s actual experience.
 3. **Analysis:** The observer then tries to explain these beliefs in terms of cognitive or neural mechanisms, again without making any assumptions about the ‘reality’ of the subject’s experience.
 
 The goal is to create a comprehensive, third-person account of human consciousness that can be studied and tested scientifically.
@@ -18,9 +18,9 @@ The goal is to create a comprehensive, third-person account of human consciousne
 
 
 > [!abstract]+ Difference from Standard [[Phenomenology]]
-> **Heterophenomenology** (Dennett) and **standard phenomenology** (Husserl) differ fundamentally in approach and aim:
+> **Heterophenomenology** (Dennett) and **standard [[phenomenology]]** (Husserl) differ fundamentally in approach and aim:
 > 
-> | Aspect                  | Heterophenomenology (Dennett)         | Standard Phenomenology (Husserl)         |
+> | Aspect                  | Heterophenomenology (Dennett)         | Standard [[Phenomenology]] (Husserl)         |
 > |-------------------------|----------------------------------------|------------------------------------------|
 > | Perspective             | Third-person (external observer)       | First-person (subjective experience)     |
 > | Assumptions             | Neutral about reality of reports       | Assumes reality of lived experience      |
@@ -28,6 +28,6 @@ The goal is to create a comprehensive, third-person account of human consciousne
 > | Aim                     | Objective, testable account            | Descriptive account of essence           |
 > 
 > - Heterophenomenology treats subjective reports as data to be explained scientifically, without committing to their truth.
-> - Standard phenomenology seeks to uncover the essential structures of consciousness from the inside, focusing on how things appear to the experiencing subject.
+> - Standard [[phenomenology]] seeks to uncover the essential structures of consciousness from the inside, focusing on how things appear to the experiencing subject.
 > 
-> In short: heterophenomenology is an external, scientific method; standard phenomenology is an internal, descriptive method.
+> In short: heterophenomenology is an external, scientific method; standard [[phenomenology]] is an internal, descriptive method.
