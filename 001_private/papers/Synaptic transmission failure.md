@@ -7,7 +7,7 @@
 1. **[[Neurotransmitters vs. neuromodulators vs. neuropeptides|Neurotransmitter]] Depletion**: Insufficient synthesis or excessive release of neurotransmitters can deplete available stores, leading to transmission failure.
 2. **Receptor Malfunction**: Dysfunctional or damaged receptors on the postsynaptic neuron can prevent the proper reception of neurotransmitters.
 3. **Synaptic Vesicle Issues**: Problems with synaptic vesicle docking, fusion, or recycling can hinder the release of neurotransmitters.
-4. **Ion Channel Defects**: Malfunctions in voltage-gated ion channels can impede the generation or propagation of action potentials.
+4. **Ion Channel Defects**: Malfunctions in voltage-gated [[ion channels]] can impede the generation or propagation of action potentials.
 5. **Neurodegenerative Diseases**: Conditions such as Alzheimer’s, Parkinson’s, and ALS can disrupt normal synaptic function through various mechanisms.
 6. **Toxins and Drugs**: Exposure to certain neurotoxins or drugs can impair synaptic transmission by affecting neurotransmitter release, receptor function, or ion channel activity.
 

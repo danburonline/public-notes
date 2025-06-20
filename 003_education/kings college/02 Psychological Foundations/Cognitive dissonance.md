@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-Cognitive dissonance is the **psychological discomfort** or tension that arises when a person holds **two or more conflicting beliefs, attitudes, or values** or when their behaviour contradicts their beliefs or values. It can lead to feelings of guilt, anxiety, and the desire to resolve the inconsistency either by changing one’s beliefs or justifying their actions.
+Cognitive dissonance is the **psychological discomfort** or tension that arises when a person holds **two or more conflicting beliefs, [[attitudes]], or values** or when their behaviour contradicts their beliefs or values. It can lead to feelings of guilt, anxiety, and the desire to resolve the inconsistency either by changing one’s beliefs or justifying their actions.
 
 ## Example
 

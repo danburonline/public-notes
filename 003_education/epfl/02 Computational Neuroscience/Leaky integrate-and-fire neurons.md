@@ -19,7 +19,7 @@ where:
 - $\tau_m = R_m C_m$ is the membrane time constant,
 - $R_m$ is the membrane resistance,
 - $C_m$ is the membrane capacitance,
-- $V_{rest}$ is the resting membrane potential,
+- $V_{rest}$ is the [[resting membrane potential]],
 - $I_e$ is the external current.
 
 When $V$ reaches the threshold voltage $V_{threshold}$, the neuron fires an action potential, and $V$ is reset to the resting potential $V_{rest}$
@@ -30,7 +30,6 @@ The ‘fire’ condition is represented as:
 
 $$ \text{if } V \geq V_{threshold} \text{, then } V \leftarrow V_{reset} $$
 
----
 
 > [!example] Applications
 > The LIF model is widely used in the study of neural networks and in the field of neuromorphic engineering. Its simplicity allows for the simulation of large networks of neurons, making it a powerful tool for exploring principles of neural computation.
