@@ -2,7 +2,7 @@
 
 ![[interneuron.jpg]]
 
-Interneurons, or sometimes also called association neurons, are central nervous system **neurons located between sensory and motor pathways.** They are pivotal in processing and relaying information, serving as critical components in neural circuits that mediate reflexes, motor coordination, and higher cognitive functions such as learning and memory.
+Interneurons, or sometimes also called association neurons, are [[central nervous system]] **neurons located between sensory and motor pathways.** They are pivotal in processing and relaying information, serving as critical components in neural circuits that mediate reflexes, motor coordination, and higher cognitive functions such as learning and memory.
 
 ## Characteristics
 
