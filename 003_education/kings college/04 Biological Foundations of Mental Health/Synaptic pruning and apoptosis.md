@@ -10,6 +10,8 @@
 -  Synapse pruning is influenced by various factors such as neural activity, experience, and genetic factors.
 -  It plays a significant role in shaping neural circuits' functional connectivity and specificity.
 
+---
+
 ## [[Apoptosis]]
 
 -  [[Apoptosis]], also known as programmed cell death, is a natural and controlled process of cell elimination.
