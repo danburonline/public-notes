@@ -1,6 +1,6 @@
 #core/machinelearning
 
-Regression is a type of predictive modelling technique. It estimates the relationship between a dependent variable (outcome variable) and one or more independent variables (predictors).
+Regression is a type of **predictive modelling technique.** It **estimates the relationship between a dependent variable** (outcome variable) and one or more independent variables (predictors).
 
 ## 1. K-Nearest Neighbours (KNN)
 

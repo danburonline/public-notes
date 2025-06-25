@@ -7,7 +7,7 @@ Elon Musk’s “algorithm” is a **five-step process for product development a
 1. **Question every requirement:** Don’t blindly accept specifications. Identify the individual responsible and challenge its necessity, even if it came from Musk. Make requirements “less dumb.”
 2. **Delete any part or process you can:** Aggressively eliminate unnecessary components and steps. Add some back later if needed (a sign you deleted enough).
 
-3. **Simplify and optimize:** Streamline remaining parts and processes for efficiency. Do this *after* deletion.
+3. **Simplify and optimise:** Streamline remaining parts and processes for efficiency. Do this *after* deletion.
 4. **Accelerate cycle time:** Speed up every step, but only *after* simplification.
 5. **Automate:** Introduce automation *last*, after addressing previous steps.
 
