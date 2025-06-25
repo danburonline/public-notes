@@ -18,7 +18,7 @@ Neurotransmitters released from the presynaptic neuron traverse the synaptic cle
 
 1. **Vesicle Trafficking:** The neurotransmitter-filled vesicles are moved towards the presynaptic membrane.
 2. **Vesicle Docking:** The vesicles are anchored to the presynaptic membrane by proteins such as SNAREs (Soluble NSF Attachment Protein Receptor).
-3. **Vesicle Priming:** The vesicles are made ready for fusion. This involves the SNARE complex, which includes proteins like syntaxin and SNAP-25 on the plasma membrane, and synaptobrevin on the vesicle membrane.
+3. **Vesicle [[Priming]]:** The vesicles are made ready for fusion. This involves the SNARE complex, which includes proteins like syntaxin and SNAP-25 on the plasma membrane, and synaptobrevin on the vesicle membrane.
 4. **Action [[Graded potential|Potential]] Arrival:** The arrival of an action potential at the presynaptic terminal triggers the opening of voltage-gated calcium channels.
 5. **Calcium Influx:** Calcium ions flow into the neuron. Their increase in the cell’s cytoplasm triggers vesicle fusion.
 6. **Vesicle Fusion:** The vesicle and plasma membranes merge, forming a fusion pore through which neurotransmitters can be released.

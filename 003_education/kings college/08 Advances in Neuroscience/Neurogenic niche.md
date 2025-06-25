@@ -6,12 +6,12 @@ The neurogenic niche refers to **specialised regions in the brain that support t
 
 ## Definition of Neurogenic Niche
 
-- **Neurogenic Niches**: Specific areas in the brain where neurogenesis (the process of generating new neurons) occurs. These niches provide a supportive environment with the necessary cellular and molecular components.
+- **Neurogenic Niches**: Specific areas in the brain where [[neurogenesis]] (the process of generating new neurons) occurs. These niches provide a supportive environment with the necessary cellular and molecular components.
 
 ## Key Locations
 
 - **Subventricular Zone (SVZ)**: Located along the lateral ventricles, this area is a major source of neural stem cells in the adult mammalian brain.
-- **Hippocampal Dentate Gyrus (DG)**: Another primary site of adult neurogenesis, important for learning and memory processes.
+- **Hippocampal Dentate Gyrus (DG)**: Another primary site of adult [[neurogenesis]], important for learning and memory processes.
 
 ## Functions of Neurogenic Niches
 

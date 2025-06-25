@@ -11,7 +11,7 @@ Cerebral Blood Flow (CBF) is the **blood supply to the brain in a given time.** 
 
 ## Regulation Mechanisms
 
-- **Metabolic Regulation:** CBF changes in response to neuronal activity. Increased neuronal activity leads to increased metabolism, which in turn increases CBF. This is primarily mediated by the local concentration of metabolites like CO2 and H+ ions.
+- **Metabolic Regulation:** CBF changes in response to neuronal activity. Increased neuronal activity leads to increased metabolism, which in turn increases CBF. This is primarily mediated by the local concentration of [[metabolites]] like CO2 and H+ ions.
 - **Myogenic Response:** The smooth muscles in cerebral blood vessels contract or relax in response to changes in blood pressure to maintain a constant flow.
 - **Neurogenic Regulation:** Neural factors influence CBF, including various neurotransmitters and neuropeptides from perivascular nerves.
 - **Endothelial Factors:** The endothelial chamber of cerebral vessels releases substances like nitric oxide and endothelins that affect vascular tone and blood flow.
