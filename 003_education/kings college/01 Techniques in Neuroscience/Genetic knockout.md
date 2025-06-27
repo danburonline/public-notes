@@ -1,3 +1,3 @@
 #core/appliedneuroscience
 
-In genetics, a knockout is when **a gene is entirely or partially deactivated or removed from an organism’s genome.** This is often done to study the gene’s function or to create genetically modified organisms with desirable traits.
+A genetic knockout allows researchers to **study the function of specific genes by observing what happens when they are disabled.** Common methods include homologous recombination and CRISPR-Cas9. In neuroscience, knockouts help identify genes involved in brain development and neurological disorders. Limitations include possible compensatory effects and lethality if essential genes are removed. Conditional knockouts can target specific tissues or developmental stages.
