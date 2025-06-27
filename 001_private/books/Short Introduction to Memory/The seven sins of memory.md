@@ -17,7 +17,7 @@
 ### 3. Blocking
 
 - **Definition**: The temporary inability to retrieve a memory.
-- **Study Tip**: Learn to relax and not panic when you can’t recall information, as stress can increase blocking.
+- **Study Tip**: Learn to relax and not panic when you can’t recall information, as [[stress]] can increase blocking.
 
 ## Sins of Commission
 
@@ -41,4 +41,4 @@
 ### 7. Persistence
 
 - **Definition**: The unwanted recollection of memories that we cannot forget.
-- **Study Tip**: Develop a balanced study routine and mindfulness practices to reduce stress and intrusive thoughts.
+- **Study Tip**: Develop a balanced study routine and mindfulness practices to reduce [[stress]] and intrusive thoughts.
