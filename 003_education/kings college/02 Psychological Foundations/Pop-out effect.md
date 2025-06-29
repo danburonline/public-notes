@@ -6,7 +6,7 @@ The “pop-out” effect, a concept from the field of visual perception and cogn
 
 ## Key Features
 
-1. **Efficiency:** The pop-out effect enables quick detection of targets in visual search tasks, regardless of the number of distractors.
+1. **Efficiency:** The pop-out effect enables quick detection of targets in [[visual search]] tasks, regardless of the number of distractors.
 2. **Feature Singularity:** It’s driven by a unique feature of an object, such as colour, shape, or motion, that differentiates it from its surroundings.
 
 **Usage in Research:**

@@ -43,7 +43,7 @@
 Hebbian assemblies and engrams are both concepts related to memory storage in the brain, but they differ in their scope and emphasis:
 
 *   **Hebbian Assembly:** A Hebbian assembly is a group of neurons that become associated with each other through repeated co-activation. This is based on Hebb's rule ("neurons that fire together, wire together"). Hebbian assemblies are seen as a fundamental mechanism for learning and memory, where specific patterns of activity represent information.
-*   **Engram:** An engram refers to the physical embodiment of a memory in the brain. It is the specific set of neurons and synapses that are activated and modified to store a particular memory. The engram is the actual physical trace of a memory.
+*   **[[Engram]]:** An [[engram]] refers to the physical embodiment of a memory in the brain. It is the specific set of neurons and synapses that are activated and modified to store a particular memory. The [[engram]] is the actual physical trace of a memory.
 
 > [!info] Analogy:
-> A Hebbian assembly is like a concept (e.g., "cat"), while the engram is the physical instantiation of that concept in your brain (the specific neurons that fire when you think of a cat). Hebbian assemblies provide a theoretical framework for how associations are formed, while the engram is the concrete, physical representation of a specific memory.>)
+> A Hebbian assembly is like a concept (e.g., "cat"), while the [[engram]] is the physical instantiation of that concept in your brain (the specific neurons that fire when you think of a cat). Hebbian assemblies provide a theoretical framework for how associations are formed, while the [[engram]] is the concrete, physical representation of a specific memory.>)
