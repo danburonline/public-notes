@@ -14,7 +14,7 @@
 
 ## Role in Brain Organoid Development
 
-- **[[Neurogenesis]]:** The VZ is a key site for neurogenesis, where neural stem cells divide and give rise to neurons and glial cells.
+- **[[Neurogenesis]]:** The VZ is a key site for [[neurogenesis]], where neural stem cells divide and give rise to neurons and glial cells.
 - **Organoid Growth:** Influences the overall growth and morphological development of brain organoids.
 
 ## Research Implications
