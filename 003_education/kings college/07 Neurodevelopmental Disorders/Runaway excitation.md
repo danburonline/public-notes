@@ -16,7 +16,7 @@ Runaway excitation is a **pathological condition in neural networks with an exce
 
 ### Ion [[Ion channels|Channel]] Dysfunction
 
-- Abnormal function of ion channels, especially those regulating calcium and sodium ions, can contribute to increased excitatory potential.
+- Abnormal function of [[ion channels]], especially those regulating calcium and sodium ions, can contribute to increased excitatory potential.
 
 ## Consequences
 
