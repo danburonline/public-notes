@@ -14,7 +14,7 @@ The model is based on the concept of the neuron as an electrical circuit, which 
 
 ## Gating Variables
 
-Ion channels are gated by variables that change with voltage and time, reflecting the probability of a channel being open or closed. There are three main gating variables:
+[[Ion channels]] are gated by variables that change with voltage and time, reflecting the probability of a channel being open or closed. There are three main gating variables:
 
 - **n**: Potassium channel activation gate
 - **m**: Sodium channel activation gate

@@ -19,8 +19,8 @@ Hemispherectomy is typically indicated for patients with epilepsy that are local
 
 The goal of hemispherotomy is to disconnect the epileptogenic hemisphere from the rest of the brain, thereby preventing seizure propagation. The procedure involves:
 
-1. **Surgical Access**: A craniotomy is performed to access the affected hemisphere.
-2. **Disconnection**: Key structures such as the corpus callosum, internal capsule, and basal ganglia are surgically disconnected. Unlike hemispherectomy, large parts of the brain tissue are not removed, reducing the risk of hydrocephalus and other complications.
+1. **Surgical Access**: A [[craniotomy]] is performed to access the affected hemisphere.
+2. **Disconnection**: Key structures such as the [[corpus callosum]], internal capsule, and [[basal ganglia]] are surgically disconnected. Unlike hemispherectomy, large parts of the brain tissue are not removed, reducing the risk of hydrocephalus and other complications.
 3. **Preservation**: Where possible, brain tissue is preserved to minimise the impact on cognitive and motor functions.
 
 ## Outcomes
@@ -28,7 +28,7 @@ The goal of hemispherotomy is to disconnect the epileptogenic hemisphere from th
 The success rate of hemispherotomy in reducing or eliminating seizures is high, often exceeding 80% in properly selected patients. However, the procedure may lead to or exacerbate existing deficits, particularly in:
 
 - Motor control, leading to hemiparesis on the side opposite the surgery
-- Sensory functions, including vision, touch, and proprioception
+- Sensory functions, including vision, touch, and [[proprioception]]
 - Language and cognitive functions, depending on the hemisphere involved and the age of the patient
 
 ## Rehabilitation
