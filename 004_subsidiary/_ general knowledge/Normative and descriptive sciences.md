@@ -7,6 +7,8 @@ Normative sciences aim to evaluate or prescribe what *ought* to be done, relying
 - Descriptive sciences measure, describe, and explain objective occurrences.  
 - Both can intersect in fields like philosophy, where empirical methods inform ethical or evaluative discussions.
 
+---
+
 ## Interplay Between Art and Science
 
 Art and science share overlapping goals: they both strive to explore the world, stimulate curiosity, and communicate insights about reality, though their methods differ in emphasis. Art often expresses subjective interpretations through creativity and aesthetics, while science uses systematic experimentation and observation. Nevertheless, each field can illuminate the other, such as when artists visually interpret scientific data or when scientists harness artistic creativity to inspire novel experimental designs.

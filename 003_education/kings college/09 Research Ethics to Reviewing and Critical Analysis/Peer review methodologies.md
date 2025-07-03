@@ -4,6 +4,8 @@ Peer review is a critical **process in the publication of scientific research, s
 
 The history of peer review dates back to the early days of scientific journals in the 17th century, with the first recorded peer review taking place in the Philosophical Transactions of the Royal Society in 1665. Over the centuries, various methodologies of peer review have evolved to address the changing needs and challenges of scientific publishing.
 
+---
+
 ## Types of Peer-reviews
 
 ### Single Blind Peer Review
