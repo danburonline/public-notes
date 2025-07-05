@@ -6,6 +6,9 @@ The **Progressive Synthetic Neural Substrate Transfer** (PSNST) is a hypothetica
 
 In contrast to other work, such as that from the [Hébert Lab](https://hebertlab.einsteinmedneuroscience.org/), the idea behind PSNST is that the new neural substrate is designed for high-throughput brain-computer interfacing (e.g., by genetically modifying the synthetic neural substrate to enable optogenetic interfacing, [[bioprinting]] it around electrodes/nanoparticles (neural dust), etc.). The goal is not to keep the person inside the original skull but rather to enable the explanted brain to be collocated across physical distances for redundancy (akin to globally distributed software on cloud computing) and to facilitate sensory input from simulated environments or robots, rather than a biological physical body. The main vision is to not only defeat death, but make it really hard to die.
 
+> [!info]
+> I've renamed this procedure to Ectopic Cognitive Preservation and wrote about it e.g. here: [Substack article](https://danbur.online/synconetics)
+
 ## Procedure
 
 1. **Preparation**:

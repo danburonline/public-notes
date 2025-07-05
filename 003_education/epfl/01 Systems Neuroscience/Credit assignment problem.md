@@ -12,7 +12,7 @@ The credit assignment problem is a fundamental challenge in various fields, incl
 ## In Neuroscience
 
 - **Definition**: In neuroscience, the credit assignment problem refers to understanding how the brain determines which neurons and synaptic connections contribute to specific behaviours or learning outcomes.
-- **Importance**: Addressing this problem is key to comprehending how brain learning, memory formation, and synaptic plasticity occur.
+- **Importance**: Addressing this problem is key to comprehending how brain learning, memory formation, and [[synaptic plasticity]] occur.
 - **Challenges**: The brain’s complex network of neurons and the delayed relationship between actions and their outcomes complicate credit attribution to specific neural activities.
 - **Solutions**: Theories like dopamine-based reward prediction error signalling hypothesise mechanisms the brain might use to solve the credit assignment problem. [[Hedonic system#Role of Dopamine|Dopamine]] neurons signal the difference between expected and actual rewards, guiding the adjustment of synaptic strengths.
 

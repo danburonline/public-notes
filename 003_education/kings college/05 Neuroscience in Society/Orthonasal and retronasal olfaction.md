@@ -4,6 +4,8 @@
 
 **Olfaction, or the sense of smell,** is a complex process that involves two different pathways: orthonasal and retronasal.
 
+---
+
 ## Orthonasal Olfaction
 
 Orthonasal olfaction is the process we commonly associate with smelling. It involves inhaling or drawing in air through the nose.

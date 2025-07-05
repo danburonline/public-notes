@@ -1,7 +1,5 @@
 #lead/cognitivecomputing
 
-## Overview
-
 Michael Graziano’s attention schema theory is a **scientific approach to understanding consciousness.** The theory proposes that awareness is a construct of the brain, similar to how our brain constructs models of other complex phenomena.
 
 ## Key Point
