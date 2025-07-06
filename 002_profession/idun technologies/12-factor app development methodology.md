@@ -1,5 +1,7 @@
 #core/softwareengineering
 
+The 12-factor **app development methodology is a set of best practices for building modern, scalable, and maintainable web applications.** It was first introduced by Heroku's Adam Wiggins in 2011.
+
 1. **Codebase:** One codebase tracked in version control, many deploys.
 2. **Dependencies:** Explicitly declare and isolate dependencies.
 3. **Config:** Store config in the environment.
