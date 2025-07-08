@@ -7,8 +7,8 @@ The neuronal organisation **can be understood at various scales, each providing 
 ## Microscopic [[Decoupling of scale|Scale]]
 
 - **Definition**: Focuses on the individual neurons and their components, such as dendrites, axons, synapses, and molecular pathways.
-- **[[Neuroimaging analysis techniques|Techniques]]**: Utilises histology, electron microscopy, and single-cell imaging. Recent advancements include two-photon microscopy and optogenetics.
-- **Relevance**: Essential for understanding the cellular and molecular basis of neural function, including neurotransmission, neurogenesis, and synaptic plasticity.
+- **[[Neuroimaging analysis techniques|Techniques]]**: Utilises histology, electron microscopy, and single-cell imaging. Recent advancements include two-photon microscopy and [[optogenetics]].
+- **Relevance**: Essential for understanding the cellular and molecular basis of neural function, including neurotransmission, [[neurogenesis]], and [[synaptic plasticity]].
 
 ## Mesoscopic Scale
 

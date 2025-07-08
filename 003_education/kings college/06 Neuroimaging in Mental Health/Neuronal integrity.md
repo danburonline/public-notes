@@ -7,4 +7,4 @@
 3. **[[Types of biological electrical activity|Electrical]] Activity**: Neurons communicate through electrical signals. Maintaining the proper electrical activity and the ability to generate action potentials is critical for neuron function.
 4. **Metabolic Health**: Neurons need energy to function, which they get from glucose and oxygen. Metabolic disruptions can impair neuron health.
 5. **Repair and Regeneration**: While neurons have limited ability to regenerate, maintaining some level of repair capacity is important, especially in response to injury or disease.
-6. **Resistance to Damage**: This includes the ability to withstand or recover from insults such as inflammation, oxidative stress, or physical damage.
+6. **Resistance to Damage**: This includes the ability to withstand or recover from insults such as inflammation, oxidative [[stress]], or physical damage.

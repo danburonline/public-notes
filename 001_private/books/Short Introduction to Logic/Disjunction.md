@@ -1,6 +1,6 @@
 #fundamental/logic
 
-In logic, a **disjunction** is a compound statement formed by joining two or more statements with the word ‘or’.
+In logic, a disjunction is a **compound statement formed by joining two or more statements with the word ‘or’.**
 
 The disjunction “P or Q” is true if at least one of the component statements (P, Q) is true. In other words, if either P is true, Q is true, or both P and Q are true, then “P or Q” is true. If both P and Q are false, then the disjunction “P or Q” is false.
 
