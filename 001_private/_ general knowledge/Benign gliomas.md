@@ -2,7 +2,7 @@
 
 ![[glioma.jpg]]
 
-Benign gliomas are a **type of brain tumour that originate from glial cells**, which are the supportive cells in the central nervous system. Unlike malignant gliomas, **benign gliomas are non-cancerous**, grow slowly, and generally have a better prognosis.
+Benign gliomas are a **type of brain tumour that originate from glial cells**, which are the supportive cells in the [[central nervous system]]. Unlike malignant gliomas, **benign gliomas are non-cancerous**, grow slowly, and generally have a better prognosis.
 
 ## Key Features
 

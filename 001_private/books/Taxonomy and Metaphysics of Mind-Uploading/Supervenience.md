@@ -6,6 +6,11 @@
 - **Context**: Central in discussions about the mind-body problem, ethics, and the relationship between physical and mental properties. It illustrates how higher-level phenomena depend on lower-level phenomena without being reducible to them.
 - **Example**: The mental state of experiencing joy (supervenient property) cannot change without some change in the physical state of the brain (base property). However, the brain might change in ways that do not alter the experience of joy.
 
+> [!example]  Example: Supervenience of Mind on Brain  
+> Consider the experience of pain. Suppose you accidentally touch a hot stove and feel a sharp pain (mental state). According to supervenience, this mental state of pain cannot change unless there is a corresponding change in your brain’s physical state—such as neural activity in certain pain-related regions. If your brain were in exactly the same physical state, you could not have a different mental experience (e.g., pleasure instead of pain).  
+> 
+> However, your brain could undergo minor physical changes (like increased blood flow or minor chemical fluctuations) that do not affect the mental state of pain. Thus, while the mental state depends on the brain state, not every brain change leads to a change in the mind.)
+
 ## Types of Supervenience
 
 ### Global Supervenience
