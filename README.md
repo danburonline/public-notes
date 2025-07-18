@@ -1,16 +1,16 @@
-# Public Notes
+## Public Notes
 
 This repo holds all public notes from my Obsidian vault in it. **More information coming soon.**
 
-## Categories
+### Categories
 
-### Lead
+#### Lead
 
 - #lead/quantumcomputing
 - #lead/cognitivecomputing
 - #lead/spatialcomputing
 
-### Core
+#### Core
 
 - #core/mathematicalphysics
 - #core/appliedneuroscience
@@ -19,7 +19,7 @@ This repo holds all public notes from my Obsidian vault in it. **More informatio
 - #core/webdevelopment
 - #core/interactiondesign
 
-### Fundamental
+#### Fundamental
 
 - #fundamental/logic
 - #fundamental/creativity
