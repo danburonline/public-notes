@@ -8,12 +8,12 @@ In the 1980s, Libet conducted experiments that investigated the timing of consci
 
 ### Key Findings
 
-1. **Readiness Potential (RP)**: This rise in brain activity was observed about 550 milliseconds before the action.
+1. **[[Readiness Potential]] (RP)**: This rise in brain activity was observed about 550 milliseconds before the action.
 2. **Conscious Intention**: Participants reported becoming consciously aware of their intention to move about 200 milliseconds before the action occurred.
 
 ## The Role of Conscious Veto
 
-Libet proposed that while the initiation of an action appears to be governed by unconscious brain processes, individuals still retain the ability to consciously veto or inhibit these actions in the final moments before they are carried out. This conscious veto capability suggests that even though unconscious brain activity may prepare and initiate actions, our conscious mind can intervene to prevent certain actions from being executed.
+Libet proposed that while the initiation of an action appears to be governed by unconscious brain processes, **individuals still retain the ability to consciously veto or inhibit these actions in the final moments before they are carried out.** This conscious veto capability suggests that even though unconscious brain activity may prepare and initiate actions, our conscious mind can intervene to prevent certain actions from being executed.
 
 ### Implications for Free Will
 
