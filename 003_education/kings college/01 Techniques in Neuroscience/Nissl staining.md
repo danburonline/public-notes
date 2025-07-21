@@ -6,7 +6,7 @@ Nissl staining: A histological staining technique used to visualise the distribu
 
 ## Purpose
 
-- To study the anatomy and distribution of neurons in the central nervous system.
+- To study the anatomy and distribution of neurons in the [[central nervous system]].
 - To evaluate the integrity of neuronal cell bodies in neurological disorders.
 
 ## Method
