@@ -17,6 +17,6 @@
 ## 3. Where Attitudes Come From: Mere Exposure, [[Vicarious learning|Learning]], Culture, and Stereotypes
 
 - **Mere Exposure**: The mere exposure effect is a psychological phenomenon where people develop a preference for things merely because they are familiar with them. The more we’re exposed to something, the more likely we are to develop a positive attitude towards it.
-- **Learning**: Attitudes are learned through direct experiences and social learning. This includes classical conditioning, operant conditioning, and observational learning. For instance, if we receive positive reinforcement after performing an action, we are likely to develop a positive attitude towards it.
+- **Learning**: Attitudes are learned through direct experiences and social learning. This includes [[classical conditioning]], operant conditioning, and observational learning. For instance, if we receive positive reinforcement after performing an action, we are likely to develop a positive attitude towards it.
 - **Culture**: Our cultural background and societal norms greatly shape our attitudes. Culture prescribes what is acceptable and what is not, influencing our attitudes toward various social issues, behaviours, and people.
 - **Stereotypes**: Stereotypes are generalised beliefs about a certain group of people. They influence our attitudes by providing simplified and generalised assumptions that can lead to bias and prejudice. It’s important to note that stereotypes often lack nuance and accuracy, leading to unjustified negative or positive attitudes.
