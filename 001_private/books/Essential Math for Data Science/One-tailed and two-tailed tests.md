@@ -28,23 +28,14 @@ If the sample being tested falls into either of the critical areas, the alternat
 
 ## Comparison
 
-**One-Tailed Test:**
-
-```
-|-----------------------|-----------------------|
-| Null Hypothesis (H0) | X ≤ μ                 |
-| Alt. Hypothesis (H1) | X > μ or X < μ        |
-|-----------------------|-----------------------|
-```
-
-**Two-Tailed Test:**
-
-```
-|-----------------------|-----------------------|
-| Null Hypothesis (H0) | X = μ                 |
-| Alt. Hypothesis (H1) | X ≠ μ                 |
-|-----------------------|-----------------------|
-```
+|                   | One-Tailed Test                 | Two-Tailed Test                  |
+|-------------------|---------------------------------|----------------------------------|
+| **Null Hypothesis ($H_0$)**  | $\mu = \mu_0$                      | $\mu = \mu_0$                      |
+| **Alternative Hypothesis ($H_1$)** | $\mu > \mu_0$ or $\mu < \mu_0$         | $\mu \ne \mu_0$                       |
+| **Critical Region**              | Only one tail (left or right)     | Both tails                          |
+| **Use Case**           | Direction is specified              | Direction is not specified           |
+| **Statistical Power**           | Higher (all in one direction)     | Lower (split between two directions) |
+| **Example**               | Test if mean is greater than a value | Test if mean is different from a value |
 
 > [!example]
 > Consider an example where a researcher wants to test if a drug has an effect on patients’ health:
