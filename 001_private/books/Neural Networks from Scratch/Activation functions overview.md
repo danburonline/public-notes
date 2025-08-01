@@ -55,7 +55,7 @@ Activation functions in neural networks are **mathematical equations that determ
 ### Identity
 
 - **Formula**: $f(x) = x$
-- **Characteristics**: Output is the same as the input, used in regression problems.
+- **Characteristics**: Output is the same as the input, used in [[regression]] problems.
 
 ### Swish
 

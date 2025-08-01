@@ -28,7 +28,7 @@ In a t-test, the t-value is used to calculate the [[P-value]], which then helps 
 
 1. **Calculate the t-value** using the formula.
 2. **Compare the calculated t-value** with the critical t-value from the t-distribution table based on the degrees of freedom.
-3. **Determine the p-value**, which indicates the probability of observing a t-value as extreme as, or more extreme than, the observed value if the null hypothesis is true.
+3. **Determine the [[p-value]]**, which indicates the probability of observing a t-value as extreme as, or more extreme than, the observed value if the null hypothesis is true.
 
 > [!example]
 > If you’re testing whether the means of two groups are different, you calculate the t-value. If this calculated t-value exceeds the critical t-value (from t-distribution tables), it indicates a statistically significant difference between the groups.
@@ -37,4 +37,4 @@ In a t-test, the t-value is used to calculate the [[P-value]], which then helps 
 > It’s essential to understand:
 > - The t-value itself does not indicate the probability of the null hypothesis being true or false.
 > - The interpretation of the t-value depends on the context of the study and the established threshold for significance.
-> - Similar to the p-value, the t-value’s significance can be influenced by the sample size.
+> - Similar to the [[p-value]], the t-value’s significance can be influenced by the sample size.
