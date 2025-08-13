@@ -2,8 +2,6 @@
 
 ![[physical-reservoir-computing.png]]
 
-## Overview
-
 Physical Reservoir Computing (PRC) is an approach to computational processing that **utilises the dynamic responses of physical systems as computational resources.** This method is part of the broader Reservoir Computing (RC) field, which is a framework for designing neural network-based computing systems.
 
 ## Key Concepts
