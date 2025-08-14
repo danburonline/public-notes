@@ -16,7 +16,7 @@ Positive science, **also known as positivist or empirical science,** refers to t
 
 Non-positive science refers to areas of study that are not solely based on empirical observations or measurable data. This could include disciplines that are interpretative, subjective, or value-based.
 
-**Examples:** [[Main branches of philosophy|Philosophy]], Theology, and Literature.
+**Examples:** [[Main branches of philosophy|Philosophy]], Theology, History, and Literature.
 
 - **Philosophy:** It often relies on arguments and interpretations rather than empirical evidence. An example is the question of why we exist.
 - **Theology:** It’s largely interpretative and often based on faith rather than measurable data.

@@ -1,6 +1,6 @@
 #fundamental/logic 
 
-A statement that repeats the same idea in different words, or is logically true in all cases. Two main types: logical (always true) and rhetorical (redundant phrasing).
+A **statement that repeats the same idea in different words**, or is logically true in all cases. Two main types: logical (always true) and rhetorical (redundant phrasing).
 
 ## **1. Logical Tautology**
 
