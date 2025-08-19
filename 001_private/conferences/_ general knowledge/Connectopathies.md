@@ -24,7 +24,7 @@
 ### Detection Methods
 
 - Traditional: CT scans, MRIs (insufficient)
-- Advanced: Diffusion Tensor Imaging (DTI), connectomes
+- Advanced: [[Diffusion Tensor Imaging]] (DTI), connectomes
 
 ## Associated Conditions
 

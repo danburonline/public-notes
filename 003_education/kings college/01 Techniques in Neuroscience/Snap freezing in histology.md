@@ -1,6 +1,8 @@
 #core/appliedneuroscience
 
-A method of preserving tissue samples by rapidly freezing them in liquid nitrogen to prevent degradation.
+![[snap-freezing.png]]
+
+A method of **preserving tissue samples by rapidly freezing them in liquid nitrogen** to prevent degradation.
 
 ## Advantages
 
