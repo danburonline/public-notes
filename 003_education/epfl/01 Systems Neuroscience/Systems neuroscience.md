@@ -10,6 +10,8 @@ Systems neuroscience is a pivotal branch within the field of neuroscience, **con
 - Employs methodologies like electrophysiology, neuroimaging, computational modelling, and behavioural experiments.
 - Aims to understand the operations of neural systems across different scales, from small networks of neurons to large-scale brain systems.
 
+---
+
 ## Comparison with Other Neuroscience Disciplines
 
 1. **Cellular and Molecular Neuroscience**

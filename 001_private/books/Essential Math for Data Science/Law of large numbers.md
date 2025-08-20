@@ -8,10 +8,11 @@ The LLN has two versions:
 
 2. **Weak Law of Large Numbers**: The sample average converges in probability towards the expected value. This means that for every positive number, the probability that the absolute difference between the sample average and the expected value is greater than the number becomes closer and closer to zero as the sample size tends to infinity.
 
-## Example
-
-Imagine flipping a fair coin. The probability of heads is 0.5, and the probability of tails is also 0.5. Suppose we flip the coin 10 times and get 6 heads and 4 tails. The proportion of heads is 0.6, which deviates from our expected proportion of 0.5.
-
-However, if we continue to flip the coin and get to 1000 flips, we might see 510 heads and 490 tails. The proportion of heads is now 0.51, which is closer to our expected 0.5.
-
-If we continue this process towards an infinite number of flips, according to the Law of Large Numbers, our proportion of heads (an empirical average) will converge to the theoretical average of 0.5.
+> [!example] Coin flips and the Law of Large Numbers
+> Imagine flipping a fair coin with $P(\text{Heads})=0.5$.  
+> - After $n=10$ flips, e.g. 6 Heads / 4 Tails → proportion $=0.6$ (deviates from 0.5).  
+> - After $n=1000$ flips, e.g. 510 Heads / 490 Tails → proportion $=0.51$ (closer to 0.5).  
+> As $n$ grows, the empirical mean converges to the theoretical mean $0.5$:  
+> $$
+> \hat p_n=\frac{1}{n}\sum_{i=1}^n \mathbf{1}\{\text{Heads}_i\} \to 0.5
+> $$
