@@ -3,14 +3,14 @@
 ## Definitions
 
 - **Noesis**:
-	In phenomenology, a branch of philosophy, Noesis refers to the act of conscious thinking or cognition. It’s the part of the mind involving thought, understanding, and self-awareness.
+	In [[phenomenology]], a branch of philosophy, Noesis refers to the act of conscious thinking or cognition. It’s the part of the mind involving thought, understanding, and self-awareness.
 
 - **Noema**:
 	Noema, on the other hand, refers to the object or content of thought, perception, or a similar mental act.
 
 ## Origin
 
-Both concepts were central to the philosophy of [Edmund Husserl](https://en.wikipedia.org/wiki/Edmund_Husserl), the founder of phenomenology. They are also integral to the phenomenological research method.
+Both concepts were central to the philosophy of [Edmund Husserl](https://en.wikipedia.org/wiki/Edmund_Husserl), the founder of [[phenomenology]]. They are also integral to the phenomenological research method.
 
 ## Key Distinctions
 

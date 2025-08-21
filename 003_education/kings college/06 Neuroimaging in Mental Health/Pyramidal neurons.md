@@ -15,7 +15,7 @@ Pyramidal neurons are a **type of excitatory neuron found in the cerebral cortex
 
 - **Cortical Columns**: Pyramidal neurons are organised into vertical structures called cortical columns, considered the basic functional units of the cerebral cortex.
 - **Synaptic Integration**: They integrate synaptic inputs from thousands of other neurons, summing excitatory and inhibitory signals to determine their output.
-- **Plasticity**: Exhibiting synaptic plasticity, pyramidal neurons can strengthen or weaken their connections based on experience, which is a fundamental mechanism underlying learning and memory.
+- **Plasticity**: Exhibiting [[synaptic plasticity]], pyramidal neurons can strengthen or weaken their connections based on experience, which is a fundamental mechanism underlying learning and memory.
 
 ## Clinical Significance
 
