@@ -1,7 +1,5 @@
 #fundamental/logic
 
-## Definition
-
 The Sorites Paradox is a **philosophical paradox associated with vagueness and ambiguity in language.** It’s also known as the *paradox of the heap*. The term “sorites” originates from the Greek word for heap.
 
 ## Description
