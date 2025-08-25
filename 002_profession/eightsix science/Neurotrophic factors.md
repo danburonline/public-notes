@@ -22,3 +22,16 @@ Neurotrophic factors (NTFs) are **specialised biomolecules, primarily peptides a
 - **Cell-Based**: MSCs expressing NTFs
 - **Biomaterial-Based**: Controlled release scaffolds
 - **Viral Vectors**: Gene therapy approaches
+
+> [!example] Neurotrophic factors in neural tissue engineering (biomaterial-based)
+> Use case: Repairing a peripheral nerve gap with a BDNF-releasing conduit.
+> 
+> - Objective: Promote axonal regrowth and survival across a 10–15 mm nerve gap.
+> - NTF choice: BDNF (± NGF) from the [[Neurotrophic factors]] family to enhance neurite extension, survival, and [[synaptic plasticity]] via Trk signalling.
+> - Scaffold: Aligned electrospun PCL/PLGA fibre conduit with a heparinised gelatin hydrogel core for controlled release.
+> - Delivery strategy: Biomaterial-based sustained release (zero-order target ~2–4 weeks) matched to early regenerative phases; optional gradient (proximal→distal) to guide directionality.
+> - Optional augmentations: 
+>   - Cell-based: MSCs engineered to secrete NTFs for paracrine support.
+>   - Electrical stimulation to synergise with NTF-driven plasticity.
+> - Readouts: Increased neurite length and myelinated fibre count, reduced [[apoptosis]], improved functional indices (e.g., SFI), and enhanced reinnervation of target muscle.
+> - Practical notes: Validate retained bioactivity post-encapsulation, tune loading (e.g., tens–hundreds ng/mL range) and release kinetics, and avoid burst release that can downregulate receptor sensitivity.
