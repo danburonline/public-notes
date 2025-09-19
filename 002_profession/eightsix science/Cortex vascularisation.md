@@ -43,7 +43,7 @@
 ### Capillary Network
 
 - Dense, lacy network around larger vessels
-- Forms blood-brain barrier
+- Forms [[blood-brain barrier]]
 - Adapts to neuronal needs (angiogenesis/reabsorption)
 
 ## Cortical Vascular Layers
@@ -54,6 +54,6 @@
 
 ## Functional Aspects
 
-- Pial vessels: Extrinsic innervation (peripheral nervous system)
+- Pial vessels: Extrinsic innervation ([[peripheral nervous system]])
 - Parenchymal vessels: Intrinsic innervation (brain neuropil)
 - Local control: Vascular sphincters regulate cortical perfusion
