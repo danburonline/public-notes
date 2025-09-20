@@ -1,7 +1,5 @@
 #core/appliedneuroscience
 
-## Overview
-
 The Talairach Atlas and the MNI/ICBM AVG152 template are pivotal tools in neuroimaging, providing a **standardised framework for reporting spatial coordinates of structural and functional brain images.** Developed from different methodologies, they’ve become standards for comparing and sharing research findings across studies.
 
 ---
