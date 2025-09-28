@@ -20,7 +20,7 @@ Hyperfrontality refers to **increased activity or overactivity in the brain’s 
 
 - Disorders often linked with hyperfrontality include:
   - **Schizophrenia**: Characterised by abnormal social behaviour and failure to recognise reality.
-  - [[Spectrum of bipolar disorder|Bipolar]] Disorder**: Involves episodes of mood swings ranging from depressive lows to manic highs.
+  - **[[Spectrum of bipolar disorder|Bipolar]] Disorder**: Involves episodes of mood swings ranging from depressive lows to manic highs.
   - **Obsessive-Compulsive Disorder (OCD)**: Characterised by unreasonable thoughts and fears (obsessions) leading to compulsive behaviours.
 
 ## Diagnostic Tools
