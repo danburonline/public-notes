@@ -4,7 +4,7 @@
 
 2. **Principle of Diversified Learning:** Move away from a singular focus, and embrace a multifaceted approach to knowledge, covering disciplines like science, art, history, philosophy, technology, and more. Your polymathic essence grows with the breadth of your understanding.
 
-3. Principle of Depth Mastery: Complement your broad knowledge with depth. Elect a handful of subjects to delve into profoundly.
+3. **Principle of Depth Mastery:** Complement your broad knowledge with depth. Elect a handful of subjects to delve into profoundly.
 
 4. **Principle of Autodidacticism:** Leverage the plethora of modern resources - online courses, books, podcasts, articles - to fuel your self-learning process. You have the tools to be your own teacher.
 
