@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-The IDEAL framework provides a structured approach for evaluating surgical innovations, particularly valuable in neurosurgery and brain-computer interface (BCI) implantation.
+The IDEAL framework provides a **structured approach for evaluating surgical innovations**, particularly valuable in neurosurgery and brain-computer interface (BCI) implantation.
 
 **1. Idea (Stage 1)**
 
