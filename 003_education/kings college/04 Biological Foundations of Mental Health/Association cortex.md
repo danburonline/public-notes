@@ -1,5 +1,7 @@
 #core/appliedneuroscience
 
+![[association-cortex.png]]
+
 The association cortex is a **part of the cerebral cortex that is essential for complex functions like perception, cognition, and decision-making.** It combines information from different sensory modalities to create a more holistic perception of the environment.
 
 ## Key Features
