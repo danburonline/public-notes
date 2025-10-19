@@ -1,5 +1,7 @@
 #core/appliedneuroscience
 
+![[apallic-syndrome.png]]
+
 - **Definition**: Apallic syndrome, also known as a vegetative state, is a condition characterised by the loss of cognitive functions and awareness of the environment while maintaining non-cognitive functions and a sleep-wake cycle.
 - **Pathophysiology**: The condition involves a disconnection between the cerebral cortex, which is responsible for consciousness, and the lower brain centres, including the brainstem and diencephalon, which manage arousal and life-sustaining autonomic functions.
 
