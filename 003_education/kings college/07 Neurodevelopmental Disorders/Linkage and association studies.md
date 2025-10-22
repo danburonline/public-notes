@@ -21,4 +21,4 @@ Linkage and association studies are central in examining the role of genetics an
 ### Integrating Environment
 
 - Both study types consider gene-environment interactions to understand the complexity of behaviour.
-- Environmental factors (like stress, upbringing, toxin exposure) interact with genetic predispositions to influence outcomes.
+- Environmental factors (like [[stress]], upbringing, toxin exposure) interact with genetic predispositions to influence outcomes.
