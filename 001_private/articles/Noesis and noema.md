@@ -17,9 +17,8 @@ Both concepts were central to the philosophy of [Edmund Husserl](https://en.wiki
 - **Noesis is the process**: it’s the act of perceiving, thinking, or understanding.
 - **Noema is the product**: it’s what is perceived, thought of, or understood.
 
-## Example
-
-Consider reading a book:
-
-- The Noesis is the act of reading, understanding, and interpreting the words on the page.
-- The content, ideas, and themes you extract from the book are the Noema.
+> [!Example]
+> Consider reading a book:
+> 
+> - The Noesis is the act of reading, understanding, and interpreting the words on the page.
+> - The content, ideas, and themes you extract from the book are the Noema.
