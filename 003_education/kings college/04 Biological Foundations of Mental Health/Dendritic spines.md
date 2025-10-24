@@ -2,8 +2,6 @@
 
 ![[denditric-spines-overview.png]]
 
-## Overview
-
 Dendritic spines are **small protrusions that come out of a neuron’s dendrite.** These structures play an important role in the transmission of electrical signals to a neuron’s cell body. Dendritic spines are key components for [[synaptic plasticity]], which is the ability of synapses to strengthen or weaken over time in response to increases or decreases in their activity.
 
 ## Structure
