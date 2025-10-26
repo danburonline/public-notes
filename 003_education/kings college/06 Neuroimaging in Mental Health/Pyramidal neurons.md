@@ -4,6 +4,11 @@
 
 Pyramidal neurons are a **type of excitatory neuron found in the cerebral cortex, hippocampus, and the amygdala.** They are named for their **distinct pyramid-shaped cell bodies** with a large apical dendrite, multiple basal dendrites, and a long axon that can extend to other parts of the brain.
 
+> [!summary] Key points
+> - Excitatory, glutamatergic projection neurons in cortex, hippocampus, and amygdala.
+> - Principal contributors to large-scale signals (EEG/MEG) and closely tied to fMRI BOLD.
+> - Highly diverse by cortical layer and projection target; major locus of plasticity.
+
 ## Characteristics of Pyramidal Neurons
 
 - **Morphology**: These neurons have a pyramid-shaped soma, with a single apical dendrite that extends towards the cortical surface and multiple basal dendrites radiating outwards.

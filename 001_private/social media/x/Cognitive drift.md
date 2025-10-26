@@ -1,5 +1,7 @@
 #core/appliedneuroscience 
 
+![[cognitive-drift.jpg]]
+
 Cognitive drift refers to **unintended shifts in attention, thought processes, or behaviours that lead individuals away from their original intentions, goals, or focus.** This phenomenon appears across various fields like psychology, user experience design, personal development, and therapy, often resulting from distractions, misaligned incentives, or gradual cognitive changes. While it can foster creativity through mind wandering, it frequently hinders productivity, decision-making, and task performance.
 
 ## Key Concepts
