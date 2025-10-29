@@ -19,8 +19,6 @@ The pegword method involves associating numbers with words that rhyme with them 
 > [!example]
 > 1 is a bun, 2 is a shoe, 3 is a tree, and so on. To remember a list, you create a visual story. If you need to remember milk, eggs, and bread, you might imagine a bun dipped in milk, eggs in a shoe, and a tree growing loaves of bread.
 
----
-
 ## Chunking
 
 Chunking involves breaking down a large amount of information into smaller, more manageable “chunks.”
@@ -28,16 +26,12 @@ Chunking involves breaking down a large amount of information into smaller, more
 > [!example]
 Remembering a long string of numbers by breaking it down into chunks, like phone numbers (123-456-7890).
 
----
-
 ## Spaced Repetition
 
 This technique involves reviewing information at increasing intervals. It is highly effective for long-term retention.
 
 > [!example]
 Initially, you might review information after one day, then after three days, then a week, and so on.
-
----
 
 ## Link Method
 
