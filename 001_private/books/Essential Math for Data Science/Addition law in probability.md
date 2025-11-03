@@ -15,7 +15,6 @@ In this equation, “∪” represents the union of two events, i.e., the event 
 ### Example
 
 Consider a single roll of a standard six-sided die, and let `A` be the event that the roll is an even number and `B` the event that the roll is a 5. Since `A` and `B` cannot both occur at the same time, they are mutually exclusive. The probability of rolling a 5 or an even number is:
-`
 
 ```
 P(A ∪ B) = P(A) + P(B) = 1/2 + 1/6 = 2/3
