@@ -1,7 +1,5 @@
 #core/appliedneuroscience 
 
-## Key Principles
-
 *   **ABCDE First:** Always prioritise Airway, Breathing, Circulation, Disability, and Exposure before focusing on the head injury itself.  Hypoxia and hypotension worsen secondary brain injury.
 *   **Systematic Approach:** Follow a structured approach (e.g., ATLS) for all trauma patients.
 *   **Early Senior Involvement:** For significant head injuries (especially GCS ≤ 8), involve senior clinicians early.
