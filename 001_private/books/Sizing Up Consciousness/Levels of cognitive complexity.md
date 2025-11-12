@@ -31,3 +31,12 @@
 - **Definition**: Acute awareness of oneself as the subject of attention by others; understanding how one’s actions, thoughts, and presence are perceived and interpreted within a social context.
 - **Key Aspect**: Reflects the social dimension of cognition associated with emotions like embarrassment or pride.
 - **Example**: Humans feel embarrassed in social situations, indicating a heightened sense of how others view them.
+
+
+> [!example] Theatre analogy: remembering the differences
+> - Sentience: The theatre senses light and sound—raw sensations occur.
+> - Awareness: The stagehand notices the cue and changes the lights.
+> - Self-Awareness: The actor recognises themselves in a mirror on stage.
+> - Consciousness: The director understands the whole play, plans scenes, and reflects on meaning.
+> - Self-Consciousness: The actor feels the audience’s gaze and worries about how they’re coming across.
+> - Quick mnemonic: Sense → Notice → Know self → Comprehend → In the Spotlight.
