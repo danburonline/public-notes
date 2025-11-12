@@ -1,5 +1,7 @@
 #fundamental/logic 
 
+![[causa-sui-project.png]]
+
 A causa sui project is a **psychological and philosophical concept describing an individual's attempt to create meaning or purpose that transcends their own finite existence.** The term *causa sui* is Latin for "cause of itself" or "self-caused." In this context, it refers to projects or pursuits generated from within oneself to achieve a sense of immortality or lasting significance.
 
 ## Origin and Key Thinkers
