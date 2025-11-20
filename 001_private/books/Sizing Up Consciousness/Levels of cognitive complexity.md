@@ -39,4 +39,3 @@
 > - Self-Awareness: The actor recognises themselves in a mirror on stage.
 > - Consciousness: The director understands the whole play, plans scenes, and reflects on meaning.
 > - Self-Consciousness: The actor feels the audience’s gaze and worries about how they’re coming across.
-> - Quick mnemonic: Sense → Notice → Know self → Comprehend → In the Spotlight.
