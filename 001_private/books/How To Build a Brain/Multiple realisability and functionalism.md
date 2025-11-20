@@ -1,14 +1,12 @@
 #lead/cognitivecomputing
 
-## Introduction
-
 Multiple Reliability and Functionalism are **concepts often discussed in the context of philosophy, particularly in the philosophy of mind and epistemology.** They delve into how mental states are characterised and how reliable processes contribute to the justification of beliefs.
 
-## Multiple Reliability
+## [[Multiple Realisability]]
 
 ### Definition
 
-- **Multiple Reliability**: Refers to the idea that a belief is justified if it is produced by a process that is reliably truth-conducive in multiple scenarios or environments.
+- **[[Multiple Realisability]]**: Refers to the idea that a belief is justified if it is produced by a process that is reliably truth-conducive in multiple scenarios or environments.
 
 ### Key Points
 
