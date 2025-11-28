@@ -1,6 +1,8 @@
 #lead/cognitivecomputing 
 
-## Definitions
+![[noesis-noema.jpg]]
+
+Noesis and noema are **two core Husserlian ideas in [[phenomenology]].** Noesis names the lived act of thinking, perceiving, or judgement, while noema names the intended object or content of that act. Together they offer a clear process and product distinction that helps in analysing conscious experience, from everyday reading to formal research.
 
 - **Noesis**:
 	In [[phenomenology]], a branch of philosophy, Noesis refers to the act of conscious thinking or cognition. It’s the part of the mind involving thought, understanding, and self-awareness.
