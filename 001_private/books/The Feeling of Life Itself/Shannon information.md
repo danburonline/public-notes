@@ -1,5 +1,7 @@
 #core/softwareengineering #core/appliedneuroscience
 
+![[shannon-information.png]]
+
 1. **Definition**: Shannon information quantifies the amount of uncertainty or surprise in a random variable.
 2. **Entropy**: Measure of average information content in a message.
    - Formula: H(X) = -Σ p(x) log₂ p(x)
