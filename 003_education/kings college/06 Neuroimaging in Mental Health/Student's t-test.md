@@ -30,8 +30,8 @@ $$
 ## Interpretation
 
 - **[[P-value]]:** Used to determine the significance of the results.
-  - A small p-value (typically ≤ 0.05) indicates strong evidence against the null hypothesis, so you reject the null hypothesis.
-  - A large p-value (> 0.05) indicates weak evidence against the null hypothesis, so you fail to reject the null hypothesis.
+  - A small [[P-value]] (typically ≤ 0.05) indicates strong evidence against the null hypothesis, so you reject the null hypothesis.
+  - A large [[P-value]] (> 0.05) indicates weak evidence against the null hypothesis, so you fail to reject the null hypothesis.
 
 > [!example]
 > Used in research fields to compare:

@@ -4,3 +4,9 @@
 000_inbox/*
 !000_inbox/attachments
 piecesdb.json
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
