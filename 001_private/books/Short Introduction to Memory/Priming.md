@@ -1,5 +1,7 @@
 #core/appliedneuroscience
 
+![[priming.jpg]]
+
 Priming is a **phenomenon in psychology that refers to the influence of a prior stimulus on later responses,** whether conscious or unconscious. This can significantly impact learning, memory, and brain processes. Here’s a detailed overview:
 
 ## Definition
