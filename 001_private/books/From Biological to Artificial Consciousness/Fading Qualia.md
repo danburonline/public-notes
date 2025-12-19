@@ -46,3 +46,13 @@ Fading qualia is a **thought experiment proposed by philosopher [David Chalmers]
 - Influential in philosophy of mind and consciousness studies
 - Informs debates on artificial consciousness and mind uploading
 - Challenges traditional views on the nature of consciousness
+
+---
+
+> [!info] Dancing qualia (Chalmers, 1996)
+> - Companion to [[Fading qualia]]; asks whether qualia could change while functional organisation stays fixed.
+> - Setup: two functionally isomorphic implementations (e.g., biological brain vs silicon). A switch toggles which realiser runs each part, without altering inputs, outputs, or internal causal structure.
+> - If qualia depended on substrate, flipping the switch would make experiences “dance” (dramatically change) while behaviour, reports, and memories remain identical—so the subject could not notice the change.
+> - This creates an implausible gulf between experience and cognition; hence, the more plausible view is organisational invariance: same functional organisation ⇒ same qualia.
+> - Implications: supports the coherence of artificial consciousness and challenges substrate-essentialism.
+> - Typical objections: hidden implementation-dependent dynamics; limited introspective access; “small” qualia differences. Chalmers’ reply: if differences are in principle cognitively inaccessible, positing them is ad hoc.
