@@ -1,5 +1,7 @@
 #lead/cognitivecomputing
 
+![[minimal-self.jpg]]
+
 The minimal self refers to **the immediate, pre-reflective experience of selfhood derived from sensory information.** It’s composed of two main aspects:
 
 1. **Sense of Agency (SoA)**: The feeling that one has produced a particular outcome through voluntary action.
