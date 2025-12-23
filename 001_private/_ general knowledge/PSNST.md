@@ -1,13 +1,17 @@
 #lead/cognitivecomputing
 
-![[progressive-neural-replacement.jpg]]
+![[psnst.png]]
 
-The **Progressive Synthetic Neural Substrate Transfer** (PSNST) is a hypothetical cognitive preservation procedure envisioned by [Daniel Burger](https://danielburger.online/) to seamlessly transfer encoded neural information from a biological to an optimised synthetic biological substrate, ensuring the preservation of cognitive functions and personal identity. This is achieved by leveraging the effect of neuroplasticity and the automatic rearrangement of encoded information when brain tissue is destroyed slowly (such as in normally occurring effects like a brain tumour). This idea aims to solve the issues arising from classical mind-uploading by avoiding the destruction of a person’s cognitive continuity (i.e. the [teletransport paradox](https://en.wikipedia.org/wiki/Teletransportation_paradox)), and also avoiding other philosophical problems related to mind-uploading and generally with whole-brain emulation. A potential method for the controlled cell death of neuronal cells could be induced by silencing them via genetics or a laser.
+The **Progressive Synthetic Neural Substrate Transfer** (PSNST) is a hypothetical cognitive preservation procedure envisioned by [Daniel Burger](https://danielburger.online/) to seamlessly transfer encoded neural information from a biological to an optimised synthetic biological substrate (or ultimately a fully *de novo synthetic substrate*), ensuring the preservation of cognitive functions and personal identity. This is achieved by leveraging the effect of neuroplasticity and the automatic rearrangement of encoded information when brain tissue is destroyed slowly (cortical reorganisation; such as in normally occurring effects like a low-grade brain tumours). This idea aims to solve the issues arising from classical mind-uploading by avoiding the destruction of a person’s cognitive continuity (i.e. the [teletransport paradox](https://en.wikipedia.org/wiki/Teletransportation_paradox)), and also avoiding other philosophical problems related to mind-uploading and generally with whole-brain emulation. A potential method for the controlled cell death of neuronal cells could be induced by silencing them via genetics or a laser.
 
 In contrast to other work, such as that from the [Hébert Lab](https://hebertlab.einsteinmedneuroscience.org/), the idea behind PSNST is that the new neural substrate is designed for high-throughput brain-computer interfacing (e.g., by genetically modifying the synthetic neural substrate to enable optogenetic interfacing, [[bioprinting]] it around electrodes/nanoparticles (neural dust), etc.). The goal is not to keep the person inside the original skull but rather to enable the explanted brain to be collocated across physical distances for redundancy (akin to globally distributed software on cloud computing) and to facilitate sensory input from simulated environments or robots, rather than a biological physical body. The main vision is to not only defeat death, but make it really hard to die.
 
 > [!info]
 > I've renamed this procedure to Ectopic Cognitive Preservation and wrote about it e.g. here: [Substack article](https://danburonline.substack.com/i/163467017/approach-ectopic-cognitive-preservation)
+> 
+> ---
+> 
+> ![[ecp.png]]
 
 ## Procedure
 
