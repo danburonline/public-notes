@@ -1,5 +1,7 @@
 #lead/cognitivecomputing #core/mathematicalphysics #core/appliedneuroscience
 
+![[combinatorial-explosion.jpg]]
+
 ## 1. Basic Concepts
 
 ### Curse of Dimensionality
