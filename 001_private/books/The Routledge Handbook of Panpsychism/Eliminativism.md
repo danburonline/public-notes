@@ -1,8 +1,8 @@
 #core/appliedneuroscience #fundamental/logic 
 
-Eliminativism, often referred to as eliminative materialism in the philosophy of mind, is the **view that certain common-sense mental states and concepts—such as beliefs, desires, intentions, and even consciousness—do not actually exist.** It challenges the validity of "folk psychology," which is the everyday framework people use to explain human behaviour through mental states like emotions and thoughts.
+![[eliminativism.png]]
 
----
+Eliminativism, often referred to as eliminative materialism in the philosophy of mind, is the **view that certain common-sense mental states and concepts—such as beliefs, desires, intentions, and even consciousness—do not actually exist.** It challenges the validity of "folk psychology," which is the everyday framework people use to explain human behaviour through mental states like emotions and thoughts.
 
 ## Key Ideas of Eliminativism
 
