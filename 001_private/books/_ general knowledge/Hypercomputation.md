@@ -1,5 +1,7 @@
 #lead/quantumcomputing
 
+![[hypercomputation.jpg]]
+
 ## Key Concepts
 
 ### Turing Machines
