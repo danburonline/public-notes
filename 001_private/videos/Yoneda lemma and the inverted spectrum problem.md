@@ -1,5 +1,7 @@
 #core/mathematicalphysics #lead/cognitivecomputing 
 
+![[yoneda-lemma.jpg]]
+
 The Yoneda lemma is a prominent theorem in category theory that has been proposed as a solution to the problem of qualia, specifically the **question of how we know if the colours we perceive are the same as those perceived by others.** However, the application of the Yoneda lemma to solve this problem is flawed.
 
 One common misunderstanding is the idea that objects in a category are absolute, similar to set theory and that morphisms are secondary. In reality, in category theory, objects are merely labels, and the relevant information lies in the morphisms. Therefore, the Yoneda embedding theorem, which allows us to probe objects with morphisms, does not provide any new information about the objects themselves.
