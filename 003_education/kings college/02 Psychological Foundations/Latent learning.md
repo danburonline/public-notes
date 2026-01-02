@@ -1,5 +1,7 @@
 #core/appliedneuroscience
 
+![[latent-learning.jpg]]
+
 - Learning **without immediate reinforcement** or outward manifestation.
 - Coined by Tolman, it challenges behaviourist theories, emphasising cognition.
 - Tolman’s maze experiments showed **purposeful behaviour without prior rewards.**
