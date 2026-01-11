@@ -1,4 +1,4 @@
-#core/machinelearning
+#core/artificialintelligence
 
 ![[beta-distribution.png]]
 

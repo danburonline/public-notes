@@ -1,4 +1,4 @@
-#core/machinelearning #core/mathematicalphysics
+#core/artificialintelligence #core/mathematicalphysics
 
 The Z-Score, also known as a standard score, is **a statistic that tells you how many standard deviations an element is from the mean.** It’s a measure of how unusual or typical a particular data point is within a data set.
 

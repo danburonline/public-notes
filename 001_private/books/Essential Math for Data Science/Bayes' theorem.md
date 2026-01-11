@@ -1,4 +1,4 @@
-#core/mathematicalphysics #core/machinelearning
+#core/mathematicalphysics #core/artificialintelligence
 
 Bayes’ Theorem is a fundamental theorem in the field of statistics and probability. It **describes the probability of an event based on prior knowledge of conditions** that might be related to the event.
 

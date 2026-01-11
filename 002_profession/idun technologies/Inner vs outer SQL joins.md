@@ -1,4 +1,4 @@
-#core/softwareengineering
+#core/softwaredevelopment
 
 SQL joins combine rows from two or more tables based on related columns. The **type of join determines which rows are included** when matches are missing.
 

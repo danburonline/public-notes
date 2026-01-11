@@ -1,4 +1,4 @@
-#core/appliedneuroscience #core/softwareengineering 
+#core/appliedneuroscience #core/softwaredevelopment 
 
 ![[biomimicry.jpg]]
 

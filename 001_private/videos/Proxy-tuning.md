@@ -1,4 +1,4 @@
-#lead/cognitivecomputing #core/machinelearning
+#core/artificialintelligence
 
 ![[proxy-tuning.png]]
 

@@ -1,4 +1,4 @@
-#lead/cognitivecomputing
+#core/artificialintelligence
 
 From Keith Wiley’s book “Taxonomy and Metaphysics of Mind-Uploading”.
 

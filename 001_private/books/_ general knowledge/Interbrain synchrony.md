@@ -1,4 +1,4 @@
-#lead/cognitivecomputing
+#core/artificialintelligence
 
 ![[interbrain-synchrony.png]]
 

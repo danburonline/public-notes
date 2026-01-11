@@ -1,4 +1,4 @@
-#lead/cognitivecomputing
+#core/artificialintelligence
 
   Platonic Realism (also known as Platonic Idealism) is a theory developed by the ancient Greek philosopher Plato. This theory is based on the concept of **“Forms”** or **“Ideas”**, which are abstract, perfect, and immutable entities that exist independently of the sensible world.
 

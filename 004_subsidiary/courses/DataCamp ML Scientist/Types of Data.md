@@ -1,4 +1,4 @@
-#core/machinelearning 
+#core/artificialintelligence 
 
 Data in data science can be categorised into several types based on their nature and characteristics. Here are four common types of data:
  1. **Numeric Data:** Numeric data consists of continuous numerical values and can be further categorised as discrete or continuous. Discrete numeric data consists of whole numbers and has limited possible values. For example, the number of siblings a person has is discrete numeric data. Continuous numeric data, on the other hand, includes real numbers and can take on any value within a range. *An example of continuous numeric data is the height of a person.*

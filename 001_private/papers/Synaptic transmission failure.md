@@ -1,4 +1,4 @@
-#core/appliedneuroscience #lead/cognitivecomputing
+#core/appliedneuroscience #core/artificialintelligence
 
 [[Pre- and post-synaptic|Synaptic]] transmission failure refers to the **inability of neurons to effectively communicate with each other at synapses.** This failure can occur due to a variety of reasons and can have significant impacts on neural function and overall brain health.
 

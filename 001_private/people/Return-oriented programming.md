@@ -1,4 +1,4 @@
-#core/softwareengineering 
+#core/softwaredevelopment 
 
 Return-oriented programming (ROP) is a powerful exploitation technique used to bypass modern security defenses like non-executable memory (DEP/NX) by **chaining together short instruction sequences (called gadgets) already present in a program’s memory.** Instead of injecting new code, attackers reuse existing code to execute arbitrary operations.
 

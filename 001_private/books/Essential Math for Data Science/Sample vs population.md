@@ -1,4 +1,4 @@
-#core/machinelearning
+#core/artificialintelligence
 
 In statistics, data are gathered to make inferences or assumptions about certain characteristics. Two **fundamental concepts in this process are population and sample.**
 

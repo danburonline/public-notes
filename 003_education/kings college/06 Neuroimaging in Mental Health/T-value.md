@@ -1,4 +1,4 @@
-#core/machinelearning #core/appliedneuroscience
+#core/artificialintelligence #core/appliedneuroscience
 
 ![[t-value.png]]
 

@@ -1,4 +1,4 @@
-#lead/cognitivecomputing #core/appliedneuroscience
+#core/artificialintelligence #core/appliedneuroscience
 
 ![[nef-framework.png]]
 

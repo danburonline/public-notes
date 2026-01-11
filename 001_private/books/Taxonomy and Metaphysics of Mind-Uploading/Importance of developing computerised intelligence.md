@@ -1,3 +1,3 @@
-#lead/cognitivecomputing 
+#core/artificialintelligence 
 
 ![[computerised-mind.jpg]]

@@ -1,26 +1,48 @@
 ## Public Notes
 
-This repo holds all public notes from my Obsidian vault in it. **More information coming soon.**
+Personal Obsidian-based Zettelkasten-style knowledge base covering all my skill categories in life.
 
-### Categories
+### Structure
 
-#### Lead
+| Folder            | Purpose                                              |
+| ----------------- | ---------------------------------------------------- |
+| `001_private/`    | Personal learning: books, videos, papers, etc.       |
+| `002_profession/` | Work: Eightsix Science, Blue Brain, FinalSpark, etc. |
+| `003_education/`  | Formal: King's College, EPFL, Buckingham, etc.       |
+| `004_subsidiary/` | Side projects: Carboncopies, courses, etc.           |
+| `005_public/`     | Personal brand: branding, marketing, etc.            |
 
-- #lead/quantumcomputing
-- #lead/cognitivecomputing
-- #lead/spatialcomputing
+### Skill Categories
 
-#### Core
+Three-tier tagging system reflecting knowledge depth and focus:
 
+#### Lead: Unique Positioning / Frontier Work
+
+- #lead/consciousnessengineering
+- #lead/??? (undefined)
+- #lead/??? (undefined)
+
+#### Core: Main Competencies
+
+- #core/??? (undefined)
+- #core/??? (undefined)
+- #core/phenomenology
 - #core/mathematicalphysics
+- #core/theoreticalneurosurgery
 - #core/appliedneuroscience
-- #core/machinelearning
-- #core/softwareengineering
-- #core/webdevelopment
+- #core/artificialintelligence
+- #core/softwaredevelopment
 - #core/interactiondesign
 
-#### Fundamental
+#### Fundamental: Foundational Skills
 
 - #fundamental/logic
-- #fundamental/creativity
 - #fundamental/communication
+- #fundamental/creativity
+
+### Conventions
+
+- **Tags**: Every note starts with a tag on line 1
+- **Links**: Wikilinks `[[Note Title]]`
+- **Images**: Obsidian embeds `![[image.png]]`
+- **Spelling**: British English

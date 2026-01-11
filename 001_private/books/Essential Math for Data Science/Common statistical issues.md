@@ -1,4 +1,4 @@
-#core/machinelearning
+#core/artificialintelligence
 
 Statistical analyses are **prone to a variety of common pitfalls.** Being aware of these can help in designing better studies and interpreting results more reliably.
 

@@ -1,4 +1,4 @@
-#lead/cognitivecomputing #core/machinelearning
+#core/artificialintelligence
 
 ![[universal-approximation-theorem.png]]
 

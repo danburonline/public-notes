@@ -1,4 +1,4 @@
-#core/appliedneuroscience #lead/cognitivecomputing
+#core/appliedneuroscience #core/artificialintelligence
 
 Local **learning rules adjust synaptic strengths based on local information at the synapse**, crucial for neural plasticity, learning, and memory.
 

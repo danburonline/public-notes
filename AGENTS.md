@@ -53,11 +53,11 @@ Three-tier hierarchy at **line 1** of every note:
 
 | Tier | Purpose | Examples |
 |------|---------|----------|
-| `#lead/` | Cutting-edge interests | `quantumcomputing`, `cognitivecomputing`, `spatialcomputing` |
-| `#core/` | Main competencies | `appliedneuroscience`, `machinelearning`, `softwareengineering`, `mathematicalphysics` |
-| `#fundamental/` | Foundational skills | `logic`, `creativity`, `communication` |
+| `#lead/` | Unique positioning / frontier work | `consciousnessengineering` |
+| `#core/` | Main competencies | `phenomenology`, `mathematicalphysics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
+| `#fundamental/` | Foundational skills | `logic`, `communication`, `creativity` |
 
-Multiple tags allowed: `#core/machinelearning #core/mathematicalphysics`
+Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
 
 #### Linking
 

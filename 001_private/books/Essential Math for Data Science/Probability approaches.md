@@ -1,4 +1,4 @@
-#core/machinelearning
+#core/artificialintelligence
 
 ## 1. Subjective [[Independent and conditional probability|Probability]]
 

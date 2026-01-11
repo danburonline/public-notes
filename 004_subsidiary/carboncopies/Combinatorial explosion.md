@@ -1,4 +1,4 @@
-#lead/cognitivecomputing #core/mathematicalphysics #core/appliedneuroscience
+#core/artificialintelligence #core/mathematicalphysics #core/appliedneuroscience
 
 ![[combinatorial-explosion.jpg]]
 

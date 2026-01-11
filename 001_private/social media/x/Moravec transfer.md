@@ -1,4 +1,4 @@
-#lead/cognitivecomputing 
+#core/artificialintelligence 
 
 Proposed by Dr [Hans Moravec](https://everything2.com/title/Hans+Moravec "Hans Moravec") in the book [Mind Children](https://everything2.com/title/Mind+Children "Mind Children"), this describes how a **human brain could be transformed into a mechanical structure made from nanobots** without the brain in question losing consciousness.
   

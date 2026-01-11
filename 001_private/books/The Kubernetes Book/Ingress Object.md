@@ -1,4 +1,4 @@
-#core/softwareengineering
+#core/softwaredevelopment
 
 In Kubernetes, an Ingress is **an API object that manages external access to services within a cluster.** It provides HTTP and HTTPS route management to services based on the rules defined.
 

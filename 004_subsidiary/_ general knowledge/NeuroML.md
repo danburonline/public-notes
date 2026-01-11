@@ -1,4 +1,4 @@
-#lead/cognitivecomputing #core/appliedneuroscience
+#core/artificialintelligence #core/appliedneuroscience
 
 NeuroML (Neuroscience Markup Language) is an **XML-based format for representing computational models of neural systems,** including their morphology, electrophysiology, and network connectivity. It allows for the exchange and reuse of models across different simulation environments and analysis tools.
 

@@ -1,4 +1,4 @@
-#core/machinelearning
+#core/artificialintelligence
 
 The addition law in probability is a **fundamental concept that describes the probability of the union of two events.**
 

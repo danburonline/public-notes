@@ -1,4 +1,4 @@
-#core/machinelearning #core/mathematicalphysics 
+#core/artificialintelligence #core/mathematicalphysics 
 
 ![[normal-distribution.png]]
 

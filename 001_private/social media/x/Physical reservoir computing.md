@@ -1,4 +1,4 @@
-#lead/cognitivecomputing #lead/quantumcomputing #lead/spatialcomputing
+#core/artificialintelligence #core/mathematicalphysics #core/phenomenology
 
 ![[physical-reservoir-computing.png]]
 

@@ -1,4 +1,4 @@
-#core/machinelearning
+#core/artificialintelligence
 
 Structured Hypothesis Testing is a **methodical approach that combines data collection and statistical analysis to test hypotheses.** It’s a robust method used in a variety of fields to make conclusions based on data.
 
