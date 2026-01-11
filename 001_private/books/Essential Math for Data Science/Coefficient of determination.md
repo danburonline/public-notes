@@ -1,4 +1,4 @@
-#core/mathematicalphysics #core/machinelearning
+#core/mathematicalphysics #core/artificialintelligence
 
 ![[coefficient-of-determination.jpeg]]
 

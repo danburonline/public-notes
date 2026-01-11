@@ -1,4 +1,4 @@
-#core/softwareengineering
+#core/softwaredevelopment
 
 ![[rdf-and-rdfs.png]]
 

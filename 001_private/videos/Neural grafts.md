@@ -1,4 +1,4 @@
-#core/appliedneuroscience #lead/cognitivecomputing
+#core/appliedneuroscience #core/artificialintelligence
 
 ![[neural-graft.png]]
 

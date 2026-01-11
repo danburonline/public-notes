@@ -1,4 +1,4 @@
-#core/softwareengineering #core/webdevelopment
+#core/softwaredevelopment
 
 - **Static website**: These are pre-built web pages, often written purely in HTML, CSS, and JavaScript, that are delivered to the client without any changes. They are fast and secure but aren’t dynamic and can’t interact with databases in real-time.
 

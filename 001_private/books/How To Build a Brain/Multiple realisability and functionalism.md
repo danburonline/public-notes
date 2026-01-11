@@ -1,4 +1,4 @@
-#lead/cognitivecomputing
+#core/artificialintelligence
 
 Multiple Reliability and Functionalism are **concepts often discussed in the context of philosophy, particularly in the philosophy of mind and epistemology.** They delve into how mental states are characterised and how reliable processes contribute to the justification of beliefs.
 

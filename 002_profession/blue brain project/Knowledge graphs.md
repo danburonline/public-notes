@@ -1,4 +1,4 @@
-#core/softwareengineering
+#core/softwaredevelopment
 
 ![[knowledge-graph.png]]
 A knowledge graph is a **type of database used to represent the relationships between entities, which can include people, places, things, or concepts.** The vertices in the graph represent the entities in the real world, and the edges represent the relationships between those entities.

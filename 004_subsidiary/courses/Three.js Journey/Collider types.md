@@ -1,4 +1,4 @@
-#lead/spatialcomputing
+#core/softwaredevelopment
 
 ![[colliders.jpeg]]
 

@@ -1,4 +1,4 @@
-#lead/spatialcomputing
+#core/softwaredevelopment
 
 A half extent (or half-extents) refers to **half the size of an object along each axis from its centre point.** It defines the distance from the centre of a bounding box to its edges, commonly used in collision detection and physics calculations.
 

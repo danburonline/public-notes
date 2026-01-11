@@ -1,4 +1,4 @@
-#core/appliedneuroscience #lead/cognitivecomputing
+#core/appliedneuroscience #core/artificialintelligence
 
 Infantile amnesia, also known as childhood amnesia, refers to the **inability of adults to recall episodic memories from the first few years of life**, typically before the age of 3 or 4. This phenomenon is widespread and intriguing because while young children can form memories, these memories often do not persist into adulthood.
 

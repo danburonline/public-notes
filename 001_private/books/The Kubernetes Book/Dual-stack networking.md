@@ -1,4 +1,4 @@
-#core/softwareengineering 
+#core/softwaredevelopment 
 
 Dual stack networking is a **transition technology for the migration from IPv4 to IPv6.** It allows devices to support both IPv4 and IPv6, facilitating communication across networks that use either protocol.
 

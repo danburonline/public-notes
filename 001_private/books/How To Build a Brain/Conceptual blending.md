@@ -1,4 +1,4 @@
-#lead/cognitivecomputing
+#core/artificialintelligence
 
 Conceptual blending, also known as conceptual integration, is a cognitive theory developed by [Gilles Fauconnier](https://en.wikipedia.org/wiki/Gilles_Fauconnier) and [Mark Turner](<https://en.wikipedia.org/wiki/Mark_Turner_(cognitive_scientist)>) in the 1990s. It **explains how the human mind combines different mental spaces to create new meanings** and ideas.
 

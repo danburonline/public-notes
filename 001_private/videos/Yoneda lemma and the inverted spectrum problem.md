@@ -1,4 +1,4 @@
-#core/mathematicalphysics #lead/cognitivecomputing 
+#core/mathematicalphysics #core/artificialintelligence 
 
 ![[yoneda-lemma.jpg]]
 

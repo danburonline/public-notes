@@ -1,4 +1,4 @@
-#lead/cognitivecomputing #core/mathematicalphysics
+#core/artificialintelligence #core/mathematicalphysics
 
 ## Occurrence
 

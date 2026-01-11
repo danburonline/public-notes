@@ -1,4 +1,4 @@
-#lead/spatialcomputing #core/softwareengineering 
+#core/softwaredevelopment 
 
 ![[frustum-culling.png]]
 

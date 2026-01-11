@@ -1,4 +1,4 @@
-#core/softwareengineering
+#core/softwaredevelopment
 
 Kubernetes supports the design of multi-container pods, **where multiple containers are deployed in the same pod.** In these scenarios, the containers share the same network and storage resources, allowing them to cooperate and provide combined functionality. Here are some common multi-container pod patterns:
 

@@ -1,4 +1,4 @@
-#core/appliedneuroscience #lead/cognitivecomputing
+#core/appliedneuroscience #core/artificialintelligence
 
 Phase space and phasing rotators are **critical tools in neural signal processing**, offering insights into neural signals’ dynamic behaviour and manipulation.
 

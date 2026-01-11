@@ -1,4 +1,4 @@
-#lead/cognitivecomputing 
+#core/artificialintelligence 
 
 ![[engram-cell-connectivity.jpeg]]
 

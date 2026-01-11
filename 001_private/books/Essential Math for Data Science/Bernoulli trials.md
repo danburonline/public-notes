@@ -1,4 +1,4 @@
-#core/machinelearning
+#core/artificialintelligence
 
 A **Bernoulli trial** is a random experiment with two possible outcomes: **success** and **failure**. This type of trial is named after the Swiss mathematician Jacob Bernoulli.
 

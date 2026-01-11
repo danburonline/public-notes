@@ -1,4 +1,4 @@
-#core/softwareengineering
+#core/softwaredevelopment
 
 ![[isolated-tenant.png]]
 

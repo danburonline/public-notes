@@ -1,4 +1,4 @@
-#lead/quantumcomputing
+#core/mathematicalphysics
 
 ![[hypercomputation.jpg]]
 

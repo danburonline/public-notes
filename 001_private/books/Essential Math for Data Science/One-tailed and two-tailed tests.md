@@ -1,4 +1,4 @@
-#core/machinelearning
+#core/artificialintelligence
 
 [[Common statistical issues|Statistical]] hypothesis testing is a key aspect of both statistics and data science that allows us to make inferences about populations based on samples. One important concept within this area is the distinction between one-tailed and two-tailed tests.
 

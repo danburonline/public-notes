@@ -1,4 +1,4 @@
-#lead/cognitivecomputing
+#core/artificialintelligence
 
 The naturalisation of [[Phenomenology]] is a **philosophical movement that seeks to reconcile phenomenological and cognitive science approaches to understanding consciousness and subjective experience.** This emerging field attempts to bridge the gap between first-person experiences ([[phenomenology]]) and third-person explanations (cognitive science and neuroscience).
 

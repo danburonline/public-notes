@@ -1,4 +1,4 @@
-#lead/cognitivecomputing
+#core/artificialintelligence
 
 Multiple realisability is a **concept in the philosophy of mind that asserts that different physical systems can instantiate the same mental state or property.** In other words, distinct physical structures can embody the same mental phenomena or consciousness.
 
