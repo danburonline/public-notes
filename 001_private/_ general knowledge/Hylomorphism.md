@@ -21,3 +21,9 @@ Hylomorphism is a **philosophical theory** developed by [Aristotle](https://en.w
 
 - Explains how physical objects can change yet remain the same thing.
 - Influential in philosophy, especially in metaphysics, philosophy of mind, and theology.
+
+> [!summary] Hylomorphic schema
+> - Substance = matter (potency) + form (act).
+> - Form explains identity, structure, powers, and teleology (final causes).
+> - Change = actualising a potency; what persists depends on whether the change is accidental or substantial.
+> - In living beings, the soul is the form of the body.
