@@ -1,23 +1,60 @@
-#core/artificialintelligence
+#fundamental/logic
+
+**The positive/normative distinction** separates disciplines that describe what *is* (empirical observation) from those addressing what *ought to be* (values) or what things *mean* (interpretation).
 
 ## Positive Science
 
-Positive science, **also known as positivist or empirical science,** refers to the study of phenomena based on observable, empirical, and measurable evidence. It typically seeks to formulate laws based on observed patterns and predict outcomes.
+**Empirical science** studies phenomena through observable, measurable evidence, seeking laws and predictions. Rooted in [[Logical positivism]] (Vienna Circle, 1920s), which held that meaningful statements must be empirically verifiable.
 
-**Examples:** Physics, Chemistry, and Biology.
+**Characteristics:**
+- Testable hypotheses
+- Reproducible observations
+- Predictive laws
+- Value-neutral (descriptive)
 
-- **Physics:** The law of gravity is a positive science example. It’s based on empirical observations and measurable evidence.
-- **Chemistry:** The reactions between different chemicals and their outcomes can be studied and predicted, which makes it a part of positive science.
-- **Biology:** The study of cellular processes is based on observable and measurable phenomena.
+**Examples:** Physics, Chemistry, Biology, experimental Psychology.
+
+### Critiques
+
+- **[[Falsifiability|Popper]]:** Verification insufficient—science must be *falsifiable*
+- **[[Thomas Kuhn|Kuhn]]:** Science proceeds through paradigm shifts, not pure accumulation
+- **Feyerabend:** No single scientific method ("epistemological anarchism")
 
 ---
 
-## Non-Positive Science
+## Normative & Interpretive Disciplines
 
-Non-positive science refers to areas of study that are not solely based on empirical observations or measurable data. This could include disciplines that are interpretative, subjective, or value-based.
+Often mislabelled "non-positive science." Two distinct categories:
 
-**Examples:** [[Main branches of philosophy|Philosophy]], Theology, History, and Literature.
+### Normative Sciences
 
-- **Philosophy:** It often relies on arguments and interpretations rather than empirical evidence. An example is the question of why we exist.
-- **Theology:** It’s largely interpretative and often based on faith rather than measurable data.
-- **Literature:** The interpretation of literary texts can vary greatly among different individuals, making it a non-positive science.
+Concerned with values and *ought* statements.
+
+- **Ethics:** What actions are morally right?
+- **Aesthetics:** What constitutes beauty?
+
+### Hermeneutic Disciplines
+
+Concerned with meaning and interpretation ([[Hermeneutics]]).
+
+- **[[Main branches of philosophy|Philosophy]]:** Argumentation and conceptual analysis
+- **Theology:** Interprets texts and traditions, grounded in faith
+- **Literature:** Meaning varies by reader—interpretation over measurement
+
+### Note on History
+
+History is *empirical* (uses documents, artefacts) but *interpretive* in contextualisation. Straddles both categories.
+
+---
+
+## The Demarcation Problem
+
+What distinguishes science from non-science? No consensus:
+
+| Criterion | Proponent | Limitation |
+|-----------|-----------|------------|
+| Verifiability | Vienna Circle | Excludes universal laws |
+| [[Falsifiability]] | Popper | Some sciences aren't easily falsifiable |
+| Paradigms | Kuhn | Relativises truth to consensus |
+
+See [[Philosophy of science]].
