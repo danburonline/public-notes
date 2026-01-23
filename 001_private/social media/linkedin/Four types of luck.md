@@ -1,3 +1,7 @@
+#fundamental/creativity
+
+A framework for understanding how fortune favours different approaches, originally articulated by Dr James Austin in *Chase, Chance, and Creativity* (1978) and popularised by Naval Ravikant.
+
 1. **Lucky by Fate (Blind Luck):** This type of luck is entirely random and beyond personal control. It refers to circumstances that happen purely by chance or fate, regardless of one’s effort or actions.
 
 2. **Luck from Hustling (Motion):** This type of luck comes from persistent action and motion. The more one actively pursues their curiosity, conducts experiments, and explores, the higher the chance they have of encountering fortuitous opportunities. Even though the outcome is uncertain, the action and energy stir up the potential for positive collisions and combinations of ideas.
