@@ -94,13 +94,21 @@ Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
 ### COMMANDS
 
 ```bash
-# Not applicable - knowledge base, not code project
+# Tooling: opencode + Oh My OpenCode (omo) in Obsidian's integrated terminal
+# No build/test commands - knowledge base, not code project
 ```
+
+### SKILLS
+
+Available opencode skills for this workspace:
+
+| Skill | Use Case |
+|-------|----------|
+| `obsidian-markdown` | Wikilinks, embeds, callouts, frontmatter, tags — enforces vault conventions |
+| `git-master` | Commits, history search, blame |
 
 ### NOTES
 
 - `.obsidian/` contains Obsidian app config (gitignored)
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
-- Heaviest concentration: `003_education/kings college/` (psychology/neuroscience modules)
-- Dominant tag: `#core/appliedneuroscience`
