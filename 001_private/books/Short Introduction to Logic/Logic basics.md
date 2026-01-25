@@ -1,5 +1,7 @@
 #fundamental/logic
 
+**Logic** is the study of valid [[Inference|inference]] — deriving conclusions from premises.
+
 ## What is an Inference?
 
 Inference in logic refers to the **process of deriving logical conclusions from premises known or assumed to be true.** The act of inference produces new knowledge from the knowledge we already have. For example, if we know that “All men are mortal” (premise) and “Socrates is a man” (premise), we can infer that “Socrates is mortal” (conclusion).
