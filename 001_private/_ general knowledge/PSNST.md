@@ -1,10 +1,10 @@
-#core/artificialintelligence
+#lead/consciousnessengineering #core/appliedneuroscience #core/artificialintelligence
 
 ![[psnst.png]]
 
-The **Progressive Synthetic Neural Substrate Transfer** (PSNST) is a hypothetical cognitive preservation procedure envisioned by [Daniel Burger](https://danielburger.online/) to seamlessly transfer encoded neural information from a biological to an optimised synthetic biological substrate (or ultimately a fully *de novo synthetic substrate*), ensuring the preservation of cognitive functions and personal identity. This is achieved by leveraging the effect of neuroplasticity and the automatic rearrangement of encoded information when brain tissue is destroyed slowly (cortical reorganisation; such as in normally occurring effects like a low-grade brain tumours). This idea aims to solve the issues arising from classical mind-uploading by avoiding the destruction of a person’s cognitive continuity (i.e. the [teletransport paradox](https://en.wikipedia.org/wiki/Teletransportation_paradox)), and also avoiding other philosophical problems related to mind-uploading and generally with whole-brain emulation. A potential method for the controlled cell death of neuronal cells could be induced by silencing them via genetics or a laser.
+The **Progressive Synthetic Neural Substrate Transfer** (PSNST) is a hypothetical cognitive preservation procedure envisioned by [Daniel Burger](https://danielburger.online/) to seamlessly transfer encoded neural information from a biological to an optimised synthetic biological substrate (or ultimately a fully *de novo synthetic substrate*), ensuring the preservation of cognitive functions and personal identity. This is achieved by leveraging the effect of neuroplasticity and the automatic rearrangement of encoded information when brain tissue is destroyed slowly (cortical reorganisation; such as in normally occurring effects like a low-grade brain tumours). This idea aims to solve the issues arising from classical mind-uploading by avoiding the destruction of a person’s cognitive continuity (i.e. the [teletransport paradox](https://en.wikipedia.org/wiki/Teletransportation_paradox)), and also avoiding other philosophical problems related to mind-uploading and generally with whole-brain emulation—challenges explored in [[Philosophical zombies]] and [[Existential altruism]]. The approach aligns with [[Fading qualia|Chalmers' organisational invariance argument]]: gradual replacement preserves functional organisation, and therefore [[Qualia|qualia]]. A potential method for the controlled cell death of neuronal cells could be induced by silencing them via genetics or a laser.
 
-In contrast to other work, such as that from the [Hébert Lab](https://hebertlab.einsteinmedneuroscience.org/), the idea behind PSNST is that the new neural substrate is designed for high-throughput brain-computer interfacing (e.g., by genetically modifying the synthetic neural substrate to enable optogenetic interfacing, [[bioprinting]] it around electrodes/nanoparticles (neural dust), etc.). The goal is not to keep the person inside the original skull but rather to enable the explanted brain to be collocated across physical distances for redundancy (akin to globally distributed software on cloud computing) and to facilitate sensory input from simulated environments or robots, rather than a biological physical body. The main vision is to not only defeat death, but make it really hard to die.
+In contrast to other work, such as that from the [Hébert Lab](https://hebertlab.einsteinmedneuroscience.org/), the idea behind PSNST is that the new neural substrate is designed for high-throughput brain-computer interfacing (e.g., by genetically modifying the synthetic neural substrate to enable optogenetic interfacing, [[bioprinting]] it around electrodes/nanoparticles (neural dust), etc.). The goal is not to keep the person inside the original skull—creating an [[Ex cranio brains|ex cranio]] or [[Island of awareness|island of awareness]] scenario—but rather to enable the explanted brain to be collocated across physical distances for redundancy (akin to globally distributed software on cloud computing) and to facilitate sensory input from simulated environments or robots, rather than a biological physical body. The main vision is to not only defeat death, but make it really hard to die.
 
 > [!info]
 > I've renamed this procedure to Ectopic Cognitive Preservation and wrote about it e.g. here: [Substack article](https://danburonline.substack.com/i/163467017/approach-ectopic-cognitive-preservation)
@@ -33,4 +33,20 @@ In contrast to other work, such as that from the [Hébert Lab](https://hebertlab
     - Utilise the electrode technology to facilitate immersive simulated reality experiences.
     - Monitor and assess the individual’s interaction within simulated environments, ensuring a seamless transition from biological to synthetic cognitive functioning.
 
-This PSNST procedure offers a potential solution for cognitive preservation and the exploration of simulated realities, thereby achieving what classical [[Mind-uploading approaches]] attempt to accomplish.
+This PSNST procedure offers a potential solution for cognitive preservation and the exploration of simulated realities, thereby achieving what classical [[Mind-uploading approaches]] attempt to accomplish. The mathematical formalisation of this transfer can be expressed through [[Invariant brain emulation]]—preserving observables under diffeomorphic transformation between substrates.
+
+## Consciousness Monitoring
+
+A critical challenge is verifying that [[Access and phenomenal consciousness|phenomenal consciousness]] persists throughout the transfer. Potential approaches:
+
+- [[Quantitative consciousness index]] and [[Neural correlate of consciousness|PCI]] for real-time monitoring
+- [[Integrated information theory|IIT's Φ]] as a substrate-independent consciousness metric
+- [[Naturalisation of phenomenology|Naturalised phenomenology]] methods for first-person verification
+
+## Related Concepts
+
+- [[Moravec transfer]] — Hans Moravec's nanobot-based gradual replacement
+- [[Multiple realisability]] — philosophical foundation for substrate independence
+- [[Chimeroids]] — multi-donor synthetic neural tissue relevant to substrate engineering
+- [[Hemispherotomy]] — empirical evidence that consciousness survives partial brain removal
+- [[Thousand brains theory]] — cortical column architecture informing surgical targeting
