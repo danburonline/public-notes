@@ -10,3 +10,4 @@ piecesdb.json
 
 # Ignore Smart Environment folder
 .smart-env
+.sisyphus
