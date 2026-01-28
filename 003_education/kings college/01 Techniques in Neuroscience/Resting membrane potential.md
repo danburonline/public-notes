@@ -18,3 +18,13 @@ This active transport protein maintains ionic gradients by pumping **3 Na+ out**
 ## Leak Channels
 
 [[Leak channels]] allow passive ion flow down concentration gradients. At rest, the membrane is ~40× more permeable to K+ than Na+ via [[Ion channels]], so K+ efflux dominates, making the interior negative. Changes from resting state lead to [[Hyperpolarisation and depolarisation]].
+
+## Electrical Signaling Pathway
+
+The resting membrane potential is the foundation of neural electrical signaling:
+
+1. **[[Ion channels]]** → Selective permeability establishes ionic gradients
+2. **Resting potential** (-70mV) → Baseline state maintained by Na+/K+-ATPase and leak channels
+3. **[[Graded potential]]** → Local, proportional changes from synaptic inputs ([[IPSPs and EPSPs]])
+4. **Action potential** → All-or-none signal when threshold reached (see [[Types of biological electrical activity]])
+5. **[[Field potential]]** → Summed activity of neuronal populations detectable extracellularly

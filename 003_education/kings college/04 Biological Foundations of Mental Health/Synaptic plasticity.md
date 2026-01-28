@@ -16,8 +16,13 @@
 
 NMDA receptors act as **coincidence detectors**—requiring both presynaptic glutamate release and postsynaptic depolarisation to open. This implements the [[Hebbian synaptic plasticity|Hebbian principle]]. Changes in synaptic strength involve AMPA receptor insertion (LTP) or removal (LTD) from the postsynaptic membrane.
 
-## Related Concepts
+## Plasticity Mechanisms Overview
 
+Synaptic plasticity is the hub concept connecting biological learning mechanisms to computational models and clinical applications:
+
+- [[Hebbian synaptic plasticity]]: The foundational principle—"cells that fire together, wire together"
 - [[Local learning rules]]: Computational abstractions of biological plasticity (STDP, BCM, Oja's rule)
 - [[Synaptic gain]]: Modulation of overall synaptic efficacy
 - [[Hebbian assemblies]]: Functional neural groups formed through repeated co-activation
+
+These mechanisms underlie memory formation, skill acquisition, and neural development.

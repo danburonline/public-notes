@@ -18,3 +18,12 @@ Libet proposed that while the initiation of an action appears to be governed by 
 ### Implications for Free Will
 
 The concept of conscious veto has significant implications for our understanding of free will and moral responsibility. It indicates a role for conscious decision-making in controlling our actions, even if it does not initiate them. This suggests that while our actions might be prepared by unconscious processes, our conscious self has the final say in whether or not those actions are carried out.
+
+## Consciousness and Volition
+
+This topic connects to broader questions in consciousness studies:
+
+- [[Readiness potential]]: The neural signature preceding voluntary movement (Bereitschaftspotential)
+- [[Mind blanking]]: States where conscious content is temporarily absent
+- [[Phenomenology]]: The philosophical study of subjective experience and its structure
+- [[PSNST]]: Progressive Synthetic Neural Substrate Transfer—exploring what aspects of consciousness must be preserved during substrate change

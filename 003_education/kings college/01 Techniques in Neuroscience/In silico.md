@@ -22,3 +22,15 @@ Computational models vary in biological detail:
 - [[Point neuron]]: Abstract, represents firing rate without spatial extent
 
 [[NeuroML]] provides a standardised XML format for exchanging neural models across simulation platforms.
+
+## Computational Neural Models Cluster
+
+In silico approaches span multiple levels of abstraction, from biophysically detailed to abstract:
+
+| Model | Biological Detail | Computational Cost | Use Case |
+|-------|------------------|-------------------|----------|
+| [[Hodgkin-Huxley model]] | High (ion channel kinetics) | High | Understanding biophysics |
+| [[Leaky integrate-and-fire neurons]] | Medium (spike timing) | Medium | Network simulations |
+| [[Point neuron]] | Low (firing rate) | Low | Large-scale models |
+
+[[NeuroML]] enables interoperability between these approaches.
