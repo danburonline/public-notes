@@ -26,7 +26,7 @@ Three-tier tagging system reflecting knowledge depth and focus:
 
 - #core/??? (undefined)
 - #core/??? (undefined)
-- #core/computationalphenomenology
+- #core/computationalneurophenomenology
 - #core/mathematicalphysics
 - #core/theoreticalneurosurgery
 - #core/appliedneuroscience
