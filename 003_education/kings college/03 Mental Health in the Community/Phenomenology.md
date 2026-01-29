@@ -1,4 +1,4 @@
-#core/appliedneuroscience #core/computationalphenomenology
+#core/appliedneuroscience #core/computationalneurophenomenology
 
 ![[phenomology.png]]
 
