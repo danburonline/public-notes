@@ -109,6 +109,12 @@ Available opencode skills for this workspace:
 | `obsidian-markdown` | Wikilinks, embeds, callouts, frontmatter, tags — enforces vault conventions |
 | `git-master` | Commits, history search, blame |
 
+### AGENT WORKFLOW
+
+When working with notes:
+
+- **Embedded images**: If a note contains `![[image.png]]` embeds, locate the image in `000_inbox/attachments/` and visually examine it using `look_at` to better understand the note's content before refining or expanding
+
 ### NOTES
 
 - `.obsidian/` contains Obsidian app config (gitignored)
