@@ -17,3 +17,7 @@ Yamanaka factors are a set of **four transcription factors that have the ability
 > - 2008–2011: Safer, non-integrating delivery emerges (Sendai virus, episomes, mRNA/protein, small molecules), reducing insertional mutagenesis and tumour risk; robust differentiation and disease modelling expand.
 > - 2012: Nobel Prize in Physiology or Medicine awarded to John B. Gurdon and Shinya Yamanaka for cellular reprogramming.
 > - Since: Clinical-grade iPSC banks, autologous cell therapy pilots, and work on partial reprogramming and epigenetic rejuvenation continue to refine the field.
+
+## Applications
+
+iPSCs derived via Yamanaka reprogramming serve as the starting material for generating [[Organoid types|organoids]], enabling patient-specific disease modelling and drug screening.
