@@ -25,8 +25,8 @@ Three-tier tagging system reflecting knowledge depth and focus:
 #### Core: Main Competencies
 
 - #core/??? (undefined)
-- #core/??? (undefined)
-- #core/computationalneurophenomenology
+- #core/biomimeticneuromorphics 
+- #core/computationalphenomenology
 - #core/mathematicalphysics
 - #core/theoreticalneurosurgery
 - #core/appliedneuroscience
