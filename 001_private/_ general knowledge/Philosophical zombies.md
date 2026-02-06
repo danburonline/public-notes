@@ -1,4 +1,4 @@
-#core/appliedneuroscience #core/artificialintelligence #core/computationalneurophenomenology
+#core/appliedneuroscience #core/artificialintelligence #core/computationalphenomenology
 
 ![[p-zombie.png]]
 

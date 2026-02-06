@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/mathematicalphysics #core/computationalneurophenomenology
+#core/artificialintelligence #core/mathematicalphysics #core/computationalphenomenology
 
 ![[physical-reservoir-computing.png]]
 
