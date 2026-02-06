@@ -16,15 +16,15 @@ Personal Obsidian-based Zettelkasten-style knowledge base covering all my skill 
 
 Three-tier tagging system reflecting knowledge depth and focus:
 
-#### Lead: Unique Positioning / Frontier Work
+#### Lead
 
 - #lead/consciousnessengineering
 - #lead/??? (undefined)
 - #lead/??? (undefined)
 
-#### Core: Main Competencies
+#### Core
 
-- #core/??? (undefined)
+- #core/quantumcosmology (draft)
 - #core/computationalphenomenology
 - #core/biomimeticneuromorphics 
 - #core/mathematicalphysics
@@ -34,7 +34,7 @@ Three-tier tagging system reflecting knowledge depth and focus:
 - #core/softwaredevelopment
 - #core/interactiondesign
 
-#### Fundamental: Foundational Skills
+#### Fundamental
 
 - #fundamental/logic
 - #fundamental/communication
