@@ -8,7 +8,7 @@
 
 Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for consciousness engineering—connecting computational neurophenomenology, mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
+**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for consciousness engineering—connecting quantum cosmology, computational phenomenology, biomimetic neuromorphics, mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
 
 ### STRUCTURE
 
@@ -56,7 +56,7 @@ Three-tier hierarchy at **line 1** of every note:
 | Tier | Purpose | Examples |
 |------|---------|----------|
 | `#lead/` | Unique positioning / frontier work | `consciousnessengineering` |
-| `#core/` | Main competencies | `computationalneurophenomenology`, `mathematicalphysics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
+| `#core/` | Main competencies | `quantumcosmology` (draft), `computationalphenomenology`, `biomimeticneuromorphics`, `mathematicalphysics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
 | `#fundamental/` | Foundational skills | `logic`, `communication`, `creativity` |
 
 Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
