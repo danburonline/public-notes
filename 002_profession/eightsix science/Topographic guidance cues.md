@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#core/biomimeticneuromorphics #core/appliedneuroscience
 
 ![[guiding-cues.jpg]]
 

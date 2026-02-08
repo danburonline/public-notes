@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/biomimeticneuromorphics #core/appliedneuroscience 
 
 Optoresponsive materials are **substances that respond to light stimuli by changing their physical or chemical properties.** These materials are designed to react to specific wavelengths or intensities of light, often leading to applications in fields such as biomedicine, energy, and sensing technologies.
 
