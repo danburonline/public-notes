@@ -117,6 +117,7 @@ When working with notes:
 
 ### NOTES
 
+- `.agents/` contains agent skills (e.g., `obsidian-markdown`)
 - `.obsidian/` contains Obsidian app config (gitignored)
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
