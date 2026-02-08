@@ -24,7 +24,7 @@ Three-tier tagging system reflecting knowledge depth and focus:
 
 #### Core
 
-- #core/quantumcosmology (draft)
+- #core/ ??? (draft: cosmological ruliology/quantum cosmology)
 - #core/computationalphenomenology
 - #core/biomimeticneuromorphics 
 - #core/mathematicalphysics
