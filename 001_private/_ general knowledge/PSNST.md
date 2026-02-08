@@ -1,4 +1,4 @@
-#lead/consciousnessengineering #core/appliedneuroscience #core/artificialintelligence
+#lead/consciousnessengineering #core/biomimeticneuromorphics #core/appliedneuroscience #core/artificialintelligence
 
 ![[psnst.png]]
 

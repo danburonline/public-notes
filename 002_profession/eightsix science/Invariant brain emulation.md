@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#core/biomimeticneuromorphics #core/appliedneuroscience
 
 Invariant brain emulation refers to the **physical realisation of a mapping $f: B \rightarrow S$**, where $B \subset \mathbb{R}^n$ denotes the state space of a reference brain's dynamical system and $S \subset \mathbb{R}^m$ is the state space of an alternative physical substrate. For all observables $O$ (such as identity, cognitive function, or behaviour), the equivalence relation $O(f(b)) \equiv O(b)$ holds for every $b \in B$.
 
