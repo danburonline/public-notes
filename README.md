@@ -1,6 +1,6 @@
 ## Public Notes
 
-Personal Obsidian-based Zettelkasten-style knowledge base covering all my skill categories in life.
+Personal Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-style knowledge base covering all my skill categories in life.
 
 ### Structure
 

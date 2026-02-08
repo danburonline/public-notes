@@ -8,7 +8,7 @@
 
 Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for consciousness engineering—connecting quantum cosmology, computational phenomenology, biomimetic neuromorphics, mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
+**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for [[consciousness engineering]]—connecting quantum cosmology, computational [[phenomenology]], [[biomimetic neuromorphics]], mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
 
 ### STRUCTURE
 
@@ -69,7 +69,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
 
 #### Naming
 
-- **Notes**: Title case with spaces (e.g., `Bayes' theorem.md`)
+- **Notes**: Title case with spaces (e.g., `[Bayes' theorem].md`)
 - **Folders**: Descriptive, spaces allowed
 - **"_ general knowledge"**: Prefix underscore for miscellaneous concepts within a category
 
