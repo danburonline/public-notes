@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#core/theoreticalneurosurgery #core/appliedneuroscience
 
 ![[stereotactic-neurosurgery.jpg]]
 
