@@ -19,12 +19,12 @@ Three-tier tagging system reflecting knowledge depth and focus:
 #### Lead
 
 - #lead/consciousnessengineering
-- #lead/??? (undefined)
+- #lead/??? (draft: anthropic cosmology)
 - #lead/??? (undefined)
 
 #### Core
 
-- #core/ ??? (draft: cosmological ruliology/quantum cosmology)
+- #core/ ??? (draft: rulial connectionism)
 - #core/computationalphenomenology
 - #core/biomimeticneuromorphics 
 - #core/mathematicalphysics
