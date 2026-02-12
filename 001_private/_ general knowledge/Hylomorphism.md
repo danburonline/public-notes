@@ -17,10 +17,19 @@ Hylomorphism is a **philosophical theory** developed by [Aristotle](https://en.w
 - **Body and Soul:**  
   - Aristotle: The soul is the "form" of a living body, making it alive.
 
+## Relevance to Philosophy of Mind
+
+Hylomorphism prefigures modern functionalism: Aristotle's claim that the soul is the *form* of the body—not a separate substance—maps onto the idea that mental states are defined by functional organisation rather than material composition. This is the historical root of [[Multiple realisability]]: if what matters is the form (organisation), then different matter (substrates) can in principle instantiate the same mental properties.
+
+The framework also illuminates the formal requirements of [[Invariant brain emulation]], where the goal is to preserve a system's functional "form" ($O(f(b)) \equiv O(b)$) while transforming its material substrate—a literal change of *hyle* with conservation of *morphe*.
+
+A tension arises with [[Emergent properties]]: if form is irreducible to matter, are emergent properties a modern articulation of hylomorphic form? Or does emergence require abandoning the clean matter/form duality in favour of something more layered?
+
 ## Why is Hylomorphism Important?
 
 - Explains how physical objects can change yet remain the same thing.
 - Influential in philosophy, especially in metaphysics, philosophy of mind, and theology.
+- Provides the conceptual ancestor of substrate independence arguments in contemporary philosophy of mind.
 
 > [!summary] Hylomorphic schema
 > - Substance = matter (potency) + form (act).
