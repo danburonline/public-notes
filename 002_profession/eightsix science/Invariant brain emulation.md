@@ -45,5 +45,9 @@ At what level must functional equivalence hold?
 
 The formulation demands **actual physical implementation**, not just simulation. A brain "running" on a classical computer may not satisfy the invariance criterion if timing or causal structure differs.
 
+## Engineering Realisation
+
+[[Biomimetic neuromorphics]] is the engineering discipline tasked with satisfying the invariance criterion in practice. For [[PSNST|ECP]]'s progressive transfer, the synthetic substrate must implement — not merely simulate — equivalent dynamics, such that the temporal derivatives $\frac{\partial O}{\partial t}$ are preserved across the biological-to-synthetic boundary. This distinguishes ECP from digitisation approaches like the [[Moravec transfer]], where invariance is achieved (if at all) through external simulation rather than substrate-level equivalence.
+
 > [!warning] Open Question
 > Whether invariant brain emulation preserves consciousness remains philosophically contested. Functionalists argue yes; biological naturalists argue the substrate itself matters.
