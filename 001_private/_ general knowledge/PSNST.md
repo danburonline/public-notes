@@ -43,9 +43,17 @@ A critical challenge is verifying that [[Access and phenomenal consciousness|phe
 - [[Integrated information theory|IIT's Φ]] as a substrate-independent consciousness metric
 - [[Naturalisation of phenomenology|Naturalised phenomenology]] methods for first-person verification
 
+## Enabling Substrate
+
+ECP presupposes a synthetic substrate capable of supporting neuroplastic information migration — the receiving tissue must "speak the same language" as biological cortex. This is the domain of [[Biomimetic neuromorphics|biomimetic neuromorphics]]: engineering substrates that replicate the computational architecture, temporal dynamics, and material properties of biological neural tissue at the level required for seamless integration during progressive transfer. The [[Invariant brain emulation|invariance criterion]] ($O(f(b)) \equiv O(b)$) provides the mathematical contract this substrate must satisfy.
+
+This substrate requirement is what fundamentally distinguishes ECP from digitisation approaches like the [[Moravec transfer]], which outsource computation to an external simulation computer and therefore do not require biomimetically equivalent replacement tissue.
+
 ## Related Concepts
 
-- [[Moravec transfer]] — Hans Moravec's nanobot-based gradual replacement
+- [[Moravec transfer]] — Hans Moravec's nanobot-based gradual replacement (digitisation, not substrate migration)
+- [[Biomimetic neuromorphics]] — the engineering discipline producing ECP-compatible substrates
+- [[Invariant brain emulation]] — mathematical framework guaranteeing substrate equivalence
 - [[Multiple realisability]] — philosophical foundation for substrate independence
 - [[Chimeroids]] — multi-donor synthetic neural tissue relevant to substrate engineering
 - [[Hemispherotomy]] — empirical evidence that consciousness survives partial brain removal

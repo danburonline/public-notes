@@ -76,6 +76,10 @@ Human cortex: ~16 billion neurons, ~150 trillion synapses. Current organoid tech
 
 No physical substrate guarantees phenomenal experience. Biomimetic neuromorphics must interface with [[Quantitative consciousness index|consciousness monitoring]] frameworks to validate that the synthetic tissue supports awareness.
 
+## Why Biomimetic Neuromorphics Is Necessary
+
+Not all gradual brain replacement approaches require biomimetic substrates. The [[Moravec transfer]], for instance, replaces neurons with nanobots that relay I/O to an external simulation computer — computation moves *out of* tissue into silicon, so the replacement hardware need not replicate neural dynamics. Biomimetic neuromorphics becomes essential specifically because [[PSNST|ECP]] keeps computation *in tissue*: the synthetic substrate must support neuroplastic reorganisation and intrinsic causal processing, not merely relay signals. This is the engineering consequence of demanding [[Invariant brain emulation|invariance]] ($O(f(b)) \equiv O(b)$) at the substrate level rather than at a simulation level.
+
 ## Relationship to [[Biomimetics]]
 
 While [[Biomimetics]] in tissue engineering focuses on ECM mimicry and scaffold design for regeneration, biomimetic neuromorphics specifically targets the computational and informational properties of neural tissue—not just structural repair but functional replacement capable of sustaining cognition.
