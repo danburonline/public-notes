@@ -1,6 +1,6 @@
 #core/mathematicalphysics #core/artificialintelligence
 
-![[one-hot-encoding.jpg]]
+![one-hot-encoding](../../../000_inbox/attachments/one-hot-encoding.jpg)
 
 One-hot encoding is a **method used to convert categorical data into a binary, numeric format** that machine learning algorithms can easily process.
 

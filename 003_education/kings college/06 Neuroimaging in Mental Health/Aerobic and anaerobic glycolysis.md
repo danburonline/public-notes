@@ -1,10 +1,10 @@
 #core/appliedneuroscience
 
-![[aerobic-anaerobic-glycolysis.png]]
+![aerobic-anaerobic-glycolysis](../../../000_inbox/attachments/aerobic-anaerobic-glycolysis.png)
 
 ## Introduction
 
-The brain is a highly energy-**demanding organ, relying primarily on glucose metabolism.** It can utilise two pathways for glucose metabolism: aerobic glycolysis and anaerobic glycolysis, each leading to the production of different [[Metabolites]], including lactate.
+The brain is a highly energy-**demanding organ, relying primarily on glucose metabolism.** It can utilise two pathways for glucose metabolism: aerobic glycolysis and anaerobic glycolysis, each leading to the production of different [Metabolites](../../../002_profession/eightsix%20science/Metabolites.md), including lactate.
 
 ## Aerobic Glycolysis
 

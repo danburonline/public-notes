@@ -4,7 +4,7 @@
 
 ## Positive Science
 
-**Empirical science** studies phenomena through observable, measurable evidence, seeking laws and predictions. Rooted in [[Logical positivism]] (Vienna Circle, 1920s), which held that meaningful statements must be empirically verifiable.
+**Empirical science** studies phenomena through observable, measurable evidence, seeking laws and predictions. Rooted in Logical positivism (Vienna Circle, 1920s), which held that meaningful statements must be empirically verifiable.
 
 **Characteristics:**
 - Testable hypotheses
@@ -16,8 +16,8 @@
 
 ### Critiques
 
-- **[[Falsifiability|Popper]]:** Verification insufficient—science must be *falsifiable*
-- **[[Thomas Kuhn|Kuhn]]:** Science proceeds through paradigm shifts, not pure accumulation
+- **Popper:** Verification insufficient—science must be *falsifiable*
+- **Kuhn:** Science proceeds through paradigm shifts, not pure accumulation
 - **Feyerabend:** No single scientific method ("epistemological anarchism")
 
 ---
@@ -35,9 +35,9 @@ Concerned with values and *ought* statements.
 
 ### Hermeneutic Disciplines
 
-Concerned with meaning and interpretation ([[Hermeneutics]]).
+Concerned with meaning and interpretation ([Hermeneutics](../_%20general%20knowledge/Hermeneutics.md)).
 
-- **[[Main branches of philosophy|Philosophy]]:** Argumentation and conceptual analysis
+- **[Philosophy](../books/_%20general%20knowledge/Main%20branches%20of%20philosophy.md):** Argumentation and conceptual analysis
 - **Theology:** Interprets texts and traditions, grounded in faith
 - **Literature:** Meaning varies by reader—interpretation over measurement
 
@@ -54,7 +54,7 @@ What distinguishes science from non-science? No consensus:
 | Criterion | Proponent | Limitation |
 |-----------|-----------|------------|
 | Verifiability | Vienna Circle | Excludes universal laws |
-| [[Falsifiability]] | Popper | Some sciences aren't easily falsifiable |
+| Falsifiability | Popper | Some sciences aren't easily falsifiable |
 | Paradigms | Kuhn | Relativises truth to consensus |
 
-See [[Philosophy of science]].
+See Philosophy of science.

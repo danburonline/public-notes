@@ -1,10 +1,10 @@
 #core/appliedneuroscience
 
-![[types-of-axons.png]]
+![types-of-axons](../../../000_inbox/attachments/types-of-axons.png)
 
 ## 1. Axodendritic Synapses
 
-Axodendritic synapses are the **most common type in the [[central nervous system]] (CNS),** and they involve connections between the axon of one neuron and the dendrite of another. This allows signals to be transmitted from the neuron with the axon to the neuron with the dendrite.
+Axodendritic synapses are the **most common type in the [central nervous system](Central%20nervous%20system.md) (CNS),** and they involve connections between the axon of one neuron and the dendrite of another. This allows signals to be transmitted from the neuron with the axon to the neuron with the dendrite.
 
 ## 2. Axosomatic Synapses
 

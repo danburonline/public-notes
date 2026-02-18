@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[gyrus_sulcus.svg]]
+![gyrus_sulcus](../../000_inbox/attachments/gyrus_sulcus.svg)
 
 Gyri and sulci are the **ridges and grooves, respectively, on the surface of the brain.** These structures increase the surface area of the cerebral cortex, allowing for greater cognitive function and information processing capacity.
 

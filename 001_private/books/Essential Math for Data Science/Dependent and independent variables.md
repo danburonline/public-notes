@@ -1,6 +1,6 @@
 #fundamental/logic
 
-![[variables.jpg]]
+![variables](../../../000_inbox/attachments/variables.jpg)
 
 A dependent variable is a variable that is affected by the independent variable. It is the output of the function.
 

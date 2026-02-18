@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[human-on-a-chip.jpg]]
+![human-on-a-chip](../../../000_inbox/attachments/human-on-a-chip.jpg)
 
 Human-on-a-chip systems are innovative **microfluidic devices that combine several miniature organ models to simulate the interactions and functions of the human body.** By connecting organ-specific cell cultures with channels that mimic blood flow, these platforms allow researchers to study drug effects, disease processes, and toxicity in a way that closely resembles human physiology—offering a promising alternative to traditional animal testing.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[runaway-excitation.png]]
+![runaway-excitation](../../../000_inbox/attachments/runaway-excitation.png)
 
 Runaway excitation is a **pathological condition in neural networks with an excessive and uncontrolled increase in neuronal activity.** This hyperactivity can lead to a variety of neurological consequences and is often associated with seizure disorders. Runaway excitation occurs when the normal regulatory mechanisms of neuronal firing fail. It can result from an imbalance between excitatory and inhibitory signals within the brain. This imbalance may be due to excess excitatory neurotransmitters or a deficiency in inhibitory neurotransmitters.
 
@@ -14,9 +14,9 @@ Runaway excitation is a **pathological condition in neural networks with an exce
 
 - A lack of inhibitory neurotransmitters like GABA can fail to counterbalance excitation.
 
-### Ion [[Ion channels|Channel]] Dysfunction
+### Ion [Channel](../01%20Techniques%20in%20Neuroscience/Ion%20channels.md) Dysfunction
 
-- Abnormal function of [[ion channels]], especially those regulating calcium and sodium ions, can contribute to increased excitatory potential.
+- Abnormal function of [ion channels](../01%20Techniques%20in%20Neuroscience/Ion%20channels.md), especially those regulating calcium and sodium ions, can contribute to increased excitatory potential.
 
 ## Consequences
 

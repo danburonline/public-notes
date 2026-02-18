@@ -11,7 +11,7 @@ Decoupling of scale refers to the **principle that behaviours or properties at d
 
 ### Neuroscience
 
-- **Micro vs macro brain dynamics**: Synaptic-level events (milliseconds, micrometres) can often be treated independently from large-scale network oscillations (seconds, centimetres) — this is what enables [[Coarse graining]] approaches.
+- **Micro vs macro brain dynamics**: Synaptic-level events (milliseconds, micrometres) can often be treated independently from large-scale network oscillations (seconds, centimetres) — this is what enables [Coarse graining](../papers/Coarse%20graining.md) approaches.
 - **Multi-timescale dynamics**: Fast sensory processing operates somewhat independently from slower cognitive and memory processes.
 
 ## When Decoupling Fails

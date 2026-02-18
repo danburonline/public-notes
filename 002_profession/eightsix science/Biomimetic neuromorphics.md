@@ -1,26 +1,26 @@
 #core/biomimeticneuromorphics #core/appliedneuroscience
 
-![[biomimetic-neuromorphics.jpg]]
+![biomimetic-neuromorphics](../../000_inbox/attachments/biomimetic-neuromorphics.jpg)
 
-**Biomimetic neuromorphics** is the engineering discipline concerned with designing and fabricating physical substrates that replicate the computational architecture, dynamics, and material properties of biological neural tissue. Unlike conventional neuromorphic computing (silicon chips inspired by neurons), biomimetic neuromorphics targets functional equivalence at the tissue level—creating substrates suitable for [[Invariant brain emulation|invariant brain emulation]] and [[PSNST|cognitive preservation procedures]].
+**Biomimetic neuromorphics** is the engineering discipline concerned with designing and fabricating physical substrates that replicate the computational architecture, dynamics, and material properties of biological neural tissue. Unlike conventional neuromorphic computing (silicon chips inspired by neurons), biomimetic neuromorphics targets functional equivalence at the tissue level—creating substrates suitable for [invariant brain emulation](Invariant%20brain%20emulation.md) and [cognitive preservation procedures](../../001_private/_%20general%20knowledge/PSNST.md).
 
 ## Synconetics Programme Context
 
 Within the synconetics framework, biomimetic neuromorphics addresses a core engineering challenge: the synthetic neural substrate must not merely process information but do so in a manner that preserves the observables $O(f(b)) \equiv O(b)$ required for identity continuity. This demands:
 
-- **Architectural fidelity**: Replicating [[Thousand brains theory|cortical column]] organisation and laminar structure
-- **Temporal dynamics**: Matching biological timescales for [[synaptic plasticity]] and spike propagation
+- **Architectural fidelity**: Replicating [cortical column](Thousand%20brains%20theory.md) organisation and laminar structure
+- **Temporal dynamics**: Matching biological timescales for [synaptic plasticity](../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Synaptic%20plasticity.md) and spike propagation
 - **Interface compatibility**: Enabling seamless integration with residual biological tissue during progressive transfer
 - **Substrate plasticity**: Supporting the neuroplastic reorganisation that underlies information migration
 
 ## Core Principles
 
-### Structural [[Biomimicry]]
+### Structural [Biomimicry](../blue%20brain%20project/Biomimicry.md)
 
 Faithful reproduction of neural cytoarchitecture:
 
 - Layered cortical organisation (L1–L6)
-- Columnar modularity (~150,000 columns in human [[neocortex]])
+- Columnar modularity (~150,000 columns in human [neocortex](../../003_education/_%20general%20knowledge/Neocortex.md))
 - White matter tract topology
 - Vascular and glial support structures
 
@@ -45,11 +45,11 @@ For progressive transfer scenarios, the synthetic substrate requires:
 
 | Technology | Role in Biomimetic Neuromorphics |
 |------------|----------------------------------|
-| [[4D bioprinting]] | Fabricating organised neural tissue with temporal maturation |
-| [[Organoid types\|Cortical organoids]] | Self-organising neural structures as substrate building blocks |
-| [[Optoresponsive materials]] | Enabling optogenetic read/write interfaces |
-| [[Topographic guidance cues]] | Directing axonal pathfinding for connectivity |
-| [[Sonogenetics]] | Non-invasive deep-tissue neural modulation |
+| [4D bioprinting](4D%20bioprinting.md) | Fabricating organised neural tissue with temporal maturation |
+| Cortical organoids | Self-organising neural structures as substrate building blocks |
+| [Optoresponsive materials](Optoresponsive%20materials.md) | Enabling optogenetic read/write interfaces |
+| [Topographic guidance cues](Topographic%20guidance%20cues.md) | Directing axonal pathfinding for connectivity |
+| [Sonogenetics](Sonogenetics.md) | Non-invasive deep-tissue neural modulation |
 
 ## Challenges
 
@@ -62,32 +62,32 @@ At what level must biomimetic fidelity be maintained?
 - **Circuit**: Connectivity motifs, E/I balance
 - **Systems**: Functional modules, long-range integration
 
-The [[Invariant brain emulation|invariance criterion]] suggests circuit-level fidelity may suffice if observables are preserved, but this remains empirically untested.
+The [invariance criterion](Invariant%20brain%20emulation.md) suggests circuit-level fidelity may suffice if observables are preserved, but this remains empirically untested.
 
 ### Scaling
 
 Human cortex: ~16 billion neurons, ~150 trillion synapses. Current organoid technology produces ~10⁶ neurons. Bridging this gap requires:
 
 - Modular assembly of organoid units
-- Vascularisation for metabolic support (see [[Cortex vascularisation]])
-- Quality control for [[Genetic instability in iPSCs|genetic stability]]
+- Vascularisation for metabolic support (see [Cortex vascularisation](Cortex%20vascularisation.md))
+- Quality control for [genetic stability](Genetic%20instability%20in%20iPSCs.md)
 
 ### Consciousness Verification
 
-No physical substrate guarantees phenomenal experience. Biomimetic neuromorphics must interface with [[Quantitative consciousness index|consciousness monitoring]] frameworks to validate that the synthetic tissue supports awareness.
+No physical substrate guarantees phenomenal experience. Biomimetic neuromorphics must interface with [consciousness monitoring](../../001_private/papers/Quantitative%20consciousness%20index.md) frameworks to validate that the synthetic tissue supports awareness.
 
 ## Why Biomimetic Neuromorphics Is Necessary
 
-Not all gradual brain replacement approaches require biomimetic substrates. The [[Moravec transfer]], for instance, replaces neurons with nanobots that relay I/O to an external simulation computer — computation moves *out of* tissue into silicon, so the replacement hardware need not replicate neural dynamics. Biomimetic neuromorphics becomes essential specifically because [[PSNST|ECP]] keeps computation *in tissue*: the synthetic substrate must support neuroplastic reorganisation and intrinsic causal processing, not merely relay signals. This is the engineering consequence of demanding [[Invariant brain emulation|invariance]] ($O(f(b)) \equiv O(b)$) at the substrate level rather than at a simulation level.
+Not all gradual brain replacement approaches require biomimetic substrates. The [Moravec transfer](../../001_private/social%20media/x/Moravec%20transfer.md), for instance, replaces neurons with nanobots that relay I/O to an external simulation computer — computation moves *out of* tissue into silicon, so the replacement hardware need not replicate neural dynamics. Biomimetic neuromorphics becomes essential specifically because [ECP](../../001_private/_%20general%20knowledge/PSNST.md) keeps computation *in tissue*: the synthetic substrate must support neuroplastic reorganisation and intrinsic causal processing, not merely relay signals. This is the engineering consequence of demanding [invariance](Invariant%20brain%20emulation.md) ($O(f(b)) \equiv O(b)$) at the substrate level rather than at a simulation level.
 
-## Relationship to [[Biomimetics]]
+## Relationship to [Biomimetics](Biomimetics.md)
 
-While [[Biomimetics]] in tissue engineering focuses on ECM mimicry and scaffold design for regeneration, biomimetic neuromorphics specifically targets the computational and informational properties of neural tissue—not just structural repair but functional replacement capable of sustaining cognition.
+While [Biomimetics](Biomimetics.md) in tissue engineering focuses on ECM mimicry and scaffold design for regeneration, biomimetic neuromorphics specifically targets the computational and informational properties of neural tissue—not just structural repair but functional replacement capable of sustaining cognition.
 
 ## Related Concepts
 
-- [[PSNST]] — The cognitive preservation procedure requiring biomimetic substrates
-- [[Invariant brain emulation]] — Mathematical framework for substrate equivalence
-- [[Chimeroids]] — Multi-donor synthetic neural tissue
-- [[Neural correlate of consciousness]] — What the substrate must ultimately support
-- [[Multiple realisability]] — Philosophical foundation for substrate independence
+- [PSNST](../../001_private/_%20general%20knowledge/PSNST.md) — The cognitive preservation procedure requiring biomimetic substrates
+- [Invariant brain emulation](Invariant%20brain%20emulation.md) — Mathematical framework for substrate equivalence
+- [Chimeroids](../../001_private/courses/_%20general%20knowledge/Chimeroids.md) — Multi-donor synthetic neural tissue
+- [Neural correlate of consciousness](../../001_private/books/The%20Feeling%20of%20Life%20Itself/Neural%20correlate%20of%20consciousness.md) — What the substrate must ultimately support
+- [Multiple realisability](../../001_private/books/How%20To%20Build%20a%20Brain/Multiple%20realisability.md) — Philosophical foundation for substrate independence

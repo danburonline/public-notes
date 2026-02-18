@@ -1,10 +1,10 @@
 #core/appliedneuroscience
 
-![[exocytosis.png]]
+![exocytosis](../../../000_inbox/attachments/exocytosis.png)
 
 Exocytosis is a central process in neurons that allows communication between cells in the brain and the rest of the body. It is the **mechanism by which neurons release neurotransmitters to send signals to other neurons.**
 
-## The [[Types of synapses|Synapse]]
+## The [Synapse](Types%20of%20synapses.md)
 
 A synapse is a junction between two neurons. It consists of:
 
@@ -14,12 +14,12 @@ A synapse is a junction between two neurons. It consists of:
 
 Neurotransmitters released from the presynaptic neuron traverse the synaptic cleft to bind to receptors on the postsynaptic neuron, initiating a new signal in the latter.
 
-## Steps in [[Pre- and post-synaptic|Synaptic]] Exocytosis
+## Steps in [Synaptic](Pre-%20and%20post-synaptic.md) Exocytosis
 
 1. **Vesicle Trafficking:** The neurotransmitter-filled vesicles are moved towards the presynaptic membrane.
 2. **Vesicle Docking:** The vesicles are anchored to the presynaptic membrane by proteins such as SNAREs (Soluble NSF Attachment Protein Receptor).
-3. **Vesicle [[Priming]]:** The vesicles are made ready for fusion. This involves the SNARE complex, which includes proteins like syntaxin and SNAP-25 on the plasma membrane, and synaptobrevin on the vesicle membrane.
-4. **Action [[Graded potential|Potential]] Arrival:** The arrival of an action potential at the presynaptic terminal triggers the opening of voltage-gated calcium channels.
+3. **Vesicle [Priming](../../../001_private/books/Short%20Introduction%20to%20Memory/Priming.md):** The vesicles are made ready for fusion. This involves the SNARE complex, which includes proteins like syntaxin and SNAP-25 on the plasma membrane, and synaptobrevin on the vesicle membrane.
+4. **Action [Potential](Graded%20potential.md) Arrival:** The arrival of an action potential at the presynaptic terminal triggers the opening of voltage-gated calcium channels.
 5. **Calcium Influx:** Calcium ions flow into the neuron. Their increase in the cell’s cytoplasm triggers vesicle fusion.
 6. **Vesicle Fusion:** The vesicle and plasma membranes merge, forming a fusion pore through which neurotransmitters can be released.
 7. **Neurotransmitter Release:** The neurotransmitters are released into the synaptic cleft, from where they can bind to receptors on the postsynaptic neuron.

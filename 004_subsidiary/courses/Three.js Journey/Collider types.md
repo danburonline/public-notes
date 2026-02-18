@@ -1,6 +1,6 @@
 #core/softwaredevelopment
 
-![[colliders.jpeg]]
+![colliders](../../../000_inbox/attachments/colliders.jpeg)
 
 - **CuboidCollider:** Creates a cuboid (box) shape based on provided width, height, and depth arguments. Useful for basic box collisions.
 

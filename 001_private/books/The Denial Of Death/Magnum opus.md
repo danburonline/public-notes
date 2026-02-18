@@ -1,6 +1,6 @@
 #fundamental/logic 
 
-![[guernica_picasso.jpg]]
+![guernica_picasso](../../../000_inbox/attachments/guernica_picasso.jpg)
 
 Magnum opus, a Latin phrase translating to "great work," primarily **denotes the most significant, ambitious, or masterful creation** of an artist, writer, composer, or other creator, often regarded as their crowning achievement and legacy.
 

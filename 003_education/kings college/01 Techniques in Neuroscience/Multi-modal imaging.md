@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[multi-modal-neuroimaging.png]]
+![multi-modal-neuroimaging](../../../000_inbox/attachments/multi-modal-neuroimaging.png)
 
 Multimodal imaging in e.g. fMRI uses multiple techniques, like fMRI and sMRI, to study both brain function and structure for a more complete understanding.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/computationalphenomenology
 
-![[perturbational-complexity-index.png]]
+![perturbational-complexity-index](../../../000_inbox/attachments/perturbational-complexity-index.png)
 
 The **neural correlate of consciousness** (NCC) refers to the minimal neuronal mechanisms jointly sufficient for any one specific conscious experience. The concept was formalised by Christof Koch and Francis Crick in the 1990s as a tractable empirical target for consciousness research.
 
@@ -18,22 +18,22 @@ This taxonomy matters because different brain regions may serve different roles:
 
 | Region | Theory Supporting | Key Evidence |
 |--------|-------------------|--------------|
-| **Posterior "hot zone"** (temporo-parieto-occipital) | [[Integrated information theory]] | High Φ values, PCI correlations, content-specific activity |
-| **Prefrontal cortex** | Global Workspace Theory, [[Higher-order theories of consciousness]] | Late "ignition" events, P3b component, metacognition |
+| **Posterior "hot zone"** (temporo-parieto-occipital) | [Integrated information theory](../../videos/Integrated%20information%20theory.md) | High Φ values, PCI correlations, content-specific activity |
+| **Prefrontal cortex** | Global Workspace Theory, [Higher-order theories of consciousness](../Sizing%20Up%20Consciousness/Higher-order%20theories%20of%20consciousness.md) | Late "ignition" events, P3b component, metacognition |
 | **Early visual cortex (V1)** | Recurrent Processing Theory | Local recurrent loops correlate with visual awareness |
 | **Thalamocortical system** | Multiple theories | Thalamic awareness potential, gating function |
 | **Claustrum** | Koch's hypothesis | Dense connectivity, potential integration hub |
 
 ## Competing Theories
 
-### [[Integrated Information Theory]] (IIT)
+### [Integrated Information Theory](../../videos/Integrated%20information%20theory.md) (IIT)
 
 NCC resides in the posterior cortex where integrated information (Φ) is maximal. Consciousness *is* integrated information—physical systems are conscious to the degree they integrate information irreducibly.
 
 - **Prediction**: Posterior "hot zone" is the NCC; prefrontal cortex not required
-- **Measure**: [[Quantitative consciousness index|Perturbational Complexity Index]] (PCI)
+- **Measure**: [Perturbational Complexity Index](../../papers/Quantitative%20consciousness%20index.md) (PCI)
 - **Key researcher**: Giulio Tononi
-- See: [[Integrated information theory]], [[Shannon information]]
+- See: [Integrated information theory](../../videos/Integrated%20information%20theory.md), [Shannon information](Shannon%20information.md)
 
 ### Global Neuronal Workspace Theory (GNWT)
 
@@ -50,7 +50,7 @@ A mental state becomes conscious when represented by a higher-order state (thoug
 - **Prediction**: Prefrontal cortex necessary for higher-order representations
 - **Measure**: Metacognitive confidence signals, dorsolateral PFC activity
 - **Key researcher**: David Rosenthal
-- See: [[Higher-order theories of consciousness]]
+- See: [Higher-order theories of consciousness](../Sizing%20Up%20Consciousness/Higher-order%20theories%20of%20consciousness.md)
 
 ### Recurrent Processing Theory (RPT)
 
@@ -91,7 +91,7 @@ The "zap-and-zip" method developed by Giulio Tononi operationalises the IIT prin
 - Measures integration-differentiation without specifying critical brain regions
 - Requires expensive TMS-EEG equipment
 
-See: [[Quantitative consciousness index]]
+See: [Quantitative consciousness index](../../papers/Quantitative%20consciousness%20index.md)
 
 ### No-Report Paradigms
 
@@ -133,22 +133,22 @@ The COGITATE consortium (Nature, April 2025) conducted a large-scale adversarial
 
 **Implication**: Neither major theory fully accounts for the empirical data. The field may need revised theoretical frameworks or recognition that different theories capture different aspects of consciousness.
 
-## Relation to [[Consciousness Engineering]]
+## Relation to [Consciousness Engineering](../../_%20general%20knowledge/Consciousness%20Engineering.md)
 
-For [[PSNST|Progressive Synthetic Neural Substrate Transfer]], NCC measures serve as real-time consciousness monitoring during gradual substrate replacement:
+For [Progressive Synthetic Neural Substrate Transfer](../../_%20general%20knowledge/PSNST.md), NCC measures serve as real-time consciousness monitoring during gradual substrate replacement:
 
-- [[Quantitative consciousness index|PCI]] for objective level assessment
-- [[Integrated information theory|IIT's Φ]] as substrate-independent metric
-- [[Naturalisation of phenomenology]] for first-person verification
+- [PCI](../../papers/Quantitative%20consciousness%20index.md) for objective level assessment
+- [IIT's Φ](../../videos/Integrated%20information%20theory.md) as substrate-independent metric
+- [Naturalisation of phenomenology](../../articles/Naturalisation%20of%20phenomenology.md) for first-person verification
 
-The key question: if NCCs are preserved during substrate transfer, is [[Access and phenomenal consciousness|phenomenal consciousness]] preserved? This connects to [[Fading qualia|Chalmers' organisational invariance]] and [[Philosophical zombies|the hard problem]].
+The key question: if NCCs are preserved during substrate transfer, is [phenomenal consciousness](../../videos/Access%20and%20phenomenal%20consciousness.md) preserved? This connects to [Chalmers' organisational invariance](../From%20Biological%20to%20Artificial%20Consciousness/Fading%20qualia.md) and [the hard problem](../../_%20general%20knowledge/Philosophical%20zombies.md).
 
 ## Key Researchers
 
 | Researcher | Key Contributions |
 |------------|-------------------|
 | **Christof Koch** | NCC formalisation, claustrum hypothesis, IIT collaboration |
-| **Giulio Tononi** | [[Integrated Information Theory]], Φ, PCI |
+| **Giulio Tononi** | [Integrated Information Theory](../../videos/Integrated%20information%20theory.md), Φ, PCI |
 | **Stanislas Dehaene** | Global Neuronal Workspace Theory, P3b |
 | **Anil Seth** | Predictive processing, "controlled hallucination" |
 | **Victor Lamme** | Recurrent Processing Theory, VAN |

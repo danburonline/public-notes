@@ -1,12 +1,12 @@
 #core/appliedneuroscience
 
-![[stress-types.jpg]]
+![stress-types](../../../000_inbox/attachments/stress-types.jpg)
 
-In the field of psychology, "stress" is an umbrella term used to describe the mental, emotional, or physical strain that people experience in response to events perceived as challenging or threatening. This strain can either be positive ([[eustress]]) or negative ([[distress]]), adding depth to this overarching concept.
+In the field of psychology, "stress" is an umbrella term used to describe the mental, emotional, or physical strain that people experience in response to events perceived as challenging or threatening. This strain can either be positive ([eustress](Eustress.md)) or negative ([distress](Distress.md)), adding depth to this overarching concept.
 
-1. [[Eustress]]: This is a positive form of stress that arises from dealing with manageable challenges or achieving goals. It can contribute to feelings of fulfilment and personal growth. Examples include starting a new job, moving to a new city, or running a marathon.
+1. [Eustress](Eustress.md): This is a positive form of stress that arises from dealing with manageable challenges or achieving goals. It can contribute to feelings of fulfilment and personal growth. Examples include starting a new job, moving to a new city, or running a marathon.
 
-2. [[Distress]]: [[Distress]], in contrast, is a negative form of stress. It occurs when a situation is perceived as beyond an individual's ability to cope, leading to feelings of discomfort, anxiety, or worry. This type of stress can have negative impacts on mental and physical health. Examples include excessive workload, loss of a loved one, or experiencing a traumatic event.
+2. [Distress](Distress.md): [Distress](Distress.md), in contrast, is a negative form of stress. It occurs when a situation is perceived as beyond an individual's ability to cope, leading to feelings of discomfort, anxiety, or worry. This type of stress can have negative impacts on mental and physical health. Examples include excessive workload, loss of a loved one, or experiencing a traumatic event.
 
 Stress can also be categorised based on its duration:
 
@@ -20,6 +20,6 @@ Stress is a subjective experience influenced by an individual's perception of a 
 
 This note serves as the hub for understanding stress-related concepts:
 
-- [[Eustress]]: Positive, motivating stress that enhances performance
-- [[Distress]]: Negative stress that overwhelms coping capacity
-- [[Diathesis-stress model]]: Framework explaining how vulnerability factors interact with stressors to produce mental health outcomes
+- [Eustress](Eustress.md): Positive, motivating stress that enhances performance
+- [Distress](Distress.md): Negative stress that overwhelms coping capacity
+- [Diathesis-stress model](Diathesis-stress%20model.md): Framework explaining how vulnerability factors interact with stressors to produce mental health outcomes

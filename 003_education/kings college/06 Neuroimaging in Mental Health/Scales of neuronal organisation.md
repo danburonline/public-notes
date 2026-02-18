@@ -1,14 +1,14 @@
 #core/appliedneuroscience
 
-![[brain-scales.jpg]]
+![brain-scales](../../../000_inbox/attachments/brain-scales.jpg)
 
 The neuronal organisation **can be understood at various scales, each providing insights into different aspects of brain function and structure.** The classification into microscopic, mesoscopic, and macroscopic scales helps dissect the complexity of the brain from the level of individual neurons to large networks of brain regions.
 
-## Microscopic [[Decoupling of scale|Scale]]
+## Microscopic [Scale](../../../001_private/videos/Decoupling%20of%20scale.md)
 
 - **Definition**: Focuses on the individual neurons and their components, such as dendrites, axons, synapses, and molecular pathways.
-- **[[Neuroimaging analysis techniques|Techniques]]**: Utilises histology, electron microscopy, and single-cell imaging. Recent advancements include two-photon microscopy and [[optogenetics]].
-- **Relevance**: Essential for understanding the cellular and molecular basis of neural function, including neurotransmission, [[neurogenesis]], and [[synaptic plasticity]].
+- **[Techniques](Neuroimaging%20analysis%20techniques.md)**: Utilises histology, electron microscopy, and single-cell imaging. Recent advancements include two-photon microscopy and [optogenetics](../../../001_private/social%20media/linkedin/Optogenetics.md).
+- **Relevance**: Essential for understanding the cellular and molecular basis of neural function, including neurotransmission, [neurogenesis](../04%20Biological%20Foundations%20of%20Mental%20Health/Neurogenesis.md), and [synaptic plasticity](../04%20Biological%20Foundations%20of%20Mental%20Health/Synaptic%20plasticity.md).
 
 ## Mesoscopic Scale
 

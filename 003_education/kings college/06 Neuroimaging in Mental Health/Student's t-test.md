@@ -29,12 +29,12 @@ $$
 
 ## Interpretation
 
-- **[[P-value]]:** Used to determine the significance of the results.
-  - A small [[P-value]] (typically ≤ 0.05) indicates strong evidence against the null hypothesis, so you reject the null hypothesis.
-  - A large [[P-value]] (> 0.05) indicates weak evidence against the null hypothesis, so you fail to reject the null hypothesis.
+- **[P-value](../../../001_private/books/Essential%20Math%20for%20Data%20Science/P-value.md):** Used to determine the significance of the results.
+  - A small [P-value](../../../001_private/books/Essential%20Math%20for%20Data%20Science/P-value.md) (typically ≤ 0.05) indicates strong evidence against the null hypothesis, so you reject the null hypothesis.
+  - A large [P-value](../../../001_private/books/Essential%20Math%20for%20Data%20Science/P-value.md) (> 0.05) indicates weak evidence against the null hypothesis, so you fail to reject the null hypothesis.
 
 > [!example]
 > Used in research fields to compare:
 > - Test scores
 > - Medical treatment effects
-> - [[Cognitive-behavioural therapy|Behavioural]] changes
+> - [Behavioural](../03%20Mental%20Health%20in%20the%20Community/Cognitive-behavioural%20therapy.md) changes

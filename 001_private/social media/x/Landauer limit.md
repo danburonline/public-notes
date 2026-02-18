@@ -1,6 +1,6 @@
 #core/mathematicalphysics 
 
-![[landauer-limit.png]]
+![landauer-limit](../../../000_inbox/attachments/landauer-limit.png)
 
 The Landauer limit, stemming from [Rolf Landauer](https://en.wikipedia.org/wiki/Rolf_Landauer)'s principle proposed in 1961, defines the **theoretical minimum energy required to irreversibly erase one bit of information during computation, grounded in the thermodynamics of information processing.** This bound, calculated as $k T \ln 2$ where $k$ is Boltzmann's constant and $T$ is temperature, underscores that computation isn't free energetically, with erasure dissipating heat, and has profound implications for efficient computing designs.
 

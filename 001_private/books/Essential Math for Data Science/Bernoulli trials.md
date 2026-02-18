@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![[bernoulli-trials.png]]
+![bernoulli-trials](../../../000_inbox/attachments/bernoulli-trials.png)
 
 A **Bernoulli trial** is a random experiment with two possible outcomes: **success** and **failure**. This type of trial is named after the Swiss mathematician Jacob Bernoulli.
 

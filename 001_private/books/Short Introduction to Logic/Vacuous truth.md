@@ -10,4 +10,4 @@ Consider an example statement like “If pigs can fly, then 2 + 2 equals 5.” S
 
 For example, consider the statement, “Every pink elephant in this room can fly.” If there are no pink elephants in the room, the statement is vacuously true.
 
-**3. Importance of Vacuous [[Truth tables|Truth]]:** Understanding the concept of vacuous truth is important for formal logic and mathematical reasoning, as it helps ensure consistency and completeness in logical systems. It can seem counter-intuitive, but it allows many theorems and definitions in mathematics and computer science to be stated in a more general and elegant form.
+**3. Importance of Vacuous [Truth](Truth%20tables.md):** Understanding the concept of vacuous truth is important for formal logic and mathematical reasoning, as it helps ensure consistency and completeness in logical systems. It can seem counter-intuitive, but it allows many theorems and definitions in mathematics and computer science to be stated in a more general and elegant form.

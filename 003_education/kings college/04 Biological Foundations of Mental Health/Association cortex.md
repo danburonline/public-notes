@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[association-cortex.png]]
+![association-cortex](../../../000_inbox/attachments/association-cortex.png)
 
 The association cortex is a **part of the cerebral cortex that is essential for complex functions like perception, cognition, and decision-making.** It combines information from different sensory modalities to create a more holistic perception of the environment.
 
@@ -10,8 +10,8 @@ The association cortex is a **part of the cerebral cortex that is essential for 
 - **High-Level Cognitive Functions:** The association cortex is crucial for high-level cognitive functions, including attention, planning, decision-making, and working memory.
 - **Location:** The association cortex is not localised to one specific area but is found in all four lobes of the brain: the frontal, parietal, temporal, and occipital lobes.
 
-## Examples of [[Association fibres|Association]] Areas
+## Examples of [Association](Association%20fibres.md) Areas
 
-- **Prefrontal [[Neocortex|Cortex]]:** Located in the frontal lobe, the prefrontal cortex is involved in planning complex cognitive behaviour, personality expression, decision-making, and moderating social behaviour.
+- **Prefrontal [Cortex](../../_%20general%20knowledge/Neocortex.md):** Located in the frontal lobe, the prefrontal cortex is involved in planning complex cognitive behaviour, personality expression, decision-making, and moderating social behaviour.
 - **Parietal-Temporal-Occipital Association Area:** This area integrates sensory information from the somatosensory, auditory, and visual areas to understand spatial relationships and recognise objects and faces.
 - **Limbic Association Area:** This area deals with emotions, memory, and learning. It includes parts of the limbic system, which includes the hippocampus (important for memory) and the amygdala (important for emotion).

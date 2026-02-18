@@ -1,12 +1,12 @@
 #core/appliedneuroscience
 
-![[dunbar.png]]
+![dunbar](../../../000_inbox/attachments/dunbar.png)
 
 Dunbar’s Number is a **theoretical limit to the number of people with whom one can maintain stable social relationships.** It was first proposed by British anthropologist [Robin Dunbar](https://en.wikipedia.org/wiki/Robin_Dunbar).
 
 ## Key Concepts
 
-### Stable [[Social cognition|Social]] Relationships
+### Stable [Social](../../../003_education/kings%20college/02%20Psychological%20Foundations/Social%20cognition.md) Relationships
 
 - These are relationships in which an individual knows who each person is and how each person relates to every other person in the network.
 - Dunbar’s number is based on cognitive limits, not the time constraints of socialising.

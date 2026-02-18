@@ -16,5 +16,5 @@ Neuromyths are **misconceptions generated from misunderstanding, over-simplifica
 4. **“Drinking Less Than 6-8 Cups of Water a Day Shrinks the Brain”**
     While staying hydrated is important for overall health, there is no scientific evidence that not drinking 6-8 cups of water a day will cause the brain to shrink. Dehydration can impact cognition, but the brain is a resilient organ with mechanisms in place to maintain its volume and function.
 
-5. **“Listening to Classical Music Increases [[Types of Intelligence|Intelligence]] (The Mozart Effect)”**
+5. **“Listening to Classical Music Increases [Intelligence](../../../001_private/_%20general%20knowledge/Types%20of%20Intelligence.md) (The Mozart Effect)”**
     The belief that listening to Mozart or other classical music can increase intelligence is a well-known neuromyth. While some studies have shown that listening to classical music may improve specific types of mental tasks, the “Mozart Effect” has been largely debunked. Listening to music you enjoy can improve mood and concentration, but it does not increase overall intelligence.

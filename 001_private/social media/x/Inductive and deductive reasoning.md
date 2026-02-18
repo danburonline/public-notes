@@ -1,6 +1,6 @@
 #fundamental/logic 
 
-![[inductive-deductive-reasoning.jpg]]
+![inductive-deductive-reasoning](../../../000_inbox/attachments/inductive-deductive-reasoning.jpg)
 
 - **Inductive reasoning** involves making generalisations based on specific observations. For example, if you notice that the sun has risen in the east every day, you might conclude that the sun always rises in the east.
 

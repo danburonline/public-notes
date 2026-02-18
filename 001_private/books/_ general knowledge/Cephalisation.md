@@ -10,7 +10,7 @@ Cephalisation emerged alongside bilateral symmetry in early bilaterian animals:
 - **Cambrian explosion**: Rapid diversification of head structures with sensory organs
 - **Vertebrate evolution**: Progressive encephalisation with expanded forebrains
 
-The presence of [[Homologous structures]] across species—such as conserved gene expression patterns in head development—supports a common evolutionary origin for cephalic organisation.
+The presence of [Homologous structures](../../../003_education/kings%20college/01%20Techniques%20in%20Neuroscience/Homologous%20structures.md) across species—such as conserved gene expression patterns in head development—supports a common evolutionary origin for cephalic organisation.
 
 ## Neurobiological Basis
 
@@ -20,7 +20,7 @@ Cephalisation involves the anterior concentration of:
 - **Sensory receptors**: Eyes, chemoreceptors, and mechanoreceptors clustered near the mouth
 - **Motor control centres**: Coordinating complex behavioural responses
 
-In vertebrates, this culminates in the [[Neocortex]]—the most recently evolved brain region—organised into [[Cortical column|cortical columns]] that support advanced cognition.
+In vertebrates, this culminates in the [Neocortex](../../../003_education/_%20general%20knowledge/Neocortex.md)—the most recently evolved brain region—organised into [cortical columns](../../../003_education/_%20general%20knowledge/Cortical%20column.md) that support advanced cognition.
 
 ## Implications for Consciousness
 
@@ -30,4 +30,4 @@ Cephalisation may represent a prerequisite for consciousness by enabling:
 - **Temporal coordination**: Rapid decision-making for predator avoidance or prey capture
 - **Representational capacity**: Internal models of the external world
 
-[[Consciousness Engineering]] explores whether synthetic systems require analogous centralised architectures to support subjective experience.
+[Consciousness Engineering](../../_%20general%20knowledge/Consciousness%20Engineering.md) explores whether synthetic systems require analogous centralised architectures to support subjective experience.

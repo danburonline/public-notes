@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![[neural-graft.png]]
+![neural-graft](../../000_inbox/attachments/neural-graft.png)
 
 Neural grafts, also known as neural tissue transplantation or neural implants, involve the **surgical transplantation of neural cells or tissue into the brain** or spinal cord.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[cytokines.png]]
+![cytokines](../../../000_inbox/attachments/cytokines.png)
 
 Cytokines are **small proteins that have a significant impact on communication between cells.** They are particularly crucial in the body’s immune response. In the nervous system, cytokines play a role in neuroinflammation, which can lead to neuronal cell death.
 
@@ -8,7 +8,7 @@ Cytokines are **small proteins that have a significant impact on communication b
 
 - **Regulation:** Cytokines are regulatory proteins released by microglial cells and peripheral cells.
 - **Immune Protection:** Their primary role is to offer immune protection by clearing damaged and dead neurons, thus maintaining homeostasis in the brain.
-- **Dual Effect:** While cytokines provide protective roles, they can also be detrimental to the [[neurogenic niche]] and cause neuronal death when overexpressed or dysregulated.
+- **Dual Effect:** While cytokines provide protective roles, they can also be detrimental to the [neurogenic niche](Neurogenic%20niche.md) and cause neuronal death when overexpressed or dysregulated.
 
 ## Cytokines in Disease
 

@@ -1,8 +1,8 @@
 #core/appliedneuroscience #core/computationalphenomenology
 
-![[phenomology.png]]
+![phenomology](../../../000_inbox/attachments/phenomology.png)
 
-Phenomenology is a branch of philosophy that **studies the structure of experience and consciousness.** It focuses on understanding **how people experience the world and how their experiences shape their understanding of the world.** Phenomenology is concerned with the subjective aspects of experience, such as how people perceive, interpret, and remember events. It is also concerned with the **relationship between the individual and the world, including how people interact and make sense of their environment.** Phenomenology is closely related to other philosophical disciplines such as existentialism, [[hermeneutics]], and existential psychology.
+Phenomenology is a branch of philosophy that **studies the structure of experience and consciousness.** It focuses on understanding **how people experience the world and how their experiences shape their understanding of the world.** Phenomenology is concerned with the subjective aspects of experience, such as how people perceive, interpret, and remember events. It is also concerned with the **relationship between the individual and the world, including how people interact and make sense of their environment.** Phenomenology is closely related to other philosophical disciplines such as existentialism, [hermeneutics](../../../001_private/_%20general%20knowledge/Hermeneutics.md), and existential psychology.
 
 ## Key Figures
 
@@ -12,4 +12,4 @@ Phenomenology is a branch of philosophy that **studies the structure of experien
 
 ## Connection to Consciousness Studies
 
-Phenomenology provides methodological tools for studying [[Access and phenomenal consciousness|subjective experience]]. The challenge of bridging first-person phenomenological description with third-person neuroscience is addressed by [[Naturalisation of phenomenology]], which seeks to integrate phenomenological insights with empirical research. The question of whether functional equivalence guarantees experiential equivalence connects to debates about [[Philosophical zombies]].
+Phenomenology provides methodological tools for studying [subjective experience](../../../001_private/videos/Access%20and%20phenomenal%20consciousness.md). The challenge of bridging first-person phenomenological description with third-person neuroscience is addressed by [Naturalisation of phenomenology](../../../001_private/articles/Naturalisation%20of%20phenomenology.md), which seeks to integrate phenomenological insights with empirical research. The question of whether functional equivalence guarantees experiential equivalence connects to debates about [Philosophical zombies](../../../001_private/_%20general%20knowledge/Philosophical%20zombies.md).

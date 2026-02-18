@@ -1,6 +1,6 @@
 #core/biomimeticneuromorphics #core/appliedneuroscience
 
-![[guiding-cues.jpg]]
+![guiding-cues](../../000_inbox/attachments/guiding-cues.jpg)
 
 Topographic guidance cues are **physical features and patterns in the extracellular environment that direct cell behavior, including adhesion, migration, alignment, and differentiation** through mechanical and spatial signals.
 

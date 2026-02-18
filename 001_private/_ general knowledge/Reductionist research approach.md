@@ -10,7 +10,7 @@ Reductionism is a **philosophical approach in science that explains complex syst
 
 ## Limitations
 
-Reductionism faces challenges when applied to systems exhibiting [[Strong emergence|emergent properties]]—phenomena that cannot be predicted from knowledge of parts alone. Critics argue that reductionist approaches may miss:
+Reductionism faces challenges when applied to systems exhibiting [emergent properties](../videos/Strong%20emergence.md)—phenomena that cannot be predicted from knowledge of parts alone. Critics argue that reductionist approaches may miss:
 
 - **Relational properties**: Interactions between components that generate novel behaviours
 - **Context-dependence**: How environmental factors shape system dynamics
@@ -18,4 +18,4 @@ Reductionism faces challenges when applied to systems exhibiting [[Strong emerge
 
 ## Contrast with Holistic Approaches
 
-[[Phenomenology]] offers an alternative methodology that studies phenomena as unified wholes rather than decomposed parts. The [[Naturalisation of phenomenology]] represents an attempt to bridge reductionist neuroscience with holistic first-person methods, acknowledging that subjective experience may require both perspectives for complete understanding.
+[Phenomenology](../../003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Phenomenology.md) offers an alternative methodology that studies phenomena as unified wholes rather than decomposed parts. The [Naturalisation of phenomenology](../articles/Naturalisation%20of%20phenomenology.md) represents an attempt to bridge reductionist neuroscience with holistic first-person methods, acknowledging that subjective experience may require both perspectives for complete understanding.

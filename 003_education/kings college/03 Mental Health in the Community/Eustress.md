@@ -1,8 +1,8 @@
 #core/appliedneuroscience
 
-![[eustress.png]]
+![eustress](../../../000_inbox/attachments/eustress.png)
 
-Eustress refers to **positive [[stress]]**—the beneficial form of physiological and psychological arousal that arises when challenges are perceived as manageable and meaningful. Unlike [[distress]], eustress promotes adaptation, growth, and enhanced performance.
+Eustress refers to **positive [stress](Stress.md)**—the beneficial form of physiological and psychological arousal that arises when challenges are perceived as manageable and meaningful. Unlike [distress](Distress.md), eustress promotes adaptation, growth, and enhanced performance.
 
 ## Characteristics
 
@@ -21,7 +21,7 @@ Eustress activates the hypothalamic-pituitary-adrenal (HPA) axis similarly to di
 
 ## Yerkes-Dodson relationship
 
-Eustress operates within the optimal zone of the Yerkes-Dodson curve, where arousal enhances performance. Too little arousal leads to boredom and disengagement; too much tips into [[distress]] and impairment.
+Eustress operates within the optimal zone of the Yerkes-Dodson curve, where arousal enhances performance. Too little arousal leads to boredom and disengagement; too much tips into [distress](Distress.md) and impairment.
 
 ## Examples
 
@@ -33,4 +33,4 @@ Eustress operates within the optimal zone of the Yerkes-Dodson curve, where arou
 
 ## Clinical relevance
 
-The [[Diathesis-stress model]] traditionally emphasises vulnerability to distress, but eustress research suggests that the same diathesis may also determine an individual's capacity to benefit from positive challenges—a concept sometimes called "vantage sensitivity" or differential susceptibility.
+The [Diathesis-stress model](Diathesis-stress%20model.md) traditionally emphasises vulnerability to distress, but eustress research suggests that the same diathesis may also determine an individual's capacity to benefit from positive challenges—a concept sometimes called "vantage sensitivity" or differential susceptibility.

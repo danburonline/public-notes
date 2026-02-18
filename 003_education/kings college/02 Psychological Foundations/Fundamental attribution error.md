@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[fundamental-attribution-error.png]]
+![fundamental-attribution-error](../../../000_inbox/attachments/fundamental-attribution-error.png)
 
 The fundamental attribution error (FAE) is a **cognitive bias that occurs when we overestimate the influence of internal factors** (e.g., personality traits, abilities) and underestimate the influence of external factors (e.g., situational factors) on other people's behaviour.
 

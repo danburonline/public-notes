@@ -1,6 +1,6 @@
 #core/mathematicalphysics
 
-![[hypercomputation.jpg]]
+![hypercomputation](../../../000_inbox/attachments/hypercomputation.jpg)
 
 ## Key Concepts
 

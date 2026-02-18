@@ -1,6 +1,6 @@
 #fundamental/logic
 
-**Logic** is the study of valid [[Inference|inference]] — deriving conclusions from premises.
+**Logic** is the study of valid inference — deriving conclusions from premises.
 
 ## What is an Inference?
 

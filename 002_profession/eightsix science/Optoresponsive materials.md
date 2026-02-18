@@ -5,7 +5,7 @@ Optoresponsive materials are **substances that respond to light stimuli by chang
 ## Characteristics and Applications
 
 - **Light Sensitivity**: Optoresponsive materials can undergo changes in shape, color, conductivity, or other properties when exposed to light. This sensitivity is typically achieved through photoactive molecules or structures that absorb light energy.
-- **Biomedical Applications**: In biomedicine, optoresponsive materials are used in drug delivery systems, tissue engineering, and [[optogenetics]]. They can be designed to release drugs or modulate cellular behaviour in response to light.
+- **Biomedical Applications**: In biomedicine, optoresponsive materials are used in drug delivery systems, tissue engineering, and [optogenetics](../../001_private/social%20media/linkedin/Optogenetics.md). They can be designed to release drugs or modulate cellular behaviour in response to light.
 - **Energy and Sensing**: Optoresponsive materials are also explored for energy harvesting and storage, as well as in sensors that detect environmental changes through light-induced responses.
 
 ## Examples of Optoresponsive Materials

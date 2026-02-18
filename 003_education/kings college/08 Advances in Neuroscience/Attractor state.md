@@ -1,8 +1,8 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![[attractor-state.png]]
+![attractor-state](../../../000_inbox/attachments/attractor-state.png)
 
-An attractor state refers to a **set of points in the [[Phase space and phasing rotator|phase space]] toward which a system tends to evolve**, regardless of its initial state. This concept is crucial in understanding the stable and recurrent patterns in neural signal processing.
+An attractor state refers to a **set of points in the [phase space](Phase%20space%20and%20phasing%20rotator.md) toward which a system tends to evolve**, regardless of its initial state. This concept is crucial in understanding the stable and recurrent patterns in neural signal processing.
 
 ## Definition of Attractor State
 

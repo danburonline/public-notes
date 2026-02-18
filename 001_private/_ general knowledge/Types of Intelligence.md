@@ -12,7 +12,7 @@
 These types of intelligence are part of the Multiple Intelligences theory proposed by [Howard Gardner](https://en.wikipedia.org/wiki/Howard_Gardner).
 
 > [!warning]
-> They have been criticised as a [[Neuromyths]] as no empirical evidence or statistical analysis was used in order to deduce these types of intelligence. Mostly, they can be broken down into acquired skills. Gardner even added more types of intelligence over the years of his career.
+> They have been criticised as a [Neuromyths](../../003_education/kings%20college/05%20Neuroscience%20in%20Society/Neuromyths.md) as no empirical evidence or statistical analysis was used in order to deduce these types of intelligence. Mostly, they can be broken down into acquired skills. Gardner even added more types of intelligence over the years of his career.
 
 ---
 
@@ -20,4 +20,4 @@ Coming to Fluid and Crystallised Intelligence are two types of cognitive abiliti
 
 **Fluid Intelligence (Gf)**: This refers to the ability to reason and think flexibly. It involves the capacity to think logically and solve problems in novel situations, independent of acquired knowledge. Fluid intelligence involves identifying patterns and relationships that underpin novel problems and extrapolating these findings using logic. It is often used in problem-solving where prior knowledge is useless. Fluid intelligence tends to decline during late adulthood.
 
-**Crystallised Intelligence (Gc)**: This refers to the ability to use skills, knowledge, and experience. It doesn’t equate to memory, but it does rely on accessing information from [[long-term memory]]. Crystallised intelligence is one’s lifetime of intellectual achievement, as demonstrated primarily through one’s vocabulary and general knowledge. This improves as one ages, as it is a cumulative measure of knowledge and verbal skills.
+**Crystallised Intelligence (Gc)**: This refers to the ability to use skills, knowledge, and experience. It doesn’t equate to memory, but it does rely on accessing information from [long-term memory](../../003_education/kings%20college/02%20Psychological%20Foundations/Long-term%20memory.md). Crystallised intelligence is one’s lifetime of intellectual achievement, as demonstrated primarily through one’s vocabulary and general knowledge. This improves as one ages, as it is a cumulative measure of knowledge and verbal skills.

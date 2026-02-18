@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![[bayesian-brain.png]]
+![bayesian-brain](../../000_inbox/attachments/bayesian-brain.png)
 
 The Bayesian brain hypothesis proposes that the **brain interprets the world through the framework of Bayesian probability.** According to this hypothesis, the brain continuously updates its beliefs about the world based on incoming sensory information and prior beliefs, effectively performing probabilistic inference.
 

@@ -2,18 +2,18 @@
 
 Phase space and phasing rotators are **critical tools in neural signal processing**, offering insights into neural signals’ dynamic behaviour and manipulation.
 
-## Phase [[Latent space|Space]]
+## Phase [Space](../../../001_private/videos/Latent%20space.md)
 
-![[phase-space.png]]
+![phase-space](../../../000_inbox/attachments/phase-space.png)
 
 - **Definition**: Represents all possible states of a system.
 - **Applications**:
   - **Visualisation**: Helps visualise neural signal dynamics.
-  - **State [[Spectral analysis in EEG|Analysis]]**: Identifies patterns like stable points or chaotic behaviours in neural systems.
+  - **State [Analysis](../06%20Neuroimaging%20in%20Mental%20Health/Spectral%20analysis%20in%20EEG.md)**: Identifies patterns like stable points or chaotic behaviours in neural systems.
 
 ## Phasing Rotator
 
-![[reconstructed-space.png]]
+![reconstructed-space](../../../000_inbox/attachments/reconstructed-space.png)
 
 - **Definition**: Alters the phase of a signal without changing its amplitude.
 - **Applications**:

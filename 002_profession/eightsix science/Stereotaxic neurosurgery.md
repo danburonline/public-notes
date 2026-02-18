@@ -1,6 +1,6 @@
 #core/theoreticalneurosurgery #core/appliedneuroscience
 
-![[stereotactic-neurosurgery.jpg]]
+![stereotactic-neurosurgery](../../000_inbox/attachments/stereotactic-neurosurgery.jpg)
 
 Stereotaxic (or stereotactic) neurosurgery is a minimally invasive surgical technique that uses **three-dimensional coordinates** and advanced imaging (MRI/CT) to precisely target structures within the brain or spine, typically with **1–2 mm accuracy**.
 
@@ -15,9 +15,9 @@ Stereotaxic (or stereotactic) neurosurgery is a minimally invasive surgical tech
 
 - **Applications**:
     - Biopsies (deep brain tissue sampling)
-    - Tumour treatment (e.g., [[Gamma Knife]] radiosurgery)
-    - Functional neurosurgery (e.g., [[Deep Brain Stimulation]] for Parkinson’s, epilepsy ablation)
-    - [[Cortex vascularisation|Vascular]] malformations (e.g., arteriovenous malformations)
+    - Tumour treatment (e.g., Gamma Knife radiosurgery)
+    - Functional neurosurgery (e.g., Deep Brain Stimulation for Parkinson’s, epilepsy ablation)
+    - [Vascular](Cortex%20vascularisation.md) malformations (e.g., arteriovenous malformations)
     - Chronic pain and psychiatric disorders (e.g., OCD, depression)
 
 ### 3. Execution
@@ -46,4 +46,4 @@ Stereotaxic (or stereotactic) neurosurgery is a minimally invasive surgical tech
 
 - **1908**: Horsley & Clarke develop stereotaxy for animal research.
 - **1940s**: Spiegel & Wycis adapt the technique for humans.
-- **Modern era**: Frameless navigation, intraoperative [[NICE head injury guide#MRI|MRI]], and robotic assistance.
+- **Modern era**: Frameless navigation, intraoperative [MRI](../../003_education/university%20of%20buckingham/01%20Module/NICE%20head%20injury%20guide.md#mri), and robotic assistance.

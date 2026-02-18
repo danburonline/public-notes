@@ -1,6 +1,6 @@
 #core/mathematicalphysics #core/artificialintelligence 
 
-![[yoneda-lemma.jpg]]
+![yoneda-lemma](../../000_inbox/attachments/yoneda-lemma.jpg)
 
 The Yoneda lemma is a prominent theorem in category theory that has been proposed as a solution to the problem of qualia, specifically the **question of how we know if the colours we perceive are the same as those perceived by others.** However, the application of the Yoneda lemma to solve this problem is flawed.
 

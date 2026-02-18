@@ -33,7 +33,7 @@ From Keith Wiley’s book “Taxonomy and Metaphysics of Mind-Uploading”.
 - **2.1.1. Frozen destructive scan-and-copy**: The biological brain is destructively scanned to create a digital or physical replica, with variations based on the replica’s nature (`Physical biological brain`, `Physical computerized brain`, `Virtual structural brain`, `Virtual functional brain`, `Virtual higher-order brain`).
 - **2.1.2. Frozen nondestructive scan-and-copy**: The original brain is preserved, and a duplicate is created, considering the sensory environment’s role in awakening both brains.
 
-### 2.2. [[Multiple realisability#Implications in Consciousness Research|Conscious]] Scan-and-copy Procedures
+### 2.2. [Conscious](../How%20To%20Build%20a%20Brain/Multiple%20realisability.md#implications-in-consciousness-research) Scan-and-copy Procedures
 
 - **2.2.1. Conscious destructive**: Involves scanning the brain while conscious, leading to either immediate (`Teleportation`) or gradual duplication.
 - **2.2.2. Conscious nondestructive**: The brain is scanned without destruction, considering the immediacy of the scan and the sensory environment of the upload’s reception.

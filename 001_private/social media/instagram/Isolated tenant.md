@@ -1,6 +1,6 @@
 #core/softwaredevelopment
 
-![[isolated-tenant.png]]
+![isolated-tenant](../../../000_inbox/attachments/isolated-tenant.png)
 
 An isolated tenant in the cloud is a **dedicated environment for a single organisation**, offering enhanced security, privacy, and performance.
 

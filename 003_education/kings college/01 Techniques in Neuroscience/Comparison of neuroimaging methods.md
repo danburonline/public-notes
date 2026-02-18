@@ -2,23 +2,23 @@
 
 Neuroimaging techniques occupy different positions in a trade-off space defined by **spatial resolution**, **temporal resolution**, and **subject tolerance requirements**. No single modality excels across all dimensions—method selection depends on the research question and population.
 
-![[neuroimaging-techniques.png]]
+![neuroimaging-techniques](../../../000_inbox/attachments/neuroimaging-techniques.png)
 
 ## Technique Comparison
 
 | Technique | Temporal Resolution | Spatial Resolution | Infant Tolerance |
 |-----------|--------------------|--------------------|------------------|
-| [[EEG]] / [[ERP]] | High (ms) | Low | High |
-| [[MEG]] | High (ms) | Moderate | High |
-| [[NIRS]] | Moderate | Moderate | High |
-| [[PET]] | Low (min) | High | Low |
-| [[fMRI]] / [[DTI]] | Low (s) | High | Low |
+| EEG / ERP | High (ms) | Low | High |
+| MEG | High (ms) | Moderate | High |
+| NIRS | Moderate | Moderate | High |
+| PET | Low (min) | High | Low |
+| fMRI / DTI | Low (s) | High | Low |
 
 ## Trade-off Dimensions
 
 ### Temporal vs Spatial Resolution
 
-Techniques with high temporal resolution (EEG, MEG) measure electrical/magnetic activity directly but suffer from the [[inverse problem]]—inferring source locations from scalp recordings is mathematically ill-posed. Haemodynamic methods (fMRI, PET, NIRS) offer superior anatomical localisation but measure blood flow changes that lag neural activity by seconds.
+Techniques with high temporal resolution (EEG, MEG) measure electrical/magnetic activity directly but suffer from the inverse problem—inferring source locations from scalp recordings is mathematically ill-posed. Haemodynamic methods (fMRI, PET, NIRS) offer superior anatomical localisation but measure blood flow changes that lag neural activity by seconds.
 
 ### Infant Tolerance
 

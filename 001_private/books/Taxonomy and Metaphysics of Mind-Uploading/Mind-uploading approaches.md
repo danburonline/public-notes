@@ -9,7 +9,7 @@
   - It aims to construct a digital framework that mirrors the cognitive architecture of the human brain.
 - **Challenges**:
   - Complexity in fully comprehending and replicating the nuances of human cognition.
-  - Ensuring the [[emergent properties]] of consciousness are accurately represented in the digital domain.
+  - Ensuring the [emergent properties](../../videos/Emergent%20properties.md) of consciousness are accurately represented in the digital domain.
 
 ## Bottom-Up Approach
 

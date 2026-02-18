@@ -1,13 +1,13 @@
 #core/appliedneuroscience
 
-![[boutons.jpeg]]
+![boutons](../../000_inbox/attachments/boutons.jpeg)
 
 Boutons are **small swellings or protrusions at the terminal ends of axons** in neurons. The term comes from the French word for “buttons”.
 
 ## Function
 
-- **Role in [[Types of synapses|Synapses]]**: Boutons are key components of synapses, the junctions where neurons communicate with each other or other cell types.
-- **Containment of [[Neurotransmitters vs. neuromodulators vs. neuropeptides#Neurotransmitters|Neurotransmitters]]**: They contain synaptic vesicles filled with neurotransmitters, the chemicals used for neural communication.
+- **Role in [Synapses](../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Types%20of%20synapses.md)**: Boutons are key components of synapses, the junctions where neurons communicate with each other or other cell types.
+- **Containment of [Neurotransmitters](../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Neurotransmitters%20vs.%20neuromodulators%20vs.%20neuropeptides.md#neurotransmitters)**: They contain synaptic vesicles filled with neurotransmitters, the chemicals used for neural communication.
 
 ## Mechanism
 

@@ -9,7 +9,7 @@ Salient events refer to **occurrences that stand out from the norm due to their 
 
 ### Impact On Cognition
 
-1. **[[Endogenous and exogenous attention|Attention]]:** Salient events capture attention more readily than non-salient events due to their novelty or emotional intensity.
+1. **[Attention](Endogenous%20and%20exogenous%20attention.md):** Salient events capture attention more readily than non-salient events due to their novelty or emotional intensity.
 2. **Memory:** They are more likely to be remembered because the brain prioritises salient information.
 
 ### Use In Research

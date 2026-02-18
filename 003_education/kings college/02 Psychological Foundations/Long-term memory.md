@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[memory.png]]
+![memory](../../../000_inbox/attachments/memory.png)
 
 Long Term Memory (LTM) is an extensive memory storage system that can **hold information for prolonged periods, ranging from a few minutes to a lifetime.** It is divided into two broad categories: Explicit Memory (or Declarative Memory) and Implicit Memory (or Nondeclarative Memory).
 
@@ -22,7 +22,7 @@ Episodic memory, another sub-category of declarative memory, involves the recoll
 
 Implicit memory, also known as nondeclarative memory, is a type of long-term memory that is not consciously controlled. It is acquired and used unconsciously and can influence thoughts and behaviours without the person’s awareness. This type of memory primarily involves skills and routine procedures that are performed automatically.
 
-Implicit memories are typically acquired through repetition and practice and are manifested in our skills and habits. They can be divided into several types: procedural memory, [[priming]], [[classical conditioning]], and habituation.
+Implicit memories are typically acquired through repetition and practice and are manifested in our skills and habits. They can be divided into several types: procedural memory, [priming](../../../001_private/books/Short%20Introduction%20to%20Memory/Priming.md), [classical conditioning](Classical%20conditioning.md), and habituation.
 
 ### Procedural Memory
 

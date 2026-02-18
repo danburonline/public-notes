@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[chromosomal-balance.png]]
+![chromosomal-balance](../../../000_inbox/attachments/chromosomal-balance.png)
 
 ## Balanced Chromosomal Changes
 

@@ -24,5 +24,5 @@ A **mental state becomes conscious when it is the object of a higher-order repre
 - Debate over whether animals and infants can have the conceptual resources for higher-order representation
 - Concern that a regress of higher-order states is required to explain consciousness
 
-> [!NOTE] Difference to lower-order theories like [[Integrated Information Theory]] (IIT)
+> [!NOTE] Difference to lower-order theories like [Integrated Information Theory](../../videos/Integrated%20information%20theory.md) (IIT)
 > Higher-order theories posit that consciousness arises from a higher-order mental state (thought or perception) that is *about* another mental state.  A mental state becomes conscious when you're *aware* of it via this higher-order representation.  In contrast, IIT proposes that consciousness is an intrinsic property of systems that integrate information.  The amount of integrated information (Φ) determines the degree of consciousness.  IIT doesn't require higher-order representations; consciousness is fundamental to the system's capacity for information integration.

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[gmp.png]]
+![gmp](../../000_inbox/attachments/gmp.png)
 
 ## What is GMP?
 
@@ -12,7 +12,7 @@
 
 - **Sterile environment** - Clean room facilities to prevent contamination
 - **Quality control** - Rigorous testing of materials and final product
-- **Standardised processes** - Validated, reproducible [[bioprinting]] protocols
+- **Standardised processes** - Validated, reproducible [bioprinting](../../003_education/kings%20college/05%20Neuroscience%20in%20Society/Bioprinting.md) protocols
 - **Traceability** - Documentation of all steps and materials used
 - **Qualified personnel** - Trained staff following standard operating procedures
 

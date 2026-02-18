@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![[hodgkin-huxley.png]]
+![hodgkin-huxley](../../../000_inbox/attachments/hodgkin-huxley.png)
 
 The Hodgkin-Huxley model is a **mathematical model that describes how action potentials in neurons are initiated and propagated.** It is a set of nonlinear differential equations that approximate the electrical characteristics of excitable cells such as neurons.
 
@@ -14,7 +14,7 @@ The model is based on the concept of the neuron as an electrical circuit, which 
 
 ## Gating Variables
 
-[[Ion channels]] are gated by variables that change with voltage and time, reflecting the probability of a channel being open or closed. There are three main gating variables:
+[Ion channels](../../kings%20college/01%20Techniques%20in%20Neuroscience/Ion%20channels.md) are gated by variables that change with voltage and time, reflecting the probability of a channel being open or closed. There are three main gating variables:
 
 - **n**: Potassium channel activation gate
 - **m**: Sodium channel activation gate
@@ -26,7 +26,7 @@ These variables obey first-order kinetics and are described by their rate consta
 
 The fundamental equations of the Hodgkin-Huxley model include:
 
-1. **[[Resting membrane potential|Membrane]] equation:**
+1. **[Membrane](../../kings%20college/01%20Techniques%20in%20Neuroscience/Resting%20membrane%20potential.md) equation:**
 
    $$ C \frac{dV}{dt} = I - (g_{Na} m^3 h (V - E_{Na}) + g_{K} n^4 (V - E_{K}) + g_{L} (V - E_{L})) $$
 

@@ -1,8 +1,8 @@
 #core/appliedneuroscience
 
-![[apoptosis.jpg]]
+![apoptosis](../../../000_inbox/attachments/apoptosis.jpg)
 
-[[Synaptic pruning and apoptosis#Apoptosis|Apoptosis]], also known as **programmed cell death**, is a critical **process in which cells systematically dismantle themselves in a controlled and regulated manner.** This process is essential for maintaining cellular homeostasis and for the development and health of multicellular organisms.
+[Apoptosis](../04%20Biological%20Foundations%20of%20Mental%20Health/Synaptic%20pruning%20and%20apoptosis.md#apoptosis), also known as **programmed cell death**, is a critical **process in which cells systematically dismantle themselves in a controlled and regulated manner.** This process is essential for maintaining cellular homeostasis and for the development and health of multicellular organisms.
 
 ## Apoptosis vs. Necrosis
 

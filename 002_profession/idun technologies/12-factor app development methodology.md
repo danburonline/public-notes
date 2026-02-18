@@ -9,7 +9,7 @@ The 12-factor **app development methodology is a set of best practices for build
 5. **Build, release, run:** Strictly separate build and run stages.
 6. **Processes:** Execute the app as one or more stateless processes.
 7. **Port binding:** Export services via port binding.
-8. **Concurrency:** [[Decoupling of scale|Scale]] out via the process model.
+8. **Concurrency:** [Scale](../../001_private/videos/Decoupling%20of%20scale.md) out via the process model.
 9. **Disposability:** Maximise robustness with fast startup and graceful shutdown.
 10. **Dev/prod parity:** Keep development, staging, and production as similar as possible.
 11. **Logs:** Treat logs as event streams.

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[levels-of-consciousness.jpeg]]
+![levels-of-consciousness](../../../000_inbox/attachments/levels-of-consciousness.jpeg)
 
 ## Sentience
 
@@ -8,7 +8,7 @@
 - **Key Aspect**: Sensory experience without cognitive awareness of these sensations.
 - **Example**: Jellyfish responding to physical stimuli like light or touch.
 
-## [[Island of awareness|Awareness]]
+## [Awareness](Island%20of%20awareness.md)
 
 - **Definition**: Recognition or cognitive response to environmental stimuli.
 - **Key Aspect**: Going beyond mere sensation to acknowledge and respond to stimuli.

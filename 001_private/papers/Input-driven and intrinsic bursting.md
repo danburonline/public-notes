@@ -23,8 +23,8 @@ Neurons can generate **bursts of action potentials through two primary mechanism
 
 ### Key Characteristics
 
-- **Internal Mechanisms**: The neuron has specific [[ion channels]] and membrane properties that allow it to generate bursts spontaneously or in response to minimal input.
-- **Autonomous Activity**: The bursting activity is a result of the neuron’s intrinsic properties, such as the interplay between different types of [[ion channels]] (e.g., calcium and potassium channels).
+- **Internal Mechanisms**: The neuron has specific [ion channels](../../003_education/kings%20college/01%20Techniques%20in%20Neuroscience/Ion%20channels.md) and membrane properties that allow it to generate bursts spontaneously or in response to minimal input.
+- **Autonomous Activity**: The bursting activity is a result of the neuron’s intrinsic properties, such as the interplay between different types of [ion channels](../../003_education/kings%20college/01%20Techniques%20in%20Neuroscience/Ion%20channels.md) (e.g., calcium and potassium channels).
 - **Regular Patterns**: Intrinsic bursting often results in regular, rhythmic patterns of bursts that can occur even in the absence of external stimuli.
 
 > [!example]

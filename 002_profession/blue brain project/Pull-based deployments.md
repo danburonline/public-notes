@@ -1,6 +1,6 @@
 #core/softwaredevelopment
 
-![[pull-approach.png]]
+![pull-approach](../../000_inbox/attachments/pull-approach.png)
 
 Pull-based deployments involve **target environments autonomously pulling updates from a repository instead of receiving them through external pushes.**
 

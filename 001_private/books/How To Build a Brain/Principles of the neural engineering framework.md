@@ -1,13 +1,13 @@
 #core/artificialintelligence #core/appliedneuroscience
 
-![[nef-framework.png]]
+![nef-framework](../../../000_inbox/attachments/nef-framework.png)
 
 The Neural Engineering Framework (NEF) is a **computational framework for simulating neural systems.** It was developed to bridge the gap between neurobiological detail and the functional behaviour of neural circuits. The NEF is grounded in three core principles that dictate how populations of neurons can represent information, transform that information, and influence the dynamics of neural systems.
 
 ## Principle 1: Representation
 
 - **Neural Coding**: NEF posits that neurons represent variables through distributed patterns of activity across populations. Each neuron in the population has a unique response or tuning curve relating a neuron’s firing rate to the represented variable.
-- **Population Coding**: [[Integrated information theory|Information]] about a variable is not encoded in the activity of a single neuron but is distributed across a population, with each neuron contributing to a collective representation.
+- **Population Coding**: [Information](../../videos/Integrated%20information%20theory.md) about a variable is not encoded in the activity of a single neuron but is distributed across a population, with each neuron contributing to a collective representation.
 - **Dimensionality and Efficiency**: The framework accounts for the high-dimensional nature of neural representations and emphasises the efficiency of coding in neural populations.
 
 ## Principle 2: Transformation
@@ -18,5 +18,5 @@ The Neural Engineering Framework (NEF) is a **computational framework for simula
 ## Principle 3: Dynamics
 
 - **Temporal Representation**: NEF extends to dynamics by showing how neural circuits can embody temporal dynamics through recurrent connections.
-- **State [[Dependent and independent variables|Variables]]**: Neural populations can represent state variables that change over time, allowing the modelling of dynamic systems and temporal processing.
-- **Differential [[Three strategies for solving equations|Equations]]**: The dynamics of the represented variables can be described by differential equations, which are implemented through the synaptic connections within the neural population.
+- **State [Variables](../Essential%20Math%20for%20Data%20Science/Dependent%20and%20independent%20variables.md)**: Neural populations can represent state variables that change over time, allowing the modelling of dynamic systems and temporal processing.
+- **Differential [Equations](../Essential%20Math%20for%20Data%20Science/Three%20strategies%20for%20solving%20equations.md)**: The dynamics of the represented variables can be described by differential equations, which are implemented through the synaptic connections within the neural population.

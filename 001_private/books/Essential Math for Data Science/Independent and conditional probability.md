@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-## Independent [[Probability approaches|Probability]]
+## Independent [Probability](Probability%20approaches.md)
 
 Independent probability refers to the **probability of an event occurring without any influence from any other event.** If the occurrence of one event does not affect the probability of the occurrence of another event, these events are said to be independent.
 
@@ -18,7 +18,7 @@ $$
 P(A ∩ B) = P(A) * P(B) = (1/2) * (1/6) = 1/12
 $$
 
-## Conditional [[Probability approaches|Probability]]
+## Conditional [Probability](Probability%20approaches.md)
 
 Conditional probability is the **probability of one event occurring, given that another event has already occurred.** If we have two events, A and B, the conditional probability of A given B is denoted as P(A | B). It is calculated as:
 

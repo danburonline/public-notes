@@ -7,7 +7,7 @@
 
 ### Brain Network Disorder
 
-- Affects [[distributed brain]] areas, not localised deficits
+- Affects [distributed brain](../../../003_education/epfl/01%20Systems%20Neuroscience/Distributed%20brain.md) areas, not localised deficits
 - Impacts areas involved in social information processing
 
 ### Connectivity Patterns
@@ -19,12 +19,12 @@
 ### Functional Impact
 
 - Affects cognitive and behavioural processes
-- Example: In ASD, altered connectivity in [[visual pathways]] and attention networks
+- Example: In ASD, altered connectivity in [visual pathways](../../../003_education/kings%20college/02%20Psychological%20Foundations/Visual%20pathways.md) and attention networks
 
 ### Detection Methods
 
 - Traditional: CT scans, MRIs (insufficient)
-- Advanced: [[Diffusion Tensor Imaging]] (DTI), connectomes
+- Advanced: [Diffusion Tensor Imaging](../../books/Introduction%20to%20Neuroimaging%20Analysis/Diffusion%20tensor%20imaging.md) (DTI), connectomes
 
 ## Associated Conditions
 

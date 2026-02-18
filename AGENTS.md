@@ -8,7 +8,7 @@
 
 Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for [[consciousness engineering]]—connecting quantum cosmology, computational [[phenomenology]], [[biomimetic neuromorphics]], mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
+**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for [consciousness engineering](001_private/_%20general%20knowledge/Consciousness%20Engineering.md)—connecting quantum cosmology, computational [phenomenology](003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix%20science/Biomimetic%20neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
 
 ### STRUCTURE
 
@@ -41,7 +41,7 @@ Notes/
 ```markdown
 #category/subcategory
 
-![[optional-image.png]]
+![optional-image](relative/path/to/image.png)
 
 Brief definition or explanation in bold for key terms.
 
@@ -63,8 +63,8 @@ Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
 
 #### Linking
 
-- **Internal links**: Wikilinks `[[Note Title]]`
-- **Images**: Obsidian embed `![[image.png]]`
+- **Internal links**: Standard markdown `[Note Title](relative/path/to/Note.md)`
+- **Images**: Standard markdown `![alt text](relative/path/to/image.png)`
 - Images stored in `000_inbox/attachments/`
 
 #### Naming
@@ -82,7 +82,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
 ### ANTI-PATTERNS
 
 - **DO NOT** create notes without tags at line 1
-- **DO NOT** use markdown image syntax `![](path)` - use Obsidian `![[]]`
+- **DO NOT** revert to Obsidian-only embeds `![[image.png]]`
 - **DO NOT** store attachments outside `000_inbox/attachments/`
 - **DO NOT** commit `000_inbox/` content (except attachments) - gitignored
 - **DO NOT** use kebab-case or snake_case for note names
@@ -113,7 +113,7 @@ Available opencode skills for this workspace:
 
 When working with notes:
 
-- **Embedded images**: If a note contains `![[image.png]]` embeds, locate the image in `000_inbox/attachments/` and visually examine it using `look_at` to better understand the note's content before refining or expanding
+- **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image in `000_inbox/attachments/` and visually examine it using `look_at` to better understand the note's content before refining or expanding
 
 ### NOTES
 

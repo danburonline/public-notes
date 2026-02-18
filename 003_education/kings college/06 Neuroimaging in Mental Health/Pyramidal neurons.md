@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[pyramidal-neurons .jpg]]
+![pyramidal-neurons ](../../../000_inbox/attachments/pyramidal-neurons%20.jpg)
 
 Pyramidal neurons are a **type of excitatory neuron found in the cerebral cortex, hippocampus, and the amygdala.** They are named for their **distinct pyramid-shaped cell bodies** with a large apical dendrite, multiple basal dendrites, and a long axon that can extend to other parts of the brain.
 
@@ -20,7 +20,7 @@ Pyramidal neurons are a **type of excitatory neuron found in the cerebral cortex
 
 - **Cortical Columns**: Pyramidal neurons are organised into vertical structures called cortical columns, considered the basic functional units of the cerebral cortex.
 - **Synaptic Integration**: They integrate synaptic inputs from thousands of other neurons, summing excitatory and inhibitory signals to determine their output.
-- **Plasticity**: Exhibiting [[synaptic plasticity]], pyramidal neurons can strengthen or weaken their connections based on experience, which is a fundamental mechanism underlying learning and memory.
+- **Plasticity**: Exhibiting [synaptic plasticity](../04%20Biological%20Foundations%20of%20Mental%20Health/Synaptic%20plasticity.md), pyramidal neurons can strengthen or weaken their connections based on experience, which is a fundamental mechanism underlying learning and memory.
 
 ## Clinical Significance
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[4d-bioprinting.jpg]]
+![4d-bioprinting](../../000_inbox/attachments/4d-bioprinting.jpg)
 
 Advanced additive manufacturing creating dynamic, **cell-laden structures that evolve over time (4th dimension)** in response to stimuli (e.g., pH, temperature, light).  
 
@@ -17,7 +17,7 @@ Advanced additive manufacturing creating dynamic, **cell-laden structures that e
 - **Implants**: Temperature-triggered stents, wearable biosensors.  
 - **Biorobotics**: Biohybrid actuators for diagnostics.  
 
-## Advantages vs. 3D [[Bioprinting]]
+## Advantages vs. 3D [Bioprinting](../../003_education/kings%20college/05%20Neuroscience%20in%20Society/Bioprinting.md)
 
 - Dynamic adaptation mimics natural tissue behaviour.  
 - Improved host integration (e.g., heart valves adjusting to physiological pressures).  

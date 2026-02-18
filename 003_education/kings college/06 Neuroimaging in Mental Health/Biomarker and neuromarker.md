@@ -8,7 +8,7 @@
 
 ### Types
 
-- **Molecular Biomarkers:** DNA, RNA, proteins, lipids, or [[metabolites]].
+- **Molecular Biomarkers:** DNA, RNA, proteins, lipids, or [metabolites](../../../002_profession/eightsix%20science/Metabolites.md).
 - **Clinical Biomarkers:** Blood pressure, cholesterol levels, or body mass index (BMI).
 
 ### Uses
@@ -37,8 +37,8 @@
 
 ### Uses
 
-- **Neurological [[Peripheral nervous system#Diseases and Disorders|Disorders]]:** Diagnosing and monitoring conditions like Alzheimer’s, Parkinson’s, or epilepsy.
-- **Brain Function Assessment:** Understanding cognitive functions, [[stress]] responses, and emotional states.
+- **Neurological [Disorders](../../../004_subsidiary/courses/Udemy/Neuroanatomy/Peripheral%20nervous%20system.md#diseases-and-disorders):** Diagnosing and monitoring conditions like Alzheimer’s, Parkinson’s, or epilepsy.
+- **Brain Function Assessment:** Understanding cognitive functions, [stress](../03%20Mental%20Health%20in%20the%20Community/Stress.md) responses, and emotional states.
 - **Therapeutic Interventions:** Evaluating the impact of treatments on brain function.
 
 ### Examples
