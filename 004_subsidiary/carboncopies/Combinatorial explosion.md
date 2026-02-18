@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/mathematicalphysics #core/appliedneuroscience
 
-![[combinatorial-explosion.jpg]]
+![combinatorial-explosion](../../000_inbox/attachments/combinatorial-explosion.jpg)
 
 ## 1. Basic Concepts
 

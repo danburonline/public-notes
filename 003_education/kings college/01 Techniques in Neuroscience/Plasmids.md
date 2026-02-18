@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[plasmids.png]]
+![plasmids](../../../000_inbox/attachments/plasmids.png)
 
 **Plasmids** are small, circular, double-stranded DNA molecules found in bacteria and some eukaryotes. They replicate independently of chromosomal DNA and are not essential for survival but often confer selective advantages (e.g., antibiotic resistance). In neuroscience, plasmids serve as fundamental tools for gene delivery, enabling expression of fluorescent reporters, optogenetic actuators, and therapeutic transgenes.
 
@@ -65,4 +65,4 @@ Plasmids can encode:
 
 ## Related Concepts
 
-- [[Optogenetics]]
+- [Optogenetics](../../../001_private/social%20media/linkedin/Optogenetics.md)

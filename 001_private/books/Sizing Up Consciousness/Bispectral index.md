@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[bispectral-index-monitor.png]]
+![bispectral-index-monitor](../../../000_inbox/attachments/bispectral-index-monitor.png)
 
 The bispectral index (BIS) is a **processed EEG parameter** used to monitor the **depth of anaesthesia during surgery.** It ranges from 0 to 100, with lower values indicating deeper anaesthesia.
 

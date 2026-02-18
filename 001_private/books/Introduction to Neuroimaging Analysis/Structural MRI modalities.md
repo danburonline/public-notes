@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[more-mri-modalities.png]]
+![more-mri-modalities](../../../000_inbox/attachments/more-mri-modalities.png)
 
 ## **FLAIR (Fluid-Attenuated Inversion Recovery)**
 
@@ -11,7 +11,7 @@
 
 ## **DIR (Double Inversion Recovery)**
 
-- **Usage**: Provides high contrast resolution between grey matter (GM) and white matter (WM). It is particularly useful for detecting cortical and subcortical lesions in [[central nervous system]] diseases.
+- **Usage**: Provides high contrast resolution between grey matter (GM) and white matter (WM). It is particularly useful for detecting cortical and subcortical lesions in [central nervous system](../../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Central%20nervous%20system.md) diseases.
 - **Mechanism**: Applies two 180° inversion radio-frequency pulses to suppress two tissue types simultaneously (e.g., WM and CSF or GM and CSF). This selective suppression enhances the conspicuity of specific tissue types.
 
 ---

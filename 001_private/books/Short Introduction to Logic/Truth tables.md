@@ -47,6 +47,6 @@ Here are some basic truth tables:
 |F|T|F|
 |F|F|T|
 
-## [[Number systems#Complex Numbers|Complex]] Expressions
+## [Complex](../Essential%20Math%20for%20Data%20Science/Number%20systems.md#complex-numbers) Expressions
 
 Truth tables can also be used for complex logical expressions, not just individual operators. For example, the expression p ∧ (q ∨ r) can be evaluated using a truth table. Remember, when evaluating complex expressions, evaluate the innermost parentheses first. In the example above, you'd first evaluate q ∨ r and then combine that with p ∧.

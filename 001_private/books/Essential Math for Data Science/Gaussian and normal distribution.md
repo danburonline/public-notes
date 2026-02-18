@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/mathematicalphysics 
 
-![[normal-distribution.png]]
+![normal-distribution](../../../000_inbox/attachments/normal-distribution.png)
 
 Gaussian Distribution, also known as **Normal Distribution**, is a type of **continuous probability distribution for a real-valued random variable.** It forms a bell-shaped curve when plotted on a graph.
 
@@ -8,7 +8,7 @@ Gaussian Distribution, also known as **Normal Distribution**, is a type of **con
 
 - Normal Distribution is symmetric about the mean. A Normal Distribution's mean, median, and mode are all equal.
 
-![[normal-dist-formula.jpg]]
+![normal-dist-formula](../../../000_inbox/attachments/normal-dist-formula.jpg)
 
 - The probability density function of a Normal Distribution is:
     - `x` is a real-valued random variable
@@ -31,7 +31,7 @@ Gaussian Distribution, also known as **Normal Distribution**, is a type of **con
 
 - Not all data sets are normally distributed. Therefore, using normal distribution methods for non-normally distributed data sets can lead to inaccurate results.
 - It assumes that the mean, median and mode are equal, which is not the case in every real-world scenario.
-- [[Data skew|Data]] can have significant skew and kurtosis, which are not adequately represented by the normal distribution.
+- [Data](../../../004_subsidiary/courses/DataCamp%20ML%20Scientist/Data%20skew.md) can have significant skew and kurtosis, which are not adequately represented by the normal distribution.
 
 > [!tip]
 > Remember, the normal distribution is a model; like all models, it’s a simplification of reality. Always check if your data follows a normal distribution before applying normal distribution-based methods.

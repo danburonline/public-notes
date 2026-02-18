@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[webers-law.png]]
+![webers-law](../../../000_inbox/attachments/webers-law.png)
 
 Weber's law, also known as Weber-Fechner law, is a principle in psychology that states that **the perceived difference between two stimuli is proportional to the magnitude of the stimuli and is constant over the range of the stimuli.** In other words, the just noticeable difference (JND) between two stimuli is a constant fraction of the intensity of the stimuli.
 

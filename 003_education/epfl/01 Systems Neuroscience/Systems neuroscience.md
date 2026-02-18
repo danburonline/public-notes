@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![[systems-neuroscience.png]]
+![systems-neuroscience](../../../000_inbox/attachments/systems-neuroscience.png)
 
 Systems neuroscience is a pivotal branch within the field of neuroscience, **concentrating on the dynamics of neural circuits and how these networks underpin behaviours, perceptions, and emotions.** This discipline seeks to decode the complex interactions between neural activity and the various functionalities such as sensory processing, motor control, and cognitive operations.
 

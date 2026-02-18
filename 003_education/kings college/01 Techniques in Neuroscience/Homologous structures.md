@@ -16,11 +16,11 @@
 - Connectivity archetypes: comparable input–output motifs.
 - Phylogenetic spread consistent with common ancestry.
 
-> [!example] [[Basal ganglia]] across vertebrates  
+> [!example] [Basal ganglia](../04%20Biological%20Foundations%20of%20Mental%20Health/Basal%20ganglia.md) across vertebrates  
 > Striatum–pallidum–STN–dopamine motifs are conserved from fish to mammals; shared ventral telencephalic origins and action-selection roles support homology.
 
 > [!example] Pallium subdivisions → mammalian cortex  
-> Medial pallium → hippocampus; lateral → piriform; dorsal → [[neocortex]]. Avian/reptilian pallia are homologous despite different lamination.
+> Medial pallium → hippocampus; lateral → piriform; dorsal → [neocortex](../../_%20general%20knowledge/Neocortex.md). Avian/reptilian pallia are homologous despite different lamination.
 
 **Tools you’ll use**
 - Fate mapping and patterning markers (e.g., Emx/Pax/Otx; SHH/WNT/FGF).

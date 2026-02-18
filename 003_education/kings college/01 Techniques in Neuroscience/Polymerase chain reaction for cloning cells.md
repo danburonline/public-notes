@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[polymerase-cloning.png]]
+![polymerase-cloning](../../../000_inbox/attachments/polymerase-cloning.png)
 
 - Polymerase Chain Reaction (PCR) **amplifies or copies specific DNA sequences in vitro.**
 - PCR is often used to amplify a specific gene of interest in cloning cells.

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[metabolites.svg]]
+![metabolites](../../000_inbox/attachments/metabolites.svg)
 
 Metabolites are **intermediate or end products of metabolism, typically small molecules that play crucial roles in cellular processes and tissue function.** They can be categorised into primary metabolites (essential for growth and development) and secondary metabolites (ecological functions).
 
@@ -31,6 +31,6 @@ Metabolites are **intermediate or end products of metabolism, typically small mo
 
 - **Energy Production**: ATP generation
 - **Structural Components**: Cell building blocks
-- **[[Neurotrophic factors#Signalling Mechanisms|Signalling]] Molecules**: Cell-cell communication
+- **[Signalling](Neurotrophic%20factors.md#signalling-mechanisms) Molecules**: Cell-cell communication
 - **Regulatory Elements**: Enzyme modulation
 - **Defense Mechanisms**: Protection against stressors

@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[dac.png]]
+![dac](../../000_inbox/attachments/dac.png)
 
 The Distributed Adaptive Control (DAC) theory is presented as a **framework for understanding the mind and brain, particularly in the context of its relationship with the body and environment.** It stands as an alternative to traditional artificial intelligence and connectionism.
 
@@ -12,7 +12,7 @@ The Distributed Adaptive Control (DAC) theory is presented as a **framework for 
     - **Soma (SL):** Represents the body with its sensors, organs, and actuators, defining the organism's self-essential functions (SEFs) necessary for survival.
     - **Reactive (RL):** Comprises dedicated behaviour systems (BS) that implement predefined sensorimotor mappings serving the SEFs. An allostatic controller regulates these BSs for action selection and conflict resolution. The RL is modelled after the evolutionary ancient core behaviour systems (CBS) of the brainstem and midbrain.
     - **Adaptive (AL):** Acquires a state space of the agent-environment interaction through perceptual and behavioural learning, constrained by value functions from the RL. It minimises perceptual and behavioural prediction error. The AL models brain systems underlying classical (Pavlovian) conditioning.
-    - **Contextual (CL):** Extends the time horizon for agent operation through episodic and sequential short-term and [[long-term memory]] systems (STM, LTM). STM acquires conjunctive sensorimotor representations, and STM sequences are retained in LTM as goal-oriented policies when positive value is encountered. The CL follows a four-factor decision-making model (goals, perceptual evidence, memory chaining, and valence) and models operant conditioning.
-- **Columnar Organisation:** Across the four layers, a columnar organisation exists that processes states of the world (exteroception), the self (interoception), and action ([[proprioception]]) at every level.
+    - **Contextual (CL):** Extends the time horizon for agent operation through episodic and sequential short-term and [long-term memory](../../003_education/kings%20college/02%20Psychological%20Foundations/Long-term%20memory.md) systems (STM, LTM). STM acquires conjunctive sensorimotor representations, and STM sequences are retained in LTM as goal-oriented policies when positive value is encountered. The CL follows a four-factor decision-making model (goals, perceptual evidence, memory chaining, and valence) and models operant conditioning.
+- **Columnar Organisation:** Across the four layers, a columnar organisation exists that processes states of the world (exteroception), the self (interoception), and action ([proprioception](../../004_subsidiary/courses/Udemy/Neuroanatomy/Proprioception.md)) at every level.
 - **Addressing the H4W Problem:** DAC proposes that goal-oriented action in the physical world emerges from the interplay of processes subserving the 'How, Why, What, Where, and When' (H4W) of action.
 - **Synthetic Consciousness (DACtoc) and the H5W Problem:** DAC is further extended to the Distributed Adaptive Control theory of consciousness (DACtoc). DACtoc hypothesises that consciousness is crucial for optimising action in a multi-agent world, solving the 'How, Why, What, Where, When, and Who' (H5W) problem which introduces parallelisation, reciprocity, and hidden states due to other agents. Consciousness, in this view, is an **autonomous virtualisation memory** that serialises and unifies parallel subconscious simulations to extract norms, which are then projected as value to guide action.

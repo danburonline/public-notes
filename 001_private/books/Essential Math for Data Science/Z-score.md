@@ -22,8 +22,8 @@ where:
 ## Key Points
 
 - **Data Point (X)**: Your data set’s individual observation or value.
-- [[Sample vs population|Population]] [[Binomial distribution#Mean and Variance|Mean]] (μ)**: The average value of a particular measurement across the entire population.
-- **Population Standard [[Variance and standard deviation#Standard Deviation|Deviation]] (σ)**: The amount of variation or dispersion of a set of values in the population.
+- [Population](Sample%20vs%20population.md) [Mean](Binomial%20distribution.md#mean-and-variance) (μ)**: The average value of a particular measurement across the entire population.
+- **Population Standard [Deviation](Variance%20and%20standard%20deviation.md#standard-deviation) (σ)**: The amount of variation or dispersion of a set of values in the population.
 
 ## Interpretation
 

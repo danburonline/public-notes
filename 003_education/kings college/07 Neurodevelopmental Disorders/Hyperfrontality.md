@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[hyperfrontality.png]]
+![hyperfrontality](../../../000_inbox/attachments/hyperfrontality.png)
 
 Hyperfrontality refers to **increased activity or overactivity in the brain’s frontal lobes.**
 
@@ -8,7 +8,7 @@ Hyperfrontality refers to **increased activity or overactivity in the brain’s 
 
 - The frontal lobes are critical for a variety of functions, including:
   - Problem-solving
-  - [[Working memory model|Memory]]
+  - [Memory](../02%20Psychological%20Foundations/Working%20memory%20model.md)
   - Language
   - Judgment
   - Impulse control
@@ -22,7 +22,7 @@ Hyperfrontality refers to **increased activity or overactivity in the brain’s 
 
 - Disorders often linked with hyperfrontality include:
   - **Schizophrenia**: Characterised by abnormal social behaviour and failure to recognise reality.
-  - **[[Spectrum of bipolar disorder|Bipolar]] Disorder**: Involves episodes of mood swings ranging from depressive lows to manic highs.
+  - **[Bipolar](../03%20Mental%20Health%20in%20the%20Community/Spectrum%20of%20bipolar%20disorder.md) Disorder**: Involves episodes of mood swings ranging from depressive lows to manic highs.
   - **Obsessive-Compulsive Disorder (OCD)**: Characterised by unreasonable thoughts and fears (obsessions) leading to compulsive behaviours.
 
 ## Diagnostic Tools

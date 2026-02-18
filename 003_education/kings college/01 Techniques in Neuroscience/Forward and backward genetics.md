@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[forward-backwards-genetics.png]]
+![forward-backwards-genetics](../../../000_inbox/attachments/forward-backwards-genetics.png)
 
 Forward genetics and backward genetics are **two methods used in animal models to study the relationship between genetics and phenotypes.** 
 

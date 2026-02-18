@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/softwaredevelopment 
 
-![[biomimicry.jpg]]
+![biomimicry](../../000_inbox/attachments/biomimicry.jpg)
 
 Biomimicry is an innovative approach to **design and problem-solving that draws inspiration from nature's time-tested patterns, strategies, and systems.** Derived from the Greek words *bios* (life) and *mimesis* (imitation), biomimicry involves emulating the models, processes, and ecosystems found in the natural world to address human challenges in a sustainable manner.
 
@@ -17,7 +17,7 @@ Biomimicry has been applied across various fields:
 - **Architecture**: Buildings designed to mimic ecosystems for energy efficiency.
 - **Transportation**: The kingfisher-inspired bullet train reduces noise and improves aerodynamics.
 - **Materials Science**: Velcro was inspired by the hook-like structures of burdock burrs.
-- **[[Personalised regenerative medicine|Medicine]]**: Innovations like ultrasound systems modelled after dolphin communication strategies.
+- **[Medicine](../../001_private/_%20general%20knowledge/Personalised%20regenerative%20medicine.md)**: Innovations like ultrasound systems modelled after dolphin communication strategies.
 
 > [!Significance]
 > By leveraging nature's 3.8 billion years of evolution, biomimicry promotes sustainable development, resilience, and resource efficiency while minimising waste. It offers transformative solutions for industries such as energy, healthcare, and urban planning.

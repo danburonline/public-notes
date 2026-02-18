@@ -13,7 +13,7 @@ Increasing one typically compromises the other due to acquisition time constrain
 
 ## Signal-to-Noise Ratio (SNR)
 
-SNR is critical for detecting the relatively weak [[The BOLD effect|BOLD signal]] changes (typically 1–5% signal change). Key factors affecting SNR:
+SNR is critical for detecting the relatively weak [BOLD signal](The%20BOLD%20effect.md) changes (typically 1–5% signal change). Key factors affecting SNR:
 
 | Factor | Effect on SNR |
 |--------|---------------|
@@ -27,7 +27,7 @@ SNR is critical for detecting the relatively weak [[The BOLD effect|BOLD signal]
 
 ### Motion Artefacts
 
-Even small head movements (< 1 mm) can introduce substantial errors, as the [[The BOLD effect|BOLD signal]] change is small. Mitigation strategies include:
+Even small head movements (< 1 mm) can introduce substantial errors, as the [BOLD signal](The%20BOLD%20effect.md) change is small. Mitigation strategies include:
 
 - Prospective motion correction
 - Retrospective realignment algorithms
@@ -54,8 +54,8 @@ Cardiac and respiratory cycles introduce systematic signal fluctuations unrelate
 
 ## Relation to Other Concepts
 
-- [[The BOLD effect]]: The signal being measured
-- [[Initial dip in BOLD signal]]: Early transient affecting temporal dynamics
-- [[Cognitive subtraction]]: Experimental design to isolate signal of interest
-- [[Multi-modal imaging]]: Combining fMRI with other modalities to overcome limitations
-- [[Comparison of neuroimaging methods]]: How fMRI compares to alternative techniques
+- [The BOLD effect](The%20BOLD%20effect.md): The signal being measured
+- [Initial dip in BOLD signal](Initial%20dip%20in%20BOLD%20signal.md): Early transient affecting temporal dynamics
+- [Cognitive subtraction](Cognitive%20subtraction.md): Experimental design to isolate signal of interest
+- [Multi-modal imaging](Multi-modal%20imaging.md): Combining fMRI with other modalities to overcome limitations
+- [Comparison of neuroimaging methods](Comparison%20of%20neuroimaging%20methods.md): How fMRI compares to alternative techniques

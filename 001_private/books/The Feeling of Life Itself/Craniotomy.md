@@ -1,6 +1,6 @@
 #core/theoreticalneurosurgery #core/appliedneuroscience
 
-![[craniotomy.jpg]]
+![craniotomy](../../../000_inbox/attachments/craniotomy.jpg)
 
 A craniotomy is a **surgical procedure involving the temporary removal of a bone flap from the skull to access the brain.** Unlike a craniectomy (where bone is not replaced), the bone flap is repositioned after the intracranial procedure, making craniotomy the foundational access technique for most modern neurosurgery.
 
@@ -19,15 +19,15 @@ The patient's head is typically rotated 20–30 degrees away from the side of th
 
 - **Tumour removal** — large brain tumours requiring extensive access for complete resection
 - **Trauma** — severe head injuries with significant swelling or haemorrhage necessitating decompression
-- **[[Cortex vascularisation|Vascular]] pathology** — aneurysm clipping and arteriovenous malformation repair
-- **Functional neurosurgery** — electrode implantation for [[Deep Brain Stimulation]], epilepsy surgery, and brain-computer interface placement (see [[IDEAL framework]])
+- **[Vascular](../../../002_profession/eightsix%20science/Cortex%20vascularisation.md) pathology** — aneurysm clipping and arteriovenous malformation repair
+- **Functional neurosurgery** — electrode implantation for Deep Brain Stimulation, epilepsy surgery, and brain-computer interface placement (see [IDEAL framework](../../../002_profession/eightsix%20science/IDEAL%20framework.md))
 - **Infections** — deep-seated abscesses requiring drainage and debridement
 
 ## Surgical Technique
 
 ### Planning and Imaging
 
-Modern craniotomy relies on [[Stereotaxic neurosurgery|stereotactic]] image guidance—preoperative MRI/CT scans are co-registered with the patient's anatomy to plan the optimal incision site, bone flap size, and surgical corridor. Frameless neuronavigation systems track instruments in real time relative to the preoperative imaging.
+Modern craniotomy relies on [stereotactic](../../../002_profession/eightsix%20science/Stereotaxic%20neurosurgery.md) image guidance—preoperative MRI/CT scans are co-registered with the patient's anatomy to plan the optimal incision site, bone flap size, and surgical corridor. Frameless neuronavigation systems track instruments in real time relative to the preoperative imaging.
 
 ### Procedure
 
@@ -54,21 +54,21 @@ In awake craniotomy, the patient is sedated for the bone work but awakened durin
 
 ## Implications for Consciousness Engineering
 
-Craniotomy is the **enabling access procedure** for any physical intervention on neural substrate. Every step of [[PSNST|Progressive Synthetic Neural Substrate Transfer]]—from initial neural architecture mapping to sequential layering of synthetic tissue—requires controlled intracranial access that craniotomy provides.
+Craniotomy is the **enabling access procedure** for any physical intervention on neural substrate. Every step of [Progressive Synthetic Neural Substrate Transfer](../../_%20general%20knowledge/PSNST.md)—from initial neural architecture mapping to sequential layering of synthetic tissue—requires controlled intracranial access that craniotomy provides.
 
 > [!tip] Relevance to Substrate Transfer
-> For [[PSNST]]:
-> 1. Craniotomy provides the surgical access necessary for [[neural grafts|neural graft]] placement and synthetic substrate layering
+> For [PSNST](../../_%20general%20knowledge/PSNST.md):
+> 1. Craniotomy provides the surgical access necessary for [neural graft](../../videos/Neural%20grafts.md) placement and synthetic substrate layering
 > 2. Awake craniotomy techniques could enable real-time consciousness monitoring during progressive transfer
-> 3. The [[IDEAL framework]] classifies BCI implantation (requiring craniotomy) through structured innovation stages
+> 3. The [IDEAL framework](../../../002_profession/eightsix%20science/IDEAL%20framework.md) classifies BCI implantation (requiring craniotomy) through structured innovation stages
 >
-> Craniotomy also underpins [[Hemispherotomy]]—itself key empirical evidence that consciousness survives major substrate alteration.
+> Craniotomy also underpins [Hemispherotomy](../Sizing%20Up%20Consciousness/Hemispherotomy.md)—itself key empirical evidence that consciousness survives major substrate alteration.
 
 ### Open Questions
 
 - Can minimally invasive or endovascular approaches eventually replace craniotomy for substrate transfer procedures?
 - How does craniotomy-induced inflammation affect the integration window for synthetic neural grafts?
-- Could [[Neural correlate of consciousness|perturbational complexity index]] monitoring during awake craniotomy inform the consciousness verification protocol for PSNST?
+- Could [perturbational complexity index](Neural%20correlate%20of%20consciousness.md) monitoring during awake craniotomy inform the consciousness verification protocol for PSNST?
 
 ## Historical Context
 

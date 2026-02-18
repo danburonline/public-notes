@@ -1,8 +1,8 @@
 #core/appliedneuroscience 
 
-![[summation.jpg]]
+![summation](../../../000_inbox/attachments/summation.jpg)
 
-Summation refers to the **process by which neurons integrate input signals.** [[Graded potential]]s from different parts of the neuron's body are added together to determine whether the neuron will fire an action potential. There are two types of summation: spatial and temporal.
+Summation refers to the **process by which neurons integrate input signals.** [Graded potential](Graded%20potential.md)s from different parts of the neuron's body are added together to determine whether the neuron will fire an action potential. There are two types of summation: spatial and temporal.
 
 ## Spatial Summation
 
@@ -14,7 +14,7 @@ Spatial summation occurs when graded potentials from multiple locations on the n
 
 ## Temporal Summation
 
-Temporal summation occurs when a single presynaptic neuron fires action potentials so rapidly that the effects of each individual [[graded potential]] are combined.
+Temporal summation occurs when a single presynaptic neuron fires action potentials so rapidly that the effects of each individual [graded potential](Graded%20potential.md) are combined.
 
 - It refers to the addition of successive inputs from the same location on the dendrites and cell body over a short period of time.
 - A single presynaptic neuron can thus influence whether the postsynaptic neuron reaches the threshold potential.

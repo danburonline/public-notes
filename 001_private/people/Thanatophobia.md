@@ -26,6 +26,6 @@ Thanatophobia, also known as "death anxiety," is an **intense and persistent fea
 
 ## Treatment
 
-- [[Cognitive-behavioural therapy|Cognitive-behavioural]] therapy (CBT)
+- [Cognitive-behavioural](../../003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Cognitive-behavioural%20therapy.md) therapy (CBT)
 - Mindfulness-based therapies
 - Medication (for anxiety symptoms, if needed)

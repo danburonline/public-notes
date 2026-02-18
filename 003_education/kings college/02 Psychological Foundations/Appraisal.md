@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-An appraisal is a **cognitive process that involves evaluating and interpreting events and situations, affecting our emotional responses and subsequent behaviour.** This concept plays a crucial role in various psychological theories, particularly those related to [[stress]] and emotion.
+An appraisal is a **cognitive process that involves evaluating and interpreting events and situations, affecting our emotional responses and subsequent behaviour.** This concept plays a crucial role in various psychological theories, particularly those related to [stress](../03%20Mental%20Health%20in%20the%20Community/Stress.md) and emotion.
 
 ## Types of Appraisal
 
@@ -10,7 +10,7 @@ In primary appraisal, we evaluate the relevance of the event to our personal wel
 
 - **Irrelevant**: The situation has no significance to personal goals.
 - **Benign-positive**: The situation is beneficial or enhances personal goals.
-- [[Stress|Stressful]]**: The situation presents harm, threat, or challenge to personal goals.
+- [Stressful](../03%20Mental%20Health%20in%20the%20Community/Stress.md)**: The situation presents harm, threat, or challenge to personal goals.
 
 ### 2. Secondary Appraisal
 
@@ -22,11 +22,11 @@ Secondary appraisal involves an assessment of coping resources and options. This
 
 Different appraisals of the same event can lead to different emotional responses. For example, if a situation is appraised as a threat, it may lead to anxiety. If the same situation is appraised as a challenge, it may lead to excitement or determination.
 
-## Appraisal and [[Stress]]
+## Appraisal and [Stress](../03%20Mental%20Health%20in%20the%20Community/Stress.md)
 
-In the context of [[stress]], appraisal is crucial in determining whether a situation is considered stressful. If an individual appraises a situation as beyond their coping abilities, it becomes a stressor.
+In the context of [stress](../03%20Mental%20Health%20in%20the%20Community/Stress.md), appraisal is crucial in determining whether a situation is considered stressful. If an individual appraises a situation as beyond their coping abilities, it becomes a stressor.
 
-## Cognitive [[Emotion reappraisal strategy|Reappraisal]]
+## Cognitive [Reappraisal](Emotion%20reappraisal%20strategy.md)
 
 Cognitive reappraisal is a coping mechanism involving changing one’s interpretation of a situation to manage emotional responses. It is an important strategy in cognitive behavioural therapy (CBT) and emotion regulation.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[anisotropic-microstructures.png]]
+![anisotropic-microstructures](../../../000_inbox/attachments/anisotropic-microstructures.png)
 
 Anisotropic microstructures are **materials with direction-dependent properties**, which are crucial in replicating the natural architecture of biological tissues. These structures are often utilised in tissue engineering to mimic the anisotropy found in native tissues like muscles, bones, and nerves.
 
@@ -22,7 +22,7 @@ Anisotropic microstructures are **materials with direction-dependent properties*
    - Commonly used polymers: PLGA, PCL, and collagen.
    - Applications: Muscle and nerve tissue engineering.
 
-2. **3D [[Bioprinting]]**:
+2. **3D [Bioprinting](../../../003_education/kings%20college/05%20Neuroscience%20in%20Society/Bioprinting.md)**:
    - Controlled deposition of biomaterials to create aligned patterns.
    - Offers high precision and customisation.
 

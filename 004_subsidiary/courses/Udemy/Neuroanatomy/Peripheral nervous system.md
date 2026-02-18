@@ -1,8 +1,8 @@
 #core/appliedneuroscience
 
-![[pns.png]]
+![pns](../../../../000_inbox/attachments/pns.png)
 
-The peripheral nervous system (PNS) is one of the two major nervous system divisions. It is composed of **all the nerves that branch off from the brain and spinal cord** ([[Central nervous system]]).
+The peripheral nervous system (PNS) is one of the two major nervous system divisions. It is composed of **all the nerves that branch off from the brain and spinal cord** ([Central nervous system](../../../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Central%20nervous%20system.md)).
 
 ## Structure
 
@@ -32,7 +32,7 @@ The peripheral nervous system (PNS) is one of the two major nervous system divis
 
 ## Sensations
 
-The peripheral nervous system plays a key role in transmitting sensory information to the [[Central nervous system]]. It handles both special and general sensations.
+The peripheral nervous system plays a key role in transmitting sensory information to the [Central nervous system](../../../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Central%20nervous%20system.md). It handles both special and general sensations.
 
 ### Special Sensations
 
@@ -40,7 +40,7 @@ The peripheral nervous system plays a key role in transmitting sensory informati
 
 ### General Sensations
 
-- General sensations are those that are felt throughout the body, such as temperature, pain, touch, pressure, vibration, and [[Proprioception]] (body position).
+- General sensations are those that are felt throughout the body, such as temperature, pain, touch, pressure, vibration, and [Proprioception](Proprioception.md) (body position).
 
 ## Functions
 

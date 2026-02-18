@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[priming.jpg]]
+![priming](../../../000_inbox/attachments/priming.jpg)
 
 Priming is a **phenomenon in psychology that refers to the influence of a prior stimulus on later responses,** whether conscious or unconscious. This can significantly impact learning, memory, and brain processes. Here’s a detailed overview:
 
@@ -8,8 +8,8 @@ Priming is a **phenomenon in psychology that refers to the influence of a prior 
 
 **Priming** is the process by which exposure to a stimulus influences a response to a subsequent stimulus without conscious guidance or intention. This can occur in various ways, such as:
 
-- **[[Long-term memory#Semantic Memory|Semantic]] priming:** Occurs when the prime and the target are semantically related, i.e., they have similar meanings (e.g., “doctor” priming for “nurse”).
-- **[[Long-term memory#Perceptual Memory|Perceptual]] priming:** This relies on the form of the stimulus and is based on a sensory modality (e.g., a certain smell or sound may trigger a specific memory).
+- **[Semantic](../../../003_education/kings%20college/02%20Psychological%20Foundations/Long-term%20memory.md#semantic-memory) priming:** Occurs when the prime and the target are semantically related, i.e., they have similar meanings (e.g., “doctor” priming for “nurse”).
+- **[Perceptual](../../../003_education/kings%20college/02%20Psychological%20Foundations/Long-term%20memory.md#perceptual-memory) priming:** This relies on the form of the stimulus and is based on a sensory modality (e.g., a certain smell or sound may trigger a specific memory).
 
 ## Impact on Learning
 

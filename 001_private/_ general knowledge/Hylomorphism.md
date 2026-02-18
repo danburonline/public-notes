@@ -19,11 +19,11 @@ Hylomorphism is a **philosophical theory** developed by [Aristotle](https://en.w
 
 ## Relevance to Philosophy of Mind
 
-Hylomorphism prefigures modern functionalism: Aristotle's claim that the soul is the *form* of the body—not a separate substance—maps onto the idea that mental states are defined by functional organisation rather than material composition. This is the historical root of [[Multiple realisability]]: if what matters is the form (organisation), then different matter (substrates) can in principle instantiate the same mental properties.
+Hylomorphism prefigures modern functionalism: Aristotle's claim that the soul is the *form* of the body—not a separate substance—maps onto the idea that mental states are defined by functional organisation rather than material composition. This is the historical root of [Multiple realisability](../books/How%20To%20Build%20a%20Brain/Multiple%20realisability.md): if what matters is the form (organisation), then different matter (substrates) can in principle instantiate the same mental properties.
 
-The framework also illuminates the formal requirements of [[Invariant brain emulation]], where the goal is to preserve a system's functional "form" ($O(f(b)) \equiv O(b)$) while transforming its material substrate—a literal change of *hyle* with conservation of *morphe*.
+The framework also illuminates the formal requirements of [Invariant brain emulation](../../002_profession/eightsix%20science/Invariant%20brain%20emulation.md), where the goal is to preserve a system's functional "form" ($O(f(b)) \equiv O(b)$) while transforming its material substrate—a literal change of *hyle* with conservation of *morphe*.
 
-A tension arises with [[Emergent properties]]: if form is irreducible to matter, are emergent properties a modern articulation of hylomorphic form? Or does emergence require abandoning the clean matter/form duality in favour of something more layered?
+A tension arises with [Emergent properties](../videos/Emergent%20properties.md): if form is irreducible to matter, are emergent properties a modern articulation of hylomorphic form? Or does emergence require abandoning the clean matter/form duality in favour of something more layered?
 
 ## Why is Hylomorphism Important?
 

@@ -1,6 +1,6 @@
 #core/mathematicalphysics #fundamental/logic
 
-![[formal-theory.jpg]]
+![formal-theory](../../000_inbox/attachments/formal-theory.jpg)
 
 A formal theory is **a symbolic system consisting of a set of axioms and rules for deriving theorems from those axioms using formal logic**. The axioms are the starting assumptions, and the theorems are additional statements that can be proven using the inference rules of the system.
 

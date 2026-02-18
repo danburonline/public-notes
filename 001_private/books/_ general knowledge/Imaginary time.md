@@ -1,6 +1,6 @@
 #core/quantumcosmology #core/mathematicalphysics
 
-![[no-boundary.jpg]]
+![no-boundary](../../../000_inbox/attachments/no-boundary.jpg)
 
 Imaginary time is a concept derived from quantum mechanics and is used in quantum cosmology. It was popularised by Stephen Hawking in 1988. It's called "imaginary" because it **involves a mathematical substitution where the regular time variable $t$ is replaced with imaginary time $i\tau$,** where $i$ is the imaginary unit with the property $i^2 = -1$.
 
@@ -15,7 +15,7 @@ In cosmology, imaginary time appears in the Hartle-Hawking state, also known as 
 - **Standard Big Bang** (general relativity alone): The universe originates from a sharp singularity—a point where physics breaks down and time has a problematic "beginning."
 - **Hartle-Hawking model** (general relativity + quantum theory): The singularity is replaced by a smooth, rounded geometry where time behaves like a spatial dimension. There is no edge or boundary—much like how the North Pole is a point on Earth but not an "edge."
 
-By treating time as space-like at the origin, Hawking and Hartle described a universe that doesn't have a definite moment of beginning. Our conventional notion of time is said to [[Strong emergence|emerge]] from this more fundamental spacetime structure.
+By treating time as space-like at the origin, Hawking and Hartle described a universe that doesn't have a definite moment of beginning. Our conventional notion of time is said to [emerge](../../videos/Strong%20emergence.md) from this more fundamental spacetime structure.
 
 ## Ontological Status
 

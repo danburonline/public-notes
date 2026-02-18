@@ -4,7 +4,7 @@ The IDEAL framework provides a **structured approach for evaluating surgical inn
 
 **1. Idea (Stage 1)**
 
-- Initial reporting of novel neurosurgical techniques like BCIs requiring [[craniotomy]] or endovascular approaches
+- Initial reporting of novel neurosurgical techniques like BCIs requiring [craniotomy](../../001_private/books/The%20Feeling%20of%20Life%20Itself/Craniotomy.md) or endovascular approaches
 - First documented use of BCIs for conditions like stroke rehabilitation or locked-in syndrome
 - Example: Early reports of Synchron's Stentrode BCI implantation via jugular vein
 
@@ -39,7 +39,7 @@ BCI procedures are classified by invasiveness:
 
 | Category | Description | Example |
 | :-- | :-- | :-- |
-| **Invasive** | Requires [[craniotomy]] | Cortical electrode grids[^1][^4] |
+| **Invasive** | Requires [craniotomy](../../001_private/books/The%20Feeling%20of%20Life%20Itself/Craniotomy.md) | Cortical electrode grids[^1][^4] |
 | **Minimally Invasive** | Endovascular approach | Stentrode via jugular vein[^8] |
 | **Non-invasive** | External devices | EEG headsets[^1] |
 

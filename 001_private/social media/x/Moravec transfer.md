@@ -1,6 +1,6 @@
 #core/artificialintelligence 
 
-![[moravec-transfer.jpg]]
+![moravec-transfer](../../../000_inbox/attachments/moravec-transfer.jpg)
 
 Proposed by Dr [Hans Moravec](https://everything2.com/title/Hans+Moravec "Hans Moravec") in the book [Mind Children](https://everything2.com/title/Mind+Children "Mind Children"), this describes how a **human brain could be transformed into a mechanical structure made from nanobots** without the brain in question losing consciousness.
   
@@ -10,17 +10,17 @@ This entire procedure has had no effect on the flow of information of the brain 
 
 ## Comparison with Ectopic Cognitive Preservation
 
-The Moravec transfer is fundamentally a **digitisation** procedure: computation moves *out of* biological tissue into an external simulation computer, with nanobots serving as I/O relays. This contrasts with [[PSNST|Ectopic Cognitive Preservation]] (ECP), which performs a **substrate migration** — biological tissue is replaced by engineered biological (or de novo synthetic) tissue that retains intrinsic computational properties.
+The Moravec transfer is fundamentally a **digitisation** procedure: computation moves *out of* biological tissue into an external simulation computer, with nanobots serving as I/O relays. This contrasts with [Ectopic Cognitive Preservation](../../_%20general%20knowledge/PSNST.md) (ECP), which performs a **substrate migration** — biological tissue is replaced by engineered biological (or de novo synthetic) tissue that retains intrinsic computational properties.
 
-| | Moravec Transfer | [[PSNST|ECP]] |
+| | Moravec Transfer | [ECP](../../_%20general%20knowledge/PSNST.md) |
 |---|---|---|
 | **Replacement unit** | Individual neuron → digital simulation | Tissue layers → synthetic biological substrate |
 | **Where computation lives** | External simulation computer | The synthetic substrate itself |
-| **Requires [[Biomimetic neuromorphics]]** | No — substrate is conventional silicon | Yes — replacement tissue must be functionally equivalent |
+| **Requires [Biomimetic neuromorphics](../../../002_profession/eightsix%20science/Biomimetic%20neuromorphics.md)** | No — substrate is conventional silicon | Yes — replacement tissue must be functionally equivalent |
 | **Transfer mechanism** | Functional simulation matching | Neuroplastic cortical reorganisation |
 | **Granularity** | Neuron-by-neuron | Layer-by-layer (cortical laminar approach) |
 | **End state** | Robotic lattice relaying to a computer | Distributable synthetic neural tissue |
 
-Because computation remains *in tissue* under ECP, the replacement substrate must satisfy the [[Invariant brain emulation|invariance criterion]] ($O(f(b)) \equiv O(b)$) — a requirement that [[Biomimetic neuromorphics|biomimetic neuromorphics]] addresses. Moravec's approach sidesteps this by outsourcing computation entirely, but in doing so may fail to preserve intrinsic causal structure, which [[Integrated information theory|IIT]] argues is necessary for [[Access and phenomenal consciousness|phenomenal consciousness]].
+Because computation remains *in tissue* under ECP, the replacement substrate must satisfy the [invariance criterion](../../../002_profession/eightsix%20science/Invariant%20brain%20emulation.md) ($O(f(b)) \equiv O(b)$) — a requirement that [biomimetic neuromorphics](../../../002_profession/eightsix%20science/Biomimetic%20neuromorphics.md) addresses. Moravec's approach sidesteps this by outsourcing computation entirely, but in doing so may fail to preserve intrinsic causal structure, which [IIT](../../videos/Integrated%20information%20theory.md) argues is necessary for [phenomenal consciousness](../../videos/Access%20and%20phenomenal%20consciousness.md).
 
-Both approaches share philosophical lineage in [[Fading qualia|Chalmers' organisational invariance]] argument and the Ship of Theseus intuition, but ECP is a more biologically grounded descendant — requiring advances in [[Bioprinting|bioprinting]], optogenetics, and substrate engineering rather than speculative nanobot technology.
+Both approaches share philosophical lineage in [Chalmers' organisational invariance](../../books/From%20Biological%20to%20Artificial%20Consciousness/Fading%20qualia.md) argument and the Ship of Theseus intuition, but ECP is a more biologically grounded descendant — requiring advances in [bioprinting](../../../003_education/kings%20college/05%20Neuroscience%20in%20Society/Bioprinting.md), optogenetics, and substrate engineering rather than speculative nanobot technology.

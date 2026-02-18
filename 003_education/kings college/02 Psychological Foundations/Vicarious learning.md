@@ -10,7 +10,7 @@ Vicarious learning, or observational learning, is a **form of learning that occu
 
 ## Use in Research
 
-1. **Understanding Fear and Anxiety [[Mental disorders overview|Disorders]]:** Vicarious learning is crucial in developing and maintaining certain fears and phobias. Understanding this process helps inform treatments for anxiety disorders.
+1. **Understanding Fear and Anxiety [Disorders](../03%20Mental%20Health%20in%20the%20Community/Mental%20disorders%20overview.md):** Vicarious learning is crucial in developing and maintaining certain fears and phobias. Understanding this process helps inform treatments for anxiety disorders.
 2. **Phobia Treatment:** Exposure therapy, a common treatment for phobias, sometimes incorporates vicarious learning. Patients observe others confront fear-inducing stimuli without harm, which can help them reduce their own fear.
 
 > [!info] **Real-World Application**

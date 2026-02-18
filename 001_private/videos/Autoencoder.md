@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![[autoencoder.png]]
+![autoencoder](../../000_inbox/attachments/autoencoder.png)
 
 An autoencoder is a type of artificial neural network used for unsupervised learning. It is primarily **employed in data compression, dimensionality reduction, and feature extraction tasks.** The network consists of an encoder that **transforms the input data into a compressed representation (encoding) and a decoder that reconstructs the original data from the encoded representation.** The objective of an autoencoder is to minimise the reconstruction error, which encourages the network to learn useful features in the encoded representation.
 
@@ -8,7 +8,7 @@ An autoencoder is a type of artificial neural network used for unsupervised lear
 
 The basic autoencoder consists of:
 
-- **Encoder**: Maps input $x$ to [[Latent space]] representation $z$ via $z = f(x)$
+- **Encoder**: Maps input $x$ to [Latent space](Latent%20space.md) representation $z$ via $z = f(x)$
 - **Bottleneck**: The compressed representation with fewer dimensions than the input
 - **Decoder**: Reconstructs input from latent representation via $\hat{x} = g(z)$
 
@@ -30,4 +30,4 @@ The network is trained to minimise reconstruction loss $L(x, \hat{x})$, typicall
 - **Generative models**: VAEs sample from latent space to generate new data
 - **Pretraining**: Learn representations before supervised fine-tuning
 
-See [[Dense layers]] for the building blocks and [[Universal approximation theorem]] for theoretical foundations.
+See [Dense layers](../books/Neural%20Networks%20from%20Scratch/Dense%20layers.md) for the building blocks and [Universal approximation theorem](../_%20general%20knowledge/Universal%20approximation%20theorem.md) for theoretical foundations.

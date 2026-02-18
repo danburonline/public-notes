@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[copy-number-variants.png]]
+![copy-number-variants](../../../000_inbox/attachments/copy-number-variants.png)
 
 Copy number variation (CNV) is a **phenomenon in which genome sections are repeated, and the number of repeats varies between individuals.** It is a type of structural variation that involves duplications or deletions of a significant number of base pairs in the genome.
 

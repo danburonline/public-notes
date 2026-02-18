@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[sds-page.png]]
+![sds-page](../../../000_inbox/attachments/sds-page.png)
 
 Sodium Dodecyl Sulfate Polyacrylamide Gel Electrophoresis **separates proteins into different sizes using gel & electricity.** Scientists study proteins to understand their size, structure & how they work in our bodies. A valuable tool in biochemistry research.
 
@@ -9,7 +9,7 @@ Sodium Dodecyl Sulfate Polyacrylamide Gel Electrophoresis **separates proteins i
 - Determining protein purity
 - Estimating molecular weight of proteins
 - Analysing protein expression in different samples
-- Preparing proteins for further analysis, such as [[Western blotting]]
+- Preparing proteins for further analysis, such as [Western blotting](Western%20blotting.md)
 
 ## Typical Workflow
 

@@ -4,7 +4,7 @@ Local **learning rules adjust synaptic strengths based on local information at t
 
 ## Types of Local Learning Rules
 
-### [[Hebbian synaptic plasticity|Hebbian]] Learning
+### [Hebbian](../04%20Biological%20Foundations%20of%20Mental%20Health/Hebbian%20synaptic%20plasticity.md) Learning
 
 “Cells that fire together, wire together.” Synaptic strength increases when both pre- and postsynaptic neurons are active.
 
@@ -28,5 +28,5 @@ A normalised Hebbian rule preventing runaway synaptic growth.
 
 > [!example] Applications
 > - **Neural Network Models**: Key for developing and understanding artificial neural networks.
-> - **[[Synaptic Plasticity]]**: Crucial for exploring synaptic changes and neural circuit adaptation.
+> - **[Synaptic Plasticity](../04%20Biological%20Foundations%20of%20Mental%20Health/Synaptic%20plasticity.md)**: Crucial for exploring synaptic changes and neural circuit adaptation.
 > - **Cognitive Functions**: Explains local synaptic changes leading to complex behaviours.

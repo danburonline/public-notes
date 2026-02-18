@@ -14,9 +14,9 @@
 - **Utilitarian function** relates to the practical benefits or drawbacks of holding a certain attitude. People adopt attitudes that lead to rewards or avoid punishments. For example, a person may have a positive attitude toward recycling because it contributes to environmental preservation (a reward).
 - **Symbolic function**: This refers to the expression of one’s identity and self-concept. Attitudes reflect our values, beliefs, and social identity. For instance, a person may hold a positive attitude toward a political party that aligns with their values and beliefs.
 
-## 3. Where Attitudes Come From: Mere Exposure, [[Vicarious learning|Learning]], Culture, and Stereotypes
+## 3. Where Attitudes Come From: Mere Exposure, [Learning](Vicarious%20learning.md), Culture, and Stereotypes
 
 - **Mere Exposure**: The mere exposure effect is a psychological phenomenon where people develop a preference for things merely because they are familiar with them. The more we’re exposed to something, the more likely we are to develop a positive attitude towards it.
-- **Learning**: Attitudes are learned through direct experiences and social learning. This includes [[classical conditioning]], operant conditioning, and observational learning. For instance, if we receive positive reinforcement after performing an action, we are likely to develop a positive attitude towards it.
+- **Learning**: Attitudes are learned through direct experiences and social learning. This includes [classical conditioning](Classical%20conditioning.md), operant conditioning, and observational learning. For instance, if we receive positive reinforcement after performing an action, we are likely to develop a positive attitude towards it.
 - **Culture**: Our cultural background and societal norms greatly shape our attitudes. Culture prescribes what is acceptable and what is not, influencing our attitudes toward various social issues, behaviours, and people.
 - **Stereotypes**: Stereotypes are generalised beliefs about a certain group of people. They influence our attitudes by providing simplified and generalised assumptions that can lead to bias and prejudice. It’s important to note that stereotypes often lack nuance and accuracy, leading to unjustified negative or positive attitudes.

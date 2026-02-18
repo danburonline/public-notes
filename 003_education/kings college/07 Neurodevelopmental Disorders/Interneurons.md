@@ -1,8 +1,8 @@
 #core/appliedneuroscience
 
-![[interneuron.jpg]]
+![interneuron](../../../000_inbox/attachments/interneuron.jpg)
 
-Interneurons, or sometimes also called association neurons, are [[central nervous system]] **neurons located between sensory and motor pathways.** They are pivotal in processing and relaying information, serving as critical components in neural circuits that mediate reflexes, motor coordination, and higher cognitive functions such as learning and memory.
+Interneurons, or sometimes also called association neurons, are [central nervous system](../04%20Biological%20Foundations%20of%20Mental%20Health/Central%20nervous%20system.md) **neurons located between sensory and motor pathways.** They are pivotal in processing and relaying information, serving as critical components in neural circuits that mediate reflexes, motor coordination, and higher cognitive functions such as learning and memory.
 
 ## Characteristics
 
@@ -15,10 +15,10 @@ Interneurons, or sometimes also called association neurons, are [[central nervou
 
 1. **Signal Integration**: Interneurons integrate signals from multiple sources, contributing to the complex processing capabilities of neural circuits.
 2. **Network Oscillations**: Play a crucial role in generating rhythmic activity patterns essential for various physiological processes, including locomotion and cognitive functions.
-3. **Synaptic [[Synaptic plasticity|Plasticity]]**: Involved in modulating synaptic strength, which is fundamental to learning and memory.
+3. **Synaptic [Plasticity](../04%20Biological%20Foundations%20of%20Mental%20Health/Synaptic%20plasticity.md)**: Involved in modulating synaptic strength, which is fundamental to learning and memory.
 4. **Feedback Inhibition**: Provide negative feedback to neural circuits, helping to regulate and refine signal flow, ensuring balanced and precise output.
 
 ## Clinical Significance
 
-- **Neurological [[Peripheral nervous system#Diseases and Disorders|Disorders]]**: Abnormalities in interneuron function and connectivity are implicated in various neurological and psychiatric disorders, including epilepsy, schizophrenia, and autism spectrum disorders.
+- **Neurological [Disorders](../../../004_subsidiary/courses/Udemy/Neuroanatomy/Peripheral%20nervous%20system.md#diseases-and-disorders)**: Abnormalities in interneuron function and connectivity are implicated in various neurological and psychiatric disorders, including epilepsy, schizophrenia, and autism spectrum disorders.
 - **Therapeutic Targets**: Due to their central role in modulating neural circuitry, interneurons present potential targets for therapeutic interventions aimed at restoring normal neural function in disease states.

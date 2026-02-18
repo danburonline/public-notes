@@ -1,12 +1,12 @@
 #core/appliedneuroscience #fundamental/logic 
 
-![[eliminativism.png]]
+![eliminativism](../../../000_inbox/attachments/eliminativism.png)
 
 Eliminativism, often referred to as eliminative materialism in the philosophy of mind, is the **view that certain common-sense mental states and concepts—such as beliefs, desires, intentions, and even consciousness—do not actually exist.** It challenges the validity of "folk psychology," which is the everyday framework people use to explain human behaviour through mental states like emotions and thoughts.
 
 ## Key Ideas of Eliminativism
 
-1. **Rejection of Folk [[Psychiatry vs psychology#Psychology|Psychology]]**  
+1. **Rejection of Folk [Psychology](../../../003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Psychiatry%20vs%20psychology.md#psychology)**  
    - Folk psychology is seen as a flawed and outdated framework.  
    - Concepts like belief and desire are not grounded in scientific understanding and will likely be replaced by neuroscientific explanations.
 
@@ -29,7 +29,7 @@ Eliminativism, often referred to as eliminative materialism in the philosophy of
 - Outdated concepts like phlogiston (in chemistry) or the luminiferous ether (in physics) were eliminated by science. Similarly, terms like "belief" and "desire" may eventually be discarded.
 - Some eliminativists argue against the existence of:  
   - **Qualia**: Subjective experiences.  
-  - **Propositional [[Attitudes]]**: Mental states involving beliefs about something.
+  - **Propositional [Attitudes](../../../003_education/kings%20college/02%20Psychological%20Foundations/Attitudes.md)**: Mental states involving beliefs about something.
 
 ## Criticisms
 

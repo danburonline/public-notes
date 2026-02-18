@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[cortex-vasc.jpg]]
+![cortex-vasc](../../000_inbox/attachments/cortex-vasc.jpg)
 
 ## Arterial Supply
 
@@ -43,7 +43,7 @@
 ### Capillary Network
 
 - Dense, lacy network around larger vessels
-- Forms [[blood-brain barrier]]
+- Forms [blood-brain barrier](../../003_education/kings%20college/06%20Neuroimaging%20in%20Mental%20Health/Blood-brain%20barrier.md)
 - Adapts to neuronal needs (angiogenesis/reabsorption)
 
 ## Cortical Vascular Layers
@@ -54,6 +54,6 @@
 
 ## Functional Aspects
 
-- Pial vessels: Extrinsic innervation ([[peripheral nervous system]])
+- Pial vessels: Extrinsic innervation ([peripheral nervous system](../../004_subsidiary/courses/Udemy/Neuroanatomy/Peripheral%20nervous%20system.md))
 - Parenchymal vessels: Intrinsic innervation (brain neuropil)
 - Local control: Vascular sphincters regulate cortical perfusion

@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![[ventricular-zone.jpg]]
+![ventricular-zone](../../000_inbox/attachments/ventricular-zone.jpg)
 
 ## Overview
 
@@ -14,7 +14,7 @@
 
 ## Role in Brain Organoid Development
 
-- **[[Neurogenesis]]:** The VZ is a key site for [[neurogenesis]], where neural stem cells divide and give rise to neurons and glial cells.
+- **[Neurogenesis](../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Neurogenesis.md):** The VZ is a key site for [neurogenesis](../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Neurogenesis.md), where neural stem cells divide and give rise to neurons and glial cells.
 - **Organoid Growth:** Influences the overall growth and morphological development of brain organoids.
 
 ## Research Implications

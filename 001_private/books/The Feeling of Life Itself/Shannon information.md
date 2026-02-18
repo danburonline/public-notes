@@ -1,6 +1,6 @@
 #core/softwaredevelopment #core/appliedneuroscience
 
-![[shannon-information.png]]
+![shannon-information](../../../000_inbox/attachments/shannon-information.png)
 
 1. **Definition**: Shannon information quantifies the amount of uncertainty or surprise in a random variable.
 2. **Entropy**: Measure of average information content in a message.
@@ -17,7 +17,7 @@
 2. **Probabilistic Nature**: Based on probabilities of events/messages.
 3. **Channel Capacity**: Maximum rate of reliable information transmission.
 
-## Relation to [[Integrated Information Theory]] (IIT)
+## Relation to [Integrated Information Theory](../../videos/Integrated%20information%20theory.md) (IIT)
 
 1. **Foundation**: Serves as a starting point for IIT’s concept of information.
 2. **Contrast**:

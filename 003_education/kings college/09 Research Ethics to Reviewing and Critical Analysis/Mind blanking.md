@@ -7,7 +7,7 @@ Mind blanking is a **mental state where an individual experiences a temporary la
 Mind blanking can occur spontaneously and is often linked to:
 - **Low Engagement**: When a person is not particularly interested in or focused on a task.
 - **Tiredness**: Fatigue from a long day or lack of sleep.
-- **[[Stress]] and Anxiety**: High levels of [[stress]] or anxiety can trigger episodes of mind blanking.
+- **[Stress](../03%20Mental%20Health%20in%20the%20Community/Stress.md) and Anxiety**: High levels of [stress](../03%20Mental%20Health%20in%20the%20Community/Stress.md) or anxiety can trigger episodes of mind blanking.
 
 ## Neuroscientific Insights
 

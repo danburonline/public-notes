@@ -12,16 +12,16 @@ Volition, or will, is the **cognitive process by which individuals make decision
 
 ### Brain Regions
 
-- **Prefrontal [[Neocortex|Cortex]] (PFC)**: Planning and decision-making.
+- **Prefrontal [Cortex](../../003_education/_%20general%20knowledge/Neocortex.md) (PFC)**: Planning and decision-making.
 - **Supplementary Motor Area (SMA)**: Preparation and initiation of movements.
-- **[[Basal Ganglia]]**: Action selection and regulation.
+- **[Basal Ganglia](../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Basal%20ganglia.md)**: Action selection and regulation.
 - **Parietal Cortex**: Integration of sensory information and spatial decision-making.
 
-### [[Neurotransmitters vs. neuromodulators vs. neuropeptides|Neurotransmitters]]
+### [Neurotransmitters](../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Neurotransmitters%20vs.%20neuromodulators%20vs.%20neuropeptides.md)
 
 - **Dopamine**: Motivation and reward-based decisions.
 - **Serotonin**: Mood modulation and decision-making.
-- **Acetylcholine**: [[Endogenous and exogenous attention|Attention]] and motor activity modulation.
+- **Acetylcholine**: [Attention](../../003_education/kings%20college/02%20Psychological%20Foundations/Endogenous%20and%20exogenous%20attention.md) and motor activity modulation.
 
 ## Theories of Volition
 
@@ -35,5 +35,5 @@ These propose that volition involves both automatic (unconscious) and controlled
 
 ## Ethical Considerations
 
-- **Free [[Conscious veto#Implications for Free Will|Will]] vs. Determinism**: Examines the influence of unconscious processes on decision-making.
+- **Free [Will](../../003_education/kings%20college/09%20Research%20Ethics%20to%20Reviewing%20and%20Critical%20Analysis/Conscious%20veto.md#implications-for-free-will) vs. Determinism**: Examines the influence of unconscious processes on decision-making.
 - **Neuroenhancement**: Raises ethical questions about autonomy and fairness in enhancing volitional control.

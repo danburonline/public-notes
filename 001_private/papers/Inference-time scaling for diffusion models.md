@@ -1,6 +1,6 @@
 #core/artificialintelligence 
 
-![[inference-time-scaling.png]]
+![inference-time-scaling](../../000_inbox/attachments/inference-time-scaling.png)
 
 Inference-time scaling in diffusion models refers to **enhancing generative performance during the sampling (inference) phase by allocating additional computational resources, extending beyond the conventional method of simply increasing the number of denoising steps.** This approach frames the problem as a search for optimal initial noises or sampling paths, leveraging verifiers for quality feedback and search algorithms to explore the noise space, leading to improved sample quality in tasks like image generation without retraining the model.
 

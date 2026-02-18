@@ -26,7 +26,7 @@ LSD’s interaction with serotonin receptors affects neurotransmission:
 2. **Modulation of Other Neurotransmitters**:
    - Indirectly affects dopamine and norepinephrine levels and activity.
    - Alters mood, attention, and arousal.
-3. **[[Synaptic Plasticity]]**:
+3. **[Synaptic Plasticity](../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Synaptic%20plasticity.md)**:
    - Changes synaptic strength and plasticity over time.
    - May result in long-term psychological and behavioural changes.
 

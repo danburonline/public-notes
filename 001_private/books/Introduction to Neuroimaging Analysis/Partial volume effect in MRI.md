@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[pve-mri.png]]
+![pve-mri](../../../000_inbox/attachments/pve-mri.png)
 
 Occurs when a single MRI voxel contains multiple tissue types, leading to signal averaging. Common at tissue boundaries (e.g., grey/white matter) or in small structures.  
 
@@ -18,7 +18,7 @@ Occurs when a single MRI voxel contains multiple tissue types, leading to signal
 
 1. **Quantitative Errors**:
 	1. 20–60% errors in brain structure volume measurements if ignored.
-	2. Distorts [[diffusion tensor imaging]] (DTI) metrics.  
+	2. Distorts [diffusion tensor imaging](Diffusion%20tensor%20imaging.md) (DTI) metrics.  
 2. **Clinical Implications**:
 	1. Reduces accuracy in cortical thickness analysis.
 	2. Skews functional MRI/resting-state connectivity studies.

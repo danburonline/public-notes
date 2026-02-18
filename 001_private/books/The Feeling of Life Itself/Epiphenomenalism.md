@@ -9,11 +9,11 @@ Epiphenomenalism is a theory in philosophy of mind that posits **mental states o
    - Mental states ↛ Physical states or behaviour
 
 2. **Core Propositions**:
-   - [[Access and phenomenal consciousness|Consciousness]] is caused by neural activity
+   - [Consciousness](../../videos/Access%20and%20phenomenal%20consciousness.md) is caused by neural activity
    - Consciousness does not influence neural activity or behaviour
 
 3. **Implications**:
-   - [[Conscious veto|Conscious]] will is illusory
+   - [Conscious](../../../003_education/kings%20college/09%20Research%20Ethics%20to%20Reviewing%20and%20Critical%20Analysis/Conscious%20veto.md) will is illusory
    - Correlation between thoughts and actions explained by common physical cause
 
 ## Contrasting Theories

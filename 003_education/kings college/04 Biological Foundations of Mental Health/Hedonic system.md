@@ -8,7 +8,7 @@ The key structures in the hedonic system include:
 
 - **Nucleus Accumbens (NAc):** This is a part of the brain’s reward system that plays a pivotal role in mediating the effects of rewarding experiences such as food, sex, and social interactions. It’s also involved in the reinforcing effects of addictive substances.
 - **Ventral Tegmental Area (VTA):** This area of the brain is rich in dopamine neurons. Activation of the VTA leads to the release of dopamine in various regions of the brain, including the NAc, which is critical for the experience of reward and pleasure.
-- **Orbitofrontal [[Neocortex|Cortex]] (OFC):** This prefrontal cortex region is involved in decision-making and expectations related to reward. It helps evaluate the reward value of different stimuli and actions.
+- **Orbitofrontal [Cortex](../../_%20general%20knowledge/Neocortex.md) (OFC):** This prefrontal cortex region is involved in decision-making and expectations related to reward. It helps evaluate the reward value of different stimuli and actions.
 - **Anterior Cingulate Cortex (ACC):** This region is involved in emotion processing, anticipation of reward, decision-making, and impulse control.
 
 ## Role of Dopamine

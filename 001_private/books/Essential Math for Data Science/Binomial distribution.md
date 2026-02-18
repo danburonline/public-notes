@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/mathematicalphysics
 
-![[binomial-distribution.jpg]]
+![binomial-distribution](../../../000_inbox/attachments/binomial-distribution.jpg)
 
 The binomial distribution is a **probability distribution with two possible outcomes** (hence the term “bi” in binomial). In statistics, it’s used to model events in a fixed number of trials of a random experiment.
 
@@ -35,7 +35,7 @@ To apply the binomial distribution, the following assumptions must hold:
 1. **Binary Outcome**: Each trial results in one of two possible outcomes (success or failure).
 2. **Fixed Number of Trials**: The number of trials (n) is fixed.
 3. **Independence**: The outcome of any trial is independent of the outcomes of all other trials.
-4. **Constant [[Probability approaches|Probability]]**: Each trial’s probability of success (p) is the same.
+4. **Constant [Probability](Probability%20approaches.md)**: Each trial’s probability of success (p) is the same.
 
 ## Applications
 

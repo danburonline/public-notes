@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[association-fibres.jpg]]
+![association-fibres](../../../000_inbox/attachments/association-fibres.jpg)
 
 Association fibres are **neural pathways in the brain that connect different regions within the same cerebral hemisphere.** They allow for communication and integration of information between adjacent and distant brain regions involved in higher cognitive functions, such as perception, memory, language processing, and decision-making. 
 

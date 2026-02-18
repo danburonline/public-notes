@@ -1,6 +1,6 @@
 #core/mathematicalphysics #core/artificialintelligence
 
-![[supervenience.jpg]]
+![supervenience](../../../000_inbox/attachments/supervenience.jpg)
 
 - **Definition**: A relationship between two sets of properties (supervenient and base properties) wherein any change in the supervenient properties necessitates a change in the base properties, but not necessarily vice versa.
 - **Context**: Central in discussions about the mind-body problem, ethics, and the relationship between physical and mental properties. It illustrates how higher-level phenomena depend on lower-level phenomena without being reducible to them.

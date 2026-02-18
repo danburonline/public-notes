@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/appliedneuroscience
 
-The Reverse [[Logic basics#What is an inference?|Inference]] Problem is an **issue in cognitive neuroscience and psychology.** It refers to the **incorrect assumption that the activation of a specific area in the brain indicates the engagement of a particular cognitive process.**
+The Reverse [Inference](../books/Short%20Introduction%20to%20Logic/Logic%20basics.md#what-is-an-inference) Problem is an **issue in cognitive neuroscience and psychology.** It refers to the **incorrect assumption that the activation of a specific area in the brain indicates the engagement of a particular cognitive process.**
 
 ## Explanation
 

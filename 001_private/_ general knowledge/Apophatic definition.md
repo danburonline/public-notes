@@ -16,7 +16,7 @@ Apophatic definition (also called *negative definition* or *via negativa*) descr
 | Says what X is not   | Says what X is                |
 | Example: "Not finite"| Example: "Infinite"           |
 
-> [!example] Apophatic Definition Example: [[Levels of cognitive complexity#Self-Consciousness|Consciousness]]
+> [!example] Apophatic Definition Example: [Consciousness](../books/Sizing%20Up%20Consciousness/Levels%20of%20cognitive%20complexity.md#self-consciousness)
 > - Consciousness is **not** unconsciousness.
 > - Consciousness is **not** a physical object.
 > - Consciousness is **not** reducible to brain activity alone.

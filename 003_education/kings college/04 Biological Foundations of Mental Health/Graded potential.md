@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[graded-potential.jpeg]]
+![graded-potential](../../../000_inbox/attachments/graded-potential.jpeg)
 
 Graded potentials are **changes in membrane potential that vary in size** (i.e., they are “graded”). They are the direct result of changes in ion flow across the neuron’s membrane.
 

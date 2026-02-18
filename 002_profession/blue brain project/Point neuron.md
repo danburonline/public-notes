@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![[point-neurons.png]]
+![point-neurons](../../000_inbox/attachments/point-neurons.png)
 
 A point neuron is a **simplified mathematical model that reduces a neuron's complex spatial structure to a single compartment**, representing the membrane potential as a dimensionless point. This abstraction ignores dendritic morphology and treats all synaptic inputs as arriving at the same location.
 

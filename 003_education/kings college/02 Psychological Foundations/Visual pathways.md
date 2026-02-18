@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[visual-pathways.png]]
+![visual-pathways](../../../000_inbox/attachments/visual-pathways.png)
 
 The visual pathway is the complex **network of neurons responsible for transmitting visual signals from the retina to various parts of the brain** for interpretation and response. Starting at the primary visual cortex (V1), the pathway divides into two main streams: the ventral stream and the dorsal stream, each contributing to different aspects of vision.
 

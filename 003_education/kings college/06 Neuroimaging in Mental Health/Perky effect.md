@@ -16,6 +16,6 @@ The Perky effect refers to a **phenomenon in perceptual psychology where mental 
 
 ## Implications of the Perky Effect and Reality Threshold
 
-- **[[Long-term memory#Perceptual Memory|Perceptual]] Processes**: Suggests that perceptual and imaginative processes share common neural substrates and can interact with one another.
+- **[Perceptual](../02%20Psychological%20Foundations/Long-term%20memory.md#perceptual-memory) Processes**: Suggests that perceptual and imaginative processes share common neural substrates and can interact with one another.
 - **Attention and Expectation**: Highlights the role of attention and expectation in modulating the reality threshold and influencing whether something is perceived as real or imagined.
 - **Clinical Relevance**: Understanding the Perky effect and reality threshold can inform clinical practices, particularly in the context of hallucinations and other perceptual disorders.

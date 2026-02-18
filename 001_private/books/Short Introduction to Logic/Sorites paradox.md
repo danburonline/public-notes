@@ -13,7 +13,7 @@ The paradox arises when trying to determine at which exact point the heap stoppe
 
 ## Formal Explanation
 
-1. 1000 grains of sand is a heap of sand ([[Logic basics#What is a premise?|Premise]])
+1. 1000 grains of sand is a heap of sand ([Premise](Logic%20basics.md#what-is-a-premise))
 2. If 1000 grains of sand is a heap of sand, then 999 grains are also a heap. (Premise)
 3. Therefore, 999 grains of sand are a heap of sand. (From 1 and 2)
 4. If 999 grains of sand are a heap of sand, then 998 grains are also a heap. (Premise)

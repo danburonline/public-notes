@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[cns.jpeg]]
+![cns](../../../000_inbox/attachments/cns.jpeg)
 
 The central nervous system (CNS) is the major control centre of the body, **responsible for processing and coordinating information.** It consists of the **brain and the spinal cord.** The CNS can be divided into three main regions: the hindbrain, midbrain, and forebrain.
 

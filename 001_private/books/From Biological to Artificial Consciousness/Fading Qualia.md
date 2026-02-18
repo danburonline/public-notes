@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[fading-qualia.png]]
+![fading-qualia](../../../000_inbox/attachments/fading-qualia.png)
 
 Fading qualia is a **thought experiment proposed by philosopher [David Chalmers](https://en.wikipedia.org/wiki/David_Chalmers)** in his 1996 book "[The Conscious Mind](https://www.amazon.com/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891)." It forms part of his argument for organisational invariance in consciousness, challenging the idea that consciousness requires a specific biological substrate. By imagining the gradual replacement of biological neurons with artificial components, Chalmers explores the implications for conscious experience, questioning whether consciousness is tied to biology or could potentially exist in non-biological systems with equivalent functional organisation.
 
@@ -12,7 +12,7 @@ Fading qualia is a **thought experiment proposed by philosopher [David Chalmers]
 
 ## Possible Outcomes
 
-1. Suddenly Disappearing Qualia: [[Levels of cognitive complexity#Consciousness|Consciousness]] vanishes at a specific point
+1. Suddenly Disappearing Qualia: [Consciousness](../Sizing%20Up%20Consciousness/Levels%20of%20cognitive%20complexity.md#consciousness) vanishes at a specific point
 2. Fading Qualia: Consciousness gradually fades away
 3. Unchanged Qualia: Consciousness remains the same
 
@@ -50,7 +50,7 @@ Fading qualia is a **thought experiment proposed by philosopher [David Chalmers]
 ---
 
 > [!info] Dancing qualia (Chalmers, 1996)
-> - Companion to [[Fading qualia]]; asks whether qualia could change while functional organisation stays fixed.
+> - Companion to [Fading qualia](Fading%20qualia.md); asks whether qualia could change while functional organisation stays fixed.
 > - Setup: two functionally isomorphic implementations (e.g., biological brain vs silicon). A switch toggles which realiser runs each part, without altering inputs, outputs, or internal causal structure.
 > - If qualia depended on substrate, flipping the switch would make experiences “dance” (dramatically change) while behaviour, reports, and memories remain identical—so the subject could not notice the change.
 > - This creates an implausible gulf between experience and cognition; hence, the more plausible view is organisational invariance: same functional organisation ⇒ same qualia.

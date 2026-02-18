@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![[universal-approximation-theorem.png]]
+![universal-approximation-theorem](../../000_inbox/attachments/universal-approximation-theorem.png)
 
 The Universal approximation theorem is a key theorem in the field of neural networks, **stating that a feed-forward network with a single hidden layer containing a finite number of neurons can approximate any continuous function to a desired level of accuracy.** This holds when the activation function is non-constant, bounded, and monotonically-increasing continuous.
 
@@ -13,7 +13,7 @@ The Universal approximation theorem is a key theorem in the field of neural netw
 
 ### Importance
 
-- Provides a theoretical foundation for using neural networks in various machine learning tasks such as [[regression]], classification, and other complex pattern recognition tasks in data.
+- Provides a theoretical foundation for using neural networks in various machine learning tasks such as [regression](../../004_subsidiary/courses/DataCamp%20ML%20Scientist/Regression.md), classification, and other complex pattern recognition tasks in data.
 
 ### Limitations
 

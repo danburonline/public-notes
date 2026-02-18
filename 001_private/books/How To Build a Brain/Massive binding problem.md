@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/appliedneuroscience
 
-![[binding-problem.jpg]]
+![binding-problem](../../../000_inbox/attachments/binding-problem.jpg)
 
 The massive binding problem refers to the challenge of **explaining how the brain integrates diverse sensory inputs and cognitive processes** to create a unified, coherent experience of consciousness.
 
@@ -10,13 +10,13 @@ The massive binding problem refers to the challenge of **explaining how the brai
 2. **Feature Binding**: Unifying various features of an object into a coherent representation.
 3. **Temporal Binding**: Maintaining continuity of experience across time.
 4. **Cognitive Binding**: Integrating higher-level cognitive processes with sensory and motor information.
-5. **Unity of [[Levels of cognitive complexity#Consciousness|Consciousness]]**: Explaining the emergence of a unified subjective experience.
+5. **Unity of [Consciousness](../Sizing%20Up%20Consciousness/Levels%20of%20cognitive%20complexity.md#consciousness)**: Explaining the emergence of a unified subjective experience.
 
 ## In Neuroscience
 
 - Involves understanding how distributed neural processes create global conscious experiences.
 - Challenges traditional localisationist views of brain function.
-- Relates to theories of consciousness (e.g., Global Workspace Theory, [[Integrated Information Theory]]).
+- Relates to theories of consciousness (e.g., Global Workspace Theory, [Integrated Information Theory](../../videos/Integrated%20information%20theory.md)).
 
 ## In Cognitive Architectures
 
@@ -35,13 +35,13 @@ The massive binding problem refers to the challenge of **explaining how the brai
 3. **Semantic Pointers**:
    - A concept used in [Nengo](https://www.nengo.ai/) to represent and manipulate complex, bound information.
    - Combines aspects of symbolic and subsymbolic approaches to cognition.
-4. **[[Column and row vectors|Vector]] Symbolic Architectures (VSA)**:
+4. **[Vector](../Neural%20Networks%20from%20Scratch/Column%20and%20row%20vectors.md) Symbolic Architectures (VSA)**:
    - Used to represent and manipulate structured information in high-dimensional vector spaces.
    - Provides a potential mechanism for binding in neural systems.
 
 ## Approaches to Solving the Binding Problem
 
-1. **Temporal [[Interbrain synchrony|Synchrony]]**: Binding through synchronised neural firing.
+1. **Temporal [Synchrony](../_%20general%20knowledge/Interbrain%20synchrony.md)**: Binding through synchronised neural firing.
 2. **Convergence Zones**: Specialised brain regions that integrate information.
 3. **Attentional Mechanisms**: Selective enhancement and integration of relevant information.
 4. **Predictive Coding**: Binding through prediction and error correction in hierarchical systems.

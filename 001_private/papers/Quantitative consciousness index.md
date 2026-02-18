@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[quantitative-consciousness-index.png]]
+![quantitative-consciousness-index](../../000_inbox/attachments/quantitative-consciousness-index.png)
 
 The term Quantitative Consciousness Index (QCI) refers to a variety of **methods aimed at objectively measuring and quantifying a person's level of consciousness.** These methods often utilise technology and data analysis to provide a more precise assessment compared to purely observational scales.
 
@@ -13,7 +13,7 @@ Several techniques fall under the umbrella of QCI:
 *   **Quantitative EEG (qEEG):** A more comprehensive analysis of EEG data for assessing disorders of consciousness.
 *   **Auditory Evoked Potential Index:** Quantitative measure of changes in consciousness.
 
-## Comparison with [[NICE head injury guide#Glasgow Coma Scale (GCS)|Glasgow]] Coma Scale (GCS)
+## Comparison with [Glasgow](../../003_education/university%20of%20buckingham/01%20Module/NICE%20head%20injury%20guide.md#glasgow-coma-scale-gcs) Coma Scale (GCS)
 
 | Feature                 | Quantitative Consciousness Index (QCI) | Glasgow Coma Scale (GCS)                        |
 | :---------------------- | :------------------------------------- | :---------------------------------------------- |

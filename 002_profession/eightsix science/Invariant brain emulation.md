@@ -2,7 +2,7 @@
 
 Invariant brain emulation refers to the **physical realisation of a mapping $f: B \rightarrow S$**, where $B \subset \mathbb{R}^n$ denotes the state space of a reference brain's dynamical system and $S \subset \mathbb{R}^m$ is the state space of an alternative physical substrate. For all observables $O$ (such as identity, cognitive function, or behaviour), the equivalence relation $O(f(b)) \equiv O(b)$ holds for every $b \in B$.
 
-The invariance criterion requires that the mapping preserves the system's functional and dynamical properties under [[diffeomorphic transformation]], such that $\frac{\partial O}{\partial t} \big|_{f(b)} = \frac{\partial O}{\partial t} \big|_{b}$ for all relevant state trajectories. This formulation explicitly excludes computational abstractions, demanding strict physical realisability and operational equivalence through substrate-invariant functional isomorphism.
+The invariance criterion requires that the mapping preserves the system's functional and dynamical properties under [diffeomorphic transformation](Diffeomorphic%20transformation.md), such that $\frac{\partial O}{\partial t} \big|_{f(b)} = \frac{\partial O}{\partial t} \big|_{b}$ for all relevant state trajectories. This formulation explicitly excludes computational abstractions, demanding strict physical realisability and operational equivalence through substrate-invariant functional isomorphism.
 
 ## Core Concepts
 
@@ -47,7 +47,7 @@ The formulation demands **actual physical implementation**, not just simulation.
 
 ## Engineering Realisation
 
-[[Biomimetic neuromorphics]] is the engineering discipline tasked with satisfying the invariance criterion in practice. For [[PSNST|ECP]]'s progressive transfer, the synthetic substrate must implement — not merely simulate — equivalent dynamics, such that the temporal derivatives $\frac{\partial O}{\partial t}$ are preserved across the biological-to-synthetic boundary. This distinguishes ECP from digitisation approaches like the [[Moravec transfer]], where invariance is achieved (if at all) through external simulation rather than substrate-level equivalence.
+[Biomimetic neuromorphics](Biomimetic%20neuromorphics.md) is the engineering discipline tasked with satisfying the invariance criterion in practice. For [ECP](../../001_private/_%20general%20knowledge/PSNST.md)'s progressive transfer, the synthetic substrate must implement — not merely simulate — equivalent dynamics, such that the temporal derivatives $\frac{\partial O}{\partial t}$ are preserved across the biological-to-synthetic boundary. This distinguishes ECP from digitisation approaches like the [Moravec transfer](../../001_private/social%20media/x/Moravec%20transfer.md), where invariance is achieved (if at all) through external simulation rather than substrate-level equivalence.
 
 > [!warning] Open Question
 > Whether invariant brain emulation preserves consciousness remains philosophically contested. Functionalists argue yes; biological naturalists argue the substrate itself matters.

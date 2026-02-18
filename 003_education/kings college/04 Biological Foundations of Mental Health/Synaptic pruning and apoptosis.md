@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![[cell-death.png]]
+![cell-death](../../../000_inbox/attachments/cell-death.png)
 
 ## Synapse Pruning
 
@@ -12,12 +12,12 @@
 
 ---
 
-## [[Apoptosis]]
+## [Apoptosis](../08%20Advances%20in%20Neuroscience/Apoptosis.md)
 
--  [[Apoptosis]], also known as programmed cell death, is a natural and controlled process of cell elimination.
+-  [Apoptosis](../08%20Advances%20in%20Neuroscience/Apoptosis.md), also known as programmed cell death, is a natural and controlled process of cell elimination.
 -  It is crucial for removing unwanted or damaged cells, maintaining tissue homeostasis, and sculpting developing organs.
--  [[Apoptosis]] can be triggered by internal cellular signals or external factors, such as DNA damage, cell [[stress]], or lack of survival signals.
--  In the brain, [[apoptosis]] eliminates excessive or improperly connected neurons during development.
+-  [Apoptosis](../08%20Advances%20in%20Neuroscience/Apoptosis.md) can be triggered by internal cellular signals or external factors, such as DNA damage, cell [stress](../03%20Mental%20Health%20in%20the%20Community/Stress.md), or lack of survival signals.
+-  In the brain, [apoptosis](../08%20Advances%20in%20Neuroscience/Apoptosis.md) eliminates excessive or improperly connected neurons during development.
 -  Apoptotic cell death is a carefully regulated process involving a series of molecular events, including the activation of specific proteins and fragmentation of the cell into apoptotic bodies.
 
-*Note: Synapse pruning and [[apoptosis]] are dynamic processes that occur during different stages of brain development, contributing to the refinement and organisation of neural circuits.*
+*Note: Synapse pruning and [apoptosis](../08%20Advances%20in%20Neuroscience/Apoptosis.md) are dynamic processes that occur during different stages of brain development, contributing to the refinement and organisation of neural circuits.*

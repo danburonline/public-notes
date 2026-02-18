@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-[[Pre- and post-synaptic|Synaptic]] plasticity is the **brain’s ability to strengthen or weaken synapses, or connections between neurons,** in response to increases or decreases in their activity.
+[Synaptic](Pre-%20and%20post-synaptic.md) plasticity is the **brain’s ability to strengthen or weaken synapses, or connections between neurons,** in response to increases or decreases in their activity.
 
 ## Key Features
 
@@ -14,15 +14,15 @@
 
 ## Molecular Mechanisms
 
-NMDA receptors act as **coincidence detectors**—requiring both presynaptic glutamate release and postsynaptic depolarisation to open. This implements the [[Hebbian synaptic plasticity|Hebbian principle]]. Changes in synaptic strength involve AMPA receptor insertion (LTP) or removal (LTD) from the postsynaptic membrane.
+NMDA receptors act as **coincidence detectors**—requiring both presynaptic glutamate release and postsynaptic depolarisation to open. This implements the [Hebbian principle](Hebbian%20synaptic%20plasticity.md). Changes in synaptic strength involve AMPA receptor insertion (LTP) or removal (LTD) from the postsynaptic membrane.
 
 ## Plasticity Mechanisms Overview
 
 Synaptic plasticity is the hub concept connecting biological learning mechanisms to computational models and clinical applications:
 
-- [[Hebbian synaptic plasticity]]: The foundational principle—"cells that fire together, wire together"
-- [[Local learning rules]]: Computational abstractions of biological plasticity (STDP, BCM, Oja's rule)
-- [[Synaptic gain]]: Modulation of overall synaptic efficacy
-- [[Hebbian assemblies]]: Functional neural groups formed through repeated co-activation
+- [Hebbian synaptic plasticity](Hebbian%20synaptic%20plasticity.md): The foundational principle—"cells that fire together, wire together"
+- [Local learning rules](../09%20Research%20Ethics%20to%20Reviewing%20and%20Critical%20Analysis/Local%20learning%20rules.md): Computational abstractions of biological plasticity (STDP, BCM, Oja's rule)
+- [Synaptic gain](../07%20Neurodevelopmental%20Disorders/Synaptic%20gain.md): Modulation of overall synaptic efficacy
+- [Hebbian assemblies](../../../004_subsidiary/_%20general%20knowledge/Hebbian%20assemblies.md): Functional neural groups formed through repeated co-activation
 
 These mechanisms underlie memory formation, skill acquisition, and neural development.

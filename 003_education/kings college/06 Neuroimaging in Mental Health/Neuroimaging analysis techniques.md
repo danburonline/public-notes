@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[brain-analysis.png]]
+![brain-analysis](../../../000_inbox/attachments/brain-analysis.png)
 
 ## Region(s) Of Interest (ROI) Analysis
 

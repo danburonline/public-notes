@@ -1,6 +1,6 @@
 #core/softwaredevelopment
 
-![[strangling.jpg]]
+![strangling](../../000_inbox/attachments/strangling.jpg)
 
 The strangler fig pattern is a **strategy for incrementally migrating a monolithic system to microservices** by gradually replacing specific functionalities until the original system can be decommissioned. Named after strangler fig trees that grow around host trees and eventually replace them.
 
@@ -71,7 +71,7 @@ Continue extracting services until the monolith is either:
 - **API Gateways**: Kong, AWS API Gateway, Traefik
 - **Service Mesh**: Istio, Linkerd (for traffic management)
 - **Feature Flags**: Gradual rollout control
-- **[[Pull-based deployments]]**: GitOps for managing service configurations
+- **[Pull-based deployments](../blue%20brain%20project/Pull-based%20deployments.md)**: GitOps for managing service configurations
 
 > [!tip] Start Small
 > Begin with a low-risk, well-understood component. Success builds confidence and reveals patterns for subsequent extractions.

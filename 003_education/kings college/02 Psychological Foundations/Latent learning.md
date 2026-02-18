@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![[latent-learning.jpg]]
+![latent-learning](../../../000_inbox/attachments/latent-learning.jpg)
 
 - Learning **without immediate reinforcement** or outward manifestation.
 - Coined by Tolman, it challenges behaviourist theories, emphasising cognition.

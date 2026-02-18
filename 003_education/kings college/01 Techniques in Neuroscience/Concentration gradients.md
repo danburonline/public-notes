@@ -1,10 +1,10 @@
 #core/appliedneuroscience
 
-![[concentration-gradient.jpg]]
+![concentration-gradient](../../../000_inbox/attachments/concentration-gradient.jpg)
 
 - The difference in ion concentration between two areas.
 - Drives movement of ions.
-- Vital for [[Resting membrane potential]], nerve signalling, and cellular metabolism.
+- Vital for [Resting membrane potential](Resting%20membrane%20potential.md), nerve signalling, and cellular metabolism.
 
 > [!info] More about concentration gradients
 > - Concentration gradients are established by selective permeability of cell membranes and active transport mechanisms (e.g., sodium-potassium pump).

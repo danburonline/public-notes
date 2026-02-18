@@ -43,6 +43,6 @@ Three-tier tagging system reflecting knowledge depth and focus:
 ### Conventions
 
 - **Tags**: Every note starts with a tag on line 1
-- **Links**: Wikilinks `[[Note Title]]`
-- **Images**: Obsidian embeds `![[image.png]]`
+- **Links**: Standard markdown `[Note Title](relative/path/to/Note.md)`
+- **Images**: Standard markdown `![alt text](relative/path/to/image.png)`
 - **Spelling**: British English
