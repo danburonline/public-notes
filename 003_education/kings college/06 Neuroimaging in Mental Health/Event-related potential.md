@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![erp](../../../000_inbox/attachments/erp.jpg)
+![erp](../../../_inbox/attachments/erp.jpg)
 
 Event-related potentials (ERPs) are **measured brain responses that are the direct result of a specific sensory, cognitive, or motor event.** These potentials can be extracted from the ongoing electroencephalography (EEG) data by averaging the signal time-locked to the onset of stimuli or responses.
 
@@ -18,7 +18,7 @@ Event-related potentials (ERPs) are **measured brain responses that are the dire
 
 ## Interpretation of ERP Distribution
 
-![erp-distribution](../../../000_inbox/attachments/erp-distribution.png)
+![erp-distribution](../../../_inbox/attachments/erp-distribution.png)
 
 - **Scalp Distribution**: The distribution of ERPs across the scalp provides information about the neural sources of the recorded potentials. Different brain regions are associated with different cognitive functions, and thus, the ERP distribution can inform about the underlying processes.
 - **Amplitude and Latency**: The amplitude of an ERP component represents the strength of the neural response, while the latency indicates the timing of neural processes.

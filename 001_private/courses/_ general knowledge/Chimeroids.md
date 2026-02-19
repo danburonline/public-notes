@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![chimeroids](../../../000_inbox/attachments/chimeroids.jpg)
+![chimeroids](../../../_inbox/attachments/chimeroids.jpg)
 
 Chimeroids are **brain organoids combining cells from multiple donors**, enabling direct comparison of inter-individual variation within a single structure.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![visual-searches](../../../000_inbox/attachments/visual-searches.png)
+![visual-searches](../../../_inbox/attachments/visual-searches.png)
 
 1. **Parallel Search**: In this type, all information in the visual field is processed simultaneously. The target, if present, is immediately recognised irrespective of the number of distractor items. An example could be identifying a red dot in a field of blue dots.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![reinforcement-reinforcers](../../../000_inbox/attachments/reinforcement-reinforcers.png)
+![reinforcement-reinforcers](../../../_inbox/attachments/reinforcement-reinforcers.png)
 
 - Reinforcement is a concept in psychology that refers to the **process of increasing the likelihood of a behaviour occurring again in the future.**
 - Reinforcers are the stimuli that are used to reinforce behaviour. There are two types of reinforcement: positive and negative.

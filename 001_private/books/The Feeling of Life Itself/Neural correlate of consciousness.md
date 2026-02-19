@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/computationalphenomenology
 
-![perturbational-complexity-index](../../../000_inbox/attachments/perturbational-complexity-index.png)
+![perturbational-complexity-index](../../../_inbox/attachments/perturbational-complexity-index.png)
 
 The **neural correlate of consciousness** (NCC) refers to the minimal neuronal mechanisms jointly sufficient for any one specific conscious experience. The concept was formalised by Christof Koch and Francis Crick in the 1990s as a tractable empirical target for consciousness research.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![polarization](../../../000_inbox/attachments/polarization.png)
+![polarization](../../../_inbox/attachments/polarization.png)
 
 ## Hyperpolarisation
 

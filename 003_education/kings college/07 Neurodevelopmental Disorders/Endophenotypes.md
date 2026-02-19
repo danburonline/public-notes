@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![endophenotype](../../../000_inbox/attachments/endophenotype.png)
+![endophenotype](../../../_inbox/attachments/endophenotype.png)
 
 **Endophenotypes are measurable biomarkers or traits that are thought to be closer to the genetic origins of a disorder than the clinical symptoms themselves.** They serve as a bridge between the observable phenotype and the underlying genotype. They’re often used in psychiatric and neurological research to understand complex disorders like schizophrenia, bipolar disorder, and ADHD.
 

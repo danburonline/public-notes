@@ -1,6 +1,6 @@
 #fundamental/logic
 
-![occams-razor](../../000_inbox/attachments/occams-razor.jpg)
+![occams-razor](../../_inbox/attachments/occams-razor.jpg)
 
 Occam’s razor is a **philosophical principle that posits the simplest explanation is usually the best one.** Named after [William of Ockham](https://en.wikipedia.org/wiki/William_of_Ockham), a 14th-century English friar and philosopher, it is a heuristic to guide decision-making and problem-solving across various disciplines, including science, philosophy, and logic.
 

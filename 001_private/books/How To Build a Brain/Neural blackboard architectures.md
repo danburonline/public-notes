@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![neural-blackboard](../../../000_inbox/attachments/neural-blackboard.png)
+![neural-blackboard](../../../_inbox/attachments/neural-blackboard.png)
 
 Neural blackboard architectures are a theoretical framework in cognitive neuroscience and AI that explain **how the brain might dynamically combine and process different pieces of information.**
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![optogenetics](../../../000_inbox/attachments/optogenetics.jpeg)
+![optogenetics](../../../_inbox/attachments/optogenetics.jpeg)
 
 Optogenetics is a biological technique that involves the **use of light to control cells in living tissue, typically neurons, that have been genetically modified to express light-sensitive proteins.** The technique’s name, “optogenetics,” is a combination of the words “optics” (light) and “genetics” (the study of genes and their functions).
 

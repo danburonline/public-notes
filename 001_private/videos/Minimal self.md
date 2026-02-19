@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![minimal-self](../../000_inbox/attachments/minimal-self.jpg)
+![minimal-self](../../_inbox/attachments/minimal-self.jpg)
 
 The minimal self refers to **the immediate, pre-reflective experience of selfhood derived from sensory information.** It’s composed of two main aspects:
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![interneuron](../../../000_inbox/attachments/interneuron.jpg)
+![interneuron](../../../_inbox/attachments/interneuron.jpg)
 
 Interneurons, or sometimes also called association neurons, are [central nervous system](../04%20Biological%20Foundations%20of%20Mental%20Health/Central%20nervous%20system.md) **neurons located between sensory and motor pathways.** They are pivotal in processing and relaying information, serving as critical components in neural circuits that mediate reflexes, motor coordination, and higher cognitive functions such as learning and memory.
 

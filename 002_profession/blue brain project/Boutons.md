@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![boutons](../../000_inbox/attachments/boutons.jpeg)
+![boutons](../../_inbox/attachments/boutons.jpeg)
 
 Boutons are **small swellings or protrusions at the terminal ends of axons** in neurons. The term comes from the French word for “buttons”.
 

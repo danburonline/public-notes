@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![pve-mri](../../../000_inbox/attachments/pve-mri.png)
+![pve-mri](../../../_inbox/attachments/pve-mri.png)
 
 Occurs when a single MRI voxel contains multiple tissue types, leading to signal averaging. Common at tissue boundaries (e.g., grey/white matter) or in small structures.  
 

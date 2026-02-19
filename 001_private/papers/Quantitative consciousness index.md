@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![quantitative-consciousness-index](../../000_inbox/attachments/quantitative-consciousness-index.png)
+![quantitative-consciousness-index](../../_inbox/attachments/quantitative-consciousness-index.png)
 
 The term Quantitative Consciousness Index (QCI) refers to a variety of **methods aimed at objectively measuring and quantifying a person's level of consciousness.** These methods often utilise technology and data analysis to provide a more precise assessment compared to purely observational scales.
 

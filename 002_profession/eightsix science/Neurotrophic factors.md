@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![neurotrophic-factors](../../000_inbox/attachments/neurotrophic-factors.png)
+![neurotrophic-factors](../../_inbox/attachments/neurotrophic-factors.png)
 
 Neurotrophic factors (NTFs) are **specialised biomolecules, primarily peptides and small proteins, that support neuronal growth, survival, and differentiation** in both developing and mature neurons.
 

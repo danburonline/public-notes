@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![facial-feedback-hypothesis](../../../000_inbox/attachments/facial-feedback-hypothesis.png)
+![facial-feedback-hypothesis](../../../_inbox/attachments/facial-feedback-hypothesis.png)
 
 The Facial Feedback Hypothesis is a concept in psychology that suggests that the **physical expressions of an emotion can affect the experience of that emotion itself.**
 

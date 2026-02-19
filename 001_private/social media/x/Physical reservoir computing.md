@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/mathematicalphysics #core/computationalphenomenology
 
-![physical-reservoir-computing](../../../000_inbox/attachments/physical-reservoir-computing.png)
+![physical-reservoir-computing](../../../_inbox/attachments/physical-reservoir-computing.png)
 
 Physical Reservoir Computing (PRC) is an approach to computational processing that **utilises the dynamic responses of physical systems as computational resources.** Rather than engineering precise circuit architectures, PRC exploits the natural nonlinear dynamics of a physical substrate to project inputs into a high-dimensional [state space](../../../003_education/kings%20college/08%20Advances%20in%20Neuroscience/Phase%20space%20and%20phasing%20rotator.md) from which a simple readout layer extracts computation. This method is part of the broader Reservoir Computing (RC) field, which emerged independently through Herbert Jaeger's Echo State Networks (2001) and Wolfgang Maass's Liquid State Machines (2002).
 

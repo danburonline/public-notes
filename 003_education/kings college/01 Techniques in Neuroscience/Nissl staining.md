@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![nissl-staining](../../../000_inbox/attachments/nissl-staining.png)
+![nissl-staining](../../../_inbox/attachments/nissl-staining.png)
 
 Nissl staining: A histological staining technique used to visualise the distribution of cell bodies and nuclei in the brain and spinal cord.
 

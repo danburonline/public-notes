@@ -1,6 +1,6 @@
 #core/mathematicalphysics
 
-![ruliad](../../000_inbox/attachments/ruliad.png)
+![ruliad](../../_inbox/attachments/ruliad.png)
 
 ## Definition and Concept
 

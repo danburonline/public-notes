@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/appliedneuroscience
 
-![nef-framework](../../../000_inbox/attachments/nef-framework.png)
+![nef-framework](../../../_inbox/attachments/nef-framework.png)
 
 The Neural Engineering Framework (NEF) is a **computational framework for simulating neural systems.** It was developed to bridge the gap between neurobiological detail and the functional behaviour of neural circuits. The NEF is grounded in three core principles that dictate how populations of neurons can represent information, transform that information, and influence the dynamics of neural systems.
 

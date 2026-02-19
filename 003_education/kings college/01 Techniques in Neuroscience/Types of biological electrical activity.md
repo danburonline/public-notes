@@ -1,3 +1,3 @@
 #core/appliedneuroscience
 
-![bio-electrical-activities](../../../000_inbox/attachments/bio-electrical-activities.png)
+![bio-electrical-activities](../../../_inbox/attachments/bio-electrical-activities.png)

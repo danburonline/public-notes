@@ -4,7 +4,7 @@ Spectral analysis in EEG is the **examination of the signal’s frequency conten
 
 ## Fast Fourier Transform (FFT)
 
-![fft](../../../000_inbox/attachments/fft.jpg)
+![fft](../../../_inbox/attachments/fft.jpg)
 
 - **Mathematical Basis:** Efficiently computes the Discrete Fourier Transform (DFT) and its inverse. DFT decomposes a sequence of values into components of different frequencies.
 - **Operation:** Transforms a signal from its original domain into a frequency domain representation. FFT reduces the number of computations from O(N^2) to O(N log N) through a divide-and-conquer strategy.
@@ -14,7 +14,7 @@ Spectral analysis in EEG is the **examination of the signal’s frequency conten
 
 ## Wavelet Transform
 
-![wavelet](../../../000_inbox/attachments/wavelet.png)
+![wavelet](../../../_inbox/attachments/wavelet.png)
 
 - **Mathematical Basis:** Involves convolution of the EEG signal with wavelets. Wavelets are localised waves characterised by scale and position.
 - **Types:** Continuous Wavelet Transform (CWT) for detailed analysis and Discrete Wavelet Transform (DWT) for fast computation.

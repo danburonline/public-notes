@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![synaptic-gain](../../../000_inbox/attachments/synaptic-gain.png)
+![synaptic-gain](../../../_inbox/attachments/synaptic-gain.png)
 
 [Synaptic](../04%20Biological%20Foundations%20of%20Mental%20Health/Synaptic%20plasticity.md) gain refers to the **strength or efficacy of a synapse in transmitting signals from one neuron to another.** This concept is crucial because it influences how easily and to what extent a neuron can influence the activity of another neuron. Synaptic gain is determined by various factors, including:
 

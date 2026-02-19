@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![psychoanalysis](../../../000_inbox/attachments/psychoanalysis.png)
+![psychoanalysis](../../../_inbox/attachments/psychoanalysis.png)
 
 Psychoanalysis, developed by [Sigmund Freud](https://en.wikipedia.org/wiki/Sigmund_Freud) in the late 19th century, is a **therapeutic approach rooted in the idea that individuals are often unaware of many factors that influence their emotions and behaviours.** These unconscious factors can create unhappiness, manifesting as seemingly inexplicable feelings, problematic patterns of behaviour, or difficulties in relationships. Through techniques like dream interpretation, free association, and analysis of transference, psychoanalysis seeks to uncover these hidden aspects of the psyche to understand and resolve psychological problems.
 

@@ -1,6 +1,6 @@
 #core/biomimeticneuromorphics #core/appliedneuroscience
 
-![biomimetic-neuromorphics](../../000_inbox/attachments/biomimetic-neuromorphics.jpg)
+![biomimetic-neuromorphics](../../_inbox/attachments/biomimetic-neuromorphics.jpg)
 
 **Biomimetic neuromorphics** is the engineering discipline concerned with designing and fabricating physical substrates that replicate the computational architecture, dynamics, and material properties of biological neural tissue. Unlike conventional neuromorphic computing (silicon chips inspired by neurons), biomimetic neuromorphics targets functional equivalence at the tissue level—creating substrates suitable for [invariant brain emulation](Invariant%20brain%20emulation.md) and [cognitive preservation procedures](../../001_private/_%20general%20knowledge/PSNST.md).
 

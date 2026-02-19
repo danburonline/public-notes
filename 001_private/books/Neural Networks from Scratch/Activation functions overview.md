@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![activation-functions](../../../000_inbox/attachments/activation-functions.png)
+![activation-functions](../../../_inbox/attachments/activation-functions.png)
 
 Activation functions in neural networks are **mathematical equations that determine the output of a neural network.** The function is **attached to each neuron in the network and determines whether it should be activated (“fired”) or not** based on whether each neuron’s input is relevant to the model’s prediction.
 

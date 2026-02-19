@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![histology-process](../../../000_inbox/attachments/histology-process.png)
+![histology-process](../../../_inbox/attachments/histology-process.png)
 
 The histology process involves **studying the microscopic anatomy of biological tissues, typically obtained from biopsies or post-mortem specimens.** One crucial step in the process is the sectioning of the tissue, which involves cutting thin slices from the tissue sample. This is done using a microtome, a machine that cuts sections of uniform thickness. The sections are then placed onto glass slides specially treated to prevent the tissue from sticking to the surface.
 

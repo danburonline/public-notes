@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![yamanaka-factors](../../../000_inbox/attachments/yamanaka-factors.png)
+![yamanaka-factors](../../../_inbox/attachments/yamanaka-factors.png)
 
 Yamanaka factors are a set of **four transcription factors that have the ability to reprogram differentiated adult cells into pluripotent stem cells.** This groundbreaking discovery was made by Shinya Yamanaka and his team, for which they were awarded the Nobel Prize in [Physiology](../01%20Techniques%20in%20Neuroscience/Electrophysiology%20measurements.md) or [Medicine](../../../001_private/_%20general%20knowledge/Personalised%20regenerative%20medicine.md) in 2012. These factors are critical for inducing pluripotency, which is the ability of a cell to develop into any cell in the body.
 

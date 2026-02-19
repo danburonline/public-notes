@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![beta-distribution](../../../000_inbox/attachments/beta-distribution.png)
+![beta-distribution](../../../_inbox/attachments/beta-distribution.png)
 
 The Beta distribution is a family of **continuous probability distributions defined on the interval [0, 1].** It’s characterised by two shape parameters, often denoted as `α` (alpha) and `β` (beta).
 

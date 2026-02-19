@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![neurogenic-niches](../../../000_inbox/attachments/neurogenic-niches.png)
+![neurogenic-niches](../../../_inbox/attachments/neurogenic-niches.png)
 
 The neurogenic niche refers to **specialised regions in the brain that support the growth and differentiation of new neurons throughout life**. This concept is pivotal in understanding brain plasticity and regeneration.
 

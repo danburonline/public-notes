@@ -14,7 +14,7 @@ Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes co
 
 ```
 Notes/
-├── 000_inbox/        # Staging: attachments, prompts, sketches (gitignored except attachments)
+├── _inbox/           # Staging: attachments, prompts, sketches (gitignored except attachments)
 ├── 001_private/      # Personal learning: books, videos, papers, articles, social, etc. media
 ├── 002_profession/   # Work: blue brain project, eightsix science, finalspark, idun, etc.
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
@@ -31,8 +31,8 @@ Notes/
 | Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/The Feeling of Life Itself/` |
 | Add work-related note | `002_profession/{company}/` | Match existing company folders |
 | Add course material | `003_education/{institution}/{module}/` | Match existing module naming |
-| Store image/attachment | `000_inbox/attachments/` | Only folder not gitignored in inbox |
-| AI prompt logs | `000_inbox/prompts/` | Auto-generated filenames with timestamps |
+| Store image/attachment | `_inbox/attachments/` | Only folder not gitignored in inbox |
+| AI prompt logs | `_inbox/prompts/` | Auto-generated filenames with timestamps |
 
 ### CONVENTIONS
 
@@ -65,7 +65,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
 
 - **Internal links**: Standard markdown `[Note Title](relative/path/to/Note.md)`
 - **Images**: Standard markdown `![alt text](relative/path/to/image.png)`
-- Images stored in `000_inbox/attachments/`
+- Images stored in `_inbox/attachments/`
 
 #### Naming
 
@@ -83,15 +83,15 @@ Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
 
 - **DO NOT** create notes without tags at line 1
 - **DO NOT** revert to Obsidian-only embeds `![[image.png]]`
-- **DO NOT** store attachments outside `000_inbox/attachments/`
-- **DO NOT** commit `000_inbox/` content (except attachments) - gitignored
+- **DO NOT** store attachments outside `_inbox/attachments/`
+- **DO NOT** commit `_inbox/` content (except attachments) - gitignored
 - **DO NOT** use kebab-case or snake_case for note names
 
 ### UNIQUE STYLES
 
 - **Source-based organisation**: Notes grouped by where learned (book, video, paper, podcast, social media)
 - **Institution nesting**: Education notes nested by school then module number
-- **Register/Sketches**: `000_inbox/register/` and `000_inbox/sketches/` mirror main folder structure for drafts
+- **Register/Sketches**: `_inbox/register/` and `_inbox/sketches/` mirror main folder structure for drafts
 
 ### COMMANDS
 
@@ -113,7 +113,7 @@ Available opencode skills for this workspace:
 
 When working with notes:
 
-- **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image in `000_inbox/attachments/` and visually examine it using `look_at` to better understand the note's content before refining or expanding
+- **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image in `_inbox/attachments/` and visually examine it using `look_at` to better understand the note's content before refining or expanding
 
 ### NOTES
 

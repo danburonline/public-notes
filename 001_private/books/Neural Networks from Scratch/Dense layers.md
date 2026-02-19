@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![dense-layers](../../../000_inbox/attachments/dense-layers.png)
+![dense-layers](../../../_inbox/attachments/dense-layers.png)
 
 Dense layers, or fully connected layers, are the **most straightforward and fundamental layers in neural networks.** They are core components of many deep learning models.
 

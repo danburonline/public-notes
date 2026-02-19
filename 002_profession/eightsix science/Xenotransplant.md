@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![xenotransplant](../../000_inbox/attachments/xenotransplant.jpg)
+![xenotransplant](../../_inbox/attachments/xenotransplant.jpg)
 
 Xenotransplantation, often abbreviated as xeno, involves the **transplantation of living cells, tissues, or organs from one species to another, typically from animals like pigs to humans**, to address organ shortages and treat medical conditions. This emerging field combines biotechnology, immunology, and ethics, aiming to overcome immune rejection and infection risks through genetic modifications, but it raises significant concerns about zoonotic diseases, animal welfare, and long-term viability.
 

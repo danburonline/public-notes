@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![dac](../../000_inbox/attachments/dac.png)
+![dac](../../_inbox/attachments/dac.png)
 
 The Distributed Adaptive Control (DAC) theory is presented as a **framework for understanding the mind and brain, particularly in the context of its relationship with the body and environment.** It stands as an alternative to traditional artificial intelligence and connectionism.
 

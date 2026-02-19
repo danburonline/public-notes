@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![cortical-connections](../../../000_inbox/attachments/cortical-connections.png)
+![cortical-connections](../../../_inbox/attachments/cortical-connections.png)
 
 [Cortical](../../_%20general%20knowledge/Cortical%20column.md) connections are the **network of links between the neurons in the brain's cerebral cortex.** The cerebral cortex is the outermost layer of the human brain, which is responsible for many higher-level functions such as thought, language, and information processing. The connections between neurons can be either local (connecting nearby neurons within the same cortex region) or long-range (connecting neurons in distant cortex regions).
 

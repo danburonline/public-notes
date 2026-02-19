@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![viral-transduction](../../000_inbox/attachments/viral-transduction.jpg)
+![viral-transduction](../../_inbox/attachments/viral-transduction.jpg)
 
 Viral transduction is a **method to introduce genetic material into cells using viral vectors**. It is widely used in neuroscience to manipulate gene expression in specific cell types, enabling the study of genes and neural circuits.
 

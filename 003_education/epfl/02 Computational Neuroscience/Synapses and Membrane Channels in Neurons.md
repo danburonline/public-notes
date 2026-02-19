@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
- ![synapses-membrane-channels](../../../000_inbox/attachments/synapses-membrane-channels.png)
+ ![synapses-membrane-channels](../../../_inbox/attachments/synapses-membrane-channels.png)
 
 [Membrane](../../kings%20college/01%20Techniques%20in%20Neuroscience/Resting%20membrane%20potential.md) channels are **integral components of synapses, enabling the flow of ions across the neuronal membrane**, which is crucial for initiating and propagating electrical signals.
 

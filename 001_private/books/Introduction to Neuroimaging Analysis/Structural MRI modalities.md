@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![more-mri-modalities](../../../000_inbox/attachments/more-mri-modalities.png)
+![more-mri-modalities](../../../_inbox/attachments/more-mri-modalities.png)
 
 ## **FLAIR (Fluid-Attenuated Inversion Recovery)**
 

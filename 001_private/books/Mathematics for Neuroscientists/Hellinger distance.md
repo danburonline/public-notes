@@ -1,6 +1,6 @@
 #core/mathematicalphysics #core/appliedneuroscience 
 
-![hellinger-distance](../../../000_inbox/attachments/hellinger-distance.png)
+![hellinger-distance](../../../_inbox/attachments/hellinger-distance.png)
 
 The **Hellinger distance** is a statistical metric used to measure the similarity or difference between two probability distributions. It is a type of f-divergence and is closely related to the Bhattacharyya distance.
 

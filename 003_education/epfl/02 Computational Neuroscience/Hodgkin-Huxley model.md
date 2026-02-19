@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![hodgkin-huxley](../../../000_inbox/attachments/hodgkin-huxley.png)
+![hodgkin-huxley](../../../_inbox/attachments/hodgkin-huxley.png)
 
 The Hodgkin-Huxley model is a **mathematical model that describes how action potentials in neurons are initiated and propagated.** It is a set of nonlinear differential equations that approximate the electrical characteristics of excitable cells such as neurons.
 

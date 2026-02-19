@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![cytokines](../../../000_inbox/attachments/cytokines.png)
+![cytokines](../../../_inbox/attachments/cytokines.png)
 
 Cytokines are **small proteins that have a significant impact on communication between cells.** They are particularly crucial in the body’s immune response. In the nervous system, cytokines play a role in neuroinflammation, which can lead to neuronal cell death.
 

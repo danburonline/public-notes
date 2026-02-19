@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![functional-introspection](../../../000_inbox/attachments/functional-introspection.png)
+![functional-introspection](../../../_inbox/attachments/functional-introspection.png)
 
 Functional introspection refers to a **method of studying mental processes by analysing one’s own subjective experiences and reporting them systematically and scientifically.** It is a technique used to explore one’s own thoughts, feelings, and perceptions to gain insight into the workings of the mind.
 

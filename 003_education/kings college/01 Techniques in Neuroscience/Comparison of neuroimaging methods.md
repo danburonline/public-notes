@@ -2,7 +2,7 @@
 
 Neuroimaging techniques occupy different positions in a trade-off space defined by **spatial resolution**, **temporal resolution**, and **subject tolerance requirements**. No single modality excels across all dimensions—method selection depends on the research question and population.
 
-![neuroimaging-techniques](../../../000_inbox/attachments/neuroimaging-techniques.png)
+![neuroimaging-techniques](../../../_inbox/attachments/neuroimaging-techniques.png)
 
 ## Technique Comparison
 

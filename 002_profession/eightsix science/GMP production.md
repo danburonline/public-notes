@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![gmp](../../000_inbox/attachments/gmp.png)
+![gmp](../../_inbox/attachments/gmp.png)
 
 ## What is GMP?
 

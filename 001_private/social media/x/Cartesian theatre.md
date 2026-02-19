@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![cartesian-theatre](../../../000_inbox/attachments/cartesian-theatre.png)
+![cartesian-theatre](../../../_inbox/attachments/cartesian-theatre.png)
 
 - The term “Cartesian Theatre” was introduced by [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) in his book “Consciousness Explained” (1991). It critiques a dualistic view of the mind that Dennett attributes to René Descartes, though Descartes himself did not use the term. **The metaphor suggests a place in the mind where “everything comes together”** for the benefit of a central observer or “homunculus.”
 

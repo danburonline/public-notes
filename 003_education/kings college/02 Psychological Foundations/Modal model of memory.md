@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![modal-memory](../../../000_inbox/attachments/modal-memory.png)
+![modal-memory](../../../_inbox/attachments/modal-memory.png)
 
 The Modal Model of Memory is a model that explains how information is processed, stored and retrieved from memory. It was **developed by Richard Atkinson and Richard Shiffrin in 1968** and is still used today as a way to explain how memories are formed and how they can be retrieved.
 

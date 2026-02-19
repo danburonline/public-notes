@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![latent-space](../../000_inbox/attachments/latent-space.png)
+![latent-space](../../_inbox/attachments/latent-space.png)
 
 1. **Definition:** [Latent](../../003_education/kings%20college/02%20Psychological%20Foundations/Latent%20learning.md) space refers to the compressed, abstract representation of high-dimensional data. It is a key concept in machine learning, particularly in unsupervised learning algorithms such as autoencoders and generative models like Generative Adversarial Networks (GANs).
 2. **Purpose:** The goal of mapping data to a latent space is to capture the data's most salient features and underlying patterns. This can significantly simplify the complexity of the data and make further processing or analysis more efficient.

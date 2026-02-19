@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![concentration-gradient](../../../000_inbox/attachments/concentration-gradient.jpg)
+![concentration-gradient](../../../_inbox/attachments/concentration-gradient.jpg)
 
 - The difference in ion concentration between two areas.
 - Drives movement of ions.

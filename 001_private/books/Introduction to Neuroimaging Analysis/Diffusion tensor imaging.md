@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![dti](../../../000_inbox/attachments/dti.png)
+![dti](../../../_inbox/attachments/dti.png)
 
 Diffusion Tensor Imaging (DTI) is a **neuroimaging technique that measures the diffusion of water molecules in brain tissue.** It provides insights into the structural organisation of brain regions, particularly white matter tracts. DTI is often used for [Diffusion tensor tractography](../../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Diffusion%20tensor%20tractography.md), which maps the trajectory and connectivity patterns of neural fibers by analyzing water diffusion along them.
 

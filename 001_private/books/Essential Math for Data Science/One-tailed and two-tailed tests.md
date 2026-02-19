@@ -2,7 +2,7 @@
 
 [Statistical](Common%20statistical%20issues.md) hypothesis testing is a key aspect of both statistics and data science that allows us to make inferences about populations based on samples. One important concept within this area is the distinction between one-tailed and two-tailed tests.
 
-![one-tailed-two-tailed](../../../000_inbox/attachments/one-tailed-two-tailed.jpg)
+![one-tailed-two-tailed](../../../_inbox/attachments/one-tailed-two-tailed.jpg)
 
 ## One-Tailed Test
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![activity-dependent-plasticity](../../../000_inbox/attachments/activity-dependent-plasticity.png)
+![activity-dependent-plasticity](../../../_inbox/attachments/activity-dependent-plasticity.png)
 
 Activity-dependent plasticity is the **adaptive process of the brain, changing in response to experiences, behaviours, and stimuli.** This plasticity is crucial for the nervous system as it enables adaptability, learning, and recovery from injury.
 
@@ -12,7 +12,7 @@ Activity-dependent plasticity is the **adaptive process of the brain, changing i
 - It is considered one of the brain’s primary mechanisms for memory storage.
 
 Here are some properties of LTP:
-![properties-of-ltp](../../../000_inbox/attachments/properties-of-ltp.png)
+![properties-of-ltp](../../../_inbox/attachments/properties-of-ltp.png)
 
 ### Long-Term Depression (LTD)
 

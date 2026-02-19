@@ -1,6 +1,6 @@
 #core/biomimeticneuromorphics #core/appliedneuroscience
 
-![biomimetic](../../000_inbox/attachments/biomimetic.png)
+![biomimetic](../../_inbox/attachments/biomimetic.png)
 
 Biomimetics in tissue engineering refers to the **design and fabrication of materials that mimic the natural extracellular matrix** (ECM) and biological processes to facilitate tissue regeneration and repair.
 

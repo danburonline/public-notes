@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![reinforcement-schedules](../../../000_inbox/attachments/reinforcement-schedules.png)
+![reinforcement-schedules](../../../_inbox/attachments/reinforcement-schedules.png)
 
 - **Continuous reinforcement:** reinforces behaviour every time it occurs
 - **Fixed ratio:** reinforces behaviour after a set number of occurrences

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![attention](../../../000_inbox/attachments/attention.png)
+![attention](../../../_inbox/attachments/attention.png)
 
 Endogenous and exogenous attention refers to **two types of attentional control:** the ability to direct focus and ignore irrelevant stimuli.
 
