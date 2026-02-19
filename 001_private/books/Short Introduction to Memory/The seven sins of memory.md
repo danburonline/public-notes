@@ -17,7 +17,7 @@
 ### 3. Blocking
 
 - **Definition**: The temporary inability to retrieve a memory.
-- **Study Tip**: Learn to relax and not panic when you can’t recall information, as [stress](../../../003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Stress.md) can increase blocking.
+- **Study Tip**: Learn to relax and not panic when you can’t recall information, as [stress](../../../003_education/kings-college/03%20Mental%20Health%20in%20the%20Community/Stress.md) can increase blocking.
 
 ## Sins of Commission
 
@@ -28,10 +28,10 @@
 
 ### 5. Suggestibility
 
-- **Definition**: [Memories](../../../003_education/kings%20college/02%20Psychological%20Foundations/Flashbulb%20memories.md) that are implanted as a result of leading questions, comments, or suggestions.
+- **Definition**: [Memories](../../../003_education/kings-college/02%20Psychological%20Foundations/Flashbulb%20memories.md) that are implanted as a result of leading questions, comments, or suggestions.
 - **Study Tip**: Keep your sources pure—avoid discussing study material with others before you have learned it well.
 
-### 6. [Bias](../../../003_education/kings%20college/02%20Psychological%20Foundations/Appraisal.md#appraisal-bias)
+### 6. [Bias](../../../003_education/kings-college/02%20Psychological%20Foundations/Appraisal.md#appraisal-bias)
 
 - **Definition**: The influence of current knowledge and beliefs on how we remember our past.
 - **Study Tip**: Attempt to think critically and evaluate information objectively.
@@ -41,4 +41,4 @@
 ### 7. Persistence
 
 - **Definition**: The unwanted recollection of memories that we cannot forget.
-- **Study Tip**: Develop a balanced study routine and mindfulness practices to reduce [stress](../../../003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Stress.md) and intrusive thoughts.
+- **Study Tip**: Develop a balanced study routine and mindfulness practices to reduce [stress](../../../003_education/kings-college/03%20Mental%20Health%20in%20the%20Community/Stress.md) and intrusive thoughts.

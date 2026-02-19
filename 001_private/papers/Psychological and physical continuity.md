@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-[Derek Parfit](https://en.wikipedia.org/wiki/Derek_Parfit), a British philosopher, developed a **groundbreaking theory of personal identity over time, centring on the concepts of psychological and physical continuity.** His work challenges traditional views of the self and has far-reaching implications for ethics, survival, and our [attitudes](../../003_education/kings%20college/02%20Psychological%20Foundations/Attitudes.md) towards death.
+[Derek Parfit](https://en.wikipedia.org/wiki/Derek_Parfit), a British philosopher, developed a **groundbreaking theory of personal identity over time, centring on the concepts of psychological and physical continuity.** His work challenges traditional views of the self and has far-reaching implications for ethics, survival, and our [attitudes](../../003_education/kings-college/02%20Psychological%20Foundations/Attitudes.md) towards death.
 
 ## Key Concepts
 

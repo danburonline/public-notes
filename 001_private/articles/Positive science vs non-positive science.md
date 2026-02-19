@@ -35,9 +35,9 @@ Concerned with values and *ought* statements.
 
 ### Hermeneutic Disciplines
 
-Concerned with meaning and interpretation ([Hermeneutics](../_%20general%20knowledge/Hermeneutics.md)).
+Concerned with meaning and interpretation ([Hermeneutics](../_%20general/Hermeneutics.md)).
 
-- **[Philosophy](../books/_%20general%20knowledge/Main%20branches%20of%20philosophy.md):** Argumentation and conceptual analysis
+- **[Philosophy](../books/_%20general/Main%20branches%20of%20philosophy.md):** Argumentation and conceptual analysis
 - **Theology:** Interprets texts and traditions, grounded in faith
 - **Literature:** Meaning varies by reader—interpretation over measurement
 

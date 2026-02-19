@@ -19,7 +19,7 @@ where:
 - $\tau_m = R_m C_m$ is the membrane time constant,
 - $R_m$ is the membrane resistance,
 - $C_m$ is the membrane capacitance,
-- $V_{rest}$ is the [resting membrane potential](../../kings%20college/01%20Techniques%20in%20Neuroscience/Resting%20membrane%20potential.md),
+- $V_{rest}$ is the [resting membrane potential](../../kings-college/01%20Techniques%20in%20Neuroscience/Resting%20membrane%20potential.md),
 - $I_e$ is the external current.
 
 When $V$ reaches the threshold voltage $V_{threshold}$, the neuron fires an action potential, and $V$ is reset to the resting potential $V_{rest}$

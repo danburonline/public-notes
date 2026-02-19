@@ -29,7 +29,7 @@ Psychologism is a philosophical position that **attempts to reduce or ground log
    - Argued for the objectivity and mind-independence of logical truths
 2. **Husserl’s Evolution**
    - Edmund Husserl initially supported psychologism but later became a critic
-   - His critique influenced the development of [phenomenology](../../../003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Phenomenology.md)
+   - His critique influenced the development of [phenomenology](../../../003_education/kings-college/03%20Mental%20Health%20in%20the%20Community/Phenomenology.md)
 3. **Normativity Problem**
    - Critics argue psychologism fails to account for the normative nature of logic
    - Psychological facts about reasoning don’t necessarily imply logical norms

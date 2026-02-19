@@ -20,7 +20,7 @@ Hemispherectomy is typically indicated for patients with epilepsy that are local
 The goal of hemispherotomy is to disconnect the epileptogenic hemisphere from the rest of the brain, thereby preventing seizure propagation. The procedure involves:
 
 1. **Surgical Access**: A [craniotomy](../The%20Feeling%20of%20Life%20Itself/Craniotomy.md) is performed to access the affected hemisphere.
-2. **Disconnection**: Key structures such as the [corpus callosum](../../../003_education/kings%20college/05%20Neuroscience%20in%20Society/Corpus%20callosum.md), internal capsule, and [basal ganglia](../../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Basal%20ganglia.md) are surgically disconnected. Unlike hemispherectomy, large parts of the brain tissue are not removed, reducing the risk of hydrocephalus and other complications.
+2. **Disconnection**: Key structures such as the [corpus callosum](../../../003_education/kings-college/05%20Neuroscience%20in%20Society/Corpus%20callosum.md), internal capsule, and [basal ganglia](../../../003_education/kings-college/04%20Biological%20Foundations%20of%20Mental%20Health/Basal%20ganglia.md) are surgically disconnected. Unlike hemispherectomy, large parts of the brain tissue are not removed, reducing the risk of hydrocephalus and other complications.
 3. **Preservation**: Where possible, brain tissue is preserved to minimise the impact on cognitive and motor functions.
 
 ## Outcomes
@@ -49,7 +49,7 @@ Hemispherotomy provides striking empirical evidence for [substrate independence]
 - **Maintained sense of self** — Personal identity and autobiographical continuity persist through radical neural reorganisation
 
 > [!tip] Relevance to Substrate Transfer
-> For [Progressive Synthetic Neural Substrate Transfer](../../_%20general%20knowledge/PSNST.md), hemispherotomy demonstrates that:
+> For [Progressive Synthetic Neural Substrate Transfer](../../_%20general/PSNST.md), hemispherotomy demonstrates that:
 > 1. Consciousness can survive major substrate changes when functional organisation is preserved
 > 2. Gradual transition (vs. instantaneous) allows neural plasticity to maintain integration
 > 3. The "minimum viable substrate" for consciousness may be far smaller than the intact brain
