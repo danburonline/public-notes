@@ -24,7 +24,7 @@ Where:
 ## Applications
 
 - **Classification Tasks**: Primarily used in multi-class classification problems in various domains like image recognition, language modelling, etc.
-- **[Reinforcement](../../../003_education/kings%20college/02%20Psychological%20Foundations/Reinforcement%20schedules.md) Learning**: Used in policy gradient methods where the actions are discrete.
+- **[Reinforcement](../../../003_education/kings-college/02%20Psychological%20Foundations/Reinforcement%20schedules.md) Learning**: Used in policy gradient methods where the actions are discrete.
 
 ## Example
 

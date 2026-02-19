@@ -31,5 +31,5 @@ Multiple Reliability and Functionalism are **concepts often discussed in the con
 
 > [!example] Applications and Implications
 > 1. **Cognitive Science**: Understanding how reliable cognitive processes contribute to functional mental systems.
-> 2. **Artificial [Intelligence](../../_%20general%20knowledge/Types%20of%20Intelligence.md)**: Designing AI systems that mimic the functional and reliable aspects of human cognition.
+> 2. **Artificial [Intelligence](../../_%20general/Types%20of%20Intelligence.md)**: Designing AI systems that mimic the functional and reliable aspects of human cognition.
 > 3. **Epistemology**: Addressing the nature of justification and knowledge in light of the reliability of cognitive processes.

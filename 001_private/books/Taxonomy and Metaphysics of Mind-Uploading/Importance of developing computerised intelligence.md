@@ -12,7 +12,7 @@ Computerised intelligence offers:
 - **Speed**: Electronic processing enables faster response to time-critical threats
 - **Scalability**: Cognitive resources can expand beyond biological constraints
 
-See [PSNST](../../_%20general%20knowledge/PSNST.md) for substrate-independent approaches to neural persistence.
+See [PSNST](../../_%20general/PSNST.md) for substrate-independent approaches to neural persistence.
 
 ## Enabling Mind Uploading
 

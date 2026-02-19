@@ -133,15 +133,15 @@ The COGITATE consortium (Nature, April 2025) conducted a large-scale adversarial
 
 **Implication**: Neither major theory fully accounts for the empirical data. The field may need revised theoretical frameworks or recognition that different theories capture different aspects of consciousness.
 
-## Relation to [Consciousness Engineering](../../_%20general%20knowledge/Consciousness%20Engineering.md)
+## Relation to [Consciousness Engineering](../../_%20general/Consciousness%20Engineering.md)
 
-For [Progressive Synthetic Neural Substrate Transfer](../../_%20general%20knowledge/PSNST.md), NCC measures serve as real-time consciousness monitoring during gradual substrate replacement:
+For [Progressive Synthetic Neural Substrate Transfer](../../_%20general/PSNST.md), NCC measures serve as real-time consciousness monitoring during gradual substrate replacement:
 
 - [PCI](../../papers/Quantitative%20consciousness%20index.md) for objective level assessment
 - [IIT's Φ](../../videos/Integrated%20information%20theory.md) as substrate-independent metric
 - [Naturalisation of phenomenology](../../articles/Naturalisation%20of%20phenomenology.md) for first-person verification
 
-The key question: if NCCs are preserved during substrate transfer, is [phenomenal consciousness](../../videos/Access%20and%20phenomenal%20consciousness.md) preserved? This connects to [Chalmers' organisational invariance](../From%20Biological%20to%20Artificial%20Consciousness/Fading%20qualia.md) and [the hard problem](../../_%20general%20knowledge/Philosophical%20zombies.md).
+The key question: if NCCs are preserved during substrate transfer, is [phenomenal consciousness](../../videos/Access%20and%20phenomenal%20consciousness.md) preserved? This connects to [Chalmers' organisational invariance](../From%20Biological%20to%20Artificial%20Consciousness/Fading%20qualia.md) and [the hard problem](../../_%20general/Philosophical%20zombies.md).
 
 ## Key Researchers
 

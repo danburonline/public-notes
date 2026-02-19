@@ -13,7 +13,7 @@ Several techniques fall under the umbrella of QCI:
 *   **Quantitative EEG (qEEG):** A more comprehensive analysis of EEG data for assessing disorders of consciousness.
 *   **Auditory Evoked Potential Index:** Quantitative measure of changes in consciousness.
 
-## Comparison with [Glasgow](../../003_education/university%20of%20buckingham/01%20Module/NICE%20head%20injury%20guide.md#glasgow-coma-scale-gcs) Coma Scale (GCS)
+## Comparison with [Glasgow](../../003_education/university-of-buckingham/01%20Module/NICE%20head%20injury%20guide.md#glasgow-coma-scale-gcs) Coma Scale (GCS)
 
 | Feature                 | Quantitative Consciousness Index (QCI) | Glasgow Coma Scale (GCS)                        |
 | :---------------------- | :------------------------------------- | :---------------------------------------------- |

@@ -20,10 +20,10 @@ Contemporary findings demonstrate:
 ## Relationship to Memory Systems
 
 - **[Ecphory](../../003_education/epfl/01%20Systems%20Neuroscience/Ecphory.md)**: The retrieval process that reactivates engrams through cue-dependent mechanisms
-- **[Hebbian assemblies](../../004_subsidiary/_%20general%20knowledge/Hebbian%20assemblies.md)**: Theoretical framework explaining how engrams form through correlated activity
-- **[Modal model of memory](../../003_education/kings%20college/02%20Psychological%20Foundations/Modal%20model%20of%20memory.md)**: Engrams represent the substrate for long-term memory storage
-- **[Synaptic plasticity](../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Synaptic%20plasticity.md)**: The cellular mechanism by which engrams are encoded
+- **[Hebbian assemblies](../../004_subsidiary/_%20general/Hebbian%20assemblies.md)**: Theoretical framework explaining how engrams form through correlated activity
+- **[Modal model of memory](../../003_education/kings-college/02%20Psychological%20Foundations/Modal%20model%20of%20memory.md)**: Engrams represent the substrate for long-term memory storage
+- **[Synaptic plasticity](../../003_education/kings-college/04%20Biological%20Foundations%20of%20Mental%20Health/Synaptic%20plasticity.md)**: The cellular mechanism by which engrams are encoded
 
 ## Implications for Consciousness Engineering
 
-Engrams raise questions central to [Consciousness Engineering](../_%20general%20knowledge/Consciousness%20Engineering.md): if memories can be artificially activated, what does this imply for the relationship between neural patterns and subjective experience?
+Engrams raise questions central to [Consciousness Engineering](../_%20general/Consciousness%20Engineering.md): if memories can be artificially activated, what does this imply for the relationship between neural patterns and subjective experience?

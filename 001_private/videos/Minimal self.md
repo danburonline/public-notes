@@ -14,9 +14,9 @@ The minimal self refers to **the immediate, pre-reflective experience of selfhoo
   - Research also covers underlying neurophysiological mechanisms.
 - The concept is of interest in robotics and AI.
   - Aim: To equip machines with a self-representation similar to humans.
-  - [Cognitive](../../003_education/kings%20college/02%20Psychological%20Foundations/Cognitive%20psychology%20vs%20cognitive%20neuroscience.md) robotics and developmental robotics are key fields in this research.
+  - [Cognitive](../../003_education/kings-college/02%20Psychological%20Foundations/Cognitive%20psychology%20vs%20cognitive%20neuroscience.md) robotics and developmental robotics are key fields in this research.
 
-## Theoretical Accounts of Minimal [Self](../../003_education/kings%20college/02%20Psychological%20Foundations/Independent%20self%20and%20interdependent%20self.md#independent-self)
+## Theoretical Accounts of Minimal [Self](../../003_education/kings-college/02%20Psychological%20Foundations/Independent%20self%20and%20interdependent%20self.md#independent-self)
 
 1. **Informal Models**: These include box-and-arrow models and verbal formulations of laws and constraints for the emergence of SoA and SoO.
 2. **Bayesian Accounts**: These propose that the perception of SoA and SoO is governed by statistically optimal information integration.

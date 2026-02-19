@@ -30,4 +30,4 @@ The network is trained to minimise reconstruction loss $L(x, \hat{x})$, typicall
 - **Generative models**: VAEs sample from latent space to generate new data
 - **Pretraining**: Learn representations before supervised fine-tuning
 
-See [Dense layers](../books/Neural%20Networks%20from%20Scratch/Dense%20layers.md) for the building blocks and [Universal approximation theorem](../_%20general%20knowledge/Universal%20approximation%20theorem.md) for theoretical foundations.
+See [Dense layers](../books/Neural%20Networks%20from%20Scratch/Dense%20layers.md) for the building blocks and [Universal approximation theorem](../_%20general/Universal%20approximation%20theorem.md) for theoretical foundations.

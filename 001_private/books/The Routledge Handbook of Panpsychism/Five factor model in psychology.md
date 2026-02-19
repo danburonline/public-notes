@@ -17,7 +17,7 @@ Each trait spans a continuum, with facets highlighting sub-aspects:
 - **Conscientiousness**: High: Organised, responsible, goal-oriented; Low: Careless, impulsive. Facets: Attention to detail, persistence, reliability.
 - **Extraversion**: High: Sociable, energetic, assertive; Low: Reserved, introspective. Facets: Talkativeness, emotional expressiveness, sociability.
 - **Agreeableness**: High: Cooperative, empathetic, kind; Low: Competitive, suspicious. Facets: Altruism, trust, prosocial behaviour.
-- **Neuroticism**: High: Anxious, moody, emotionally unstable; Low: Calm, resilient. Facets: [Stress](../../../003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Stress.md) vulnerability, irritability, sadness.
+- **Neuroticism**: High: Anxious, moody, emotionally unstable; Low: Calm, resilient. Facets: [Stress](../../../003_education/kings-college/03%20Mental%20Health%20in%20the%20Community/Stress.md) vulnerability, irritability, sadness.
 
 > [!note] Insight on Universality
 > The model's consistency across 50+ cultures suggests biological and evolutionary roots, making it a robust tool for global psychological research.

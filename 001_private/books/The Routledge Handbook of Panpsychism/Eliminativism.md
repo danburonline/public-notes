@@ -6,7 +6,7 @@ Eliminativism, often referred to as eliminative materialism in the philosophy of
 
 ## Key Ideas of Eliminativism
 
-1. **Rejection of Folk [Psychology](../../../003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Psychiatry%20vs%20psychology.md#psychology)**  
+1. **Rejection of Folk [Psychology](../../../003_education/kings-college/03%20Mental%20Health%20in%20the%20Community/Psychiatry%20vs%20psychology.md#psychology)**  
    - Folk psychology is seen as a flawed and outdated framework.  
    - Concepts like belief and desire are not grounded in scientific understanding and will likely be replaced by neuroscientific explanations.
 
@@ -29,7 +29,7 @@ Eliminativism, often referred to as eliminative materialism in the philosophy of
 - Outdated concepts like phlogiston (in chemistry) or the luminiferous ether (in physics) were eliminated by science. Similarly, terms like "belief" and "desire" may eventually be discarded.
 - Some eliminativists argue against the existence of:  
   - **Qualia**: Subjective experiences.  
-  - **Propositional [Attitudes](../../../003_education/kings%20college/02%20Psychological%20Foundations/Attitudes.md)**: Mental states involving beliefs about something.
+  - **Propositional [Attitudes](../../../003_education/kings-college/02%20Psychological%20Foundations/Attitudes.md)**: Mental states involving beliefs about something.
 
 ## Criticisms
 

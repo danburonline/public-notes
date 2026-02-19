@@ -43,7 +43,7 @@ To replace this flawed model, Dennett proposes the **Multiple Drafts Model** of 
 
 ## Implications
 
-Rejecting P-Zombies and the Chinese Room Dennett's rejection of the Cartesian Theater directly leads to his conclusion that [philosophical zombies](../_%20general%20knowledge/Philosophical%20zombies.md) are a logically incoherent concept.
+Rejecting P-Zombies and the Chinese Room Dennett's rejection of the Cartesian Theater directly leads to his conclusion that [philosophical zombies](../_%20general/Philosophical%20zombies.md) are a logically incoherent concept.
 - **The P-Zombie Argument:** A p-zombie is a being that is physically and functionally identical to a human but lacks subjective experience (qualia). This idea depends entirely on the assumption that consciousness is an "extra ingredient"—the *show* in the Cartesian Theater—that can be separated from the underlying machinery.
 - **Dennett's Rebuttal:** Since Dennett rejects the theathre, he rejects the "extra ingredient." For him, **consciousness *is* the sum of the system's complex functions**. There is no non-physical "light" of awareness that could be absent.
 - **Functionalism and AI:** If a system—whether a biological brain, an uploaded mind, or an advanced AI—could truly replicate 100% of a human's functional dispositions (including reacting to novelty, explaining motivations, and reporting on internal states), it *would be* conscious by definition. The idea of an unconscious perfect replica is, in his view, a contradiction born from the Cartesian fallacy. This is why he is also a famous critic of Searle's Chinese Room argument.

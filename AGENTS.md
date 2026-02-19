@@ -8,7 +8,7 @@
 
 Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for [consciousness engineering](001_private/_%20general%20knowledge/Consciousness%20Engineering.md)—connecting quantum cosmology, computational [phenomenology](003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix%20science/Biomimetic%20neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
+**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for [consciousness engineering](001_private/_%20general/Consciousness%20Engineering.md)—connecting quantum cosmology, computational [phenomenology](003_education/kings-college/03%20Mental%20Health%20in%20the%20Community/Phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix-science/Biomimetic%20neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
 
 ### STRUCTURE
 

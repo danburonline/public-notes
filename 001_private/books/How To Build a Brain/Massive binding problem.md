@@ -41,7 +41,7 @@ The massive binding problem refers to the challenge of **explaining how the brai
 
 ## Approaches to Solving the Binding Problem
 
-1. **Temporal [Synchrony](../_%20general%20knowledge/Interbrain%20synchrony.md)**: Binding through synchronised neural firing.
+1. **Temporal [Synchrony](../_%20general/Interbrain%20synchrony.md)**: Binding through synchronised neural firing.
 2. **Convergence Zones**: Specialised brain regions that integrate information.
 3. **Attentional Mechanisms**: Selective enhancement and integration of relevant information.
 4. **Predictive Coding**: Binding through prediction and error correction in hierarchical systems.
