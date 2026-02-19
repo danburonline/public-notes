@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![butcher-number](../../../000_inbox/attachments/butcher-number.jpg)
+![butcher-number](../../../_inbox/attachments/butcher-number.jpg)
 
 The butcher number, a metric introduced in neural interface research and adapted from Prof. Markus Meister, **quantifies the efficiency and invasiveness of intracortical recording probes by calculating the ratio of neurons destroyed (the "butcher" cost) to neurons successfully recorded.** It highlights the trade-off between scaling up neural recordings for brain-computer interfaces (BCIs) and minimising tissue damage, with an ideal value much less than 1 to enable comprehensive, non-destructive sampling of cortical activity without compromising brain function.
 

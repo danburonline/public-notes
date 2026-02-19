@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![cell-types](../../../000_inbox/attachments/cell-types.jpeg)
+![cell-types](../../../_inbox/attachments/cell-types.jpeg)
 
 - **Neurons:** the primary cells responsible for transmitting information in the brain
 - **Glial cells:** cells that provide support and protection for neurons

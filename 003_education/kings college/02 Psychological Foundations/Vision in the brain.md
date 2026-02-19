@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![vision-in-the-brain](../../../000_inbox/attachments/vision-in-the-brain.png)
+![vision-in-the-brain](../../../_inbox/attachments/vision-in-the-brain.png)
 1. **Light Enters the Eye**: Vision begins when light enters the eye by passing through the cornea, the clear front surface of the eye, which helps to focus the light.
 
 2. **Pupil and Iris Adjustment**: The light then enters the pupil, the black part in the centre of the eye. The iris (the coloured part of the eye) adjusts to control the amount of light that gets through to the lens. In low light conditions, the iris widens to let in more light; in bright light, it narrows to let in less light.

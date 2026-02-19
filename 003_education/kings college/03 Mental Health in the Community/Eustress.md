@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![eustress](../../../000_inbox/attachments/eustress.png)
+![eustress](../../../_inbox/attachments/eustress.png)
 
 Eustress refers to **positive [stress](Stress.md)**—the beneficial form of physiological and psychological arousal that arises when challenges are perceived as manageable and meaningful. Unlike [distress](Distress.md), eustress promotes adaptation, growth, and enhanced performance.
 

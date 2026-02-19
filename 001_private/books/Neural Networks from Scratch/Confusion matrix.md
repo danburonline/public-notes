@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![confusion-matrix](../../../000_inbox/attachments/confusion-matrix.png)
+![confusion-matrix](../../../_inbox/attachments/confusion-matrix.png)
 
 A confusion matrix is a **tool often used in classification to visualise the performance of an algorithm.** It’s a table with two dimensions: “actual” and “predicted”. Here’s a breakdown of its components:
 

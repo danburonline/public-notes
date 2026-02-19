@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![popout](../../../000_inbox/attachments/popout.png)
+![popout](../../../_inbox/attachments/popout.png)
 
 The “pop-out” effect, a concept from the field of visual perception and cognitive psychology, refers to the phenomenon **where an object stands out from its surroundings due to a distinct feature,** leading to its immediate and effortless recognition.
 

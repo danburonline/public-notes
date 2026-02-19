@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![cortex-vasc](../../000_inbox/attachments/cortex-vasc.jpg)
+![cortex-vasc](../../_inbox/attachments/cortex-vasc.jpg)
 
 ## Arterial Supply
 

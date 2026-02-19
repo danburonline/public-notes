@@ -4,7 +4,7 @@ Phase space and phasing rotators are **critical tools in neural signal processin
 
 ## Phase [Space](../../../001_private/videos/Latent%20space.md)
 
-![phase-space](../../../000_inbox/attachments/phase-space.png)
+![phase-space](../../../_inbox/attachments/phase-space.png)
 
 - **Definition**: Represents all possible states of a system.
 - **Applications**:
@@ -13,7 +13,7 @@ Phase space and phasing rotators are **critical tools in neural signal processin
 
 ## Phasing Rotator
 
-![reconstructed-space](../../../000_inbox/attachments/reconstructed-space.png)
+![reconstructed-space](../../../_inbox/attachments/reconstructed-space.png)
 
 - **Definition**: Alters the phase of a signal without changing its amplitude.
 - **Applications**:

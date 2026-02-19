@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![anaplastic-transformation](../../000_inbox/attachments/anaplastic-transformation.png)
+![anaplastic-transformation](../../_inbox/attachments/anaplastic-transformation.png)
 
 Anaplastic transformation represents a **critical turning point in the progression of low-grade gliomas**, where initially slow-growing brain tumours rapidly evolve into more malignant and aggressive forms. This process involves complex molecular and cellular changes that fundamentally alter the tumour's behaviour, shifting from a relatively indolent state to a more invasive and life-threatening condition. The transformation typically involves significant genetic mutations, epigenetic alterations, and changes in cellular characteristics that enable more aggressive tumour growth.
 

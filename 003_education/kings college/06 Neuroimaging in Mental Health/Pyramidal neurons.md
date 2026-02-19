@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![pyramidal-neurons ](../../../000_inbox/attachments/pyramidal-neurons%20.jpg)
+![pyramidal-neurons ](../../../_inbox/attachments/pyramidal-neurons%20.jpg)
 
 Pyramidal neurons are a **type of excitatory neuron found in the cerebral cortex, hippocampus, and the amygdala.** They are named for their **distinct pyramid-shaped cell bodies** with a large apical dendrite, multiple basal dendrites, and a long axon that can extend to other parts of the brain.
 

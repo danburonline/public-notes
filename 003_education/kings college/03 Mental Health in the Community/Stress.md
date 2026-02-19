@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![stress-types](../../../000_inbox/attachments/stress-types.jpg)
+![stress-types](../../../_inbox/attachments/stress-types.jpg)
 
 In the field of psychology, "stress" is an umbrella term used to describe the mental, emotional, or physical strain that people experience in response to events perceived as challenging or threatening. This strain can either be positive ([eustress](Eustress.md)) or negative ([distress](Distress.md)), adding depth to this overarching concept.
 

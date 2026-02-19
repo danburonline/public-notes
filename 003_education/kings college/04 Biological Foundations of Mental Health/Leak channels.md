@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![leak-channel](../../../000_inbox/attachments/leak-channel.jpg)
+![leak-channel](../../../_inbox/attachments/leak-channel.jpg)
 
 Leak channels, also known as passive or resting channels, are **protein structures that span the neuron’s membrane and allow ions to move in and out of the cell.**
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![neurogenesis](../../../000_inbox/attachments/neurogenesis.png)
+![neurogenesis](../../../_inbox/attachments/neurogenesis.png)
 
 Neurogenesis is the **biological process by which new neurons, or nerve cells, are generated.** This process occurs in many different species, including humans, and is most active during prenatal development. However, certain regions of the adult brain can also produce new neurons throughout life, a phenomenon known as adult neurogenesis.
 

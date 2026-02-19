@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![sonogenetics](../../000_inbox/attachments/sonogenetics.jpg)
+![sonogenetics](../../_inbox/attachments/sonogenetics.jpg)
 
 Sonogenetics is an emerging medical technology that **utilises acoustic waves, specifically ultrasound, to control cells through genetically encoded sonosensitive mediators** (SSMs). This approach allows for the non-invasive and precise modulation of specific molecular events and biomolecular functions, offering a new avenue for targeted spatiotemporal manipulation in gene and cell-based therapies.
 

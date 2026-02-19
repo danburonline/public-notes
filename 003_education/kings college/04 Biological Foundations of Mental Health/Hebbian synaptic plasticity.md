@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![critical-period](../../../000_inbox/attachments/critical-period.jpg)
+![critical-period](../../../_inbox/attachments/critical-period.jpg)
 
 Hebbian plasticity is a theory about [synaptic plasticity](Synaptic%20plasticity.md) proposed by [Donald Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb) in 1949. It’s often summarised as **“Cells that fire together, wire together.”** This implies that the connections between neurons that fire at the same time become stronger.
 

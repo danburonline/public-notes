@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![corpus-callosum](../../../000_inbox/attachments/corpus-callosum.png)
+![corpus-callosum](../../../_inbox/attachments/corpus-callosum.png)
 
 The corpus callosum is a large, C-shaped **nerve fibre bundle found beneath the cerebral cortex.** It spans the longitudinal fissure, connecting the left and right cerebral hemispheres, and **facilitates interhemispheric communication.**
 

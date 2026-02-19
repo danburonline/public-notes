@@ -1,6 +1,6 @@
 #core/artificialintelligence 
 
-![inductive-bias](../../../000_inbox/attachments/inductive-bias.png)
+![inductive-bias](../../../_inbox/attachments/inductive-bias.png)
 
 Inductive bias in machine learning refers to the **inherent set of assumptions or preferences that a learning algorithm employs to generalise from training data to unseen inputs**, enabling predictions despite incomplete information. This bias guides the model in selecting one hypothesis over others that fit the observed data equally well, playing a crucial role in effective learning and preventing overfitting by incorporating prior knowledge about the problem domain.
 

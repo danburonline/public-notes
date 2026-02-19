@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![dipoles](../../../000_inbox/attachments/dipoles.png)
+![dipoles](../../../_inbox/attachments/dipoles.png)
 
 Electroencephalography (EEG) measures the brain's **electrical activity by recording voltage fluctuations resulting from ionic current flows within neurons.** A fundamental concept in understanding how EEG works is the notion of the dipole, which refers to the difference in electric potential that occurs during neuronal activity.
 

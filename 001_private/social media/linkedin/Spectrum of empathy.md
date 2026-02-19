@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![spectrum-of-empathy](../../../000_inbox/attachments/spectrum-of-empathy.png)
+![spectrum-of-empathy](../../../_inbox/attachments/spectrum-of-empathy.png)
 
 1. **Pity:** This is the most basic level of empathy, where one person feels sorry for the other’s suffering. It can be seen as a somewhat detached form of empathy, as it doesn’t require fully understanding or sharing the other person’s feelings. Rather, it’s recognising their [distress](../../../003_education/kings%20college/03%20Mental%20Health%20in%20the%20Community/Distress.md) and expressing sorrow for it. However, pity can sometimes be seen as patronising or condescending, as it implies a certain level of superiority from the person expressing it.
 

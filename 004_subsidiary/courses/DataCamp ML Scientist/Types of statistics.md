@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![stats-types](../../../000_inbox/attachments/stats-types.png)
+![stats-types](../../../_inbox/attachments/stats-types.png)
 
 The two main types of statistics are descriptive statistics and inferential statistics.
 

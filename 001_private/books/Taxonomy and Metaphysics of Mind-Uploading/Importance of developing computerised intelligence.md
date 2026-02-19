@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![computerised-mind](../../../000_inbox/attachments/computerised-mind.jpg)
+![computerised-mind](../../../_inbox/attachments/computerised-mind.jpg)
 
 Developing computerised intelligence is **essential for addressing existential risks, extending human cognitive capacities, and enabling mind uploading as a form of personal continuity.** The argument rests on both practical and philosophical grounds: biological intelligence is fragile, resource-limited, and confined to a single substrate.
 

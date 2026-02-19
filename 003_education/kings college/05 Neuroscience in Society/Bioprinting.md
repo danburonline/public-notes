@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![bioprinting](../../../000_inbox/attachments/bioprinting.jpg)
+![bioprinting](../../../_inbox/attachments/bioprinting.jpg)
 
 Bioprinting, also known as 3D bioprinting, is a revolutionary technology that combines **3D printing with biomaterials to create artificial tissues, organs, and blood vessels that closely resemble natural ones.** It has gained significant attention in the field of medicine and holds immense potential for various applications, including drug research and tissue regeneration.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![ventricular-system](../../../000_inbox/attachments/ventricular-system.png)
+![ventricular-system](../../../_inbox/attachments/ventricular-system.png)
 
 The ventricular system is a set of **four interconnected cavities in the brain.** It is filled with cerebrospinal fluid (CSF); it cushions the brain and removes waste. The system consists of two lateral ventricles, the third ventricle and the fourth ventricle.
 

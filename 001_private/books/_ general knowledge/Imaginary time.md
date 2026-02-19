@@ -1,6 +1,6 @@
 #core/quantumcosmology #core/mathematicalphysics
 
-![no-boundary](../../../000_inbox/attachments/no-boundary.jpg)
+![no-boundary](../../../_inbox/attachments/no-boundary.jpg)
 
 Imaginary time is a concept derived from quantum mechanics and is used in quantum cosmology. It was popularised by Stephen Hawking in 1988. It's called "imaginary" because it **involves a mathematical substitution where the regular time variable $t$ is replaced with imaginary time $i\tau$,** where $i$ is the imaginary unit with the property $i^2 = -1$.
 

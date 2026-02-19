@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![cell-potency](../../../000_inbox/attachments/cell-potency.jpg)
+![cell-potency](../../../_inbox/attachments/cell-potency.jpg)
 
 Pluripotentiality refers to the **capability of certain types of cells, notably stem cells, to differentiate into any other type of cell in the body.** This is a characteristic that is crucial in areas like regenerative medicine and tissue engineering.
 

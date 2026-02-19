@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![brevican](../../../000_inbox/attachments/brevican.png)
+![brevican](../../../_inbox/attachments/brevican.png)
 
 Brevican is a **brain-specific chondroitin sulfate proteoglycan found in the extracellular matrix** (ECM) of the [central nervous system](../04%20Biological%20Foundations%20of%20Mental%20Health/Central%20nervous%20system.md). It is a member of the lectican family, which also includes aggrecan, versican, and neurocan. The presence of brevican in the ECM is **significant for maintaining neural structure and modulating functions** related to neuroplasticity.
 

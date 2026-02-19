@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![symbol-grounding-problem](../../../000_inbox/attachments/symbol-grounding-problem.png)
+![symbol-grounding-problem](../../../_inbox/attachments/symbol-grounding-problem.png)
 
 The symbol grounding problem is pivotal in disciplines such as artificial intelligence, cognitive science, and philosophy of mind. It **questions how words, symbols, or concepts acquire meaning, particularly how these symbols become connected to the things or concepts they refer to in the real world.**
 

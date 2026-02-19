@@ -1,6 +1,6 @@
 #fundamental/logic
 
-![fuzzy-logic](../../../000_inbox/attachments/fuzzy-logic.png)
+![fuzzy-logic](../../../_inbox/attachments/fuzzy-logic.png)
 
 Fuzzy logic is a form of **many-valued logic where the truth values of variables can be any real number between 0 and 1.** It’s used to handle the concept of partial truth, where the truth value may range between completely true and completely false.
 

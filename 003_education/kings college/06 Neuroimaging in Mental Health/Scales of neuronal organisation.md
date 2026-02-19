@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![brain-scales](../../../000_inbox/attachments/brain-scales.jpg)
+![brain-scales](../../../_inbox/attachments/brain-scales.jpg)
 
 The neuronal organisation **can be understood at various scales, each providing insights into different aspects of brain function and structure.** The classification into microscopic, mesoscopic, and macroscopic scales helps dissect the complexity of the brain from the level of individual neurons to large networks of brain regions.
 

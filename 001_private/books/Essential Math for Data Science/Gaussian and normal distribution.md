@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/mathematicalphysics 
 
-![normal-distribution](../../../000_inbox/attachments/normal-distribution.png)
+![normal-distribution](../../../_inbox/attachments/normal-distribution.png)
 
 Gaussian Distribution, also known as **Normal Distribution**, is a type of **continuous probability distribution for a real-valued random variable.** It forms a bell-shaped curve when plotted on a graph.
 
@@ -8,7 +8,7 @@ Gaussian Distribution, also known as **Normal Distribution**, is a type of **con
 
 - Normal Distribution is symmetric about the mean. A Normal Distribution's mean, median, and mode are all equal.
 
-![normal-dist-formula](../../../000_inbox/attachments/normal-dist-formula.jpg)
+![normal-dist-formula](../../../_inbox/attachments/normal-dist-formula.jpg)
 
 - The probability density function of a Normal Distribution is:
     - `x` is a real-valued random variable

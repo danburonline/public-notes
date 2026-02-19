@@ -1,8 +1,8 @@
 .obsidian
 .trash
 .DS_Store
-000_inbox/*
-!000_inbox/attachments
+_inbox/*
+!_inbox/attachments
 piecesdb.json
 
 

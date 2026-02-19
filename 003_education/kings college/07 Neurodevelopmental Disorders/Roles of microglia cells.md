@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![roles-microglia](../../../000_inbox/attachments/roles-microglia.png)
+![roles-microglia](../../../_inbox/attachments/roles-microglia.png)
 
 Microglia cells are **specialised immune cells in the brain with a variety of functions** essential for [central nervous system](../04%20Biological%20Foundations%20of%20Mental%20Health/Central%20nervous%20system.md) (CNS) homeostasis and health:
 

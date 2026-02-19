@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![coarse-graining](../../000_inbox/attachments/coarse-graining.png)
+![coarse-graining](../../_inbox/attachments/coarse-graining.png)
 
 Coarse graining is a methodological approach in science, particularly neuroscience, that **simplifies complex systems by reducing details—such as through averaged observations or simplified experimental models—to uncover fundamental principles and dynamics.** This counters the challenges of high-dimensional data from advanced recordings, which can lead to biases, over-interpretation, and errors, as seen in cerebral cortex studies where the brain's vast complexity dwarfs that of simpler organs like the heart.
 

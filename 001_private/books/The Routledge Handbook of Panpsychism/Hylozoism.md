@@ -1,6 +1,6 @@
 #fundamental/logic #core/appliedneuroscience 
 
-![hylozoism](../../../000_inbox/attachments/hylozoism.png)
+![hylozoism](../../../_inbox/attachments/hylozoism.png)
 
 Hylozoism is the philosophical **doctrine that all matter is alive or possesses life**, either inherently or through participation in a universal life principle.
 

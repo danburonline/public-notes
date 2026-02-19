@@ -1,6 +1,6 @@
 #core/theoreticalneurosurgery #core/appliedneuroscience
 
-![craniotomy](../../../000_inbox/attachments/craniotomy.jpg)
+![craniotomy](../../../_inbox/attachments/craniotomy.jpg)
 
 A craniotomy is a **surgical procedure involving the temporary removal of a bone flap from the skull to access the brain.** Unlike a craniectomy (where bone is not replaced), the bone flap is repositioned after the intracranial procedure, making craniotomy the foundational access technique for most modern neurosurgery.
 

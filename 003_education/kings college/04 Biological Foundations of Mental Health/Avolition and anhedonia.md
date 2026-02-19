@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![avolition-and-anhedonia](../../../000_inbox/attachments/avolition-and-anhedonia.jpg)
+![avolition-and-anhedonia](../../../_inbox/attachments/avolition-and-anhedonia.jpg)
 
 Avolition and anhedonia are **psychological terms often used to describe symptoms of certain mental health disorders,** including schizophrenia and depression.
 

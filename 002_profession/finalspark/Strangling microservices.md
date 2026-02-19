@@ -1,6 +1,6 @@
 #core/softwaredevelopment
 
-![strangling](../../000_inbox/attachments/strangling.jpg)
+![strangling](../../_inbox/attachments/strangling.jpg)
 
 The strangler fig pattern is a **strategy for incrementally migrating a monolithic system to microservices** by gradually replacing specific functionalities until the original system can be decommissioned. Named after strangler fig trees that grow around host trees and eventually replace them.
 

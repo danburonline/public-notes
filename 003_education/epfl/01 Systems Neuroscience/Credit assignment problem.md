@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![credit-assignment-problem](../../../000_inbox/attachments/credit-assignment-problem.jpg)
+![credit-assignment-problem](../../../_inbox/attachments/credit-assignment-problem.jpg)
 
 The credit assignment problem is a fundamental challenge in various fields, including artificial intelligence and neuroscience. It involves **identifying which actions, decisions, or components are responsible for a particular outcome, whether success or failure.** This problem is crucial for optimising learning processes and improving decision-making systems.
 

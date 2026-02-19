@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![diffusion-tensor-tractography](../../../000_inbox/attachments/diffusion-tensor-tractography.jpeg)
+![diffusion-tensor-tractography](../../../_inbox/attachments/diffusion-tensor-tractography.jpeg)
 
 Diffusion tensor tractography **uses DTI data to map white matter tracts in the brain.** It estimates the trajectory and connectivity patterns of neural fibres by measuring water diffusion along them.
 

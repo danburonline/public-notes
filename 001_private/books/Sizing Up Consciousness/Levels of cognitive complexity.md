@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![levels-of-consciousness](../../../000_inbox/attachments/levels-of-consciousness.jpeg)
+![levels-of-consciousness](../../../_inbox/attachments/levels-of-consciousness.jpeg)
 
 ## Sentience
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![bbb](../../../000_inbox/attachments/bbb.jpeg)
+![bbb](../../../_inbox/attachments/bbb.jpeg)
 
 The Blood-Brain Barrier (BBB) is a highly selective **semipermeable border that separates the circulating blood from the brain and extracellular fluid in the [central nervous system](../04%20Biological%20Foundations%20of%20Mental%20Health/Central%20nervous%20system.md) (CNS).** The BBB is crucial in maintaining the brain’s microenvironment and protecting it from potentially harmful substances.
 

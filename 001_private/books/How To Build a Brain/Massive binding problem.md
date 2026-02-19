@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/appliedneuroscience
 
-![binding-problem](../../../000_inbox/attachments/binding-problem.jpg)
+![binding-problem](../../../_inbox/attachments/binding-problem.jpg)
 
 The massive binding problem refers to the challenge of **explaining how the brain integrates diverse sensory inputs and cognitive processes** to create a unified, coherent experience of consciousness.
 

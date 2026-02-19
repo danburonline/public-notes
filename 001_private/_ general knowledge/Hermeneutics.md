@@ -1,6 +1,6 @@
 #fundamental/communication
 
-![biblical-hermeneutics](../../000_inbox/attachments/biblical-hermeneutics.png)
+![biblical-hermeneutics](../../_inbox/attachments/biblical-hermeneutics.png)
 
 Hermeneutics is a branch of knowledge that focuses on the **interpretation of texts, particularly sacred texts and philosophical works**, but it can also apply to legal texts, literature, and even non-textual forms of expression, such as visual and audio media.
 

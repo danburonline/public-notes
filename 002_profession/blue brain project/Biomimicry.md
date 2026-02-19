@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/softwaredevelopment 
 
-![biomimicry](../../000_inbox/attachments/biomimicry.jpg)
+![biomimicry](../../_inbox/attachments/biomimicry.jpg)
 
 Biomimicry is an innovative approach to **design and problem-solving that draws inspiration from nature's time-tested patterns, strategies, and systems.** Derived from the Greek words *bios* (life) and *mimesis* (imitation), biomimicry involves emulating the models, processes, and ecosystems found in the natural world to address human challenges in a sustainable manner.
 

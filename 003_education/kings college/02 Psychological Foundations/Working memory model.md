@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![working-memory](../../../000_inbox/attachments/working-memory.png)
+![working-memory](../../../_inbox/attachments/working-memory.png)
 
 The **working memory model**, proposed by Baddeley and Hitch in 1974, describes short-term memory as comprising three components: the central executive, the phonological loop, and the visuospatial sketchpad.
 

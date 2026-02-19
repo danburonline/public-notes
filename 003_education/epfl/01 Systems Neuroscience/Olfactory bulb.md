@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![olfactory-bulb](../../../000_inbox/attachments/olfactory-bulb.jpg)
+![olfactory-bulb](../../../_inbox/attachments/olfactory-bulb.jpg)
 
 The olfactory bulb is a critical component of the human brain and is **responsible for the sense of smell (olfaction).** It serves as the **first neural processing stage of olfactory information coming from the nose** and plays a pivotal role in the perception and interpretation of odours.
 

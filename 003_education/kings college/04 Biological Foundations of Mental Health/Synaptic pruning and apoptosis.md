@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![cell-death](../../../000_inbox/attachments/cell-death.png)
+![cell-death](../../../_inbox/attachments/cell-death.png)
 
 ## Synapse Pruning
 

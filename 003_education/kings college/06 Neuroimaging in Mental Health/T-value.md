@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/appliedneuroscience
 
-![t-value](../../../000_inbox/attachments/t-value.png)
+![t-value](../../../_inbox/attachments/t-value.png)
 
 The **t-value** is a crucial statistic in hypothesis testing, especially in the context of t-tests. It determines the significance of the difference between two sample means.
 

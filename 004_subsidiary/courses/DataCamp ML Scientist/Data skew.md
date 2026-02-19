@@ -4,7 +4,7 @@
 
 ## There Are Two [Types of Data](Types%20of%20Data.md) Skew
 
-![data-skew](../../../000_inbox/attachments/data-skew.png)
+![data-skew](../../../_inbox/attachments/data-skew.png)
 
 1. **Positive Skew (Right Skew):** The tail of the distribution is elongated towards the right, indicating a few extremely high values. The majority of the data is concentrated towards the lower values.
 2. **Negative Skew (Left Skew):** The tail of the distribution is elongated towards the left, indicating a few extremely low values. The majority of the data is concentrated towards the higher values.

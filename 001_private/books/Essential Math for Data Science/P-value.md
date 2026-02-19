@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/mathematicalphysics
 
-![p-value](../../../000_inbox/attachments/p-value.png)
+![p-value](../../../_inbox/attachments/p-value.png)
 
 The p-value is a key concept in statistics, typically used in hypothesis testing. It **quantifies the evidence against a specified statistical model,** such as a null hypothesis.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![exocytosis](../../../000_inbox/attachments/exocytosis.png)
+![exocytosis](../../../_inbox/attachments/exocytosis.png)
 
 Exocytosis is a central process in neurons that allows communication between cells in the brain and the rest of the body. It is the **mechanism by which neurons release neurotransmitters to send signals to other neurons.**
 

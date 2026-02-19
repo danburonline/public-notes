@@ -1,6 +1,6 @@
 #core/softwaredevelopment #core/appliedneuroscience
 
-![shannon-information](../../../000_inbox/attachments/shannon-information.png)
+![shannon-information](../../../_inbox/attachments/shannon-information.png)
 
 1. **Definition**: Shannon information quantifies the amount of uncertainty or surprise in a random variable.
 2. **Entropy**: Measure of average information content in a message.

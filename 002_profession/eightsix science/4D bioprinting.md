@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![4d-bioprinting](../../000_inbox/attachments/4d-bioprinting.jpg)
+![4d-bioprinting](../../_inbox/attachments/4d-bioprinting.jpg)
 
 Advanced additive manufacturing creating dynamic, **cell-laden structures that evolve over time (4th dimension)** in response to stimuli (e.g., pH, temperature, light).  
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![basal-ganglia](../../../000_inbox/attachments/basal-ganglia.jpg)
+![basal-ganglia](../../../_inbox/attachments/basal-ganglia.jpg)
 
 The basal ganglia are a **group of subcortical nuclei located in the brain.** They are involved in various functions, including the control of movement, learning, and emotions. The basal ganglia also play a role in forming memories and regulating motivation and reward-seeking behaviour.
 

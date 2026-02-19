@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![proxy-tuning](../../000_inbox/attachments/proxy-tuning.png)
+![proxy-tuning](../../_inbox/attachments/proxy-tuning.png)
 
 Proxy-tuning is a technique designed to **fine-tune large language models (LLMs) at the decoding stage without changing the model’s internal weights.** This method involves adjusting the logits (the raw output values from the model’s final layer) of the target LLM by calculating the difference in logits between a smaller base model and **a fine-tuned version of that smaller model.** This difference is then added to the logits of the target model to improve its performance.
 

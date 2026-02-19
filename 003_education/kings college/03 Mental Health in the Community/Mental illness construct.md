@@ -12,7 +12,7 @@ The term “mental illness construct” typically refers to the way in which men
 
 A variety of people has criticised this construct:
 
-![mental-illness-construct](../../../000_inbox/attachments/mental-illness-construct.png)
+![mental-illness-construct](../../../_inbox/attachments/mental-illness-construct.png)
 
 1. **Sociologists such as Goffman and Scheff**: These sociologists looked at the social construction of mental illness. Goffman, in particular, highlighted the concept of stigma and how it is applied to individuals labelled as mentally ill. On the other hand, Thomas Scheff introduced the idea of “labelling theory,” suggesting that the diagnosis of mental illness can create and reinforce mental illness symptoms due to societal expectations and self-fulfilling prophecies.
 

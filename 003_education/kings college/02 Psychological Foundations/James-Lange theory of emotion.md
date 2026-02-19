@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![james-lange-theory-of-emotion](../../../000_inbox/attachments/james-lange-theory-of-emotion.png)
+![james-lange-theory-of-emotion](../../../_inbox/attachments/james-lange-theory-of-emotion.png)
 
 The James-Lange Theory of Emotion is a significant theory within the field of psychology that suggests **our emotional experience is a reaction to our bodily responses to an event.**
 

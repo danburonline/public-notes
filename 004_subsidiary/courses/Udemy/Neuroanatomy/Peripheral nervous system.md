@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![pns](../../../../000_inbox/attachments/pns.png)
+![pns](../../../../_inbox/attachments/pns.png)
 
 The peripheral nervous system (PNS) is one of the two major nervous system divisions. It is composed of **all the nerves that branch off from the brain and spinal cord** ([Central nervous system](../../../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Central%20nervous%20system.md)).
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![olfaction](../../../000_inbox/attachments/olfaction.png)
+![olfaction](../../../_inbox/attachments/olfaction.png)
 
 **Olfaction, or the sense of smell,** is a complex process that involves two different pathways: orthonasal and retronasal.
 

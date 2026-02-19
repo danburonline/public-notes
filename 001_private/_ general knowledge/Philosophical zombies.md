@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence #core/computationalphenomenology
 
-![p-zombie](../../000_inbox/attachments/p-zombie.png)
+![p-zombie](../../_inbox/attachments/p-zombie.png)
 
 A **philosophical zombie** (or p-zombie) is a thought experiment introduced by philosopher David Chalmers in 1996. It describes a hypothetical being that is physically and behaviourally identical to a human but entirely lacks conscious experience (qualia).
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![distributed-brain](../../../000_inbox/attachments/distributed-brain.png)
+![distributed-brain](../../../_inbox/attachments/distributed-brain.png)
 
 The concept of the distributed brain highlights that **brain functions are not confined to isolated regions. Instead, various areas contribute** to even the simplest behaviours and cognitive tasks.
 

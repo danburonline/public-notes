@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![hyperfrontality](../../../000_inbox/attachments/hyperfrontality.png)
+![hyperfrontality](../../../_inbox/attachments/hyperfrontality.png)
 
 Hyperfrontality refers to **increased activity or overactivity in the brain’s frontal lobes.**
 

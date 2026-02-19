@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![5-ala](../../../000_inbox/attachments/5-ala.jpg)
+![5-ala](../../../_inbox/attachments/5-ala.jpg)
 
 The Pink Drink technique is used to **enhance the visualisation of malignant glioma (brain tumour) tissue during surgery.** The patient consumes a solution containing 5-aminolevulinic acid (5-ALA) prior to the procedure. This approach allows surgeons to more effectively distinguish tumour tissue from normal brain tissue, ultimately aiding in safer and more complete tumour removal.
 

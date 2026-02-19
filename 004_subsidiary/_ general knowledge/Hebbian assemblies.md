@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![hebbian-assembly](../../000_inbox/attachments/hebbian-assembly.png)
+![hebbian-assembly](../../_inbox/attachments/hebbian-assembly.png)
 
 [Hebbian](../../003_education/kings%20college/04%20Biological%20Foundations%20of%20Mental%20Health/Hebbian%20synaptic%20plasticity.md) assemblies are **groups of neurons that become interconnected through repeated activation.** This concept, proposed by [Donald Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb), suggests that when neurons fire together frequently, the connections between them strengthen. This strengthened connection makes it more likely that the neurons will activate together in the future, forming a functional unit or "assembly."
 

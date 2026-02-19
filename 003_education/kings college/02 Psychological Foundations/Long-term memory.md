@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![memory](../../../000_inbox/attachments/memory.png)
+![memory](../../../_inbox/attachments/memory.png)
 
 Long Term Memory (LTM) is an extensive memory storage system that can **hold information for prolonged periods, ranging from a few minutes to a lifetime.** It is divided into two broad categories: Explicit Memory (or Declarative Memory) and Implicit Memory (or Nondeclarative Memory).
 
