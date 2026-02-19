@@ -20,3 +20,6 @@
 
 - **Fundamental Physics**: Wolfram’s Physics Project explores the idea that fundamental physics can be understood as a computational process within the ruliad. This approach aims to derive the laws of physics from simple computational rules.
 - **Philosophy and Metaphysics**: The ruliad has implications for philosophy, particularly in understanding the nature of reality, the role of computation in the universe, and the limits of human knowledge.
+
+> [!note] Connection to Early Connectionism
+> The ruliad's premise that simple computational rules, applied exhaustively, generate all possible complex behaviour echoes the central insight of early connectionism. McCulloch and Pitts (1943) demonstrated that networks of simple threshold units could compute any logical function, and later proved these networks were Turing-complete. Wolfram arrived at the same conclusion from the opposite direction: his cellular automata (notably Rule 110) are also Turing-complete, despite their minimal structure. Both traditions converge on the idea that **computational universality is cheap** — it arises readily from simple, locally-interacting elements. The ruliad can be read as the logical endpoint of this insight: the totality of all possible computations that such simple systems can produce.
