@@ -1,5 +1,7 @@
 #core/appliedneuroscience
 
+![](../../../_inbox/attachments/didactic_transposition.png)
+
 Didactic Transposition refers to the **process of transforming “knowledge” into “knowable” and “taught” content.** Yves Chevallard, a French researcher in mathematics education, originally proposed it. The concept is used to explain the changes that occur when knowledge is adapted from the domain of scholars to the school context.
 
 ## Stages of Didactic Transposition
