@@ -48,8 +48,8 @@ Hemispherotomy provides striking empirical evidence for [substrate independence]
 - **Preserved phenomenal unity** — Patients report continuous first-person experience, not a "halved" consciousness, supporting theories that consciousness emerges from integrated information patterns rather than raw neural mass
 - **Maintained sense of self** — Personal identity and autobiographical continuity persist through radical neural reorganisation
 
-> [!tip] Relevance to Substrate Transfer
-> For [Progressive Synthetic Neural Substrate Transfer](../../_%20general/PSNST.md), hemispherotomy demonstrates that:
+> [!tip] Relevance to Extracorporeal Cognitive Preservation
+> For [Extracorporeal Cognitive Preservation](../../_%20general/Extracorporeal%20Cognitive%20Preservation.md), hemispherotomy demonstrates that:
 > 1. Consciousness can survive major substrate changes when functional organisation is preserved
 > 2. Gradual transition (vs. instantaneous) allows neural plasticity to maintain integration
 > 3. The "minimum viable substrate" for consciousness may be far smaller than the intact brain
