@@ -1,4 +1,4 @@
-#fundamental/logic #core/mathematicalphysics 
+#fundamental/logic #core/computationalmathematics 
 
 ![pemdas](../../../_inbox/attachments/pemdas.jpg)
 

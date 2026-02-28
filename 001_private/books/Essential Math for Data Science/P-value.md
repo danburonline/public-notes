@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/mathematicalphysics
+#core/artificialintelligence #core/computationalmathematics
 
 ![p-value](../../../_inbox/attachments/p-value.png)
 

@@ -18,16 +18,16 @@ Three-tier tagging system reflecting knowledge depth and focus:
 
 #### Lead
 
+- #lead/??? (draft: venture science)
 - #lead/consciousnessengineering
-- #lead/??? (draft: anthropic cosmology)
-- #lead/??? (undefined)
+- #lead/??? (draft: anthropic ontology)
 
 #### Core
 
-- #core/ ??? (draft: rulial connectionism)
-- #core/computationalphenomenology
+- #core/quantumcosmology
+- #core/syntheticphenomenology
 - #core/biomimeticneuromorphics 
-- #core/mathematicalphysics
+- #core/computationalmathematics
 - #core/theoreticalneurosurgery
 - #core/appliedneuroscience
 - #core/artificialintelligence

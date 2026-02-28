@@ -1,4 +1,4 @@
-#core/mathematicalphysics #core/artificialintelligence
+#core/computationalmathematics #core/artificialintelligence
 
 ![supervenience](../../../_inbox/attachments/supervenience.jpg)
 

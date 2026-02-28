@@ -1,4 +1,4 @@
-#core/mathematicalphysics 
+#core/computationalmathematics 
 
 An open dynamic system is a **system that interacts with its environment.** Unlike a closed system, where everything is self-contained, an open system is influenced by its surroundings and can exchange matter, energy, or information with them. A key feature is that the system's evolution is determined not just by its internal rules and initial state, but also by these external influences.
 

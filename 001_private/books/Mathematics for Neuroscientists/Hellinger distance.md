@@ -1,4 +1,4 @@
-#core/mathematicalphysics #core/appliedneuroscience 
+#core/computationalmathematics #core/appliedneuroscience 
 
 ![hellinger-distance](../../../_inbox/attachments/hellinger-distance.png)
 

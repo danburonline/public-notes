@@ -1,4 +1,4 @@
-#core/mathematicalphysics
+#core/computationalmathematics
 
 Homo economicus, or “economic man,” is a theoretical concept in economics **representing a rational agent who acts in pure self-interest.**
 

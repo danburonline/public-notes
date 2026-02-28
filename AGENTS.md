@@ -56,10 +56,10 @@ Three-tier hierarchy at **line 1** of every note:
 | Tier | Purpose | Examples |
 |------|---------|----------|
 | `#lead/` | Unique positioning / frontier work | `consciousnessengineering` |
-| `#core/` | Main competencies | `quantumcosmology` (draft), `computationalphenomenology`, `biomimeticneuromorphics`, `mathematicalphysics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
+| `#core/` | Main competencies | `quantumcosmology`, `syntheticphenomenology`, `biomimeticneuromorphics`, `computationalmathematics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
 | `#fundamental/` | Foundational skills | `logic`, `communication`, `creativity` |
 
-Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
+Multiple tags allowed: `#core/artificialintelligence #core/computationalmathematics`
 
 #### Linking
 

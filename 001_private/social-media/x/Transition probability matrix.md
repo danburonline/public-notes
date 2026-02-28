@@ -1,4 +1,4 @@
-#core/mathematicalphysics
+#core/computationalmathematics
 
 A transition probability matrix, also known as a stochastic matrix or Markov matrix, is a **square matrix used to describe the transitions of a Markov chain.** It is a key tool for modelling how a system changes between different states over time.
 

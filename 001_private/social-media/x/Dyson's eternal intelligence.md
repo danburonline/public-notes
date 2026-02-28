@@ -1,4 +1,4 @@
-#core/mathematicalphysics
+#core/computationalmathematics
 
 **Concept Origin**: The idea originates from physicist [Freeman Dyson](https://en.wikipedia.org/wiki/Freeman_Dyson), who explored the potential for intelligence to survive indefinitely in a universe that is cooling and expanding towards its [heat death](https://en.wikipedia.org/wiki/Heat_death_of_the_universe).
 
