@@ -14,11 +14,11 @@ Stereotaxic (or stereotactic) neurosurgery is a minimally invasive surgical tech
 ### 2. Targeting
 
 - **Applications**:
-    - Biopsies (deep brain tissue sampling)
-    - Tumour treatment (e.g., Gamma Knife radiosurgery)
-    - Functional neurosurgery (e.g., Deep Brain Stimulation for Parkinson’s, epilepsy ablation)
-    - [Vascular](cortex_vascularisation.md) malformations (e.g., arteriovenous malformations)
-    - Chronic pain and psychiatric disorders (e.g., OCD, depression)
+  - Biopsies (deep brain tissue sampling)
+  - Tumour treatment (e.g., Gamma Knife radiosurgery)
+  - Functional neurosurgery (e.g., Deep Brain Stimulation for Parkinson’s, epilepsy ablation)
+  - [Vascular](cortex_vascularisation.md) malformations (e.g., arteriovenous malformations)
+  - Chronic pain and psychiatric disorders (e.g., OCD, depression)
 
 ### 3. Execution
 

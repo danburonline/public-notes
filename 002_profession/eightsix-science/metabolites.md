@@ -13,12 +13,12 @@ Metabolites are **intermediate or end products of metabolism, typically small mo
 - **Production**: Large quantities, easily extractable
 - **Examples**:
 
-  | Class | Examples |
-  |-------|-----------|
-  | Alcohols | Ethanol |
-  | Amino Acids | Glutamic acid |
-  | Organic Acids | Lactic acid |
-  | Vitamins | B2 |
+  | Class         | Examples      |
+  | ------------- | ------------- |
+  | Alcohols      | Ethanol       |
+  | Amino Acids   | Glutamic acid |
+  | Organic Acids | Lactic acid   |
+  | Vitamins      | B2            |
 
 ### Secondary Metabolites
 

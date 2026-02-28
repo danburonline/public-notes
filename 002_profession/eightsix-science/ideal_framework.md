@@ -37,13 +37,14 @@ The IDEAL framework provides a **structured approach for evaluating surgical inn
 **Surgical Categorisation**
 BCI procedures are classified by invasiveness:
 
-| Category | Description | Example |
-| :-- | :-- | :-- |
-| **Invasive** | Requires [craniotomy](../../001_private/books/the_feeling_of_life_itself/craniotomy.md) | Cortical electrode grids[^1][^4] |
-| **Minimally Invasive** | Endovascular approach | Stentrode via jugular vein[^8] |
-| **Non-invasive** | External devices | EEG headsets[^1] |
+| Category               | Description                                                                             | Example                          |
+| :--------------------- | :-------------------------------------------------------------------------------------- | :------------------------------- |
+| **Invasive**           | Requires [craniotomy](../../001_private/books/the_feeling_of_life_itself/craniotomy.md) | Cortical electrode grids[^1][^4] |
+| **Minimally Invasive** | Endovascular approach                                                                   | Stentrode via jugular vein[^8]   |
+| **Non-invasive**       | External devices                                                                        | EEG headsets[^1]                 |
 
 **Risk Profile**
+
 - **Immediate risks**: Cerebral hemorrhage (1.8% incidence), venous thrombosis
 - **Long-term concerns**: Signal drift (15% annual recalibration need), cybersecurity vulnerabilities
 
@@ -51,7 +52,6 @@ BCI procedures are classified by invasiveness:
 
 - 82% neurosurgeons approve rehabilitative BCIs vs 43% for augmentation
 - Required documentation:
-    - Patient cognitive capacity assessments
-    - Data governance protocols
-    - Exit strategy for device removal
-
+  - Patient cognitive capacity assessments
+  - Data governance protocols
+  - Exit strategy for device removal
