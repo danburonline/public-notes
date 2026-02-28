@@ -8,7 +8,7 @@
 4. **Representation Learning:** Latent spaces facilitate representation learning, where a model learns to automatically discover the representations needed to classify or predict from raw data. This can lead to more efficient and flexible systems.
 
 5. **Use Cases:**
-    - **Generative Models:** In GANs, the generator generates new data instances by sampling from the latent space.
-    - **Dimensionality Reduction:** [Autoencoders](autoencoder.md) reduce the dimensionality of the input data by mapping it to the latent space.
-    - **Recommendation Systems:** Systems can use latent spaces to capture the preferences of users and the characteristics of items.
-    - **Image and Text Processing:** Deep learning models often use latent spaces to capture images and text features.
+   - **Generative Models:** In GANs, the generator generates new data instances by sampling from the latent space.
+   - **Dimensionality Reduction:** [Autoencoders](autoencoder.md) reduce the dimensionality of the input data by mapping it to the latent space.
+   - **Recommendation Systems:** Systems can use latent spaces to capture the preferences of users and the characteristics of items.
+   - **Image and Text Processing:** Deep learning models often use latent spaces to capture images and text features.

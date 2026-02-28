@@ -1,4 +1,4 @@
-#fundamental/logic 
+#fundamental/logic
 
 ![guernica_picasso](_attachments/guernica_picasso.jpg)
 
@@ -12,10 +12,10 @@ Magnum opus, a Latin phrase translating to "great work," primarily **denotes the
 
 ## Examples
 
-- **Art**: Leonardo da Vinci's *Mona Lisa* or Picasso's *Guernica*.
-- **Science**: Einstein's theory of *General Relativity*.
-- **Literature**: Marcel Proust's *Remembrance of Things Past*.
-- **Film**: Raj Kapoor's *Mera Naam Joker* as a personal magnum opus.
+- **Art**: Leonardo da Vinci's _Mona Lisa_ or Picasso's _Guernica_.
+- **Science**: Einstein's theory of _General Relativity_.
+- **Literature**: Marcel Proust's _Remembrance of Things Past_.
+- **Film**: Raj Kapoor's _Mera Naam Joker_ as a personal magnum opus.
 
 > [!note] Insight on Legacy
 > A magnum opus often defines a creator's enduring impact, transcending time as a benchmark of excellence, though it may not always be their most commercially successful work.

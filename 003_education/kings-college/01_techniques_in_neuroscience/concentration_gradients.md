@@ -7,6 +7,7 @@
 - Vital for [Resting membrane potential](resting_membrane_potential.md), nerve signalling, and cellular metabolism.
 
 > [!info] More about concentration gradients
+>
 > - Concentration gradients are established by selective permeability of cell membranes and active transport mechanisms (e.g., sodium-potassium pump).
 > - Ions naturally move from areas of high concentration to low concentration—this passive process is known as diffusion.
 > - The energy stored in concentration gradients can be harnessed for various cellular processes, such as generating electrical signals in neurons.

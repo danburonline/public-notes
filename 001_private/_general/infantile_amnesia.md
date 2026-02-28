@@ -5,6 +5,7 @@ Infantile amnesia, also known as childhood amnesia, refers to the **inability of
 ## Causes
 
 Several theories have been proposed to explain infantile amnesia:
+
 - **Neurological development**: The brain, particularly the hippocampus, which is crucial for forming new episodic memories, is not fully developed in the first few years of life. This underdevelopment may contribute to the inability to store memories so they can be retrieved later in life.
 - **Cognitive development**: How memories are encoded and stored evolves with cognitive development. Young children may not have the cognitive structures or language abilities needed to form the kind of memories that can easily be accessed later.
 - **Social and emotional development**: The development of a sense of self, which emerges around the age of 2, is considered crucial for the autobiographical memory affected by infantile amnesia. [Memories](../../003_education/kings-college/02_psychological_foundations/flashbulb_memories.md) that can be related to the self are more easily recalled.

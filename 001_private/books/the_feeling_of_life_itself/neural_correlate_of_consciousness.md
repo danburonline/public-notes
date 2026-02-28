@@ -16,19 +16,19 @@ This taxonomy matters because different brain regions may serve different roles:
 
 ## Candidate Brain Regions
 
-| Region | Theory Supporting | Key Evidence |
-|--------|-------------------|--------------|
-| **Posterior "hot zone"** (temporo-parieto-occipital) | [Integrated information theory](../../videos/integrated_information_theory.md) | High Φ values, PCI correlations, content-specific activity |
-| **Prefrontal cortex** | Global Workspace Theory, [Higher-order theories of consciousness](../sizing_up_consciousness/higher-order_theories_of_consciousness.md) | Late "ignition" events, P3b component, metacognition |
-| **Early visual cortex (V1)** | Recurrent Processing Theory | Local recurrent loops correlate with visual awareness |
-| **Thalamocortical system** | Multiple theories | Thalamic awareness potential, gating function |
-| **Claustrum** | Koch's hypothesis | Dense connectivity, potential integration hub |
+| Region                                               | Theory Supporting                                                                                                                       | Key Evidence                                               |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **Posterior "hot zone"** (temporo-parieto-occipital) | [Integrated information theory](../../videos/integrated_information_theory.md)                                                          | High Φ values, PCI correlations, content-specific activity |
+| **Prefrontal cortex**                                | Global Workspace Theory, [Higher-order theories of consciousness](../sizing_up_consciousness/higher-order_theories_of_consciousness.md) | Late "ignition" events, P3b component, metacognition       |
+| **Early visual cortex (V1)**                         | Recurrent Processing Theory                                                                                                             | Local recurrent loops correlate with visual awareness      |
+| **Thalamocortical system**                           | Multiple theories                                                                                                                       | Thalamic awareness potential, gating function              |
+| **Claustrum**                                        | Koch's hypothesis                                                                                                                       | Dense connectivity, potential integration hub              |
 
 ## Competing Theories
 
 ### [Integrated Information Theory](../../videos/integrated_information_theory.md) (IIT)
 
-NCC resides in the posterior cortex where integrated information (Φ) is maximal. Consciousness *is* integrated information—physical systems are conscious to the degree they integrate information irreducibly.
+NCC resides in the posterior cortex where integrated information (Φ) is maximal. Consciousness _is_ integrated information—physical systems are conscious to the degree they integrate information irreducibly.
 
 - **Prediction**: Posterior "hot zone" is the NCC; prefrontal cortex not required
 - **Measure**: [Perturbational Complexity Index](../../papers/quantitative_consciousness_index.md) (PCI)
@@ -77,7 +77,7 @@ The "zap-and-zip" method developed by Giulio Tononi operationalises the IIT prin
 2. **Record**: High-density EEG captures the spatiotemporal response
 3. **Binarise**: Statistical thresholding creates binary activation matrix
 4. **Zip**: Lempel-Ziv compression quantifies algorithmic complexity
-5. **Interpret**: PCI ≥ 0.31 indicates consciousness (PCI*)
+5. **Interpret**: PCI ≥ 0.31 indicates consciousness (PCI\*)
 
 **Clinical validation**:
 
@@ -145,12 +145,12 @@ The key question: if NCCs are preserved during substrate transfer, is [phenomena
 
 ## Key Researchers
 
-| Researcher | Key Contributions |
-|------------|-------------------|
-| **Christof Koch** | NCC formalisation, claustrum hypothesis, IIT collaboration |
-| **Giulio Tononi** | [Integrated Information Theory](../../videos/integrated_information_theory.md), Φ, PCI |
-| **Stanislas Dehaene** | Global Neuronal Workspace Theory, P3b |
-| **Anil Seth** | Predictive processing, "controlled hallucination" |
-| **Victor Lamme** | Recurrent Processing Theory, VAN |
-| **Lucia Melloni** | Adversarial collaborations, COGITATE consortium |
-| **Melanie Boly** | Disorders of consciousness, PCI validation |
+| Researcher            | Key Contributions                                                                      |
+| --------------------- | -------------------------------------------------------------------------------------- |
+| **Christof Koch**     | NCC formalisation, claustrum hypothesis, IIT collaboration                             |
+| **Giulio Tononi**     | [Integrated Information Theory](../../videos/integrated_information_theory.md), Φ, PCI |
+| **Stanislas Dehaene** | Global Neuronal Workspace Theory, P3b                                                  |
+| **Anil Seth**         | Predictive processing, "controlled hallucination"                                      |
+| **Victor Lamme**      | Recurrent Processing Theory, VAN                                                       |
+| **Lucia Melloni**     | Adversarial collaborations, COGITATE consortium                                        |
+| **Melanie Boly**      | Disorders of consciousness, PCI validation                                             |

@@ -17,12 +17,14 @@ Phenomenal consciousness, in contrast, is the subjective experience of sensory p
 - **Emotional Feelings:** Encompasses the full range of emotional experiences, from joy to sorrow.
 
 > [!Examples]
->  **Access Consciousness Examples:**
->  1. **Reading**: The ability to read and comprehend a book.
+> **Access Consciousness Examples:**
+>
+> 1. **Reading**: The ability to read and comprehend a book.
 > 2. **Recollection**: Remembering past events or information.
 > 3. **Problem Solving**: Using logic and reasoning to solve a complex problem.
-> 
+>
 > **Phenomenal Consciousness Examples:**
+>
 > 1. **Perception of Colour**: Experiencing the vibrant colours of a sunset.
 > 2. **Taste Sensation**: Enjoying the flavour of a delicious meal.
 > 3. **Emotional Response**: Feeling joy, sadness, or fear in response to a situation.

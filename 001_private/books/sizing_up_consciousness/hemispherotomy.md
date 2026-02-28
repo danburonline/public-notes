@@ -50,17 +50,18 @@ Hemispherotomy provides striking empirical evidence for [substrate independence]
 
 > [!tip] Relevance to Extracorporeal Cognitive Preservation
 > For [Extracorporeal Cognitive Preservation](../../_%20general/Extracorporeal%20Cognitive%20Preservation.md), hemispherotomy demonstrates that:
+>
 > 1. Consciousness can survive major substrate changes when functional organisation is preserved
 > 2. Gradual transition (vs. instantaneous) allows neural plasticity to maintain integration
 > 3. The "minimum viable substrate" for consciousness may be far smaller than the intact brain
 
 ### Theoretical Connections
 
-| Theory | Hemispherotomy Evidence |
-|--------|------------------------|
-| [Integrated information theory](../../videos/integrated_information_theory.md) | Φ (phi) depends on integrated information, not volume—remaining hemisphere maintains high integration |
-| [Higher-order theories of consciousness](higher-order_theories_of_consciousness.md) | Metacognitive functions preserved in remaining hemisphere sufficient for conscious access |
-| [Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md) | Supports Chalmers' organisational invariance—if function preserved, experience preserved |
+| Theory                                                                              | Hemispherotomy Evidence                                                                               |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [Integrated information theory](../../videos/integrated_information_theory.md)      | Φ (phi) depends on integrated information, not volume—remaining hemisphere maintains high integration |
+| [Higher-order theories of consciousness](higher-order_theories_of_consciousness.md) | Metacognitive functions preserved in remaining hemisphere sufficient for conscious access             |
+| [Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md)    | Supports Chalmers' organisational invariance—if function preserved, experience preserved              |
 
 ### Open Questions
 
@@ -72,22 +73,22 @@ Hemispherotomy provides striking empirical evidence for [substrate independence]
 
 The embedded diagram illustrates five approaches with varying degrees of tissue removal vs. disconnection:
 
-| Approach | Method | Tissue Removed |
-|----------|--------|----------------|
-| Anatomical hemispherectomy | Complete removal | Entire hemisphere |
-| Functional hemispherectomy | Partial removal + disconnection | Temporal lobe, central cortex |
-| Peri-insular hemispherotomy | Disconnection around insula | Minimal |
-| Transsylvian hemispherotomy | Access via Sylvian fissure | Minimal |
-| Vertical hemispherotomy | Superior approach to ventricles | Minimal |
+| Approach                    | Method                          | Tissue Removed                |
+| --------------------------- | ------------------------------- | ----------------------------- |
+| Anatomical hemispherectomy  | Complete removal                | Entire hemisphere             |
+| Functional hemispherectomy  | Partial removal + disconnection | Temporal lobe, central cortex |
+| Peri-insular hemispherotomy | Disconnection around insula     | Minimal                       |
+| Transsylvian hemispherotomy | Access via Sylvian fissure      | Minimal                       |
+| Vertical hemispherotomy     | Superior approach to ventricles | Minimal                       |
 
 Modern preference favours disconnective techniques (hemispherotomy) over anatomical removal due to reduced complications while achieving equivalent seizure control.
 
 ## Key Researchers
 
-| Researcher | Contribution |
-|------------|--------------|
-| **Walter Dandy** | Performed first hemispherectomy (1923) for glioma |
-| **Kenneth McKenzie** | First hemispherectomy for epilepsy (1938) |
-| **Jean-Guy Villemure** | Developed peri-insular hemispherotomy technique |
-| **Johannes Schramm** | Pioneered transsylvian hemispherotomy |
-| **Giulio Tononi** | [Integrated information theory](../../videos/integrated_information_theory.md) provides theoretical framework for understanding preserved consciousness |
+| Researcher             | Contribution                                                                                                                                            |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Walter Dandy**       | Performed first hemispherectomy (1923) for glioma                                                                                                       |
+| **Kenneth McKenzie**   | First hemispherectomy for epilepsy (1938)                                                                                                               |
+| **Jean-Guy Villemure** | Developed peri-insular hemispherotomy technique                                                                                                         |
+| **Johannes Schramm**   | Pioneered transsylvian hemispherotomy                                                                                                                   |
+| **Giulio Tononi**      | [Integrated information theory](../../videos/integrated_information_theory.md) provides theoretical framework for understanding preserved consciousness |

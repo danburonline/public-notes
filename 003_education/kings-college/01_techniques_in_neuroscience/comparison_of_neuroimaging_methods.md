@@ -6,13 +6,13 @@ Neuroimaging techniques occupy different positions in a trade-off space defined 
 
 ## Technique Comparison
 
-| Technique | Temporal Resolution | Spatial Resolution | Infant Tolerance |
-|-----------|--------------------|--------------------|------------------|
-| EEG / ERP | High (ms) | Low | High |
-| MEG | High (ms) | Moderate | High |
-| NIRS | Moderate | Moderate | High |
-| PET | Low (min) | High | Low |
-| fMRI / DTI | Low (s) | High | Low |
+| Technique  | Temporal Resolution | Spatial Resolution | Infant Tolerance |
+| ---------- | ------------------- | ------------------ | ---------------- |
+| EEG / ERP  | High (ms)           | Low                | High             |
+| MEG        | High (ms)           | Moderate           | High             |
+| NIRS       | Moderate            | Moderate           | High             |
+| PET        | Low (min)           | High               | Low              |
+| fMRI / DTI | Low (s)             | High               | Low              |
 
 ## Trade-off Dimensions
 
@@ -29,10 +29,10 @@ The diagonal axis represents practical constraints for developmental research:
 
 ## Clinical and Research Applications
 
-| Technique | Typical Applications |
-|-----------|---------------------|
-| EEG/ERP | Sleep studies, epilepsy monitoring, cognitive event timing |
-| MEG | Pre-surgical mapping, language lateralisation |
-| NIRS | Bedside monitoring, infant cognition studies |
-| PET | Neurodegenerative disease, receptor mapping |
-| fMRI/DTI | Functional localisation, white matter tractography |
+| Technique | Typical Applications                                       |
+| --------- | ---------------------------------------------------------- |
+| EEG/ERP   | Sleep studies, epilepsy monitoring, cognitive event timing |
+| MEG       | Pre-surgical mapping, language lateralisation              |
+| NIRS      | Bedside monitoring, infant cognition studies               |
+| PET       | Neurodegenerative disease, receptor mapping                |
+| fMRI/DTI  | Functional localisation, white matter tractography         |

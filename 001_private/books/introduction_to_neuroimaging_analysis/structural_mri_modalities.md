@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![more-mri-modalities](_attachments/more-mri-modalities.png)
 
@@ -27,6 +27,7 @@
 
 - **Usage**: Detects subtle changes in brain tissues not visible with standard MRI techniques. Used for measuring magnetisation transfer ratios (MTR), which reflect macromolecular-bound protons and free water compartments. Commonly applied in neurodegenerative disease research.
 - **Mechanism**: Exploits interactions between free protons (mobile water) and bound protons (macromolecules). Bound protons are normally invisible in MR imaging but can be indirectly measured via their effect on free proton signals.
+
 ---
 
 ## **MRA (Magnetic Resonance Angiography)**

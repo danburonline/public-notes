@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![dipoles](_attachments/dipoles.png)
 

@@ -9,18 +9,18 @@ For example, a knowledge graph may represent the relationships between actors, m
 
 ### 1. Subjects
 
-   - **Definition**: The subject in a knowledge graph is the entity or concept that the statement is about.
-   - **Example**: In a knowledge graph representing “Barack Obama was born in Honolulu,” Barack Obama is the subject.
+- **Definition**: The subject in a knowledge graph is the entity or concept that the statement is about.
+- **Example**: In a knowledge graph representing “Barack Obama was born in Honolulu,” Barack Obama is the subject.
 
 ### 2. Predicates
 
-   - **Definition**: The predicate refers to the type of relationship that connects the subject to the object.
-   - **Example**: In the same statement, “was born in” is the predicate.
+- **Definition**: The predicate refers to the type of relationship that connects the subject to the object.
+- **Example**: In the same statement, “was born in” is the predicate.
 
 ### 3. Objects
 
-   - **Definition**: The object in a knowledge graph triplet is the entity or concept that is linked to the subject by the predicate.
-   - **Example**: In the statement, “Honolulu” is the object.
+- **Definition**: The object in a knowledge graph triplet is the entity or concept that is linked to the subject by the predicate.
+- **Example**: In the statement, “Honolulu” is the object.
 
 ## How Triplets Work
 

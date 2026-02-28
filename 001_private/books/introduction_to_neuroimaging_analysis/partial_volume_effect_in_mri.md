@@ -1,27 +1,27 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![pve-mri](_attachments/pve-mri.png)
 
-Occurs when a single MRI voxel contains multiple tissue types, leading to signal averaging. Common at tissue boundaries (e.g., grey/white matter) or in small structures.  
+Occurs when a single MRI voxel contains multiple tissue types, leading to signal averaging. Common at tissue boundaries (e.g., grey/white matter) or in small structures.
 
 ## **Causes & Mechanism**
 
-- **Voxel Size**: Larger voxels increase PVE due to signal mixing.  
-- **RF Pulse Imperfections**: Excitation of tissues outside the desired slice (cross-talk).  
+- **Voxel Size**: Larger voxels increase PVE due to signal mixing.
+- **RF Pulse Imperfections**: Excitation of tissues outside the desired slice (cross-talk).
 - **Mathematical Model**:  
   $$ S_V = f_A S_A + f_B S_B $$  
-  *SV* = voxel signal, *f* = fractional tissue volume, *S* = tissue signal[1][4].  
+  _SV_ = voxel signal, _f_ = fractional tissue volume, _S_ = tissue signal[1][4].
 
 ---
 
 ## **Impact**
 
 1. **Quantitative Errors**:
-	1. 20–60% errors in brain structure volume measurements if ignored.
-	2. Distorts [diffusion tensor imaging](diffusion_tensor_imaging.md) (DTI) metrics.  
+   1. 20–60% errors in brain structure volume measurements if ignored.
+   2. Distorts [diffusion tensor imaging](diffusion_tensor_imaging.md) (DTI) metrics.
 2. **Clinical Implications**:
-	1. Reduces accuracy in cortical thickness analysis.
-	2. Skews functional MRI/resting-state connectivity studies.
+   1. Reduces accuracy in cortical thickness analysis.
+   2. Skews functional MRI/resting-state connectivity studies.
 
 ---
 

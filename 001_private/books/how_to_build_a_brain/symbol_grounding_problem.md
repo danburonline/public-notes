@@ -29,6 +29,7 @@ The symbol grounding problem is pivotal in disciplines such as artificial intell
 ## Solutions and Approaches
 
 Various approaches to address the symbol grounding problem include:
+
 - **Embodied Cognition**: Asserts that cognitive processes are deeply rooted in the body’s interactions with the world.
 - **Situated Cognition**: Emphasises the role of the environment in shaping the nature of cognitive processes.
 - **Direct Perception**: Focuses on the direct acquisition of meaning from perceptual experiences without intermediate symbol manipulation.

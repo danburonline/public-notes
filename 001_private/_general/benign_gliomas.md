@@ -15,6 +15,7 @@ Benign gliomas are a **type of brain tumour that originate from glial cells**, w
 ### 2. Symptoms
 
 The symptoms of benign gliomas depend on their size and location in the brain but may include:
+
 - Headaches
 - Seizures
 - Neurological deficits (e.g., weakness, sensory loss)

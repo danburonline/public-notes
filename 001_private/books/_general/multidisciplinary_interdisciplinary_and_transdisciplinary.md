@@ -1,4 +1,4 @@
-#fundamental/logic 
+#fundamental/logic
 
 ## Multidisciplinary Approach
 
@@ -29,7 +29,7 @@
 
 ## Key Differences
 
-- **Integration Level**: 
+- **Integration Level**:
   - **Multidisciplinary**: Different disciplines work together but maintain their boundaries.
   - **Interdisciplinary**: Integrates knowledge across disciplines to form a new whole.
   - **Transdisciplinary**: Transcends disciplinary boundaries to create a unified framework beyond them.

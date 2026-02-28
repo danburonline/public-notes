@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![spectrum-of-empathy](_attachments/spectrum-of-empathy.png)
 

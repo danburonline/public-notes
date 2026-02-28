@@ -26,10 +26,11 @@ Multiple Reliability and Functionalism are **concepts often discussed in the con
 1. **Mental States as Functional States**: Argues that what makes something a mental state is not its internal constitution, but rather its function in the broader mental system.
 2. **Role of Inputs and Outputs**: Emphasises how mental states are influenced by sensory inputs and lead to behavioural outputs.
 
-> [!info]  Interconnection
+> [!info] Interconnection
 > **Reliability in Functional Systems**: Functionalism can incorporate the concept of multiple reliability by considering how mental processes function reliably across different situations to produce accurate representations of the world.
 
 > [!example] Applications and Implications
+>
 > 1. **Cognitive Science**: Understanding how reliable cognitive processes contribute to functional mental systems.
 > 2. **Artificial [Intelligence](../../_general/types_of_intelligence.md)**: Designing AI systems that mimic the functional and reliable aspects of human cognition.
 > 3. **Epistemology**: Addressing the nature of justification and knowledge in light of the reliability of cognitive processes.

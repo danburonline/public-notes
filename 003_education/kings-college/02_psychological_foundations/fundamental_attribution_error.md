@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![fundamental-attribution-error](_attachments/fundamental-attribution-error.png)
 

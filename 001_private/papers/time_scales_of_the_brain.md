@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 Time scales of the brain refer to the **diverse temporal durations over which neural processes and cognitive functions unfold**, spanning from instantaneous electrical signals in individual neurons (milliseconds) to long-term adaptations like learning and memory formation (minutes, hours, or even days).
 
@@ -22,7 +22,7 @@ These scales reflect the brain's hierarchical organisation, where different regi
 
 ### Fast Scales (Tens to Hundreds of Milliseconds)
 
-- **Neural Oscillations**: 
+- **Neural Oscillations**:
   - Delta (0.5–4 Hz): ~250–2000 ms – Deep sleep and slow-wave activity.
   - Theta (4–8 Hz): ~125–250 ms – Memory encoding and navigation.
   - Alpha (8–12 Hz): ~83–125 ms – Resting state, as in posterior basic rhythm (develops from 3–4 Hz in infants to 8–12 Hz in adults).

@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 The Newman problem of the brain, also termed in consciousness science, is a **philosophical challenge originating from Max Newman's 1928 objection to structural realism**, adapted to neuroscience and theories of mind. It argues that purely structural descriptions of brain processes—focusing on relations without intrinsic properties—are overly permissive, allowing almost any realisation and thus failing to constrain meaningful theories of consciousness or neural function effectively.
 

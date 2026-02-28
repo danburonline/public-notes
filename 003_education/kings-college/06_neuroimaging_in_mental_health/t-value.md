@@ -35,6 +35,7 @@ In a t-test, the t-value is used to calculate the [P-value](../../../001_private
 
 > [!warning]
 > It’s essential to understand:
+>
 > - The t-value itself does not indicate the probability of the null hypothesis being true or false.
 > - The interpretation of the t-value depends on the context of the study and the established threshold for significance.
 > - Similar to the [p-value](../../../001_private/books/essential_math_for_data_science/p-value.md), the t-value’s significance can be influenced by the sample size.

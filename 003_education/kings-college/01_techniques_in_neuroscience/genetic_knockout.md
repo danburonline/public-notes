@@ -31,6 +31,7 @@ More recent and efficient approach using RNA-guided endonucleases. A guide RNA d
 ## Conditional Knockouts
 
 To address limitations, researchers use **conditional knockouts** (e.g., Cre-loxP system) to:
+
 - Target specific tissues (brain, cortex, hippocampus)
 - Induce knockout at specific developmental stages
 - Avoid embryonic lethality by timing the gene removal

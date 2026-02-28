@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 Salient events refer to **occurrences that stand out from the norm due to their distinctiveness**, novelty, or emotional intensity.
 

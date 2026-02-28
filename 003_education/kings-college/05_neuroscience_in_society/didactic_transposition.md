@@ -13,5 +13,6 @@ Didactic Transposition typically involves two major stages:
 
 > [!example]
 > Let’s take the example of the theory of relativity, a complex concept in physics:
+>
 > 1. **Prima Facie Transposition**: The abstract and complex theory of relativity is transformed into a basic principle - “The laws of physics are the same for all observers in uniform motion relative to one another (principle of relativity)”. This simplified version is more understandable for students who are new to the subject.
 > 2. **Secondary Transposition**: This simplified version is then integrated into the physics curriculum in an age-appropriate manner. It might be introduced through thought experiments like the “twin paradox” for high school students. For university students, it might be taught through more formal mathematical models and more complex scenarios.

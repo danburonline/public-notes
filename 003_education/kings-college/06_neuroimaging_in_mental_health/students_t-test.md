@@ -35,6 +35,7 @@ $$
 
 > [!example]
 > Used in research fields to compare:
+>
 > - Test scores
 > - Medical treatment effects
 > - [Behavioural](../03_mental_health_in_the_community/cognitive-behavioural_therapy.md) changes

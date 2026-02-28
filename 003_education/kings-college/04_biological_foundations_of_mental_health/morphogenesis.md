@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![morphogenesis](_attachments/morphogenesis.jpg)
 

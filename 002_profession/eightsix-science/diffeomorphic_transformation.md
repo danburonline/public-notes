@@ -1,4 +1,4 @@
-#core/computationalmathematics 
+#core/computationalmathematics
 
 ![diffeomorphic-transformation](_attachments/diffeomorphic-transformation.png)
 
@@ -20,5 +20,6 @@ A diffeomorphic transformation is a **special kind of mapping between two differ
 > Imagine a rubber sheet that you can stretch, bend, or twist smoothly into a new shape, but you never tear it or glue parts together. If you can always return it to its original form just as smoothly, the process is diffeomorphic.
 
 > [!example]
+>
 > - **Valid**: Rotating or smoothly stretching a 2D plane.
 > - **Not Valid**: Folding, tearing, or creating sharp creases in the plane.

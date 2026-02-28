@@ -5,6 +5,7 @@ Mind blanking is a **mental state where an individual experiences a temporary la
 ## Causes and Occurrences
 
 Mind blanking can occur spontaneously and is often linked to:
+
 - **Low Engagement**: When a person is not particularly interested in or focused on a task.
 - **Tiredness**: Fatigue from a long day or lack of sleep.
 - **[Stress](../03_mental_health_in_the_community/stress.md) and Anxiety**: High levels of [stress](../03_mental_health_in_the_community/stress.md) or anxiety can trigger episodes of mind blanking.
@@ -12,5 +13,6 @@ Mind blanking can occur spontaneously and is often linked to:
 ## Neuroscientific Insights
 
 Research indicates that mind blanking is associated with specific brain activities:
+
 - **Slow Brain Waves**: Typically observed during sleep, these waves can intrude into wakefulness, leading to attentional lapses and mind blanking.
 - **Global Positive Connectivity**: During mind blanking, there is a higher global signal amplitude in the brain, indicating a distinct physiological state.

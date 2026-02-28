@@ -4,7 +4,7 @@
 
 - **Definition**: Ontology is the study of being and existence, focusing on the most general features of reality. In philosophy, it explores the nature of entities and their categorisation.
 - **Purpose**: In computer science, an ontology is a formal, explicit specification of a shared conceptualisation, used to define meaning and structure knowledge in a domain.
-- **Key Features**: 
+- **Key Features**:
   - Formal and machine-readable.
   - Captures complex relationships between entities.
   - Used for semantic data integration and knowledge management.
@@ -25,4 +25,3 @@
 - **Structure**: Taxonomies are generally hierarchical, while ontologies are more complex, often structured as semantic networks.
 - **Relationships**: Ontologies describe more detailed relationships between entities, including non-hierarchical ones.
 - **Application**: Taxonomies are commonly used in biology and information retrieval, whereas ontologies are crucial in computer science for knowledge management and semantic integration.
-

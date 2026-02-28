@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![dti](_attachments/dti.png)
 
@@ -15,7 +15,7 @@ Diffusion Tensor Imaging (DTI) is a **neuroimaging technique that measures the d
 
 ### Axial Diffusivity (AD)
 
-- **Definition**: Measures water diffusion along the strongest direction of diffusion (the longest axis of the ellipsoid). 
+- **Definition**: Measures water diffusion along the strongest direction of diffusion (the longest axis of the ellipsoid).
 - **Significance**: AD reflects the integrity of axonal structures within white matter.
 
 ### Radial Diffusivity (RD)
@@ -30,13 +30,14 @@ Diffusion Tensor Imaging (DTI) is a **neuroimaging technique that measures the d
 ### Brain Regions
 
 The attached image illustrates diffusion tensors in different brain regions:
+
 1. **CSF Region**:
    - Diffusion tensors are spherical, indicating isotropic diffusion (low FA).
    - Water molecules diffuse equally in all directions due to the lack of structural barriers.
 2. **Gray Matter Region**:
    - Diffusion tensors are moderately elongated ellipsoids, reflecting intermediate FA.
    - Water has some directional preference but less structural organisation compared to white matter.
-1. **White Matter Region**:
+3. **White Matter Region**:
    - Diffusion tensors are highly elongated ellipsoids, indicating anisotropic diffusion (high FA).
    - Water predominantly diffuses along axonal fiber tracts.
 

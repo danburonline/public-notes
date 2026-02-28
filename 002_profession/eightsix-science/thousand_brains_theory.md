@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![thousand-brains](_attachments/thousand-brains.png)
 
@@ -16,7 +16,6 @@ The Thousand Brains Theory, developed by neuroscientist [Jeff Hawkins](https://e
 - **Perception Modeling**: Each column models objects from different sensory angles (e.g., visual, tactile), voting to recognise an item like a coffee cup regardless of orientation.
 - **AI Development**: Inspires sensorimotor AI systems, as in the Thousand Brains Project, for more flexible, brain-like machine intelligence.
 - **Linguistic Insights**: Hypothesised to explain aspects of language processing, where columns model semantic elements in parallel.
-
 
 > [!note] Insight on Brain Complexity
 > By positing thousands of parallel models, the theory resolves mysteries like rapid learning and adaptability, potentially bridging neuroscience and AI while refining the columnar hypothesis into a dynamic, voting-based framework.

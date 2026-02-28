@@ -1,4 +1,4 @@
-#core/appliedneuroscience #fundamental/logic 
+#core/appliedneuroscience #fundamental/logic
 
 The Five Factor Model (FFM), commonly known as the **Big Five personality traits**, is a foundational framework in psychology that **categorises human personality into five broad dimensions: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (often acronymized as OCEAN).** This model views personality as stable traits along continua, influencing behavior, emotions, and thoughts, and has been validated across cultures through empirical research, evolving from earlier trait theories.
 

@@ -25,6 +25,7 @@ We fail to reject the null hypothesis if the p-value is greater than α. This do
 
 > [!warning]
 > While the p-value can be a useful statistical measure, it’s important to interpret it correctly:
+>
 > - The p-value does not indicate the size or importance of the observed effect. A small p-value does not mean the effect is large or important, and a large p-value does not mean the effect is small or unimportant.
 > - The p-value is not the probability that the null hypothesis is true. Rather, it’s the probability of observing your data (or more extreme data) if the null hypothesis is true.
 > - P-values can be influenced by sample size. With very large samples, you might find statistical significance (i.e., a small p-value) even for very small differences or effects that may not be meaningful in practical terms.

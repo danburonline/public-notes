@@ -8,7 +8,7 @@ Neurovascular coupling (NVC) is the mechanism by which **[Cerebral blood flow](c
 
 - **High Metabolic Rate**: The brain, although only a small fraction of the body’s weight, consumes a disproportionately large amount of the body’s energy.
 - **Lack of Energy Reserves**: The brain does not store energy unlike other organs. It relies on a continuous supply of oxygen and glucose from the bloodstream.
-- [Aerobic](aerobic_and_anaerobic_glycolysis.md#aerobic-glycolysis) Glycolysis**: The brain primarily uses aerobic glycolysis for energy production. This process requires a steady supply of oxygen and glucose, making the regulation of blood flow crucial.
+- [Aerobic](aerobic_and_anaerobic_glycolysis.md#aerobic-glycolysis) Glycolysis\*\*: The brain primarily uses aerobic glycolysis for energy production. This process requires a steady supply of oxygen and glucose, making the regulation of blood flow crucial.
 
 ## Mechanism of NVC
 

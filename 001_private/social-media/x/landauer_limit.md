@@ -1,4 +1,4 @@
-#core/computationalmathematics 
+#core/computationalmathematics
 
 ![landauer-limit](_attachments/landauer-limit.png)
 

@@ -17,6 +17,7 @@ $$
 $$
 
 Where:
+
 - $\mathbf{x}$ is the input vector.
 - $\mathbf{W}$ is the weight matrix.
 - $\mathbf{b}$ is the bias vector.

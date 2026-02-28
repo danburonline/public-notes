@@ -1,6 +1,6 @@
 #fundamental/creativity
 
-A framework for understanding how fortune favours different approaches, originally articulated by Dr James Austin in *Chase, Chance, and Creativity* (1978) and popularised by Naval Ravikant.
+A framework for understanding how fortune favours different approaches, originally articulated by Dr James Austin in _Chase, Chance, and Creativity_ (1978) and popularised by Naval Ravikant.
 
 1. **Lucky by Fate (Blind Luck):** This type of luck is entirely random and beyond personal control. It refers to circumstances that happen purely by chance or fate, regardless of one’s effort or actions.
 

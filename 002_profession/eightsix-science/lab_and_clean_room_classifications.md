@@ -53,12 +53,12 @@ The primary modern classification system ranges from ISO 1 (cleanest) to ISO 9 (
 
 For medical and pharmaceutical applications:
 
-| Grade | Use Case | Particle Limit (In Operation) |
-|-------|----------|------------------------------|
-| A     | Critical zones | 3,520 particles/m³ |
-| B     | Aseptic preparation | 352,000 particles/m³ |
-| C     | Less critical areas | 3,520,000 particles/m³ |
-| D     | Background environment | Not defined |
+| Grade | Use Case               | Particle Limit (In Operation) |
+| ----- | ---------------------- | ----------------------------- |
+| A     | Critical zones         | 3,520 particles/m³            |
+| B     | Aseptic preparation    | 352,000 particles/m³          |
+| C     | Less critical areas    | 3,520,000 particles/m³        |
+| D     | Background environment | Not defined                   |
 
 ## Monitoring and Certification
 

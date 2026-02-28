@@ -17,6 +17,7 @@
 - **Reductionism**: The Cartesian Theatre simplifies the complex nature of consciousness to a single, unified experience, ignoring the distributed and decentralised aspects of brain activity.
 
 > [!warning] Implications for neuroscience
+>
 > - **Distributed [Processing](../../books/how_to_build_a_brain/deep_and_shallow_semantic_processing.md)**: Modern neuroscience supports the view that brain functions are distributed across various regions, with no central area where “everything comes together.”
 > - **Consciousness as an [Emergent](../../videos/emergent_properties.md) Property**: Consciousness is increasingly viewed as an emergent property of complex brain processes, not as a single stream observed by an internal entity.
 > - **Rejecting Dualism**: The critique of the Cartesian Theatre supports a more integrated view of mind and body, aligning with physicalist and materialist perspectives in neuroscience.

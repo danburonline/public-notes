@@ -1,4 +1,4 @@
-#fundamental/communication 
+#fundamental/communication
 
 A framework of **seven graduated responses to disrespectful behaviour, progressing from disengagement through de-escalation to empathetic engagement.** The underlying principle is that controlling your own response is more effective than attempting to control the other person.
 

@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![coarse-graining](_attachments/coarse-graining.png)
 

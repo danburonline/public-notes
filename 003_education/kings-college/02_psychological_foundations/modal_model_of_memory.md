@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![modal-memory](_attachments/modal-memory.png)
 

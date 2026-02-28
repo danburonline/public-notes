@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![butcher-number](_attachments/butcher-number.jpg)
 

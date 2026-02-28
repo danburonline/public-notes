@@ -47,5 +47,5 @@ In [PSNST](../_general/psnst.md) (Progressive Synthetic Neural Substrate Transfe
 
 > [!warning] Criticisms and Challenges
 > Critics argue that naturalising [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) risks reducing subjective experiences to mere neural processes. Others question the feasibility of integrating [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) with empirical science, given their differing methodologies and epistemological commitments. However, proponents see these challenges as areas for further exploration and refinement in the field.
-> 
+>
 > Despite these challenges, naturalised [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) represents a promising avenue for dialogue and integration between [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) and cognitive science.

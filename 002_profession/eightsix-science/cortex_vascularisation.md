@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![cortex-vasc](_attachments/cortex-vasc.jpg)
 

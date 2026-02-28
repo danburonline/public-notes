@@ -13,12 +13,12 @@ Structured Hypothesis Testing is a **methodical approach that combines data coll
 
 > [!example]
 > Let’s say you work for a pharmaceutical company that has developed a new drug. You want to test whether the drug is effective in reducing headache duration.
-> 
+>
 > - **Null Hypothesis (H0)**: The drug has no effect on headache duration.
 > - **Alternative Hypothesis (H1)**: The drug reduces headache duration.
-> 
+>
 > You choose a significance level of 0.05 and collect data by having a sample of patients use the drug and record their headache duration. You perform a statistical test (e.g., a t-test) on the data.
-> 
+>
 > If your [p-value](p-value.md) is less than 0.05, you would reject the null hypothesis and conclude that the drug is effective at reducing headache duration. If your [p-value](p-value.md) is greater than 0.05, you would not reject the null hypothesis, meaning you don’t have enough evidence to say the drug is effective.
 
 > [!note]

@@ -1,8 +1,8 @@
-#core/softwaredevelopment 
+#core/softwaredevelopment
 
 Return-oriented programming (ROP) is a powerful exploitation technique used to bypass modern security defenses like non-executable memory (DEP/NX) by **chaining together short instruction sequences (called gadgets) already present in a program’s memory.** Instead of injecting new code, attackers reuse existing code to execute arbitrary operations.
 
-- **Definition:** ROP is a code-reuse attack where an attacker exploits a memory corruption vulnerability (e.g., buffer overflow) to hijack the program’s control flow and execute a series of small code fragments (*gadgets*), each ending with a `ret` instruction.
+- **Definition:** ROP is a code-reuse attack where an attacker exploits a memory corruption vulnerability (e.g., buffer overflow) to hijack the program’s control flow and execute a series of small code fragments (_gadgets_), each ending with a `ret` instruction.
 - **Purpose:** Allows execution of arbitrary code even when code injection is blocked by security mechanisms.
 
 ## How ROP Works
@@ -30,7 +30,6 @@ Return-oriented programming (ROP) is a powerful exploitation technique used to b
 - **Control Flow Integrity (CFI):** Enforces valid control flow paths.
 - **ASLR (Address Space Layout Randomisation):** Makes gadget addresses unpredictable.
 - **Compiler-based mitigations:** Reduce usable gadgets or validate return addresses.
-
 
 > [!info] **Key Takeaway**
 > ROP is a technique that lets attackers execute arbitrary code by chaining existing code fragments, making it a major threat even in systems with modern memory protections.

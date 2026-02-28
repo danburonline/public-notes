@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![cognitive-drift](_attachments/cognitive-drift.jpg)
 

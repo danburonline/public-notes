@@ -16,12 +16,12 @@ The network is trained to minimise reconstruction loss $L(x, \hat{x})$, typicall
 
 ## Variants
 
-| Type | Modification | Use Case |
-|------|--------------|----------|
-| **Variational (VAE)** | Learns probability distribution in latent space | Generative modelling |
-| **Denoising** | Trained to reconstruct from corrupted inputs | Robust feature learning |
-| **Sparse** | Regularisation enforces sparsity in encoding | Feature selection |
-| **Contractive** | Penalises sensitivity to input variations | Stable representations |
+| Type                  | Modification                                    | Use Case                |
+| --------------------- | ----------------------------------------------- | ----------------------- |
+| **Variational (VAE)** | Learns probability distribution in latent space | Generative modelling    |
+| **Denoising**         | Trained to reconstruct from corrupted inputs    | Robust feature learning |
+| **Sparse**            | Regularisation enforces sparsity in encoding    | Feature selection       |
+| **Contractive**       | Penalises sensitivity to input variations       | Stable representations  |
 
 ## Applications
 

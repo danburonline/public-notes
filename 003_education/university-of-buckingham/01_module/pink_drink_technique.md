@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![5-ala](_attachments/5-ala.jpg)
 

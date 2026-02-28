@@ -13,6 +13,7 @@ P(A|B) = [P(B|A) * P(A)] / P(B)
 ```
 
 Where:
+
 - `P(A|B)` is the posterior probability: the probability of event A occurring given that B is true.
 - `P(B|A)` is the likelihood: the probability of event B occurring given that A is true.
 - `P(A)` and `P(B)` are the probabilities of A and B independently of each other.
@@ -33,8 +34,8 @@ We know that P(Positive|Disease) = 0.99 and P(Disease) = 0.01. However, we donâ€
 
 ```
 P(Positive) = [P(Disease) * P(Positive|Disease)] + [P(Healthy) * P(Positive|Healthy)]
-            = [0.01 * 0.99] + [0.99 * 0.02] 
-            = 0.0099 + 0.0198 
+            = [0.01 * 0.99] + [0.99 * 0.02]
+            = 0.0099 + 0.0198
             = 0.0297
 ```
 
@@ -42,7 +43,7 @@ Now we can calculate P(Disease|Positive):
 
 ```
 P(Disease|Positive) = [P(Positive|Disease) * P(Disease)] / P(Positive)
-                    = [0.99 * 0.01] / 0.0297 
+                    = [0.99 * 0.01] / 0.0297
                     = 0.332
 ```
 

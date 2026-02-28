@@ -6,11 +6,11 @@ A half extent (or half-extents) refers to **half the size of an object along eac
 
 Half extents define an **Axis-Aligned Bounding Box (AABB)** - a box whose edges align with the coordinate axes. Given a centre point and half extents, the full bounding box spans:
 
-| Axis | Min | Max |
-|------|-----|-----|
-| X | `centre.x - halfExtent.x` | `centre.x + halfExtent.x` |
-| Y | `centre.y - halfExtent.y` | `centre.y + halfExtent.y` |
-| Z | `centre.z - halfExtent.z` | `centre.z + halfExtent.z` |
+| Axis | Min                       | Max                       |
+| ---- | ------------------------- | ------------------------- |
+| X    | `centre.x - halfExtent.x` | `centre.x + halfExtent.x` |
+| Y    | `centre.y - halfExtent.y` | `centre.y + halfExtent.y` |
+| Z    | `centre.z - halfExtent.z` | `centre.z + halfExtent.z` |
 
 > [!example]
 > A cube with dimensions 10×6×4 has half extents of `(5, 3, 2)`. Its full width is `5 × 2 = 10`.
@@ -18,15 +18,15 @@ Half extents define an **Axis-Aligned Bounding Box (AABB)** - a box whose edges 
 ## Usage in Three.js / Rapier
 
 ```javascript
-import { CuboidCollider } from '@react-three/rapier'
+import { CuboidCollider } from "@react-three/rapier";
 
 // Half extents: width/2, height/2, depth/2
-<CuboidCollider args={[0.5, 1, 0.5]} /> // Creates a 1×2×1 box
+<CuboidCollider args={[0.5, 1, 0.5]} />; // Creates a 1×2×1 box
 
 // Extracting half extents from a mesh's bounding box
-const box = new THREE.Box3().setFromObject(mesh)
-const halfExtents = new THREE.Vector3()
-box.getSize(halfExtents).multiplyScalar(0.5)
+const box = new THREE.Box3().setFromObject(mesh);
+const halfExtents = new THREE.Vector3();
+box.getSize(halfExtents).multiplyScalar(0.5);
 ```
 
 ## Why Half Extents?

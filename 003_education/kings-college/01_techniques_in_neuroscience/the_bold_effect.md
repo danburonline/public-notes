@@ -11,17 +11,17 @@ The BOLD signal exploits the different magnetic properties of oxygenated and deo
 - **Oxyhaemoglobin** is diamagnetic — it has minimal effect on the local magnetic field
 - **Deoxyhaemoglobin** is paramagnetic — it distorts the surrounding magnetic field, causing signal loss in MRI
 
-When neurons fire, local oxygen consumption initially increases, but [Neurovascular coupling](../06_neuroimaging_in_mental_health/neurovascular_coupling.md) triggers a much larger increase in [Cerebral blood flow](../06_neuroimaging_in_mental_health/cerebral_blood_flow.md). This over-compensatory blood flow *floods* the active region with oxygenated blood, washing out deoxyhaemoglobin and producing a net increase in the MRI signal. It is this haemodynamic over-compensation — not the neural activity itself — that fMRI detects.
+When neurons fire, local oxygen consumption initially increases, but [Neurovascular coupling](../06_neuroimaging_in_mental_health/neurovascular_coupling.md) triggers a much larger increase in [Cerebral blood flow](../06_neuroimaging_in_mental_health/cerebral_blood_flow.md). This over-compensatory blood flow _floods_ the active region with oxygenated blood, washing out deoxyhaemoglobin and producing a net increase in the MRI signal. It is this haemodynamic over-compensation — not the neural activity itself — that fMRI detects.
 
 ## The Haemodynamic Response Function
 
 The BOLD signal follows a characteristic time course known as the **haemodynamic response function (HRF)**:
 
-| Phase | Timing | Description |
-|-------|--------|-------------|
-| Initial dip | ~0–2 s | Brief signal decrease as local oxygen is consumed before blood flow increases |
-| Rise to peak | ~2–6 s | CBF over-compensation delivers excess oxyhaemoglobin |
-| Peak | ~5–8 s | Maximum BOLD contrast (~1–5% signal change) |
+| Phase                    | Timing   | Description                                                                                        |
+| ------------------------ | -------- | -------------------------------------------------------------------------------------------------- |
+| Initial dip              | ~0–2 s   | Brief signal decrease as local oxygen is consumed before blood flow increases                      |
+| Rise to peak             | ~2–6 s   | CBF over-compensation delivers excess oxyhaemoglobin                                               |
+| Peak                     | ~5–8 s   | Maximum BOLD contrast (~1–5% signal change)                                                        |
 | Post-stimulus undershoot | ~10–25 s | Signal falls below baseline, possibly due to prolonged blood volume increase after flow normalises |
 
 This sluggish response means the BOLD signal is a temporally smoothed version of underlying neural events, fundamentally limiting the temporal resolution of fMRI to the order of seconds.

@@ -1,4 +1,4 @@
-#fundamental/communication 
+#fundamental/communication
 
 Thanatophobia, also known as "death anxiety," is an **intense and persistent fear of death or the dying process.** Unlike the normal concern or curiosity that many people have about mortality, thanatophobia goes much further, manifesting as overwhelming anxiety that can disrupt daily life and well-being. This fear is not just a fleeting worry, but a deep-seated dread that can significantly impact how a person thinks, feels, and behaves.
 

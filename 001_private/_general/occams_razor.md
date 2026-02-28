@@ -9,7 +9,7 @@ Occam’s razor is a **philosophical principle that posits the simplest explanat
 The essence of Occam’s Razor is that when faced with multiple explanations for an event, the one that requires the fewest assumptions should be selected. This approach promotes efficiency and avoids unnecessary complexity in theories.
 
 > [!example] Example
- Imagine waking up to find your car won’t start. Possible reasons could include: Dead battery, broken started, no fuel, seized engine, complex electrical issues
+> Imagine waking up to find your car won’t start. Possible reasons could include: Dead battery, broken started, no fuel, seized engine, complex electrical issues
 
 ### Applying Occam’s Razor
 

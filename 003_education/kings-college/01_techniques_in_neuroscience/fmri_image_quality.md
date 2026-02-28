@@ -15,13 +15,13 @@ Increasing one typically compromises the other due to acquisition time constrain
 
 SNR is critical for detecting the relatively weak [BOLD signal](the_bold_effect.md) changes (typically 1–5% signal change). Key factors affecting SNR:
 
-| Factor | Effect on SNR |
-|--------|---------------|
-| Magnetic field strength | Higher field (3T vs 1.5T) increases SNR roughly linearly |
-| Voxel size | Larger voxels increase SNR but reduce spatial resolution |
-| Repetition time (TR) | Longer TR allows more signal recovery but reduces temporal resolution |
-| Number of averages | More repetitions improve SNR but increase scan duration |
-| Receiver coil | Multi-channel coils improve SNR via parallel imaging |
+| Factor                  | Effect on SNR                                                         |
+| ----------------------- | --------------------------------------------------------------------- |
+| Magnetic field strength | Higher field (3T vs 1.5T) increases SNR roughly linearly              |
+| Voxel size              | Larger voxels increase SNR but reduce spatial resolution              |
+| Repetition time (TR)    | Longer TR allows more signal recovery but reduces temporal resolution |
+| Number of averages      | More repetitions improve SNR but increase scan duration               |
+| Receiver coil           | Multi-channel coils improve SNR via parallel imaging                  |
 
 ## Common Artefacts
 
@@ -46,11 +46,11 @@ Cardiac and respiratory cycles introduce systematic signal fluctuations unrelate
 
 ## Field Strength Considerations
 
-| Field Strength | Advantages | Disadvantages |
-|----------------|------------|---------------|
-| 1.5T | Lower cost, fewer susceptibility artefacts | Lower SNR and BOLD contrast |
-| 3T | Good balance of SNR and practicality | Increased susceptibility artefacts |
-| 7T+ | Excellent spatial resolution, strong BOLD | Severe susceptibility artefacts, SAR limits, high cost |
+| Field Strength | Advantages                                 | Disadvantages                                          |
+| -------------- | ------------------------------------------ | ------------------------------------------------------ |
+| 1.5T           | Lower cost, fewer susceptibility artefacts | Lower SNR and BOLD contrast                            |
+| 3T             | Good balance of SNR and practicality       | Increased susceptibility artefacts                     |
+| 7T+            | Excellent spatial resolution, strong BOLD  | Severe susceptibility artefacts, SAR limits, high cost |
 
 ## Relation to Other Concepts
 

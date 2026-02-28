@@ -19,7 +19,7 @@ The ventricular system is a set of **four interconnected cavities in the brain.*
 ## Fourth Ventricle
 
 - **Location**: Located between the brainstem and the cerebellum.
-- [Connections](../04_biological_foundations_of_mental_health/cortical_connections.md)**: CSF flows into the subarachnoid space via the median aperture (foramen of Magendie) and lateral apertures (foramina of Luschka).
+- [Connections](../04_biological_foundations_of_mental_health/cortical_connections.md)\*\*: CSF flows into the subarachnoid space via the median aperture (foramen of Magendie) and lateral apertures (foramina of Luschka).
 - **Function**: Continues CSF circulation towards the spinal cord.
 
 ## Cerebrospinal Fluid (CSF)
