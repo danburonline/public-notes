@@ -1,4 +1,4 @@
-#core/mathematicalphysics 
+#core/computationalmathematics 
 
 ![diffeomorphic-transformation](../../_inbox/attachments/diffeomorphic-transformation.png)
 

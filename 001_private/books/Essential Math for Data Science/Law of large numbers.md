@@ -1,4 +1,4 @@
-#core/mathematicalphysics
+#core/computationalmathematics
 
 The Law of Large Numbers is a theorem in probability and statistics that suggests that **as the size of a sample increases, the sample mean will get closer and closer to the population mean.** This concept is foundational to the fields of statistics and probability.
 

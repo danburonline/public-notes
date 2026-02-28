@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/mathematicalphysics
+#core/artificialintelligence #core/computationalmathematics
 
 ![binomial-distribution](../../../_inbox/attachments/binomial-distribution.jpg)
 

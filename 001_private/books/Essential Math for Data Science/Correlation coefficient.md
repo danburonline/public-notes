@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/mathematicalphysics
+#core/artificialintelligence #core/computationalmathematics
 
 The correlation coefficient is a **statistical measure showing the extent to which two or more variables fluctuate.** A positive correlation indicates that the variables increase or decrease together, whereas a negative correlation indicates that as one variable increases, the other decreases.
 

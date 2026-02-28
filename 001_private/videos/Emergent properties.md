@@ -1,4 +1,4 @@
-#core/mathematicalphysics
+#core/computationalmathematics
 
 ![emergent](../../_inbox/attachments/emergent.png)
 

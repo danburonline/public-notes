@@ -1,4 +1,4 @@
-#core/mathematicalphysics
+#core/computationalmathematics
 
 ## Column Vectors
 

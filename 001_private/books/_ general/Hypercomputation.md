@@ -1,4 +1,4 @@
-#core/mathematicalphysics
+#core/computationalmathematics
 
 ![hypercomputation](../../../_inbox/attachments/hypercomputation.jpg)
 

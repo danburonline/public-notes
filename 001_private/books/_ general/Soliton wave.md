@@ -1,4 +1,4 @@
-#core/mathematicalphysics
+#core/computationalmathematics
 
 ![soliton](../../../_inbox/attachments/soliton.png)
 
