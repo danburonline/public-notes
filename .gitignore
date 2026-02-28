@@ -1,8 +1,7 @@
 .obsidian
 .trash
 .DS_Store
-_inbox/*
-!_inbox/attachments
+_inbox/
 piecesdb.json
 
 

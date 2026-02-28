@@ -2,9 +2,9 @@
 
 **Neuronal potentials can be excitatory or inhibitory,** leading to the concepts of Excitatory [Post-Synaptic](../04_biological_foundations_of_mental_health/pre-_and_post-synaptic.md) Potentials (EPSPs) and Inhibitory Post-Synaptic Potentials (IPSPs).
 
-![epsp-ipsp](../../../_inbox/attachments/epsp-ipsp.png)
+![epsp-ipsp](_attachments/epsp-ipsp.png)
 
-![epsps](../../../_inbox/attachments/epsps.png)
+![epsps](_attachments/epsps.png)
 
 ## Excitatory [Post-Synaptic](../04_biological_foundations_of_mental_health/pre-_and_post-synaptic.md) Potentials (EPSPs)
 

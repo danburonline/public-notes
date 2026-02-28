@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![lif](../../../_inbox/attachments/lif.png)
+![lif](_attachments/lif.png)
 
 The [Leaky](../../../001_private/books/neural_networks_from_scratch/activation_functions_overview.md#leaky-relu) Integrate-and-Fire (LIF) model is a **simplified version of a neuron used in computational neuroscience.** It captures the essential features of neuronal activity and is computationally less complex than the [Hodgkin-Huxley model](hodgkin-huxley_model.md).
 

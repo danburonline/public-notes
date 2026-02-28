@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![anisotropic-microstructures](../../../_inbox/attachments/anisotropic-microstructures.png)
+![anisotropic-microstructures](_attachments/anisotropic-microstructures.png)
 
 Anisotropic microstructures are **materials with direction-dependent properties**, which are crucial in replicating the natural architecture of biological tissues. These structures are often utilised in tissue engineering to mimic the anisotropy found in native tissues like muscles, bones, and nerves.
 

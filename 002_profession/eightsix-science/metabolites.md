@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![metabolites](../../_inbox/attachments/metabolites.svg)
+![metabolites](_attachments/metabolites.svg)
 
 Metabolites are **intermediate or end products of metabolism, typically small molecules that play crucial roles in cellular processes and tissue function.** They can be categorised into primary metabolites (essential for growth and development) and secondary metabolites (ecological functions).
 

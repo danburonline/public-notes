@@ -1,6 +1,6 @@
 #fundamental/logic 
 
-![cartesian-materialism](../../_inbox/attachments/cartesian-materialism.png)
+![cartesian-materialism](_attachments/cartesian-materialism.png)
 
 **Cartesian Materialism**, a term coined by philosopher Daniel Dennett, describes a common intuitive error in conceptualising the mind: **embracing materialism theoretically (mind as brain processes) while subconsciously retaining the dualistic idea of a central "theater" where consciousness converges.** This leads to flawed models that hinder scientific understanding, as it assumes a unified point for experience despite clear evidence of [distributed brain](../../003_education/epfl/01_systems_neuroscience/distributed_brain.md) processing.
 

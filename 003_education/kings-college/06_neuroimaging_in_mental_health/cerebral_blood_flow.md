@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![cbf](../../../_inbox/attachments/cbf.jpg)
+![cbf](_attachments/cbf.jpg)
 
 Cerebral Blood Flow (CBF) is the **blood supply to the brain in a given time.** It’s crucial for delivering nutrients and oxygen while removing waste products. **Unlike other parts of the body, the brain has unique regulatory mechanisms to ensure a constant flow despite changes in systemic blood pressure or metabolic demand.**
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![neuronal-arterial-network Large](../../../_inbox/attachments/neuronal-arterial-network_large.jpeg)
+![neuronal-arterial-network Large](_attachments/neuronal-arterial-network_large.jpeg)
 
 The neuronal arterial network refers to **blood vessels that supply blood to the brain’s neural tissue.** This network is crucial for maintaining the health and functionality of the brain, as it ensures a steady supply of oxygen and nutrients while removing waste products.
 

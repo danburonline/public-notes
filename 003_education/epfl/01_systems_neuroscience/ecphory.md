@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![ecphory](../../../_inbox/attachments/ecphory.png)
+![ecphory](_attachments/ecphory.png)
 
 Ecphory is a **cognitive process involving retrieving memories by activating the neural patterns representing an [engram](../../../001_private/videos/engram.md)** in response to specific cues (also called [Engram](../../../001_private/videos/engram.md)). **Origin**: The term was introduced by [Endel Tulving](https://en.wikipedia.org/wiki/Endel_Tulving), a key figure in studying human memory.
 

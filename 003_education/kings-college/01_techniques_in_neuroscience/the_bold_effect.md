@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![bold](../../../_inbox/attachments/bold.png)
+![bold](_attachments/bold.png)
 
 The **blood-oxygen-level dependent (BOLD) signal** is the basis of fMRI neuroimaging. It measures neural activity indirectly by detecting changes in blood oxygenation associated with neuronal firing.
 

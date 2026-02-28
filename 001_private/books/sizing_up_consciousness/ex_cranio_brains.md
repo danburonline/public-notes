@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![ex-cranio](../../../_inbox/attachments/ex-cranio.png)
+![ex-cranio](_attachments/ex-cranio.png)
 
 An ex cranio brain is **a brain that has been removed from the body.** It is used in scientific research to describe situations where brain activity supports consciousness even when fully isolated from the body and its environment.
 

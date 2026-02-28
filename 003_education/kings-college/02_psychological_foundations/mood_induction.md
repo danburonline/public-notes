@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![mood-induction](../../../_inbox/attachments/mood-induction.png)
+![mood-induction](_attachments/mood-induction.png)
 
 Mood induction is a procedure used in experimental psychology to **elicit certain emotional states in participants.** It’s a widely used method in studies involving affective disorders, emotion regulation, and the impact of mood states on cognitive processes.
 

@@ -1,6 +1,6 @@
 #core/computationalmathematics 
 
-![diffeomorphic-transformation](../../_inbox/attachments/diffeomorphic-transformation.png)
+![diffeomorphic-transformation](_attachments/diffeomorphic-transformation.png)
 
 A diffeomorphic transformation is a **special kind of mapping between two differentiable manifolds that is both smooth** (infinitely or sufficiently differentiable) and invertible, with a smooth inverse. In essence, it is a way to smoothly deform one geometric space into another without any tearing, gluing, or introducing sharp edges, and you can always reverse the transformation just as smoothly.
 

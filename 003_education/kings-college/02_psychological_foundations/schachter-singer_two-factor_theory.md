@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![two-factor-emotion](../../../_inbox/attachments/two-factor-emotion.jpg)
+![two-factor-emotion](_attachments/two-factor-emotion.jpg)
 
 The Schachter-Singer Theory, also known as the Two-Factor Theory of Emotion, is a modification of the [James-Lange](james-lange_theory_of_emotion.md) theory. This **theory proposes that our emotions are determined by two factors: physiological arousal and cognitive interpretation.**
 

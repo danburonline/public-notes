@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![cell-confluence](../../_inbox/attachments/cell-confluence.jpg)
+![cell-confluence](_attachments/cell-confluence.jpg)
 
 Cell confluence refers to the **percentage of surface area covered by adherent cells in a culture dish** or flask, representing how densely packed cells are in the growth environment.
 

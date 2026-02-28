@@ -1,6 +1,6 @@
 #core/artificialintelligence 
 
-![noesis-noema](../../_inbox/attachments/noesis-noema.jpg)
+![noesis-noema](_attachments/noesis-noema.jpg)
 
 Noesis and noema are **two core Husserlian ideas in [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md).** Noesis names the lived act of thinking, perceiving, or judgement, while noema names the intended object or content of that act. Together they offer a clear process and product distinction that helps in analysing conscious experience, from everyday reading to formal research.
 

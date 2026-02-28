@@ -1,6 +1,6 @@
 #lead/consciousnessengineering #core/biomimeticneuromorphics #core/appliedneuroscience #core/artificialintelligence
 
-![psnst](../../_inbox/attachments/psnst.png)
+![psnst](_attachments/psnst.png)
 
 The **Progressive Synthetic Neural Substrate Transfer** (PSNST) is a hypothetical cognitive preservation procedure envisioned by [Daniel Burger](https://danielburger.online/) to seamlessly transfer encoded neural information from a biological to an optimised synthetic biological substrate (or ultimately a fully *de novo synthetic substrate*), ensuring the preservation of cognitive functions and personal identity. This is achieved by leveraging the effect of neuroplasticity and the automatic rearrangement of encoded information when brain tissue is destroyed slowly (cortical reorganisation; such as in normally occurring effects like a low-grade brain tumours). This idea aims to solve the issues arising from classical mind-uploading by avoiding the destruction of a person’s cognitive continuity (i.e. the [teletransport paradox](https://en.wikipedia.org/wiki/Teletransportation_paradox)), and also avoiding other philosophical problems related to mind-uploading and generally with whole-brain emulation—challenges explored in [Philosophical zombies](philosophical_zombies.md) and [Existential altruism](../papers/existential_altruism.md). The approach aligns with [Chalmers' organisational invariance argument](../books/from_biological_to_artificial_consciousness/fading_qualia.md): gradual replacement preserves functional organisation, and therefore qualia. A potential method for the controlled cell death of neuronal cells could be induced by silencing them via genetics or a laser.
 
@@ -11,7 +11,7 @@ In contrast to other work, such as that from the [Hébert Lab](https://hebertlab
 > 
 > PSNST remains the canonical name for the procedure itself.
 > 
-> ![ecp](../../_inbox/attachments/ecp.png)
+> ![ecp](_attachments/ecp.png)
 
 ## Procedure
 

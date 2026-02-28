@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![behaviourism](../../../_inbox/attachments/behaviourism.png)
+![behaviourism](_attachments/behaviourism.png)
 
 **Behaviourism** is a psychological approach that studies observable behaviour rather than internal mental states.
 

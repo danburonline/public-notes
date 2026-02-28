@@ -1,6 +1,6 @@
 #core/computationalmathematics #core/artificialintelligence
 
-![coefficient-of-determination](../../../_inbox/attachments/coefficient-of-determination.jpeg)
+![coefficient-of-determination](_attachments/coefficient-of-determination.jpeg)
 
 - The Coefficient of Determination, denoted as R², is a statistical measure that represents the **proportion of the variance in the dependent variable that is predictable from the independent variable(s).**
 - It is a key output of [regression](../../../004_subsidiary/courses/datacamp_ml_scientist/regression.md) analysis and ranges from 0 to 1.

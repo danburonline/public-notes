@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![variance-and-standard-deviation](../../../_inbox/attachments/variance-and-standard-deviation.png)
+![variance-and-standard-deviation](_attachments/variance-and-standard-deviation.png)
 
 [Variance](binomial_distribution.md#mean-and-variance) and standard deviation are widely **used measures of dispersion in statistics, meaning they describe how a set of data is spread out.** They give you a sense of how much the values in a dataset differ from the mean (average).
 

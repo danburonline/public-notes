@@ -1,6 +1,6 @@
 #core/softwaredevelopment
 
-![sdn](../../../_inbox/attachments/sdn.jpg)
+![sdn](_attachments/sdn.jpg)
 
 Software-defined networking (SDN) is a network architecture that separates traditional networking devices’ control and forwarding functions, enabling centralised control and management of the network through software.
 

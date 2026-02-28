@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![inception-loop](../../_inbox/attachments/inception-loop.png)
+![inception-loop](_attachments/inception-loop.png)
 
 An inception loop in neuroscience is a **closed-loop experimental paradigm** that combines **in vivo recordings with [in silico](../../003_education/kings-college/01_techniques_in_neuroscience/in_silico.md) nonlinear response modelling** to identify and optimise sensory stimuli that maximally excite neurons. This technique is particularly useful for understanding how neurons process sensory information, especially in complex, nonlinear systems like the brain.
 

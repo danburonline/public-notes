@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![neglect](../../../_inbox/attachments/neglect.jpg)
+![neglect](_attachments/neglect.jpg)
 
 Hemispatial neglect, **also known as unilateral neglect,** is a neurological disorder characterised by a person’s inability to attend to or be aware of stimuli on one side of their visual field, typically the left side. Individuals with hemispatial neglect often appear as if they are completely ignoring or neglecting the affected side. Here are key points to remember:
 

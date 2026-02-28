@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![readiness-potential](../../../_inbox/attachments/readiness-potential.png)
+![readiness-potential](_attachments/readiness-potential.png)
 
 Readiness [Potential](../04_biological_foundations_of_mental_health/graded_potential.md) (RP), also known as Bereitschaftspotential, is a **brain signal that precedes voluntary movements.** It is related to the preparation or intention to perform an action.
 
