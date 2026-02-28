@@ -12,7 +12,7 @@ Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes co
 
 ### STRUCTURE
 
-```
+```txt
 Notes/
 ├── _inbox/           # Staging: prompts, sketches (fully gitignored)
 ├── 001_private/      # Personal learning: books, videos, papers, articles, social, etc. media
@@ -26,13 +26,13 @@ Notes/
 
 ### WHERE TO LOOK
 
-| Task | Location | Notes |
-|------|----------|-------|
+| Task                          | Location                                   | Notes                                                 |
+| ----------------------------- | ------------------------------------------ | ----------------------------------------------------- |
 | Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/the_feeling_of_life_itself/` |
-| Add work-related note | `002_profession/{company}/` | Match existing company folders |
-| Add course material | `003_education/{institution}/{module}/` | Match existing module naming |
-| Store image/attachment | `{note_dir}/_attachments/` | Keep each attachment near the note that references it |
-| AI prompt logs | `_inbox/prompts/` | Auto-generated filenames with timestamps |
+| Add work-related note         | `002_profession/{company}/`                | Match existing company folders                        |
+| Add course material           | `003_education/{institution}/{module}/`    | Match existing module naming                          |
+| Store image/attachment        | `{note_dir}/_attachments/`                 | Keep each attachment near the note that references it |
+| AI prompt logs                | `_inbox/prompts/`                          | Auto-generated filenames with timestamps              |
 
 ### CONVENTIONS
 
@@ -46,6 +46,7 @@ Notes/
 Brief definition or explanation in bold for key terms.
 
 ## Sections as needed
+
 - Content
 ```
 
@@ -53,11 +54,11 @@ Brief definition or explanation in bold for key terms.
 
 Three-tier hierarchy at **line 1** of every note:
 
-| Tier | Purpose | Examples |
-|------|---------|----------|
-| `#lead/` | Unique positioning / frontier work | `consciousnessengineering` |
-| `#core/` | Main competencies | `quantumcosmology`, `syntheticphenomenology`, `biomimeticneuromorphics`, `computationalmathematics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
-| `#fundamental/` | Foundational skills | `logic`, `communication`, `creativity` |
+| Tier            | Purpose                            | Examples                                                                                                                                                                                                                    |
+| --------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `#lead/`        | Unique positioning / frontier work | `consciousnessengineering`                                                                                                                                                                                                  |
+| `#core/`        | Main competencies                  | `quantumcosmology`, `syntheticphenomenology`, `biomimeticneuromorphics`, `computationalmathematics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
+| `#fundamental/` | Foundational skills                | `logic`, `communication`, `creativity`                                                                                                                                                                                      |
 
 Multiple tags allowed: `#core/artificialintelligence #core/computationalmathematics`
 
@@ -115,12 +116,12 @@ obsidian daily:append content="- New entry"             # Append to today's dail
 
 Available opencode skills for this workspace:
 
-| Skill | Use Case |
-|-------|----------|
-| `obsidian-markdown` | Wikilinks, embeds, callouts, frontmatter, tags — enforces vault conventions |
-| `obsidian-cli` | Read, create, append, search, and manage notes live via Obsidian CLI (Obsidian must be open) |
-| `obsidian-bases` | Create and edit `.base` database views with filters, formulas, table/cards/list layouts |
-| `git-master` | Commits, history search, blame |
+| Skill               | Use Case                                                                                     |
+| ------------------- | -------------------------------------------------------------------------------------------- |
+| `obsidian-markdown` | Wikilinks, embeds, callouts, frontmatter, tags — enforces vault conventions                  |
+| `obsidian-cli`      | Read, create, append, search, and manage notes live via Obsidian CLI (Obsidian must be open) |
+| `obsidian-bases`    | Create and edit `.base` database views with filters, formulas, table/cards/list layouts      |
+| `git-master`        | Commits, history search, blame                                                               |
 
 ### AGENT WORKFLOW
 

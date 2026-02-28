@@ -1,12 +1,13 @@
 #fundamental/logic
 
-**The positive/normative distinction** separates disciplines that describe what *is* (empirical observation) from those addressing what *ought to be* (values) or what things *mean* (interpretation).
+**The positive/normative distinction** separates disciplines that describe what _is_ (empirical observation) from those addressing what _ought to be_ (values) or what things _mean_ (interpretation).
 
 ## Positive Science
 
 **Empirical science** studies phenomena through observable, measurable evidence, seeking laws and predictions. Rooted in Logical positivism (Vienna Circle, 1920s), which held that meaningful statements must be empirically verifiable.
 
 **Characteristics:**
+
 - Testable hypotheses
 - Reproducible observations
 - Predictive laws
@@ -16,7 +17,7 @@
 
 ### Critiques
 
-- **Popper:** Verification insufficient—science must be *falsifiable*
+- **Popper:** Verification insufficient—science must be _falsifiable_
 - **Kuhn:** Science proceeds through paradigm shifts, not pure accumulation
 - **Feyerabend:** No single scientific method ("epistemological anarchism")
 
@@ -28,7 +29,7 @@ Often mislabelled "non-positive science." Two distinct categories:
 
 ### Normative Sciences
 
-Concerned with values and *ought* statements.
+Concerned with values and _ought_ statements.
 
 - **Ethics:** What actions are morally right?
 - **Aesthetics:** What constitutes beauty?
@@ -43,7 +44,7 @@ Concerned with meaning and interpretation ([Hermeneutics](../_general/hermeneuti
 
 ### Note on History
 
-History is *empirical* (uses documents, artefacts) but *interpretive* in contextualisation. Straddles both categories.
+History is _empirical_ (uses documents, artefacts) but _interpretive_ in contextualisation. Straddles both categories.
 
 ---
 
@@ -51,11 +52,11 @@ History is *empirical* (uses documents, artefacts) but *interpretive* in context
 
 What distinguishes science from non-science? No consensus:
 
-| Criterion | Proponent | Limitation |
-|-----------|-----------|------------|
-| Verifiability | Vienna Circle | Excludes universal laws |
-| Falsifiability | Popper | Some sciences aren't easily falsifiable |
-| Paradigms | Kuhn | Relativises truth to consensus |
+| Criterion      | Proponent     | Limitation                              |
+| -------------- | ------------- | --------------------------------------- |
+| Verifiability  | Vienna Circle | Excludes universal laws                 |
+| Falsifiability | Popper        | Some sciences aren't easily falsifiable |
+| Paradigms      | Kuhn          | Relativises truth to consensus          |
 
 See [Philosophy of science](books/_%20general/Philosophy%20of%20science.md).
 

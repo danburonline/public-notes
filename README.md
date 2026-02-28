@@ -26,7 +26,7 @@ Three-tier tagging system reflecting knowledge depth and focus:
 
 - #core/quantumcosmology
 - #core/syntheticphenomenology
-- #core/biomimeticneuromorphics 
+- #core/biomimeticneuromorphics
 - #core/computationalmathematics
 - #core/theoreticalneurosurgery
 - #core/appliedneuroscience
