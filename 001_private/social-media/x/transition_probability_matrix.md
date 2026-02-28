@@ -7,7 +7,7 @@ Specifically, each entry $(i,j)$ in a transition probability matrix represents t
 For example, consider a simple weather model with two states: “Sunny” and “Rainy”. The transition probability matrix might look like:
 
 $$
-P = 
+P =
 \begin{bmatrix}
 0.8 & 0.2\\
 0.6 & 0.4

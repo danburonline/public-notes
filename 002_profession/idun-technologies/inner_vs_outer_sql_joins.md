@@ -9,11 +9,13 @@ SQL joins combine rows from two or more tables based on related columns. The **t
 - Most restrictive join type
 
 > [!example] Inner Join
+>
 > ```sql
 > SELECT employees.name, departments.dept_name
 > FROM employees
 > INNER JOIN departments ON employees.dept_id = departments.id;
 > ```
+>
 > Result: Only employees who belong to an existing department.
 
 ## Outer Joins
@@ -36,21 +38,23 @@ Outer joins **retain rows even when no match exists**, filling gaps with `NULL`.
 - `NULL` where no match exists on either side
 
 > [!example] Left Join
+>
 > ```sql
 > SELECT employees.name, departments.dept_name
 > FROM employees
 > LEFT JOIN departments ON employees.dept_id = departments.id;
 > ```
+>
 > Result: All employees, including those without a department (shown as `NULL`).
 
 ## Comparison
 
-| Join Type | Left Table | Right Table | Use Case |
-|-----------|------------|-------------|----------|
-| Inner | Matched only | Matched only | Strict relationships |
-| Left | All rows | Matched or NULL | Primary table + optional data |
-| Right | Matched or NULL | All rows | Secondary table focus |
-| Full | All rows | All rows | Complete data audit |
+| Join Type | Left Table      | Right Table     | Use Case                      |
+| --------- | --------------- | --------------- | ----------------------------- |
+| Inner     | Matched only    | Matched only    | Strict relationships          |
+| Left      | All rows        | Matched or NULL | Primary table + optional data |
+| Right     | Matched or NULL | All rows        | Secondary table focus         |
+| Full      | All rows        | All rows        | Complete data audit           |
 
 ## When to Use
 

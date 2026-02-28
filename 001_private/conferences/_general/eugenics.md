@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![eugenics](_attachments/eugenics.jpg)
 

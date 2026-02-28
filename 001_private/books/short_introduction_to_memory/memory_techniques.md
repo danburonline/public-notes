@@ -24,14 +24,14 @@ The pegword method involves associating numbers with words that rhyme with them 
 Chunking involves breaking down a large amount of information into smaller, more manageable “chunks.”
 
 > [!example]
-Remembering a long string of numbers by breaking it down into chunks, like phone numbers (123-456-7890).
+> Remembering a long string of numbers by breaking it down into chunks, like phone numbers (123-456-7890).
 
 ## Spaced Repetition
 
 This technique involves reviewing information at increasing intervals. It is highly effective for long-term retention.
 
 > [!example]
-Initially, you might review information after one day, then after three days, then a week, and so on.
+> Initially, you might review information after one day, then after three days, then a week, and so on.
 
 ## Link Method
 

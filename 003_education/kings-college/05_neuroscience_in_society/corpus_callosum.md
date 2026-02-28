@@ -22,5 +22,6 @@ The corpus callosum is a large, C-shaped **nerve fibre bundle found beneath the 
 - **Split-brain Syndrome**: This can occur when the corpus callosum is surgically cut to reduce epileptic seizures.
 
 > [!tip] Interesting facts
+>
 > - The corpus callosum is the largest white matter structure in the human brain.
 > - It contains about 200-250 million contralateral axonal projections.

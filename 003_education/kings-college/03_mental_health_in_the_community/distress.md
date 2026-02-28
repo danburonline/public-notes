@@ -5,6 +5,7 @@
 ## Physiological Responses
 
 Distress activates the **hypothalamic-pituitary-adrenal (HPA) axis**, leading to sustained cortisol release. Unlike acute stress, chronic distress keeps cortisol elevated, which can impair:
+
 - Immune function
 - Memory consolidation (hippocampal damage)
 - Cardiovascular health

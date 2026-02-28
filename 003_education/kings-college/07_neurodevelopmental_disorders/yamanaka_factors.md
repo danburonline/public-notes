@@ -12,6 +12,7 @@ Yamanaka factors are a set of **four transcription factors that have the ability
 - **c-Myc**: Known to regulate cell growth and [apoptosis](../08_advances_in_neuroscience/apoptosis.md), it plays a role in cellular reprogramming and the proliferation of induced pluripotent stem cells (iPSCs).
 
 > [!info] Brief history of the Yamanaka factors
+>
 > - 2006: Kazutoshi Takahashi and Shinya Yamanaka screen 24 embryonic stem cell–enriched genes in mouse fibroblasts using an Fbx15-βgeo selection system; iterative subtraction narrows the set to Oct3/4, Sox2, Klf4 and c-Myc, yielding iPSC-like colonies.
 > - 2007: Fully pluripotent mouse iPSCs confirmed with stricter Nanog/Oct4 selection; human iPSCs generated; alternative cocktails (e.g., Oct4, Sox2, Nanog, Lin28) show the principle is modular; c‑Myc boosts efficiency but is dispensable.
 > - 2008–2011: Safer, non-integrating delivery emerges (Sendai virus, episomes, mRNA/protein, small molecules), reducing insertional mutagenesis and tumour risk; robust differentiation and disease modelling expand.

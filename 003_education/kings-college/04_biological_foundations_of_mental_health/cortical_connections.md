@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![cortical-connections](_attachments/cortical-connections.png)
 

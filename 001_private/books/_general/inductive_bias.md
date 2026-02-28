@@ -1,4 +1,4 @@
-#core/artificialintelligence 
+#core/artificialintelligence
 
 ![inductive-bias](_attachments/inductive-bias.png)
 

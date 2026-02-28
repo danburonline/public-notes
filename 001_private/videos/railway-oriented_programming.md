@@ -1,4 +1,4 @@
-#core/softwaredevelopment 
+#core/softwaredevelopment
 
 ![railway-oriented-programming](_attachments/railway-oriented-programming.png)
 
@@ -31,6 +31,7 @@ In this example, the `divide` function returns a `Result` type, either a `S
 It's worth noting that Python, being a dynamically typed language, doesn't enforce type safety to the extent that statically typed languages do. As such, Railway Oriented Programming is more commonly used in statically typed functional programming languages like F#, Haskell, and Elm.
 
 **Remember, in Railway Oriented Programming:**
+
 - Functions return either a 'Success' path with the result or a 'Failure' path with the error.
 - You can chain several functions together, where each function can potentially return an error.
 - If any function in this chain fails, processing skips all remaining functions and carries the failure to the end.

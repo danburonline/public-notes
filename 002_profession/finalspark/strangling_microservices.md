@@ -6,10 +6,10 @@ The strangler fig pattern is a **strategy for incrementally migrating a monolith
 
 ## Why Strangle?
 
-| Approach | Risk | Downtime | Cost |
-|----------|------|----------|------|
-| Big bang rewrite | High | Significant | Front-loaded |
-| Strangler pattern | Low | Minimal | Distributed |
+| Approach          | Risk | Downtime    | Cost         |
+| ----------------- | ---- | ----------- | ------------ |
+| Big bang rewrite  | High | Significant | Front-loaded |
+| Strangler pattern | Low  | Minimal     | Distributed  |
 
 - **Avoid "second system syndrome"**: Rewrites often fail or exceed timelines
 - **Continuous delivery**: New services can ship independently
@@ -21,6 +21,7 @@ The strangler fig pattern is a **strategy for incrementally migrating a monolith
 ### 1. Identify Seams
 
 Find **natural boundaries** in the monolith where functionality can be extracted:
+
 - Distinct business domains (e.g., payments, inventory)
 - High-change areas that would benefit from independent deployment
 - Performance bottlenecks requiring different scaling
@@ -28,6 +29,7 @@ Find **natural boundaries** in the monolith where functionality can be extracted
 ### 2. Build the Strangler Facade
 
 Insert a **routing layer** (API gateway, reverse proxy) between clients and the monolith:
+
 - Initially routes 100% of traffic to monolith
 - Enables gradual traffic shifting to new services
 - Provides single entry point for clients
@@ -35,6 +37,7 @@ Insert a **routing layer** (API gateway, reverse proxy) between clients and the 
 ### 3. Extract and Redirect
 
 For each capability:
+
 1. **Build** the microservice implementing that functionality
 2. **Test** thoroughly (shadow traffic, canary deployment)
 3. **Redirect** traffic from monolith to new service
@@ -43,12 +46,14 @@ For each capability:
 ### 4. Repeat Until Complete
 
 Continue extracting services until the monolith is either:
+
 - Fully decomposed (ideal)
 - Reduced to a stable, maintainable core (pragmatic)
 
 ## Anti-Patterns to Avoid
 
 > [!warning] Common Mistakes
+>
 > - **Distributed monolith**: Services too tightly coupled, requiring coordinated deployments
 > - **Premature extraction**: Moving code before understanding domain boundaries
 > - **Ignoring data**: Extracting services without addressing shared database dependencies
@@ -57,11 +62,13 @@ Continue extracting services until the monolith is either:
 ## When to Use
 
 **Good candidates:**
+
 - Monoliths with clear domain boundaries
 - Systems requiring different scaling per component
 - Teams ready for distributed systems complexity
 
 **Poor candidates:**
+
 - Small applications without scaling needs
 - Teams lacking DevOps maturity
 - Tightly coupled data models without clear ownership

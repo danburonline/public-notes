@@ -1,4 +1,4 @@
-#fundamental/communication 
+#fundamental/communication
 
 Living virtuously means **cultivating moral character traits such as honesty, courage, compassion, and integrity, and habitually acting on them.** The goal is personal and communal flourishing through the practice of virtue ethics and considered self-reflection.
 

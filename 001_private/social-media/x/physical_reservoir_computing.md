@@ -29,7 +29,7 @@ A key insight from computational neuroscience is that **biological neural circui
 - **Cortical microcircuits**: Maass, Natschläger, and Markram (2002) demonstrated that generic cortical microcircuit models function as analog fading memory and nonlinear kernels—i.e. liquid state machines. Layer 2/3 circuits exhibit heterogeneous timescales that create a natural reservoir for temporal processing.
 - **Cerebellum**: The cerebellar granular layer generates long sequences of active neuron populations representing passage of time, with Purkinje cells acting as readout neurons. Yamazaki and Tanaka (2007) reinterpreted cerebellar computation from a perceptron model to a liquid state machine, revealing greater information processing capability.
 - **Prefrontal cortex**: Persistent activity and [bistable dynamics](../../books/sizing_up_consciousness/bistability_in_cortical_neurons.md) in prefrontal circuits show reservoir computing properties supporting adaptive behaviour and working memory.
-- **Living neuronal cultures**: Yada et al. (2021) demonstrated physical reservoir computing with FORCE learning in living neuronal cultures, showing that even *in vitro* biological networks can serve as computational reservoirs.
+- **Living neuronal cultures**: Yada et al. (2021) demonstrated physical reservoir computing with FORCE learning in living neuronal cultures, showing that even _in vitro_ biological networks can serve as computational reservoirs.
 
 This biological perspective reframes the brain not as a carefully engineered circuit but as a **dynamical system whose intrinsic physics performs computation**—with evolution and plasticity shaping the readout rather than the reservoir itself.
 
@@ -65,10 +65,10 @@ However, this raises a critical question for [Consciousness Engineering](../../_
 
 ## Foundational Work
 
-| Researcher | Contribution | Year |
-|------------|-------------|------|
-| Herbert Jaeger | Echo State Networks | 2001 |
+| Researcher                                        | Contribution                                                | Year |
+| ------------------------------------------------- | ----------------------------------------------------------- | ---- |
+| Herbert Jaeger                                    | Echo State Networks                                         | 2001 |
 | Wolfgang Maass, Thomas Natschläger, Henry Markram | Liquid State Machines; cortical microcircuits as reservoirs | 2002 |
-| Yamazaki & Tanaka | Cerebellum as liquid state machine | 2007 |
-| Dale, Miller, Stepney, Trefzer | Substrate-independent RC characterisation framework | 2019 |
-| Yada et al. | Physical RC with living neuronal cultures | 2021 |
+| Yamazaki & Tanaka                                 | Cerebellum as liquid state machine                          | 2007 |
+| Dale, Miller, Stepney, Trefzer                    | Substrate-independent RC characterisation framework         | 2019 |
+| Yada et al.                                       | Physical RC with living neuronal cultures                   | 2021 |

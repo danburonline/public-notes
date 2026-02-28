@@ -17,16 +17,16 @@ metadata:
   name: example-ingress
 spec:
   rules:
-  - host: myapp.mydomain.com
-    http:
-      paths:
-      - pathType: Prefix
-        path: "/"
-        backend:
-          service:
-            name: my-service
-            port:
-              number: 80
+    - host: myapp.mydomain.com
+      http:
+        paths:
+          - pathType: Prefix
+            path: "/"
+            backend:
+              service:
+                name: my-service
+                port:
+                  number: 80
 ```
 
 In this example, traffic that is directed to `myapp.mydomain.com` is routed to the service named `my-service` on port 80.

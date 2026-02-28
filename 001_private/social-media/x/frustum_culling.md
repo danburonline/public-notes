@@ -1,4 +1,4 @@
-#core/softwaredevelopment 
+#core/softwaredevelopment
 
 ![frustum-culling](_attachments/frustum-culling.png)
 

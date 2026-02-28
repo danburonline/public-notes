@@ -1,6 +1,6 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
- ![pre-post-synaptic](_attachments/pre-post-synaptic.jpg)
+![pre-post-synaptic](_attachments/pre-post-synaptic.jpg)
 
 - **Pre-synaptic neurons** are neurons that transmit signals towards a synapse, where communication occurs with another neuron or a target cell. They release neurotransmitters into the synapse.
 

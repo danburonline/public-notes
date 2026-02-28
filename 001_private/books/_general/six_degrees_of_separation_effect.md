@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![six-degrees](_attachments/six-degrees.png)
 

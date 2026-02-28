@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 Vicarious learning, or observational learning, is a **form of learning that occurs by observing the behaviours and outcomes of others.** In the context of fear, it refers to learning to fear something through observing others’ fearful responses.
 
@@ -6,6 +6,7 @@ Vicarious learning, or observational learning, is a **form of learning that occu
 
 1. **Modelling:** Individuals, especially children, can learn to fear certain things or situations by watching others (the “models”) display fear. If a child sees a parent react fearfully to a spider, they may also learn to fear spiders.
 2. **Cognitive Process:** Vicarious fear learning involves cognitive processing of the observed behaviour and its outcomes. This includes attention, memory, and decision-making processes.
+
 ---
 
 ## Use in Research

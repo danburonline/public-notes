@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![neurosurgical-wafers 1](_attachments/neurosurgical-wafers_1.png)
 

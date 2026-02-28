@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![anaplastic-transformation](_attachments/anaplastic-transformation.png)
 
@@ -15,4 +15,3 @@ From a clinical perspective, anaplastic transformation is a pivotal moment in pa
 ## Diagnostic and Prognostic Markers
 
 Identifying transformation relies on comprehensive molecular profiling and careful monitoring. Pathologists and oncologists look for specific cellular changes, including increased nuclear atypia, higher proliferation rates, and the emergence of more aggressive tumour characteristics.
-

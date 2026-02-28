@@ -12,7 +12,7 @@ In the LIF model, a neuron is represented as a simple electrical circuit with a 
 
 The dynamics of the membrane potential $V$ in the LIF model are described by:
 
-$$ \tau_m \frac{dV}{dt} = - (V - V_{rest}) + R_m I_e $$
+$$ \tau*m \frac{dV}{dt} = - (V - V*{rest}) + R_m I_e $$
 
 where:
 
@@ -28,8 +28,7 @@ When $V$ reaches the threshold voltage $V_{threshold}$, the neuron fires an acti
 
 The ‘fire’ condition is represented as:
 
-$$ \text{if } V \geq V_{threshold} \text{, then } V \leftarrow V_{reset} $$
-
+$$ \text{if } V \geq V*{threshold} \text{, then } V \leftarrow V*{reset} $$
 
 > [!example] Applications
 > The LIF model is widely used in the study of neural networks and in the field of neuromorphic engineering. Its simplicity allows for the simulation of large networks of neurons, making it a powerful tool for exploring principles of neural computation.

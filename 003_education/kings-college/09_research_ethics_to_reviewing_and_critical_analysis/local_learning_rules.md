@@ -27,6 +27,7 @@ A normalised Hebbian rule preventing runaway synaptic growth.
 - **Formula**: $Δw = η * (yx - w * y^2)$
 
 > [!example] Applications
+>
 > - **Neural Network Models**: Key for developing and understanding artificial neural networks.
 > - **[Synaptic Plasticity](../04_biological_foundations_of_mental_health/synaptic_plasticity.md)**: Crucial for exploring synaptic changes and neural circuit adaptation.
 > - **Cognitive Functions**: Explains local synaptic changes leading to complex behaviours.

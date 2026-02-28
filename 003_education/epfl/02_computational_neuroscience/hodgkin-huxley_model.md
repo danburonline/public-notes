@@ -28,7 +28,7 @@ The fundamental equations of the Hodgkin-Huxley model include:
 
 1. **[Membrane](../../kings-college/01_techniques_in_neuroscience/resting_membrane_potential.md) equation:**
 
-   $$ C \frac{dV}{dt} = I - (g_{Na} m^3 h (V - E_{Na}) + g_{K} n^4 (V - E_{K}) + g_{L} (V - E_{L})) $$
+   $$ C \frac{dV}{dt} = I - (g*{Na} m^3 h (V - E*{Na}) + g*{K} n^4 (V - E*{K}) + g*{L} (V - E*{L})) $$
 
 2. **Gating variables**:
 
@@ -60,16 +60,15 @@ The fundamental equations of the Hodgkin-Huxley model include:
 4. **Currents**:
    - Sodium current $I_{Na}$:
 
-     $$ I_{Na} = g_{Na} m^3 h (V - E_{Na}) $$
+     $$ I*{Na} = g*{Na} m^3 h (V - E\_{Na}) $$
 
    - Potassium current $I_{K}$:
 
-     $$ I_{K} = g_{K} n^4 (V - E_{K}) $$
+     $$ I*{K} = g*{K} n^4 (V - E\_{K}) $$
 
    - Leakage current $I_{L}$:
 
-     $$ I_{L} = g_{L} (V - E_{L}) $$
-
+     $$ I*{L} = g*{L} (V - E\_{L}) $$
 
 > [!example] Applications
 > The Hodgkin-Huxley model has been fundamental in neurophysiology, contributing to our understanding of the ionic basis of action potentials. It is widely used in computational neuroscience to simulate the behaviour of neurons and neural circuits.

@@ -20,11 +20,11 @@ The peripheral nervous system (PNS) is one of the two major nervous system divis
 
 #### Sympathetic Nervous System
 
-  - Primarily involved in the body’s “fight or flight” response.
+- Primarily involved in the body’s “fight or flight” response.
 
 #### Parasympathetic Nervous System
 
-  - Promotes “rest and digest” or “feed and breed” responses.
+- Promotes “rest and digest” or “feed and breed” responses.
 
 ### Enteric Nervous System
 

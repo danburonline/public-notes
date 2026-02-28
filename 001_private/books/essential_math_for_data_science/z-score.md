@@ -22,7 +22,7 @@ where:
 ## Key Points
 
 - **Data Point (X)**: Your data set’s individual observation or value.
-- [Population](sample_vs_population.md) [Mean](binomial_distribution.md#mean-and-variance) (μ)**: The average value of a particular measurement across the entire population.
+- [Population](sample_vs_population.md) [Mean](binomial_distribution.md#mean-and-variance) (μ)\*\*: The average value of a particular measurement across the entire population.
 - **Population Standard [Deviation](variance_and_standard_deviation.md#standard-deviation) (σ)**: The amount of variation or dispersion of a set of values in the population.
 
 ## Interpretation
@@ -36,9 +36,9 @@ Z-scores are especially useful in research, as they allow scientists to calculat
 
 > [!example]
 > For example, consider a student who scores 85 on a math test. The class mean μ is 70, and the standard deviation σ is 10. The Z-score for the student’s 85 score would be:
-> 
+>
 > ```
 > Z = (85 - 70) / 10 = 1.5
 > ```
-> 
+>
 > This Z-score tells us that the student’s score was 1.5 standard deviations above the mean.

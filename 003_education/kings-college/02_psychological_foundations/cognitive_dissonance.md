@@ -4,5 +4,5 @@ Cognitive dissonance is the **psychological discomfort** or tension that arises 
 
 > [!Example]
 > Imagine a person who strongly values environmental conservation and believes in the importance of reducing carbon emissions to mitigate climate change. However, this person frequently takes long-haul flights for leisure travel, significantly contributing to carbon emissions. The conflict between their belief in environmental conservation and their behaviour of taking carbon-intensive flights creates cognitive dissonance.
-> 
+>
 > To resolve this dissonance, they might rationalise their behaviour by focusing on other environmentally friendly choices they make in their everyday life, minimising the impact of their flights, or seeking out information that downplays the environmental consequences of flying.

@@ -1,8 +1,8 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![genetic-instability](_attachments/genetic-instability.jpg)
 
-Genetic instability is a critical concern in the field of induced pluripotent stem cell (iPSC) research and its applications in regenerative medicine. This phenomenon refers to **the accumulation of various genetic alterations during the reprogramming process and subsequent culture of iPSCs.** 
+Genetic instability is a critical concern in the field of induced pluripotent stem cell (iPSC) research and its applications in regenerative medicine. This phenomenon refers to **the accumulation of various genetic alterations during the reprogramming process and subsequent culture of iPSCs.**
 
 ## Types of Genetic Alterations
 

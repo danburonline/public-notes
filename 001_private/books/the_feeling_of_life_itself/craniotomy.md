@@ -40,13 +40,13 @@ Modern craniotomy relies on [stereotactic](../../../002_profession/eightsix-scie
 
 ## Variants
 
-| Approach | Access | Typical Indications |
-|----------|--------|---------------------|
-| **Pterional** | Sylvian fissure, anterior circulation | Aneurysms, MCA/ACOM pathology, sellar tumours |
-| **Bifrontal** | Bilateral frontal base | Anterior skull base tumours, olfactory groove meningiomas |
-| **Retrosigmoid** | Posterior fossa, cerebellopontine angle | Acoustic neuromas, trigeminal neuralgia |
-| **Suboccipital** | Cerebellum, brainstem | Posterior fossa tumours, Chiari malformations |
-| **Decompressive craniectomy** | Wide unilateral or bilateral | Malignant oedema, refractory intracranial hypertension |
+| Approach                      | Access                                  | Typical Indications                                       |
+| ----------------------------- | --------------------------------------- | --------------------------------------------------------- |
+| **Pterional**                 | Sylvian fissure, anterior circulation   | Aneurysms, MCA/ACOM pathology, sellar tumours             |
+| **Bifrontal**                 | Bilateral frontal base                  | Anterior skull base tumours, olfactory groove meningiomas |
+| **Retrosigmoid**              | Posterior fossa, cerebellopontine angle | Acoustic neuromas, trigeminal neuralgia                   |
+| **Suboccipital**              | Cerebellum, brainstem                   | Posterior fossa tumours, Chiari malformations             |
+| **Decompressive craniectomy** | Wide unilateral or bilateral            | Malignant oedema, refractory intracranial hypertension    |
 
 ## Awake Craniotomy
 
@@ -58,6 +58,7 @@ Craniotomy is the **enabling access procedure** for any physical intervention on
 
 > [!tip] Relevance to Substrate Transfer
 > For [PSNST](../../_general/psnst.md):
+>
 > 1. Craniotomy provides the surgical access necessary for [neural graft](../../videos/neural_grafts.md) placement and synthetic substrate layering
 > 2. Awake craniotomy techniques could enable real-time consciousness monitoring during progressive transfer
 > 3. The [IDEAL Framework](../../../002_profession/eightsix-science/ideal_framework.md) classifies BCI implantation (requiring craniotomy) through structured innovation stages
@@ -72,11 +73,11 @@ Craniotomy is the **enabling access procedure** for any physical intervention on
 
 ## Historical Context
 
-| Year | Milestone |
-|------|-----------|
-| ~5000 BCE | Earliest evidence of trepanation (skull drilling) in Neolithic remains |
-| 1861 | Paul Broca localises speech function, motivating targeted craniotomy |
-| 1880s | Victor Horsley performs early planned craniotomies for epilepsy and tumours |
-| 1900s | Harvey Cushing pioneers sterile technique, haemostasis, and systematic approach to brain tumour surgery |
-| 1980s | Introduction of frameless neuronavigation and microsurgical techniques |
-| Modern | Robotic assistance, intraoperative MRI, fluorescence-guided resection, and awake mapping as standard tools |
+| Year      | Milestone                                                                                                  |
+| --------- | ---------------------------------------------------------------------------------------------------------- |
+| ~5000 BCE | Earliest evidence of trepanation (skull drilling) in Neolithic remains                                     |
+| 1861      | Paul Broca localises speech function, motivating targeted craniotomy                                       |
+| 1880s     | Victor Horsley performs early planned craniotomies for epilepsy and tumours                                |
+| 1900s     | Harvey Cushing pioneers sterile technique, haemostasis, and systematic approach to brain tumour surgery    |
+| 1980s     | Introduction of frameless neuronavigation and microsurgical techniques                                     |
+| Modern    | Robotic assistance, intraoperative MRI, fluorescence-guided resection, and awake mapping as standard tools |

@@ -1,4 +1,4 @@
-#fundamental/logic 
+#fundamental/logic
 
 Eschatology is the **branch of theology concerned with the study of 'last things' or the end times**, including topics such as death, judgement, and the ultimate destiny of humanity and the world. It explores beliefs about what happens at the end of life and the end of the world, as well as the fulfilment of divine purpose in history.
 
@@ -13,10 +13,10 @@ Eschatology is the **branch of theology concerned with the study of 'last things
 
 ## Eschatology in Different Religions
 
-| Religion      | Eschatological Beliefs                                                                 |
-|---------------|---------------------------------------------------------------------------------------|
-| Christianity  | Second Coming, resurrection, final judgement, heaven and hell                         |
-| Islam         | Day of Judgement, resurrection, paradise (Jannah) and hell (Jahannam)                 |
-| Judaism       | Resurrection of the dead, coming of the Messiah, world to come (Olam Ha-Ba)           |
-| Hinduism      | Cyclical time, reincarnation, moksha (liberation from the cycle of rebirth)           |
-| Buddhism      | Rebirth, karma, nirvana (end of suffering and cycle of rebirth)                       |
+| Religion     | Eschatological Beliefs                                                      |
+| ------------ | --------------------------------------------------------------------------- |
+| Christianity | Second Coming, resurrection, final judgement, heaven and hell               |
+| Islam        | Day of Judgement, resurrection, paradise (Jannah) and hell (Jahannam)       |
+| Judaism      | Resurrection of the dead, coming of the Messiah, world to come (Olam Ha-Ba) |
+| Hinduism     | Cyclical time, reincarnation, moksha (liberation from the cycle of rebirth) |
+| Buddhism     | Rebirth, karma, nirvana (end of suffering and cycle of rebirth)             |

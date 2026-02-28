@@ -7,6 +7,7 @@ The resting membrane potential refers to the **voltage difference across a neuro
 ## Ion Concentration Gradients
 
 The resting potential arises from unequal distribution of ions across the membrane (see [Concentration gradients](concentration_gradients.md)):
+
 - **K+**: High inside (~140 mM), low outside (~5 mM)
 - **Na+**: Low inside (~15 mM), high outside (~145 mM)
 - **Cl-**: Low inside (~10 mM), high outside (~110 mM)

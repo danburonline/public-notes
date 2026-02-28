@@ -6,19 +6,20 @@
 
 ## Structure and Key Components
 
-| Element | Function |
-|---------|----------|
-| **Origin of replication (ori)** | Enables autonomous replication; determines copy number |
-| **Selectable marker** | Usually antibiotic resistance gene (e.g., ampicillin, kanamycin) for bacterial selection |
-| **Promoter** | Drives transgene expression; choice depends on target (CMV for broad expression, CaMKII for excitatory neurons, GFAP for astrocytes) |
-| **Multiple cloning site (MCS)** | Region with unique restriction enzyme sites for inserting genes of interest |
-| **Polyadenylation signal** | Ensures proper mRNA processing and stability |
+| Element                         | Function                                                                                                                             |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Origin of replication (ori)** | Enables autonomous replication; determines copy number                                                                               |
+| **Selectable marker**           | Usually antibiotic resistance gene (e.g., ampicillin, kanamycin) for bacterial selection                                             |
+| **Promoter**                    | Drives transgene expression; choice depends on target (CMV for broad expression, CaMKII for excitatory neurons, GFAP for astrocytes) |
+| **Multiple cloning site (MCS)** | Region with unique restriction enzyme sites for inserting genes of interest                                                          |
+| **Polyadenylation signal**      | Ensures proper mRNA processing and stability                                                                                         |
 
 ## Applications in Neuroscience
 
 ### Gene Expression Studies
 
 Plasmids enable transient or stable expression of proteins in neural cells. Common uses include:
+
 - **Fluorescent reporters** (GFP, mCherry) for cell labelling and lineage tracing
 - **Calcium indicators** (GCaMP) for activity imaging
 - **Voltage indicators** for membrane potential recording
@@ -26,6 +27,7 @@ Plasmids enable transient or stable expression of proteins in neural cells. Comm
 ### Optogenetics
 
 Plasmids deliver light-sensitive opsins to specific neural populations:
+
 - **Channelrhodopsin-2 (ChR2)** — excitatory, depolarises neurons with blue light
 - **Halorhodopsin (NpHR)** — inhibitory, hyperpolarises with yellow light
 - **Archaerhodopsin** — inhibitory proton pump
@@ -33,6 +35,7 @@ Plasmids deliver light-sensitive opsins to specific neural populations:
 ### Viral Vector Production
 
 Plasmids are essential for producing viral vectors:
+
 - **AAV plasmids** contain inverted terminal repeats (ITRs) flanking the transgene
 - **Lentiviral plasmids** include packaging sequences for integration into host genome
 - Co-transfection of transfer, packaging, and envelope plasmids generates viral particles
@@ -40,19 +43,20 @@ Plasmids are essential for producing viral vectors:
 ### CRISPR-Cas9 Delivery
 
 Plasmids can encode:
+
 - Cas9 nuclease or variants (dCas9, Cas9n)
 - Guide RNAs (sgRNAs) targeting specific genomic loci
 - Donor templates for homology-directed repair
 
 ## Delivery Methods
 
-| Method | Mechanism | Use Case |
-|--------|-----------|----------|
-| **Lipofection** | Cationic lipids form complexes with DNA | In vitro cell culture |
-| **Electroporation** | Electric pulses create transient membrane pores | In utero, slice cultures |
-| **Calcium phosphate** | DNA-calcium precipitate enters via endocytosis | Primary neuronal cultures |
-| **Microinjection** | Direct injection into cells/embryos | Single-cell precision |
-| **In utero electroporation** | Targets embryonic neural progenitors | Cortical development studies |
+| Method                       | Mechanism                                       | Use Case                     |
+| ---------------------------- | ----------------------------------------------- | ---------------------------- |
+| **Lipofection**              | Cationic lipids form complexes with DNA         | In vitro cell culture        |
+| **Electroporation**          | Electric pulses create transient membrane pores | In utero, slice cultures     |
+| **Calcium phosphate**        | DNA-calcium precipitate enters via endocytosis  | Primary neuronal cultures    |
+| **Microinjection**           | Direct injection into cells/embryos             | Single-cell precision        |
+| **In utero electroporation** | Targets embryonic neural progenitors            | Cortical development studies |
 
 ## Considerations for Neuroscience Use
 

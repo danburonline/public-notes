@@ -28,18 +28,18 @@ The Stimulus-Response (S-R) model, as illustrated in the diagram above, conceptu
 
 ## Core Mechanisms
 
-Behavioural change and maintenance are driven by several fundamental processes. [Reinforcement and reinforcers](reinforcement_and_reinforcers.md) increase the probability of a response, while the specific timing and frequency of these rewards are governed by [Reinforcement schedules](reinforcement_schedules.md). Conversely, [Extinction learning](extinction_learning.md) occurs when a previously reinforced behaviour is no longer rewarded, leading to its gradual cessation. 
+Behavioural change and maintenance are driven by several fundamental processes. [Reinforcement and reinforcers](reinforcement_and_reinforcers.md) increase the probability of a response, while the specific timing and frequency of these rewards are governed by [Reinforcement schedules](reinforcement_schedules.md). Conversely, [Extinction learning](extinction_learning.md) occurs when a previously reinforced behaviour is no longer rewarded, leading to its gradual cessation.
 
 Organisms also exhibit a [Generalisation gradient](generalisation_gradient.md), where responses are elicited by stimuli that are physically similar to the original conditioned stimulus. Furthermore, [Vicarious learning](vicarious_learning.md) allows for the acquisition of new behaviours through the observation of others, bypassing the need for direct experience and highlighting the social dimensions of behavioural change.
 
 ## Legacy and Critique
 
-Behaviourism dominated the psychological landscape for much of the early 20th century, providing rigorous experimental methods and highly effective therapeutic techniques such as applied behaviour analysis. However, the cognitive revolution of the 1950s and 60s led to a significant shift towards [Cognitive psychology vs cognitive neuroscience](cognitive_psychology_vs_cognitive_neuroscience.md). 
+Behaviourism dominated the psychological landscape for much of the early 20th century, providing rigorous experimental methods and highly effective therapeutic techniques such as applied behaviour analysis. However, the cognitive revolution of the 1950s and 60s led to a significant shift towards [Cognitive psychology vs cognitive neuroscience](cognitive_psychology_vs_cognitive_neuroscience.md).
 
 Critics argued that the "black box" must be opened to understand complex human cognition, language acquisition, and decision-making. While behaviourism is praised for its scientific rigour and practical applications, it is often criticised for failing to account for innate biological structures, evolutionary predispositions, and the richness of subjective experience.
 
 ## Connection to Consciousness Studies
 
-Within the framework of consciousness engineering, behaviourism presents a significant challenge to [Phenomenology](../03_mental_health_in_the_community/phenomenology.md) by prioritising external observation over first-person experience. It raises profound questions regarding [Philosophical zombies](../../../001_private/_general/philosophical_zombies.md)—hypothetical entities that behave exactly like conscious humans but possess no inner experience. 
+Within the framework of consciousness engineering, behaviourism presents a significant challenge to [Phenomenology](../03_mental_health_in_the_community/phenomenology.md) by prioritising external observation over first-person experience. It raises profound questions regarding [Philosophical zombies](../../../001_private/_general/philosophical_zombies.md)—hypothetical entities that behave exactly like conscious humans but possess no inner experience.
 
 In modern terms, behaviourist principles are often mapped to the distinction between [Access and phenomenal consciousness](../../../001_private/videos/access_and_phenomenal_consciousness.md), where observable "access" functions are studied while the "phenomenal" quality remains elusive. Understanding these behavioural constraints is essential for bridging the gap between objective neural function and the subjective nature of [Purposive behaviour](purposive_behaviour.md), providing a foundation for quantitative models of agency.

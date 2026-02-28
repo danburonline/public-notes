@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![cell-potency](_attachments/cell-potency.jpg)
 

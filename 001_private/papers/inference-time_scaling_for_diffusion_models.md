@@ -1,4 +1,4 @@
-#core/artificialintelligence 
+#core/artificialintelligence
 
 ![inference-time-scaling](_attachments/inference-time-scaling.png)
 

@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![inception-loop](_attachments/inception-loop.png)
 

@@ -1,4 +1,4 @@
-#fundamental/logic 
+#fundamental/logic
 
 ## Opening Principles
 
@@ -46,13 +46,12 @@
 ## Endgame Principles
 
 1. **Activate the king**
-    - King becomes powerful piece in endgame
-    - Use actively
+   - King becomes powerful piece in endgame
+   - Use actively
 
 2. **Push passed pawns**
-    - Advance passed pawns
-    - Pose significant threat to opponent
+   - Advance passed pawns
+   - Pose significant threat to opponent
 
 3. **Rooks behind passed pawns**
-    - Place rooks behind passed pawns (yours or opponent's)
-
+   - Place rooks behind passed pawns (yours or opponent's)

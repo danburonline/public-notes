@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![fading-qualia](_attachments/fading-qualia.png)
 
@@ -50,6 +50,7 @@ Fading qualia is a **thought experiment proposed by philosopher [David Chalmers]
 ---
 
 > [!info] Dancing qualia (Chalmers, 1996)
+>
 > - Companion to [Fading qualia](fading_qualia.md); asks whether qualia could change while functional organisation stays fixed.
 > - Setup: two functionally isomorphic implementations (e.g., biological brain vs silicon). A switch toggles which realiser runs each part, without altering inputs, outputs, or internal causal structure.
 > - If qualia depended on substrate, flipping the switch would make experiences “dance” (dramatically change) while behaviour, reports, and memories remain identical—so the subject could not notice the change.

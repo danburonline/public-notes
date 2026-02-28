@@ -1,4 +1,4 @@
-#fundamental/logic 
+#fundamental/logic
 
 ![cartesian-materialism](_attachments/cartesian-materialism.png)
 
@@ -10,7 +10,7 @@
 
 The fallacy is a hybrid of two conflicting views:
 
-1.  **The Materialism Aspect**: The official stance that rejects a non-physical soul or "ghost in the machine." The mind is purely the physical activity of the brain, dismissing Descartes' distinction between *res cogitans* (thinking substance) and *res extensa* (physical substance).
+1.  **The Materialism Aspect**: The official stance that rejects a non-physical soul or "ghost in the machine." The mind is purely the physical activity of the brain, dismissing Descartes' distinction between _res cogitans_ (thinking substance) and _res extensa_ (physical substance).
 2.  **The Cartesian Aspect (The Error)**: The subconscious, intuitive holdover from Descartes' philosophy. It's the assumption that even in a material brain, there must be a specific place and time where sensory information "arrives" to be experienced—an illusory "finish line" for consciousness.
 
 ### The Cartesian Theater Metaphor
@@ -18,18 +18,19 @@ The fallacy is a hybrid of two conflicting views:
 Dennett's central metaphor for this error is the **"Cartesian Theater"**:
 
 - **Stage/Screen**: A place in the brain where all sensory inputs are gathered and projected for "viewing."
-- **Audience (The Homunculus)**: A tiny "self" or central observer who experiences the show. This is the part that is *truly* conscious.
-- **The Experience**: The moment information is presented on the stage is the moment it *becomes* conscious.
+- **Audience (The Homunculus)**: A tiny "self" or central observer who experiences the show. This is the part that is _truly_ conscious.
+- **The Experience**: The moment information is presented on the stage is the moment it _becomes_ conscious.
 
 This model is a fallacy because it doesn't solve the problem of consciousness; it just creates an **infinite regress** (who watches the show in the homunculus's head?).
 
 ## Why It's a Mistake
 
 Dennett argues the Cartesian Theater model is fundamentally flawed because it:
+
 1.  **Lacks Neural Evidence**: Neuroscience reveals a massively parallel system. Brain features like color, motion, and sound are processed in different areas at different times. There is no single anatomical integration site where "it all comes together."
 2.  **Creates Phantom Problems**: It misleads inquiry by posing unanswerable or nonsensical questions, such as:
-    - *"At what exact millisecond did a stimulus become conscious?"*
-    - *"How does the brain 'fill in' our visual blind spot?"*
+    - _"At what exact millisecond did a stimulus become conscious?"_
+    - _"How does the brain 'fill in' our visual blind spot?"_
 
 ## Dennett's Alternative: The Multiple Drafts Model
 
@@ -44,6 +45,7 @@ To replace this flawed model, Dennett proposes the **Multiple Drafts Model** of 
 ## Implications
 
 Rejecting P-Zombies and the Chinese Room Dennett's rejection of the Cartesian Theater directly leads to his conclusion that [philosophical zombies](../_general/philosophical_zombies.md) are a logically incoherent concept.
-- **The P-Zombie Argument:** A p-zombie is a being that is physically and functionally identical to a human but lacks subjective experience (qualia). This idea depends entirely on the assumption that consciousness is an "extra ingredient"—the *show* in the Cartesian Theater—that can be separated from the underlying machinery.
-- **Dennett's Rebuttal:** Since Dennett rejects the theathre, he rejects the "extra ingredient." For him, **consciousness *is* the sum of the system's complex functions**. There is no non-physical "light" of awareness that could be absent.
-- **Functionalism and AI:** If a system—whether a biological brain, an uploaded mind, or an advanced AI—could truly replicate 100% of a human's functional dispositions (including reacting to novelty, explaining motivations, and reporting on internal states), it *would be* conscious by definition. The idea of an unconscious perfect replica is, in his view, a contradiction born from the Cartesian fallacy. This is why he is also a famous critic of Searle's Chinese Room argument.
+
+- **The P-Zombie Argument:** A p-zombie is a being that is physically and functionally identical to a human but lacks subjective experience (qualia). This idea depends entirely on the assumption that consciousness is an "extra ingredient"—the _show_ in the Cartesian Theater—that can be separated from the underlying machinery.
+- **Dennett's Rebuttal:** Since Dennett rejects the theathre, he rejects the "extra ingredient." For him, **consciousness _is_ the sum of the system's complex functions**. There is no non-physical "light" of awareness that could be absent.
+- **Functionalism and AI:** If a system—whether a biological brain, an uploaded mind, or an advanced AI—could truly replicate 100% of a human's functional dispositions (including reacting to novelty, explaining motivations, and reporting on internal states), it _would be_ conscious by definition. The idea of an unconscious perfect replica is, in his view, a contradiction born from the Cartesian fallacy. This is why he is also a famous critic of Searle's Chinese Room argument.

@@ -8,11 +8,11 @@
 
 From most to least invasive (and highest to lowest spatial resolution):
 
-| Technique | Spatial Resolution | Temporal Resolution | Invasiveness |
-|-----------|-------------------|---------------------|--------------|
-| Patch clamp | Single channel | μs | High |
-| [Field potential](field_potential.md) | Local circuit | ms | Medium |
-| EEG/MEG | Whole brain | ms | Low |
+| Technique                             | Spatial Resolution | Temporal Resolution | Invasiveness |
+| ------------------------------------- | ------------------ | ------------------- | ------------ |
+| Patch clamp                           | Single channel     | μs                  | High         |
+| [Field potential](field_potential.md) | Local circuit      | ms                  | Medium       |
+| EEG/MEG                               | Whole brain        | ms                  | Low          |
 
 ## Trade-offs
 

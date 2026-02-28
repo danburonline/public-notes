@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 - Neurological differences characterised by aberrant neural connections in the brain
 - Manifest as abnormal connectivity or unusual extent of connections

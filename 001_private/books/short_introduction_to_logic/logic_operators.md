@@ -1,4 +1,4 @@
-#fundamental/logic 
+#fundamental/logic
 
 - **NOT (¬)**: This is a unary operator, meaning it operates on a single logical value. NOT p (¬p) is true if p is false, and vice versa.
 - **AND (∧)**: This is a binary operator, meaning it operates on two logical values. p AND q (p ∧ q) is true if and only if both p and q are true.

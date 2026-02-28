@@ -1,4 +1,4 @@
-#fundamental/logic #core/appliedneuroscience 
+#fundamental/logic #core/appliedneuroscience
 
 ![hylozoism](_attachments/hylozoism.png)
 
@@ -25,10 +25,10 @@ Hylozoism is the philosophical **doctrine that all matter is alive or possesses 
 
 ## Comparison Table
 
-| Aspect           | Details                                                                                     |
-|------------------|--------------------------------------------------------------------------------------------|
-| Core Idea        | All matter is alive or possesses life                                                      |
-| Origin           | Ancient Greek philosophy; term coined in 17th century                                      |
-| Key Distinction  | Differs from animism (personification) and panpsychism (universal consciousness)           |
-| Historical Roots | Thales, Anaximenes, Heraclitus, Stoics                                                     |
-| Modern Influence | Revived in Renaissance and 19th-century scientific thought                                 |
+| Aspect           | Details                                                                          |
+| ---------------- | -------------------------------------------------------------------------------- |
+| Core Idea        | All matter is alive or possesses life                                            |
+| Origin           | Ancient Greek philosophy; term coined in 17th century                            |
+| Key Distinction  | Differs from animism (personification) and panpsychism (universal consciousness) |
+| Historical Roots | Thales, Anaximenes, Heraclitus, Stoics                                           |
+| Modern Influence | Revived in Renaissance and 19th-century scientific thought                       |

@@ -8,22 +8,22 @@ Tense operators are central to temporal logic, which **extends classical logic t
 
 Future tense operators describe propositions concerning future states or events.
 
-- **Next Operator ($X$ or $N$):** $X P$ means “$P$ will be true at the next moment in time.”  
+- **Next Operator ($X$ or $N$):** $X P$ means “$P$ will be true at the next moment in time.”
   - Formal: $X P$ is true at time $t$ if $P$ is true at time $t+1$.
-- **Eventually Operator ($F$ or $\Diamond$):** $F P$ means “$P$ will be true at some point in the future.”  
+- **Eventually Operator ($F$ or $\Diamond$):** $F P$ means “$P$ will be true at some point in the future.”
   - Formal: $F P$ is true at time $t$ if there exists a future time $t' \geq t$ such that $P$ is true at $t'$.
-- **Always Operator ($G$ or $\Box$):** $G P$ means “$P$ will be true at all points in the future.”  
+- **Always Operator ($G$ or $\Box$):** $G P$ means “$P$ will be true at all points in the future.”
   - Formal: $G P$ is true at time $t$ if $P$ is true at every future time $t' \geq t$.
 
 ### Past Tense Operators
 
 Past tense operators describe propositions about prior states or events.
 
-- **Previous Operator ($P$ or $O$):** $P P$ means “$P$ was true at the previous moment in time.”  
+- **Previous Operator ($P$ or $O$):** $P P$ means “$P$ was true at the previous moment in time.”
   - Formal: $P P$ is true at time $t$ if $P$ was true at time $t-1$.
-- **Once Operator ($F^-$ or $\Diamond^-$):** $F^- P$ means “$P$ was true at some point in the past.”  
+- **Once Operator ($F^-$ or $\Diamond^-$):** $F^- P$ means “$P$ was true at some point in the past.”
   - Formal: $F^- P$ is true at time $t$ if there exists a past time $t' \leq t$ such that $P$ was true at $t'$.
-- **Historically Operator ($H$ or $\Box^-$):** $H P$ means “$P$ has always been true in the past.”  
+- **Historically Operator ($H$ or $\Box^-$):** $H P$ means “$P$ has always been true in the past.”
   - Formal: $H P$ is true at time $t$ if $P$ was true at every past time $t' \leq t$.
 
 ## Usage and Combination

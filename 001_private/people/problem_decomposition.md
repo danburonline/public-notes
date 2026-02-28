@@ -1,4 +1,4 @@
-#fundamental/logic 
+#fundamental/logic
 
 Problem decomposition is the **process of breaking down a complex problem into smaller, more manageable sub-problems.** This approach makes it easier to understand, tackle, and solve intricate challenges by addressing each component individually before integrating them into a comprehensive solution.
 
@@ -31,7 +31,8 @@ Problem decomposition is the **process of breaking down a complex problem into s
 ### Software Development
 
 When building a web application, you might:
-- **Decompose the project into modules:**  
+
+- **Decompose the project into modules:**
   - **Front-end:** User interface, client-side logic, responsive design.
   - **Back-end:** Server-side processing, database interactions, API endpoints.
 - **Further decompose each module:**  
@@ -40,6 +41,7 @@ When building a web application, you might:
 ### Everyday Life
 
 Planning a large family dinner can be decomposed into:
+
 - **Menu Planning:** Decide on courses and dishes.
 - **Grocery Shopping:** Make a detailed list based on the menu.
 - **Cooking:** Break down recipes into individual steps.
@@ -48,9 +50,9 @@ Planning a large family dinner can be decomposed into:
 ### Project Management
 
 In constructing a building project:
-- **Divide the project into phases:**  
+
+- **Divide the project into phases:**
   - **Design:** Architectural planning, structural engineering.
   - **Construction:** Laying the foundation, building the framework, finishing.
 - **Assign tasks within each phase:**  
   Each phase can be scheduled and managed independently, ensuring clear milestones and better resource allocation.
-

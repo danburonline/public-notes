@@ -1,4 +1,4 @@
-#core/computationalmathematics #core/appliedneuroscience 
+#core/computationalmathematics #core/appliedneuroscience
 
 ![hellinger-distance](_attachments/hellinger-distance.png)
 
@@ -6,11 +6,11 @@ The **Hellinger distance** is a statistical metric used to measure the similarit
 
 > [!info] What is f-divergence?
 > **f-divergence** is a general class of functions used to measure the difference between two probability distributions. Given distributions $P$ and $Q$ (with densities $p(x)$ and $q(x)$), the f-divergence is defined for a convex function $f$ as:
-> 
+>
 > $$
 > D_f(P \| Q) = \int q(x) \, f\left(\frac{p(x)}{q(x)}\right) dx
 > $$
-> 
+>
 > Many familiar divergence measures, such as Kullback-Leibler divergence, total variation distance, and the Hellinger distance, are special cases of f-divergence, each corresponding to a different choice of the function $f$. These divergences provide a systematic way to quantify how one probability distribution differs from another.
 
 ## Formulas
@@ -53,13 +53,14 @@ $$
 - **Image Processing:** Image similarity.
 - **Ecology:** Comparing species distributions.
 
-----
+---
 
 > [!abstract] Hellinger distance in neural signals and mathematical neuroscience
 > The **Hellinger distance** is valuable in mathematical neuroscience for quantifying differences between neural signals and population activity patterns. It can be used to:
+>
 > - **Compare probability distributions** of neural responses (e.g., spike trains, firing rates) across different experimental conditions or brain states.
 > - **Assess changes in information content** by measuring how the probability distribution of neural features shifts due to learning, plasticity, or disease.
 > - **Cluster or classify neural activity patterns** by evaluating the similarity between distributions from different brain regions, time periods, or subject groups.
 > - **Analyse population coding**, where the Hellinger distance helps determine how distinguishable different stimulus-evoked neural responses are.
-> 
+>
 > Overall, the Hellinger distance provides a principled, interpretable metric to compare probabilistic models of neural data and can reveal subtle changes in neural dynamics, supporting both theoretical and applied neuroscience research.

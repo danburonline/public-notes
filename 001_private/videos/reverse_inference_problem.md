@@ -9,6 +9,7 @@ The Reverse [Inference](../books/short_introduction_to_logic/logic_basics.md#wha
 In neuroimaging studies, ‘forward inference’ refers to identifying a specific brain activation (effect) resulting from a particular task or cognitive process (cause).
 
 **Example:**
+
 - Task (Cause): Viewing a scary image.
 - Result (Effect): Activation of the amygdala.
 
@@ -17,6 +18,7 @@ In neuroimaging studies, ‘forward inference’ refers to identifying a specifi
 ‘Reverse inference’ is the process of inferring the cognitive process (effect) from the observed brain activation (cause).
 
 Example:
+
 - Observation (Potential Cause): Activation of the amygdala.
 - Assumed Task (Effect): The person must be experiencing fear.
 

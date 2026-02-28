@@ -10,7 +10,7 @@ In primary appraisal, we evaluate the relevance of the event to our personal wel
 
 - **Irrelevant**: The situation has no significance to personal goals.
 - **Benign-positive**: The situation is beneficial or enhances personal goals.
-- [Stressful](../03_mental_health_in_the_community/stress.md)**: The situation presents harm, threat, or challenge to personal goals.
+- [Stressful](../03_mental_health_in_the_community/stress.md)\*\*: The situation presents harm, threat, or challenge to personal goals.
 
 ### 2. Secondary Appraisal
 

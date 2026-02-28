@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![sonogenetics](_attachments/sonogenetics.jpg)
 
@@ -15,4 +15,4 @@ Sonogenetics is an emerging medical technology that **utilises acoustic waves, s
 - **Applications**: The technology holds promise for treating various conditions, including neurological diseases (e.g., Parkinson's), cancer, and vision restoration. It offers a non-invasive method to modulate neural circuits and potentially address cellular dysfunction.
 
 > [!example]
-> Sonogenetics could be used to treat Parkinson's Disease by non-invasively modulating specific neural circuits deep within the brain using focused ultrasound.  This is achieved by genetically modifying neurons to express SSMs like mechanosensitive [ion channels](../../003_education/kings-college/01_techniques_in_neuroscience/ion_channels.md).
+> Sonogenetics could be used to treat Parkinson's Disease by non-invasively modulating specific neural circuits deep within the brain using focused ultrasound. This is achieved by genetically modifying neurons to express SSMs like mechanosensitive [ion channels](../../003_education/kings-college/01_techniques_in_neuroscience/ion_channels.md).

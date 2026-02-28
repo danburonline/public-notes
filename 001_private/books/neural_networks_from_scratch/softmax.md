@@ -11,6 +11,7 @@ $$
 $$
 
 Where:
+
 - $\sigma(\mathbf{z})*i$ is the output of the softmax function for the $i$-th class.
 - $z_i$ is the $i$-th element from the input vector $\mathbf{z}$, representing the raw score for the class $i$.
 - $K$ is the total number of classes.

@@ -1,10 +1,11 @@
 #fundamental/logic
 
-The Sorites Paradox is a **philosophical paradox associated with vagueness and ambiguity in language.** It’s also known as the *paradox of the heap*. The term “sorites” originates from the Greek word for heap.
+The Sorites Paradox is a **philosophical paradox associated with vagueness and ambiguity in language.** It’s also known as the _paradox of the heap_. The term “sorites” originates from the Greek word for heap.
 
 ## Description
 
 The paradox is usually presented with the example of a heap of sand. Here’s how it goes:
+
 1. Start with a heap of sand (let’s say, 1000 grains).
 2. If you remove a single grain, it should still be a heap.
 3. If you continue to remove grains one by one, eventually, you’ll be left with just one grain, which is clearly not a heap.

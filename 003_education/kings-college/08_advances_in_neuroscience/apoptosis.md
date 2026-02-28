@@ -12,5 +12,6 @@
 ## Significance
 
 Apoptosis plays a vital role in the nervous system across various stages of life:
+
 - **Developmental Stages:** Apoptosis is crucial for the development of the nervous system. It helps in the elimination of excess neurons, thereby refining neural circuits and ensuring proper neural development.
 - **Adult Brain:** In the mature nervous system, apoptosis is important for removing damaged or diseased neurons and preventing potential detrimental effects on neighbouring cells and overall brain function.

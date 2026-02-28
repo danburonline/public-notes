@@ -22,6 +22,7 @@ Gyri and sulci are the **ridges and grooves, respectively, on the surface of the
   - **Parieto-Occipital Sulcus**: Separates the parietal lobe from the occipital lobe.
 
 > [!example] Clinical relevance and landmarks
+>
 > - Somatotopy: Medial → lateral along pre/postcentral gyri = leg → trunk → arm → face (think “LAFF”).
 > - Imaging landmark: The “hand knob” (inverted omega) on the precentral gyrus marks motor hand area; the central sulcus is just posterior to it.
 > - Vascular: MCA infarcts (lateral cortex) → contralateral face/upper limb weakness/numbness; ACA infarcts (medial cortex/paracentral lobule) → contralateral leg deficits.

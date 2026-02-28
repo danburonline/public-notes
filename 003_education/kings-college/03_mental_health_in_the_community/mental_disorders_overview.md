@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-*See categories in [Mental disorders classifications](mental_disorders_classifications.md).*
+_See categories in [Mental disorders classifications](mental_disorders_classifications.md)._
 
 1. **Major Depressive Disorder (MDD)**: John has lost interest in activities he once enjoyed, like painting and hiking. He struggles to get out of bed and has noticed significant changes in his appetite and sleep.
 

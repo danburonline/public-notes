@@ -32,8 +32,8 @@
 - **Key Aspect**: Reflects the social dimension of cognition associated with emotions like embarrassment or pride.
 - **Example**: Humans feel embarrassed in social situations, indicating a heightened sense of how others view them.
 
-
 > [!example] Theatre analogy: remembering the differences
+>
 > - Sentience: The theatre senses light and sound—raw sensations occur.
 > - Awareness: The stagehand notices the cue and changes the lights.
 > - Self-Awareness: The actor recognises themselves in a mirror on stage.

@@ -1,4 +1,4 @@
-#core/appliedneuroscience 
+#core/appliedneuroscience
 
 ![mood-induction](_attachments/mood-induction.png)
 
@@ -12,6 +12,7 @@ Mood induction is a procedure used in experimental psychology to **elicit certai
 4. **Velten Induction:** In this method, participants read self-referential statements (Velten mood induction statements) that start neutral and gradually become either more positive or negative.
 
 **Factors Influencing Effectiveness:**
+
 - **Individual Differences:** People’s reactions to mood induction procedures can differ based on their personality, current mood, and other individual factors.
 - **Context:** The effectiveness of a mood induction procedure can depend on the context in which it is used.
 

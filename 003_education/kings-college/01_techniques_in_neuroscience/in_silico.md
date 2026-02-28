@@ -6,7 +6,7 @@ In silico refers to **computer simulations and modelling of biological systems, 
 
 ## Comparison with Other Approaches
 
-In silico complements [In vivo vs in vitro](in_vivo_vs_in_vitro.md) approaches. While *in vivo* studies examine living organisms and *in vitro* uses isolated cells/tissues, *in silico* enables exploration of scenarios impossible or unethical to test experimentally—such as systematic parameter variation or long timescale simulations.
+In silico complements [In vivo vs in vitro](in_vivo_vs_in_vitro.md) approaches. While _in vivo_ studies examine living organisms and _in vitro_ uses isolated cells/tissues, _in silico_ enables exploration of scenarios impossible or unethical to test experimentally—such as systematic parameter variation or long timescale simulations.
 
 ## Applications in Neuroscience
 
@@ -17,6 +17,7 @@ In silico complements [In vivo vs in vitro](in_vivo_vs_in_vitro.md) approaches. 
 ## Model Hierarchy
 
 Computational models vary in biological detail:
+
 - [Hodgkin-Huxley model](../../epfl/02_computational_neuroscience/hodgkin-huxley_model.md): Biophysically detailed, models individual ion channel kinetics
 - [Leaky integrate-and-fire neurons](../../epfl/02_computational_neuroscience/leaky_integrate-and-fire_neurons.md): Simplified, captures spike timing without channel dynamics
 - [Point neuron](../../../002_profession/blue-brain-project/point_neuron.md): Abstract, represents firing rate without spatial extent
@@ -27,10 +28,10 @@ Computational models vary in biological detail:
 
 In silico approaches span multiple levels of abstraction, from biophysically detailed to abstract:
 
-| Model | Biological Detail | Computational Cost | Use Case |
-|-------|------------------|-------------------|----------|
-| [Hodgkin-Huxley model](../../epfl/02_computational_neuroscience/hodgkin-huxley_model.md) | High (ion channel kinetics) | High | Understanding biophysics |
-| [Leaky integrate-and-fire neurons](../../epfl/02_computational_neuroscience/leaky_integrate-and-fire_neurons.md) | Medium (spike timing) | Medium | Network simulations |
-| [Point neuron](../../../002_profession/blue-brain-project/point_neuron.md) | Low (firing rate) | Low | Large-scale models |
+| Model                                                                                                            | Biological Detail           | Computational Cost | Use Case                 |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------ | ------------------------ |
+| [Hodgkin-Huxley model](../../epfl/02_computational_neuroscience/hodgkin-huxley_model.md)                         | High (ion channel kinetics) | High               | Understanding biophysics |
+| [Leaky integrate-and-fire neurons](../../epfl/02_computational_neuroscience/leaky_integrate-and-fire_neurons.md) | Medium (spike timing)       | Medium             | Network simulations      |
+| [Point neuron](../../../002_profession/blue-brain-project/point_neuron.md)                                       | Low (firing rate)           | Low                | Large-scale models       |
 
 [NeuroML](../../../004_subsidiary/_general/neuroml.md) enables interoperability between these approaches.

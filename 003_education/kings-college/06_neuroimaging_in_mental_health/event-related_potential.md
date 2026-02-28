@@ -24,6 +24,7 @@ Event-related potentials (ERPs) are **measured brain responses that are the dire
 - **Amplitude and Latency**: The amplitude of an ERP component represents the strength of the neural response, while the latency indicates the timing of neural processes.
 
 > [!example] Example of ERP Distribution across the Scalp
+>
 > - **P300**: A positive wave that occurs around 300ms after stimulus onset, commonly associated with attention and working memory processes.
 > - **N400**: A negative deflection peaking around 400ms, typically linked to semantic processing and language comprehension.
->  - **Mismatch Negativity (MMN)**: Reflects automatic detection of change in auditory stimuli.
+> - **Mismatch Negativity (MMN)**: Reflects automatic detection of change in auditory stimuli.

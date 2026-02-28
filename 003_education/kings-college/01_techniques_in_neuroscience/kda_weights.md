@@ -7,6 +7,7 @@ In cell biology, “KDA” refers to “kiloDalton” or “kilodalton,” which
 Here are some drop‑in Obsidian callouts you can paste into the note.
 
 > [!summary] Quick reference
+>
 > - kDa (kilodalton) is a unit of molecular mass commonly used for proteins.
 > - $1\ \text{kDa} = 10^3\ \text{Da}$ and numerically $1\ \text{Da} \approx 1\ \text{g mol}^{-1}$.
 > - Example conversions:
@@ -14,6 +15,7 @@ Here are some drop‑in Obsidian callouts you can paste into the note.
 >   - $150\ \text{kDa}$ (IgG) $\approx 150{,}000\ \text{g mol}^{-1}$.
 
 > [!example] Typical protein sizes (handy ladder anchors)
+>
 > - β‑actin ≈ 42 kDa
 > - GAPDH ≈ 36–37 kDa
 > - Tubulin (α/β) ≈ 50–55 kDa

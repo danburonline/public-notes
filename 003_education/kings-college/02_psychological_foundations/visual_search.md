@@ -4,7 +4,7 @@
 
 1. **Parallel Search**: In this type, all information in the visual field is processed simultaneously. The target, if present, is immediately recognised irrespective of the number of distractor items. An example could be identifying a red dot in a field of blue dots.
 
- 2. **Serial Search:** This refers to sequentially scanning and processing individual items in a visual field until the target is found. This process is typically slower, and the time it takes increases linearly with the number of items. An example could be looking for a specific word in a paragraph.
+2. **Serial Search:** This refers to sequentially scanning and processing individual items in a visual field until the target is found. This process is typically slower, and the time it takes increases linearly with the number of items. An example could be looking for a specific word in a paragraph.
 
 3. **Feature Search**: This type of search involves looking for a specific attribute or feature (such as colour, shape, or orientation) among other stimuli. The feature often ‘pops out’, and the search can usually be done in parallel. For example, finding a yellow balloon among a bunch of blue balloons.
 

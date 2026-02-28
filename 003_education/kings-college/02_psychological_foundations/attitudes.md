@@ -3,8 +3,8 @@
 ## 1. Attitudes: Evaluate Negative and Positive, Decision Making. Difference Between Values and Attitudes
 
 - **Attitudes** are the evaluations or judgments we make about objects, ideas, events, or people. They can be positive, negative, or neutral and are developed through various forms of learning.
-  - *Positive attitudes*: Positive evaluations that lead to favouring or liking an object, person, or event. These often lead to supportive or constructive behaviours.
-  - *Negative attitudes*: Negative evaluations that lead to disfavouring or disliking an object, person, or event. These often result in destructive or avoidant behaviours.
+  - _Positive attitudes_: Positive evaluations that lead to favouring or liking an object, person, or event. These often lead to supportive or constructive behaviours.
+  - _Negative attitudes_: Negative evaluations that lead to disfavouring or disliking an object, person, or event. These often result in destructive or avoidant behaviours.
 - Decision-making is influenced by attitudes. People are more likely to choose actions that align with their positive attitudes and avoid those that conflict with their negative attitudes. However, complex decision-making may involve a trade-off between positive and negative attitudes.
 - **Values** are deeply held beliefs about what is important or desirable. They are guiding principles that influence behaviour and attitudes, shaping our perception of the world.
 - **Difference between Values and Attitudes**: Values are generally stable and enduring, forming the basis of our ethical framework. Conversely, attitudes can be more flexible, subject to change with new information or experiences. While values represent our belief system, attitudes are our predisposed reactions to specific objects, people, or events based on that belief system.
