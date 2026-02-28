@@ -1,3 +1,0 @@
-#core/appliedneuroscience 
-
-Radical [behaviourism](Behaviourism.md) is a philosophy and theoretical framework for analysing human and animal behaviour. It emphasises the role of **environmental factors in shaping behaviour and rejects using mentalistic concepts such as "thoughts" and "feelings"** to explain behaviour. Radical [behaviourism](Behaviourism.md) is associated with the work of B.F. [Skinner](The%20operant%20chamber%20%28Skinner%20box%29.md) and his followers and is often contrasted with cognitive and psychoanalytic approaches to psychology.
