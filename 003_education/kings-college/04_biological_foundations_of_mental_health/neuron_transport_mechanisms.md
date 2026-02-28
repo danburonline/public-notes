@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![neuron-transport](../../../_inbox/attachments/neuron-transport.png)
+![neuron-transport](_attachments/neuron-transport.png)
 
 ## [Anterograde](../02_psychological_foundations/types_of_amnesia.md#anterograde-amnesia) Transport
 

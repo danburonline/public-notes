@@ -1,6 +1,6 @@
 #fundamental/communication 
 
-![prospera](../../_inbox/attachments/prospera.jpg)
+![prospera](_attachments/prospera.jpg)
 
 ## **Honduras**
 

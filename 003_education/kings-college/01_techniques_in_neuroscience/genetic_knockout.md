@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![genetic-knockout](../../../_inbox/attachments/genetic-knockout.jpg)
+![genetic-knockout](_attachments/genetic-knockout.jpg)
 
 A genetic knockout allows researchers to **study the function of specific genes by observing what happens when they are disabled.**
 

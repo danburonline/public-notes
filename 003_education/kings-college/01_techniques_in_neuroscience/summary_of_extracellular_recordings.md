@@ -1,3 +1,3 @@
 #core/appliedneuroscience
 
-![extracellular-recordings](../../../_inbox/attachments/extracellular-recordings.png)
+![extracellular-recordings](_attachments/extracellular-recordings.png)

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![astrocyte](../../../_inbox/attachments/astrocyte.jpg)
+![astrocyte](_attachments/astrocyte.jpg)
 
 Neurovascular coupling (NVC) is the mechanism by which **[Cerebral blood flow](cerebral_blood_flow.md) is regulated in response to neural activity.** This process is critical in the brain, which has high energy demands but lacks significant energy reserves.
 

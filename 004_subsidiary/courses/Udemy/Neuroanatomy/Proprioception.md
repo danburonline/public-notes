@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![proprioception](../../../../_inbox/attachments/proprioception.png)
+![proprioception](_attachments/proprioception.png)
 
 Proprioception includes the **sense of position and movement of our limbs and muscles.** This permits us to move effortlessly without needing to look at what each body part is doing. For instance, even **with our eyes closed, we’re able to touch our nose with a finger** due to proprioception.
 

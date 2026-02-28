@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![refractory-periods](../../../_inbox/attachments/refractory-periods.jpeg)
+![refractory-periods](_attachments/refractory-periods.jpeg)
 
 The refractory periods refer to **the time following an action potential during which the neuron is less responsive or completely unresponsive to stimulus.** There are two types: the absolute refractory period and the relative refractory period.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![neurosurgical-wafers 1](../../../_inbox/attachments/neurosurgical-wafers_1.png)
+![neurosurgical-wafers 1](_attachments/neurosurgical-wafers_1.png)
 
 Wafer in brain surgery refer to **small, biodegradable discs (most commonly Gliadel® wafers) that deliver chemotherapy directly to the brain after tumor removal.** They are primarily used to treat certain types of brain tumours, such as glioblastoma and other high-grade gliomas.
 

@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![cytoarchitecture](../../_inbox/attachments/cytoarchitecture.png)
+![cytoarchitecture](_attachments/cytoarchitecture.png)
 
 Laminar cytoarchitecture refers to the **specific arrangement of neuronal cell bodies and their organization into distinct layers within a particular region of the brain**, most notably in the cerebral cortex. This layered structure is crucial for the brain’s functional specialization and efficient processing of information.
 

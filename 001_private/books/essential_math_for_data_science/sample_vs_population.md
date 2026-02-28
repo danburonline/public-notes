@@ -1,6 +1,6 @@
 #core/artificialintelligence
 
-![](../../../_inbox/attachments/population-sample.png)
+![](_attachments/population-sample.png)
 
 In statistics, data are gathered to make inferences or assumptions about certain characteristics. Two **fundamental concepts in this process are population and sample.**
 

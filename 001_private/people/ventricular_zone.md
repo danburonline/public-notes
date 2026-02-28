@@ -1,6 +1,6 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-![ventricular-zone](../../_inbox/attachments/ventricular-zone.jpg)
+![ventricular-zone](_attachments/ventricular-zone.jpg)
 
 ## Overview
 

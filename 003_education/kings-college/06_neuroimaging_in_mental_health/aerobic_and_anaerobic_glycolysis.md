@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![aerobic-anaerobic-glycolysis](../../../_inbox/attachments/aerobic-anaerobic-glycolysis.png)
+![aerobic-anaerobic-glycolysis](_attachments/aerobic-anaerobic-glycolysis.png)
 
 ## Introduction
 

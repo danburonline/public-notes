@@ -1,6 +1,6 @@
 #core/theoreticalneurosurgery #core/appliedneuroscience
 
-![stereotactic-neurosurgery](../../_inbox/attachments/stereotactic-neurosurgery.jpg)
+![stereotactic-neurosurgery](_attachments/stereotactic-neurosurgery.jpg)
 
 Stereotaxic (or stereotactic) neurosurgery is a minimally invasive surgical technique that uses **three-dimensional coordinates** and advanced imaging (MRI/CT) to precisely target structures within the brain or spine, typically with **1–2 mm accuracy**.
 

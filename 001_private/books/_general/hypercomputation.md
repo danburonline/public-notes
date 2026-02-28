@@ -1,6 +1,6 @@
 #core/computationalmathematics
 
-![hypercomputation](../../../_inbox/attachments/hypercomputation.jpg)
+![hypercomputation](_attachments/hypercomputation.jpg)
 
 ## Key Concepts
 

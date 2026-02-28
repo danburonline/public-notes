@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![dunbar](../../../_inbox/attachments/dunbar.png)
+![dunbar](_attachments/dunbar.png)
 
 Dunbar’s Number is a **theoretical limit to the number of people with whom one can maintain stable social relationships.** It was first proposed by British anthropologist [Robin Dunbar](https://en.wikipedia.org/wiki/Robin_Dunbar).
 

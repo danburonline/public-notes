@@ -1,6 +1,6 @@
 #fundamental/logic #core/computationalmathematics 
 
-![pemdas](../../../_inbox/attachments/pemdas.jpg)
+![pemdas](_attachments/pemdas.jpg)
 
 PEMDAS stands for **P**arentheses, **E**xponents, **M**ultiplication, **D**ivision, **A**ddition, and **S**ubtraction and is the order of operations used when solving mathematical equations.
 

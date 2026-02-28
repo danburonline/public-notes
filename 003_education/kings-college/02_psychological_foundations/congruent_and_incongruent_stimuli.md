@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![congruent](../../../_inbox/attachments/congruent.png)
+![congruent](_attachments/congruent.png)
 
 In cognitive neuroscience and psychology, congruent and incongruent stimuli are often used in experiments to understand attention, perception, and cognitive processing.
 

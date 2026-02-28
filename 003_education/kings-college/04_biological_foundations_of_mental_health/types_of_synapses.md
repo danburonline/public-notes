@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![types-of-axons](../../../_inbox/attachments/types-of-axons.png)
+![types-of-axons](_attachments/types-of-axons.png)
 
 ## 1. Axodendritic Synapses
 

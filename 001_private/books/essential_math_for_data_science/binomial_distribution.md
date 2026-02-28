@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/computationalmathematics
 
-![binomial-distribution](../../../_inbox/attachments/binomial-distribution.jpg)
+![binomial-distribution](_attachments/binomial-distribution.jpg)
 
 The binomial distribution is a **probability distribution with two possible outcomes** (hence the term “bi” in binomial). In statistics, it’s used to model events in a fixed number of trials of a random experiment.
 

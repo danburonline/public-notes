@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![ais](../../../_inbox/attachments/ais.jpeg)
+![ais](_attachments/ais.jpeg)
 
 The Axon Initial Segment (AIS) is a specialised **region in a neuron where action potentials are initiated.**
 

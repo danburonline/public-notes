@@ -1,6 +1,6 @@
 #core/computationalmathematics
 
-![computational-irreducibility](../../_inbox/attachments/computational-irreducibility.png)
+![computational-irreducibility](_attachments/computational-irreducibility.png)
 
 Computational irreducibility is a concept introduced by [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram), indicating that **certain computational processes cannot be simplified or shortcut.** To determine their outcome, one must perform all the steps of the computation without skipping any intermediate stages.
 

@@ -1,6 +1,6 @@
 #core/softwaredevelopment 
 
-![railway-oriented-programming](../../_inbox/attachments/railway-oriented-programming.png)
+![railway-oriented-programming](_attachments/railway-oriented-programming.png)
 
 Railway Oriented Programming (ROP) is a **functional programming concept** initially introduced and popularised by [Scott Wlaschin](https://scottwlaschin.com/). It's named "Railway Oriented Programming" because it likens a program's flow to a model railway: **data flows along a track, and at each railway switch, it may be directed onto the "success" track or the "failure"** track.
 

@@ -14,7 +14,7 @@ Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes co
 
 ```
 Notes/
-├── _inbox/           # Staging: attachments, prompts, sketches (gitignored except attachments)
+├── _inbox/           # Staging: prompts, sketches (fully gitignored)
 ├── 001_private/      # Personal learning: books, videos, papers, articles, social, etc. media
 ├── 002_profession/   # Work: blue brain project, eightsix science, finalspark, idun, etc.
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
@@ -31,7 +31,7 @@ Notes/
 | Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/the_feeling_of_life_itself/` |
 | Add work-related note | `002_profession/{company}/` | Match existing company folders |
 | Add course material | `003_education/{institution}/{module}/` | Match existing module naming |
-| Store image/attachment | `_inbox/attachments/` | Only folder not gitignored in inbox |
+| Store image/attachment | `{note_dir}/_attachments/` | Keep each attachment near the note that references it |
 | AI prompt logs | `_inbox/prompts/` | Auto-generated filenames with timestamps |
 
 ### CONVENTIONS
@@ -65,7 +65,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 
 - **Internal links**: Standard markdown `[Note Title](relative/path/to/note.md)`
 - **Images**: Standard markdown `![alt text](relative/path/to/image.png)`
-- Images stored in `_inbox/attachments/`
+- Images stored in the nearest local `_attachments/` folder relative to each note
 
 #### Naming
 
@@ -83,8 +83,8 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 
 - **DO NOT** create notes without tags at line 1
 - **DO NOT** revert to Obsidian-only embeds `![[image.png]]`
-- **DO NOT** store attachments outside `_inbox/attachments/`
-- **DO NOT** commit `_inbox/` content (except attachments) - gitignored
+- **DO NOT** store active note attachments in `_inbox/` (use local `_attachments/` folders)
+- **DO NOT** commit `_inbox/` content - gitignored staging area
 - **DO NOT** use Title Case, spaces, or special characters (`& , . ( )`) in file or folder names
 - **DO NOT** convert existing hyphens to underscores — both are allowed
 
@@ -126,7 +126,7 @@ Available opencode skills for this workspace:
 
 When working with notes:
 
-- **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image in `_inbox/attachments/` and visually examine it using `look_at` to better understand the note's content before refining or expanding
+- **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image via the note's nearest `_attachments/` folder (or other relative image path) and visually examine it using `look_at` to better understand the note's content before refining or expanding
 - **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools — CLI reflects Obsidian's current state (plugins, linter, resolved links)
 - **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
 - **Searching content**: Use `obsidian search` for full-text vault search; use `mcp_grep` for pattern/regex searches across raw files

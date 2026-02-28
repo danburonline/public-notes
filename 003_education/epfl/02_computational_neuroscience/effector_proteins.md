@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-![effector-proteins](../../../_inbox/attachments/effector-proteins.jpg)
+![effector-proteins](_attachments/effector-proteins.jpg)
 
 Effector proteins play **pivotal roles in the signalling pathways within neurons, acting as critical mediators in translating extracellular signals into functional cellular responses.** These proteins are integral to the neuron’s ability to process information, respond to environmental cues, and maintain homeostasis. Their functions are diverse, from activating enzyme cascades to altering ion channel states and gene expression.
 

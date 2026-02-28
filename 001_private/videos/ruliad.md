@@ -1,6 +1,6 @@
 #core/computationalmathematics
 
-![ruliad](../../_inbox/attachments/ruliad.png)
+![ruliad](_attachments/ruliad.png)
 
 ## Definition and Concept
 

@@ -1,3 +1,3 @@
 #core/appliedneuroscience
 
-![spectrum-bipo](../../../_inbox/attachments/spectrum-bipo.jpg)
+![spectrum-bipo](_attachments/spectrum-bipo.jpg)

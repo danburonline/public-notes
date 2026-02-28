@@ -43,6 +43,7 @@ Three-tier tagging system reflecting knowledge depth and focus:
 ### Conventions
 
 - **Tags**: Every note starts with a tag on line 1
-- **Links**: Standard markdown `[Note Title](relative/path/to/Note.md)`
+- **Links**: Standard markdown `[Note Title](relative/path/to/note.md)`
 - **Images**: Standard markdown `![alt text](relative/path/to/image.png)`
+- **Attachment location**: Store attachments in the nearest local `_attachments/` folder relative to each note
 - **Spelling**: British English

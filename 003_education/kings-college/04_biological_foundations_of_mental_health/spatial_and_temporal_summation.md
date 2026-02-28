@@ -1,6 +1,6 @@
 #core/appliedneuroscience 
 
-![summation](../../../_inbox/attachments/summation.jpg)
+![summation](_attachments/summation.jpg)
 
 Summation refers to the **process by which neurons integrate input signals.** [Graded potential](graded_potential.md)s from different parts of the neuron's body are added together to determine whether the neuron will fire an action potential. There are two types of summation: spatial and temporal.
 
