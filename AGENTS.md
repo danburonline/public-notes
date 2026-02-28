@@ -98,6 +98,16 @@ Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
 ```bash
 # Tooling: opencode + Oh My OpenCode (omo) in Obsidian's integrated terminal
 # No build/test commands - knowledge base, not code project
+
+# Obsidian CLI — requires Obsidian to be open
+obsidian read file="Note Name"                          # Read a note by wikilink name
+obsidian create name="New Note" content="..." silent    # Create note (silent = don't open it)
+obsidian append file="Note Name" content="New content"  # Append to existing note
+obsidian search query="term" limit=10                   # Full-text search across vault
+obsidian tags sort=count counts                          # List all tags with counts
+obsidian backlinks file="Note Name"                     # Show all notes linking to a note
+obsidian property:set name="status" value="done" file="Note Name"  # Set a property
+obsidian daily:append content="- New entry"             # Append to today's daily note
 ```
 
 ### SKILLS
@@ -107,6 +117,8 @@ Available opencode skills for this workspace:
 | Skill | Use Case |
 |-------|----------|
 | `obsidian-markdown` | Wikilinks, embeds, callouts, frontmatter, tags — enforces vault conventions |
+| `obsidian-cli` | Read, create, append, search, and manage notes live via Obsidian CLI (Obsidian must be open) |
+| `obsidian-bases` | Create and edit `.base` database views with filters, formulas, table/cards/list layouts |
 | `git-master` | Commits, history search, blame |
 
 ### AGENT WORKFLOW
@@ -114,10 +126,15 @@ Available opencode skills for this workspace:
 When working with notes:
 
 - **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image in `_inbox/attachments/` and visually examine it using `look_at` to better understand the note's content before refining or expanding
+- **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools — CLI reflects Obsidian's current state (plugins, linter, resolved links)
+- **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
+- **Searching content**: Use `obsidian search` for full-text vault search; use `mcp_grep` for pattern/regex searches across raw files
+- **Database views**: Use the `obsidian-bases` skill to create `.base` files for structured views (e.g., tables of notes by tag, folder, or property)
 
 ### NOTES
 
-- `.agents/` contains agent skills (e.g., `obsidian-markdown`)
+- `.agents/` contains agent skills (`obsidian-markdown`, `obsidian-cli`, `obsidian-bases`)
 - `.obsidian/` contains Obsidian app config (gitignored)
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
+- **Obsidian CLI requires Obsidian to be running** — CLI commands will fail if the app is closed
