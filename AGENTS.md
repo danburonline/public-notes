@@ -8,7 +8,7 @@
 
 Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for [consciousness engineering](001_private/_%20general/Consciousness%20Engineering.md)—connecting quantum cosmology, computational [phenomenology](003_education/kings-college/03%20Mental%20Health%20in%20the%20Community/Phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix-science/Biomimetic%20neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
+**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for [consciousness engineering](001_private/_general/consciousness_engineering.md)—connecting quantum cosmology, computational [phenomenology](003_education/kings-college/03_mental_health_in_the_community/phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix-science/biomimetic_neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
 
 ### STRUCTURE
 
@@ -28,7 +28,7 @@ Notes/
 
 | Task | Location | Notes |
 |------|----------|-------|
-| Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/The Feeling of Life Itself/` |
+| Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/the_feeling_of_life_itself/` |
 | Add work-related note | `002_profession/{company}/` | Match existing company folders |
 | Add course material | `003_education/{institution}/{module}/` | Match existing module naming |
 | Store image/attachment | `_inbox/attachments/` | Only folder not gitignored in inbox |
@@ -63,15 +63,15 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 
 #### Linking
 
-- **Internal links**: Standard markdown `[Note Title](relative/path/to/Note.md)`
+- **Internal links**: Standard markdown `[Note Title](relative/path/to/note.md)`
 - **Images**: Standard markdown `![alt text](relative/path/to/image.png)`
 - Images stored in `_inbox/attachments/`
 
 #### Naming
 
-- **Notes**: Title case with spaces (e.g., `[Bayes' theorem].md`)
-- **Folders**: Descriptive, spaces allowed
-- **"_ general knowledge"**: Prefix underscore for miscellaneous concepts within a category
+- **Notes**: Lowercase with underscores (e.g., `bayes_theorem.md`)
+- **Folders**: Lowercase with underscores (e.g., `the_feeling_of_life_itself/`). Existing hyphens are preserved (e.g., `kings-college/`)
+- **`_general`**: Prefix underscore for miscellaneous concepts within a category
 
 #### Spelling
 
@@ -85,7 +85,8 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 - **DO NOT** revert to Obsidian-only embeds `![[image.png]]`
 - **DO NOT** store attachments outside `_inbox/attachments/`
 - **DO NOT** commit `_inbox/` content (except attachments) - gitignored
-- **DO NOT** use kebab-case or snake_case for note names
+- **DO NOT** use Title Case, spaces, or special characters (`& , . ( )`) in file or folder names
+- **DO NOT** convert existing hyphens to underscores — both are allowed
 
 ### UNIQUE STYLES
 
@@ -100,13 +101,13 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 # No build/test commands - knowledge base, not code project
 
 # Obsidian CLI — requires Obsidian to be open
-obsidian read file="Note Name"                          # Read a note by wikilink name
-obsidian create name="New Note" content="..." silent    # Create note (silent = don't open it)
-obsidian append file="Note Name" content="New content"  # Append to existing note
+obsidian read file="note_name"                          # Read a note by wikilink name
+obsidian create name="new_note" content="..." silent    # Create note (silent = don't open it)
+obsidian append file="note_name" content="New content"  # Append to existing note
 obsidian search query="term" limit=10                   # Full-text search across vault
 obsidian tags sort=count counts                          # List all tags with counts
-obsidian backlinks file="Note Name"                     # Show all notes linking to a note
-obsidian property:set name="status" value="done" file="Note Name"  # Set a property
+obsidian backlinks file="note_name"                     # Show all notes linking to a note
+obsidian property:set name="status" value="done" file="note_name"  # Set a property
 obsidian daily:append content="- New entry"             # Append to today's daily note
 ```
 
