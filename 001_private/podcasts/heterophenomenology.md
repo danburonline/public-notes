@@ -19,15 +19,15 @@ The goal is to create a comprehensive, third-person account of human consciousne
 
 > [!abstract]+ Difference from Standard [Phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md)
 > **Heterophenomenology** (Dennett) and **standard [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md)** (Husserl) differ fundamentally in approach and aim:
->
+> 
 > | Aspect      | Heterophenomenology (Dennett)            | Standard [Phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) (Husserl) |
 > | ----------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 > | Perspective | Third-person (external observer)         | First-person (subjective experience)                                                                                     |
 > | Assumptions | Neutral about reality of reports         | Assumes reality of lived experience                                                                                      |
 > | Method      | Collects/interprets self-reports as data | Describes structures of experience itself                                                                                |
 > | Aim         | Objective, testable account              | Descriptive account of essence                                                                                           |
->
+> 
 > - Heterophenomenology treats subjective reports as data to be explained scientifically, without committing to their truth.
 > - Standard [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) seeks to uncover the essential structures of consciousness from the inside, focusing on how things appear to the experiencing subject.
->
+> 
 > In short: heterophenomenology is an external, scientific method; standard [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) is an internal, descriptive method.

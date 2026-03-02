@@ -41,6 +41,6 @@ If the sample being tested falls into either of the critical areas, the alternat
 
 > [!example]
 > Consider an example where a researcher wants to test if a drug has an effect on patients’ health:
->
+> 
 > - If the researcher hypothesises that the drug will improve patients’ health, they will use a one-tailed test.
 > - If the researcher hypothesises that the drug will either improve or deteriorate patients’ health, they will use a two-tailed test.

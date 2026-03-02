@@ -37,15 +37,7 @@ These approaches embody the mutual enlightenment principle: phenomenological ins
 
 [Heterophenomenology](../podcasts/heterophenomenology.md), developed by Daniel Dennett, offers an alternative methodology. While naturalised phenomenology seeks integration between first-person and third-person perspectives, heterophenomenology brackets the truth of subjective reports entirely—treating them as data to be explained rather than evidence to be trusted. This methodological difference has significant implications for consciousness research and [philosophical zombie](../_general/philosophical_zombies.md) arguments.
 
-## Applied Context
-
-In [PSNST](../_general/psnst.md) (Progressive Synthetic Neural Substrate Transfer), naturalised phenomenology provides critical methodological foundations for consciousness monitoring during substrate transition. The approach combines:
-
-1. Third-person metrics (IIT's Φ, PCI) for objective verification
-2. First-person phenomenological methods for subjective continuity assessment
-3. The mutual enlightenment principle to cross-validate findings across perspectives
-
 > [!warning] Criticisms and Challenges
 > Critics argue that naturalising [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) risks reducing subjective experiences to mere neural processes. Others question the feasibility of integrating [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) with empirical science, given their differing methodologies and epistemological commitments. However, proponents see these challenges as areas for further exploration and refinement in the field.
->
+> 
 > Despite these challenges, naturalised [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) represents a promising avenue for dialogue and integration between [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) and cognitive science.
