@@ -14,6 +14,16 @@ A population includes all members of a defined group that we are studying or col
 - A population can be people, but it can also be animals, plants, temperatures, school grades, and so on, depending on the research question.
 - The term “population” can be large or small, and it does not always refer to a population in terms of human population.
 
+> [!example] Population vs Sample: Concrete Examples
+> 
+> **Population**: All 40,000 students enrolled at a university.
+> **Sample**: 500 students randomly selected and surveyed about study habits.
+> ---
+> 
+> **Population**: Every neuron in the mouse visual cortex (~2 million neurons).
+> **Sample**: 150 neurons recorded during a single imaging session.
+> 
+> The key insight: the sample should be **representative** of the population to make valid inferences.
 ---
 
 ## Sample
