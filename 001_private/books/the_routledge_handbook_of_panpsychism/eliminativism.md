@@ -2,7 +2,7 @@
 
 ![eliminativism](_attachments/eliminativism.png)
 
-Eliminativism, often referred to as eliminative materialism in the philosophy of mind, is the **view that certain common-sense mental states and concepts—such as beliefs, desires, intentions, and even consciousness—do not actually exist.** It challenges the validity of "folk psychology," which is the everyday framework people use to explain human behaviour through mental states like emotions and thoughts.
+Eliminativism, often referred to as eliminative materialism in the philosophy of mind, is the **view that certain common-sense mental states and concepts like beliefs, desires, intentions, and even consciousness do not actually exist.** It challenges the validity of "folk psychology," which is the everyday framework people use to explain human behaviour through mental states like emotions and thoughts.
 
 ## Key Ideas of Eliminativism
 
@@ -41,3 +41,17 @@ Eliminativism, often referred to as eliminative materialism in the philosophy of
 
 3. **Empirical Concerns**
    - Critics question whether neuroscience will ever fully eliminate the need for psychological concepts in explaining behaviour.
+
+## Consciousness Science Context
+
+The eliminativist position sits at the heart of contemporary debates in consciousness science. Several major frameworks directly challenge or engage with eliminativist claims:
+
+ **Neural Correlates of Consciousness (NCC)**: The empirical programme to identify minimal neural mechanisms sufficient for conscious experience represents a direct challenge to eliminativism. If specific neural patterns can be reliably linked to conscious states, this provides evidence against the claim that consciousness as a category is fundamentally misguided.
+
+ **Integrated Information Theory (IIT)**: Proposes that consciousness corresponds to integrated information (phi), measured in bits. This framework takes consciousness seriously as a real phenomenon, arguing it is a fundamental property of certain physical systems. Eliminativists must therefore explain away not just folk psychological terms but also mathematically rigorous theories of consciousness.
+
+ **Global Workspace Theory (GWT)**: Models consciousness as information broadcast across brain-wide networks. The theory makes testable predictions about when conscious access occurs, providing empirical grounding that eliminativists must address.
+
+ **Higher-Order Theories**: Frameworks like Higher-Order Thought (HOT) theory posit that consciousness requires meta-cognitive representations of one's own mental states. These directly engage with eliminativist denials of propositional attitudes and self-awareness.
+
+The "hard problem" of consciousness (Chalmers) remains the central challenge: explaining why and how physical processes give rise to subjective experience. Eliminativists effectively argue the hard problem is illusory, a position that requires dismissing not just folk psychology but the entire phenomenological tradition from Brentano to contemporary neurophenomenology.
