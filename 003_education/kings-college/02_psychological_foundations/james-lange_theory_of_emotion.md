@@ -2,12 +2,17 @@
 
 ![james-lange-theory-of-emotion](_attachments/james-lange-theory-of-emotion.png)
 
-The James-Lange Theory of Emotion is a significant theory within the field of psychology that suggests **our emotional experience is a reaction to our bodily responses to an event.**
+The James-Lange Theory of Emotion, proposed independently by **William James (1884)** and **Carl Lange (1885)**, suggests that **our emotional experience is a reaction to our bodily responses to an event**—reversing the common-sense view that we react because we feel.
 
 ## Theory Explanation
 
-1. **Event**: A significant event occurs.
-2. **Physiological Response**: This event causes a physiological response, such as elevated heart rate, sweating, or increased adrenaline.
-3. **Interpretation**: We then interpret this physiological response as an emotion. For instance, an increased heart rate might be interpreted as fear.
+1. **Stimulus**: An external event occurs.
+2. **Physiological Response**: The body reacts—elevated heart rate, sweating, adrenaline release.
+3. **Experience of Response**: We become aware of these bodily changes.
+4. **Emotion**: We interpret the physiological arousal as an emotional state (e.g., fear, anger).
 
-In summary, this theory posits that we do not tremble because we are scared but because we tremble.
+In short: we do not tremble *because* we are afraid; we feel afraid *because* we tremble.
+
+## Criticisms
+
+The **Cannon-Bard theory (1927)** challenged James-Lange, arguing that physiological arousal and emotional experience occur simultaneously rather than sequentially, and that similar bodily responses can accompany different emotions.
