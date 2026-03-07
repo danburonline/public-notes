@@ -13,11 +13,11 @@ Eustress refers to **positive [stress](stress.md)**—the beneficial form of phy
 
 ## Neurobiological mechanisms
 
-Eustress activates the hypothalamic-pituitary-adrenal (HPA) axis similarly to distress, releasing cortisol and adrenaline. However, the key differences lie in:
+Eustress activates the hypothalamic-pituitary-adrenal (HPA) axis similarly to [distress](distress.md), releasing cortisol and adrenaline. However, the key differences lie in:
 
 1. **Dopaminergic engagement**: Eustress triggers reward-anticipation pathways, releasing dopamine in the nucleus accumbens and prefrontal cortex
-2. **Moderate cortisol release**: Sufficient to enhance alertness and memory consolidation without the prolonged elevation seen in chronic distress
-3. **Neuroplasticity promotion**: Acute, manageable stress can enhance synaptic plasticity and hippocampal neurogenesis
+2. **Moderate cortisol release**: Sufficient to enhance alertness and memory consolidation without the prolonged elevation seen in chronic [distress](distress.md)
+3. **Neuroplasticity promotion**: Acute, manageable [stress](stress.md) can enhance synaptic plasticity and hippocampal [neurogenesis](../04_biological_foundations_of_mental_health/neurogenesis.md)
 
 ## Yerkes-Dodson relationship
 
@@ -33,4 +33,4 @@ Eustress operates within the optimal zone of the Yerkes-Dodson curve, where arou
 
 ## Clinical relevance
 
-The [Diathesis-stress model](diathesis-stress_model.md) traditionally emphasises vulnerability to distress, but eustress research suggests that the same diathesis may also determine an individual's capacity to benefit from positive challenges—a concept sometimes called "vantage sensitivity" or differential susceptibility.
+The [Diathesis-stress model](diathesis-stress_model.md) traditionally emphasises vulnerability to [distress](distress.md), but eustress research suggests that the same diathesis may also determine an individual's capacity to benefit from positive challenges—a concept sometimes called "vantage sensitivity" or differential susceptibility.

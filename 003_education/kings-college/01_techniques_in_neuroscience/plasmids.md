@@ -61,7 +61,7 @@ Plasmids can encode:
 ## Considerations for Neuroscience Use
 
 > [!tip] Promoter Selection
-> Cell-type specificity depends heavily on promoter choice. Synapsin (Syn) targets neurons broadly, while Dlx enhancers restrict expression to GABAergic interneurons.
+> Cell-type specificity depends heavily on promoter choice. Synapsin (Syn) targets neurons broadly, while Dlx enhancers restrict expression to GABAergic [interneurons](../07_neurodevelopmental_disorders/interneurons.md).
 
 - **Expression level**: Strong promoters (CMV, CAG) may cause toxicity; weaker promoters often preferable for long-term studies
 - **Temporal control**: Inducible systems (Tet-On/Off, Cre-loxP) allow temporal regulation

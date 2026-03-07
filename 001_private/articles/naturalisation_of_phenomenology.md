@@ -26,7 +26,7 @@ Naturalised [phenomenology](../../003_education/kings-college/03_mental_health_i
 
 ## Quantitative Operationalisation
 
-Several frameworks attempt to operationalise naturalised phenomenology through quantitative measures:
+Several frameworks attempt to operationalise naturalised [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) through quantitative measures:
 
 - **[Integrated information theory](../videos/integrated_information_theory.md)** (IIT) proposes Φ (phi) as a mathematical measure of consciousness—quantifying the irreducible integrated information in a system. This provides a substrate-independent metric that bridges phenomenological structure (the quality of experience) with information-theoretic formalism.
 - **[Quantitative consciousness index](../papers/quantitative_consciousness_index.md)** and the Perturbational Complexity Index (PCI) offer empirical measures derived from neural responses to perturbation, enabling real-time consciousness monitoring without requiring verbal report.
@@ -35,7 +35,7 @@ These approaches embody the mutual enlightenment principle: phenomenological ins
 
 ## Contrasting Approaches
 
-[Heterophenomenology](../podcasts/heterophenomenology.md), developed by Daniel Dennett, offers an alternative methodology. While naturalised phenomenology seeks integration between first-person and third-person perspectives, heterophenomenology brackets the truth of subjective reports entirely—treating them as data to be explained rather than evidence to be trusted. This methodological difference has significant implications for consciousness research and [philosophical zombie](../_general/philosophical_zombies.md) arguments.
+[Heterophenomenology](../podcasts/heterophenomenology.md), developed by Daniel Dennett, offers an alternative methodology. While naturalised [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) seeks integration between first-person and third-person perspectives, [heterophenomenology](../podcasts/heterophenomenology.md) brackets the truth of subjective reports entirely—treating them as data to be explained rather than evidence to be trusted. This methodological difference has significant implications for consciousness research and [philosophical zombie](../_general/philosophical_zombies.md) arguments.
 
 > [!warning] Criticisms and Challenges
 > Critics argue that naturalising [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) risks reducing subjective experiences to mere neural processes. Others question the feasibility of integrating [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) with empirical science, given their differing methodologies and epistemological commitments. However, proponents see these challenges as areas for further exploration and refinement in the field.

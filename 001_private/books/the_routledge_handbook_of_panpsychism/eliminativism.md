@@ -52,6 +52,6 @@ The eliminativist position sits at the heart of contemporary debates in consciou
 
  **Global Workspace Theory (GWT)**: Models consciousness as information broadcast across brain-wide networks. The theory makes testable predictions about when conscious access occurs, providing empirical grounding that eliminativists must address.
 
- **Higher-Order Theories**: Frameworks like Higher-Order Thought (HOT) theory posit that consciousness requires meta-cognitive representations of one's own mental states. These directly engage with eliminativist denials of propositional attitudes and self-awareness.
+ **Higher-Order Theories**: Frameworks like Higher-Order Thought (HOT) theory posit that consciousness requires meta-cognitive representations of one's own mental states. These directly engage with eliminativist denials of propositional [attitudes](../../../003_education/kings-college/02_psychological_foundations/attitudes.md) and self-awareness.
 
 The "hard problem" of consciousness (Chalmers) remains the central challenge: explaining why and how physical processes give rise to subjective experience. Eliminativists effectively argue the hard problem is illusory, a position that requires dismissing not just folk psychology but the entire phenomenological tradition from Brentano to contemporary neurophenomenology.

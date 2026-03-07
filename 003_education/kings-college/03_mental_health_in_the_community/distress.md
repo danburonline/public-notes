@@ -4,7 +4,7 @@
 
 ## Physiological Responses
 
-Distress activates the **hypothalamic-pituitary-adrenal (HPA) axis**, leading to sustained cortisol release. Unlike acute stress, chronic distress keeps cortisol elevated, which can impair:
+Distress activates the **hypothalamic-pituitary-adrenal (HPA) axis**, leading to sustained cortisol release. Unlike acute [stress](stress.md), chronic distress keeps cortisol elevated, which can impair:
 
 - Immune function
 - Memory consolidation (hippocampal damage)
@@ -19,4 +19,4 @@ Distress activates the **hypothalamic-pituitary-adrenal (HPA) axis**, leading to
 
 ## Contrast with Eustress
 
-Unlike [Eustress](eustress.md) (positive stress that motivates and improves performance), distress is characterised by feeling overwhelmed rather than challenged. The [Diathesis-stress model](diathesis-stress_model.md) explains how individual vulnerabilities interact with stressors to produce negative outcomes. [Cognitive-behavioural therapy](cognitive-behavioural_therapy.md) is an effective intervention for managing distress responses.
+Unlike [Eustress](eustress.md) (positive [stress](stress.md) that motivates and improves performance), distress is characterised by feeling overwhelmed rather than challenged. The [Diathesis-stress model](diathesis-stress_model.md) explains how individual vulnerabilities interact with stressors to produce negative outcomes. [Cognitive-behavioural therapy](cognitive-behavioural_therapy.md) is an effective intervention for managing distress responses.
