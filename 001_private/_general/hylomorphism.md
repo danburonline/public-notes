@@ -34,6 +34,6 @@ A tension arises with [Emergent properties](../videos/emergent_properties.md): i
 > [!summary] Hylomorphic schema
 >
 > - Substance = matter (potency) + form (act).
-> - Form explains identity, structure, powers, and teleology (final causes).
+> - Form explains identity, structure, powers, and [teleology](teleology.md) (final causes).
 > - Change = actualising a potency; what persists depends on whether the change is accidental or substantial.
 > - In living beings, the soul is the form of the body.
