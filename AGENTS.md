@@ -121,6 +121,8 @@ Available opencode skills for this workspace:
 | `obsidian-markdown` | Wikilinks, embeds, callouts, frontmatter, tags — enforces vault conventions                  |
 | `obsidian-cli`      | Read, create, append, search, and manage notes live via Obsidian CLI (Obsidian must be open) |
 | `obsidian-bases`    | Create and edit `.base` database views with filters, formulas, table/cards/list layouts      |
+| `json-canvas`       | Create and edit `.canvas` files with nodes, edges, groups — mind maps, flowcharts, visual canvases |
+| `defuddle`          | Extract clean markdown from web pages — removes clutter, saves tokens over WebFetch          |
 | `git-master`        | Commits, history search, blame                                                               |
 
 ### AGENT WORKFLOW
@@ -135,7 +137,7 @@ When working with notes:
 
 ### NOTES
 
-- `.agents/` contains agent skills (`obsidian-markdown`, `obsidian-cli`, `obsidian-bases`)
+ `.agents/` contains agent skills (`obsidian-markdown`, `obsidian-cli`, `obsidian-bases`, `json-canvas`, `defuddle`)
 - `.obsidian/` contains Obsidian app config (gitignored)
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
