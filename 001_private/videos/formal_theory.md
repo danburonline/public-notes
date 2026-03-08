@@ -4,6 +4,7 @@
 
 A formal theory is **a symbolic system consisting of a set of axioms and rules for deriving theorems from those axioms using formal logic**. The axioms are the starting assumptions, and the theorems are additional statements that can be proven using the inference rules of the system.
 
+
 ## Some Key Examples of Formal Theories Include
 
 ### In Mathematics
@@ -18,3 +19,6 @@ A formal theory is **a symbolic system consisting of a set of axioms and rules f
 - Programming language semantics, where languages are given formal syntax and semantics
 - Computability theory, which studies what problems are computable by different models of computation
 - Complexity theory, which studies the resources (time, space, etc.) needed to solve computational problems
+
+> [!important] Gödel's Incompleteness Theorems
+> Any consistent formal theory capable of expressing basic arithmetic is incomplete—there exist true statements that cannot be proven within the system. This fundamental result, proven by Kurt Gödel in 1931, reveals inherent limits to what formal systems can achieve.
