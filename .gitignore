@@ -2,6 +2,7 @@
 .trash
 .DS_Store
 _inbox/
+000_inbox/
 piecesdb.json
 
 
