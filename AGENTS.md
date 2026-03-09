@@ -123,6 +123,7 @@ Available opencode skills for this workspace:
 | `obsidian-bases`    | Create and edit `.base` database views with filters, formulas, table/cards/list layouts      |
 | `json-canvas`       | Create and edit `.canvas` files with nodes, edges, groups — mind maps, flowcharts, visual canvases |
 | `defuddle`          | Extract clean markdown from web pages — removes clutter, saves tokens over WebFetch          |
+| `perplexity`        | AI-powered research via Perplexity API — literature discovery, paper summaries, fact-checking with citations |
 | `git-master`        | Commits, history search, blame                                                               |
 
 ### AGENT WORKFLOW
@@ -137,7 +138,7 @@ When working with notes:
 
 ### NOTES
 
- `.agents/` contains agent skills (`obsidian-markdown`, `obsidian-cli`, `obsidian-bases`, `json-canvas`, `defuddle`)
+ `.agents/` contains agent skills (`obsidian-markdown`, `obsidian-cli`, `obsidian-bases`, `json-canvas`, `defuddle`, `perplexity`)
 - `.obsidian/` contains Obsidian app config (gitignored)
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
