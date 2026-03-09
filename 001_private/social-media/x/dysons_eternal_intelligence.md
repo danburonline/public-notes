@@ -6,6 +6,9 @@
 
 **Mechanism**: The strategy relies on the principle that energy efficiency can be significantly improved, allowing thought and computational activities to continue at a slower rate. This would enable intelligent entities to operate indefinitely, even in a universe approaching absolute zero temperature.
 
+> [!tip] Physical Basis
+> The concept exploits [Landauer's principle](landauer_limit.md) — as temperature $T \to 0$, the minimum energy per bit operation ($k T \ln 2$) approaches zero, enabling indefinite computation with vanishing energy resources. Reversible computation could further reduce energy requirements.
+
 **Significance**: Dyson’s Eternal Intelligence concept offers a speculative yet profound vision of how consciousness and intelligence might adapt to the universe’s ultimate physical limits. It raises intriguing questions about the future of intelligence, the nature of consciousness, and the universe’s fate.
 
 **Conclusion**: While purely theoretical, Dyson’s vision of eternal intelligence underscores the potential for life and intelligence to adapt to even the most challenging conditions and find ways to survive in an ever-changing universe.
