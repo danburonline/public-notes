@@ -17,6 +17,8 @@ Notes/
 ├── _inbox/           # Staging: prompts, sketches (fully gitignored)
 ├── 001_private/      # Personal learning: books, videos, papers, articles, social, etc. media
 ├── 002_profession/   # Work: blue brain project, eightsix science, finalspark, idun, etc.
+│   └── eightsix-science/
+│       └── shared/   # Git submodule: team-shared knowledge (ISOLATED — do not cross-link)
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
 ├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js)
 └── 005_public/       # Empty for now
@@ -30,6 +32,7 @@ Notes/
 | ----------------------------- | ------------------------------------------ | ----------------------------------------------------- |
 | Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/the_feeling_of_life_itself/` |
 | Add work-related note         | `002_profession/{company}/`                | Match existing company folders                        |
+| Team-shared knowledge         | `002_profession/eightsix-science/shared/`  | Git submodule — ISOLATED, no cross-links to private   |
 | Add course material           | `003_education/{institution}/{module}/`    | Match existing module naming                          |
 | Store image/attachment        | `{note_dir}/_attachments/`                 | Keep each attachment near the note that references it |
 | AI prompt logs                | `_inbox/prompts/`                          | Auto-generated filenames with timestamps              |
@@ -88,6 +91,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 - **DO NOT** commit `_inbox/` content - gitignored staging area
 - **DO NOT** use Title Case, spaces, or special characters (`& , . ( )`) in file or folder names
 - **DO NOT** convert existing hyphens to underscores — both are allowed
+- **DO NOT** cross-link between `shared/` submodule and private vault folders — the shared folder is team-synced and must remain self-contained
 
 ### UNIQUE STYLES
 
@@ -100,6 +104,9 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 ```bash
 # Tooling: opencode + Oh My OpenCode (omo) in Obsidian's integrated terminal
 # No build/test commands - knowledge base, not code project
+
+# Git submodule — sync team-shared notes
+git submodule update --remote 002_profession/eightsix-science/shared
 
 # Obsidian CLI — requires Obsidian to be open
 obsidian read file="note_name"                          # Read a note by wikilink name
@@ -130,6 +137,7 @@ Available opencode skills for this workspace:
 
 When working with notes:
 
+- **README discovery**: When traversing into any folder, check for `README.md` and read it — subfolders (especially submodules) often contain their own context, conventions, and instructions
 - **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image via the note's nearest `_attachments/` folder (or other relative image path) and visually examine it using `look_at` to better understand the note's content before refining or expanding
 - **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools — CLI reflects Obsidian's current state (plugins, linter, resolved links)
 - **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
@@ -138,8 +146,10 @@ When working with notes:
 
 ### NOTES
 
- `.agents/` contains agent skills (`obsidian-markdown`, `obsidian-cli`, `obsidian-bases`, `json-canvas`, `defuddle`, `perplexity`)
+- `.agents/` contains agent skills (`obsidian-markdown`, `obsidian-cli`, `obsidian-bases`, `json-canvas`, `defuddle`, `perplexity`)
 - `.obsidian/` contains Obsidian app config (gitignored)
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
 - **Obsidian CLI requires Obsidian to be running** — CLI commands will fail if the app is closed
+- **`002_profession/eightsix-science/shared/`** is a git submodule synced with a remote team repo.
+  - **CRITICAL**: This folder is ISOLATED. Never link to/from private vault notes. Content here syncs externally.
