@@ -17,6 +17,7 @@ Notes/
 ├── _inbox/           # Staging: prompts, sketches (fully gitignored)
 ├── 001_private/      # Personal learning: books, videos, papers, articles, social, etc. media
 ├── 002_profession/   # Work: blue brain project, eightsix science, finalspark, idun, etc.
+│   └── eightsix-science/
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
 ├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js)
 └── 005_public/       # Empty for now
@@ -88,6 +89,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 - **DO NOT** commit `_inbox/` content - gitignored staging area
 - **DO NOT** use Title Case, spaces, or special characters (`& , . ( )`) in file or folder names
 - **DO NOT** convert existing hyphens to underscores — both are allowed
+- **DO NOT** link public notes to private repositories or restricted records. Keep separately controlled knowledge self-contained.
 
 ### UNIQUE STYLES
 
@@ -100,6 +102,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 ```bash
 # Tooling: opencode + Oh My OpenCode (omo) in Obsidian's integrated terminal
 # No build/test commands - knowledge base, not code project
+
 
 # Obsidian CLI — requires Obsidian to be open
 obsidian read file="note_name"                          # Read a note by wikilink name
@@ -130,6 +133,7 @@ Available opencode skills for this workspace:
 
 When working with notes:
 
+- **README discovery**: When traversing into any folder, check for `README.md` and read it — subfolders and separately governed local checkouts often contain their own context, conventions, and instructions
 - **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image via the note's nearest `_attachments/` folder (or other relative image path) and visually examine it using `look_at` to better understand the note's content before refining or expanding
 - **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools — CLI reflects Obsidian's current state (plugins, linter, resolved links)
 - **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
@@ -138,7 +142,7 @@ When working with notes:
 
 ### NOTES
 
- `.agents/` contains agent skills (`obsidian-markdown`, `obsidian-cli`, `obsidian-bases`, `json-canvas`, `defuddle`, `perplexity`)
+- `.agents/` contains agent skills (`obsidian-markdown`, `obsidian-cli`, `obsidian-bases`, `json-canvas`, `defuddle`, `perplexity`)
 - `.obsidian/` contains Obsidian app config (gitignored)
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
