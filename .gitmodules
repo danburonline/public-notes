@@ -1,0 +1,3 @@
+[submodule "002_profession/eightsix-science/shared"]
+	path = 002_profession/eightsix-science/shared
+	url = https://github.com/eightsixscience/notes.git
