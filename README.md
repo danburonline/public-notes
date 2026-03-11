@@ -12,6 +12,10 @@ Personal Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkaste
 | `004_subsidiary/` | Side projects: Carboncopies, courses, etc.           |
 | `005_public/`     | Personal brand: branding, marketing, etc.            |
 
+### Publishing
+
+This vault is published at [publish.obsidian.md/danburonline](https://publish.obsidian.md/danburonline).
+
 ### Skill Categories
 
 Three-tier tagging system reflecting knowledge depth and focus:
