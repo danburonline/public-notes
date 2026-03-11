@@ -14,7 +14,7 @@ Personal Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkaste
 
 ### Publishing
 
-This vault is published at [publish.obsidian.md/danburonline](https://publish.obsidian.md/danburonline).
+This vault is published at [publish.obsidian.md/danburonline](https://publish.obsidian.md/danburonline)
 
 ### Skill Categories
 
