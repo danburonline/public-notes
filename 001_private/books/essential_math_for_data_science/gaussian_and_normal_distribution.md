@@ -38,7 +38,7 @@ Gaussian Distribution, also known as **Normal Distribution**, is a type of **con
 
 > [!example]
 > Let’s assume that the weight of a particular breed of dog is normally distributed with a mean weight of 30 kg and a standard deviation of 2 kg.
->
+> 
 > - If you randomly pick a dog of this breed, there’s a 68% chance its weight will be between 28 and 32 kg (mean ± 1 standard deviation).
 > - There’s a 95% chance its weight will be between 26 and 34 kg (mean ± 2 standard deviations).
 > - There’s a 99.7% chance its weight will be between 24 and 36 kg (mean ± 3 standard deviations).
