@@ -16,7 +16,7 @@ A causa sui project is a **psychological and philosophical concept describing an
 - Helps individuals imagine their influence or values persisting after death.
 
 > [!example] Examples
->
+> 
 > - Artistic creation or scientific discovery with lasting impact.
 > - Building enduring institutions, families, or communities.
 > - Religious or spiritual beliefs promising eternal significance.

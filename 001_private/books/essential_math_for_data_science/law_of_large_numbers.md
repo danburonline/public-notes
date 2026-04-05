@@ -10,10 +10,10 @@ The LLN has two versions:
 
 > [!example] Coin flips and the Law of Large Numbers
 > Imagine flipping a fair coin with $P(\text{Heads})=0.5$.
->
+> 
 > - After $n=10$ flips, e.g. 6 Heads / 4 Tails → proportion $=0.6$ (deviates from 0.5).
 > - After $n=1000$ flips, e.g. 510 Heads / 490 Tails → proportion $=0.51$ (closer to 0.5).  
->   As $n$ grows, the empirical mean converges to the theoretical mean $0.5$:
+> As $n$ grows, the empirical mean converges to the theoretical mean $0.5$:
 >   $$
 >   \hat p_n=\frac{1}{n}\sum_{i=1}^n \mathbf{1}\{\text{Heads}_i\} \to 0.5
 >   $$
