@@ -6,10 +6,15 @@ Coarse graining is a methodological approach in science, particularly neuroscien
 
 ## Key Concepts
 
-- **Purpose and Rationale**: Simplifies preparations to highlight core phenomena, akin to studying genetics in yeast or physiology in isolated organs. In brain research, it enables robust analysis amid low signal-to-noise ratios and astronomical degrees of freedom.
+- **Purpose and Rationale**: Simplifies preparations to highlight core phenomena, akin to studying genetics in yeast or physiology in isolated organs. In brain research, it enables robust analysis amid low signal-to-noise ratios and astronomical [degrees of freedom](degrees_of_freedom_of_the_brain.md).
 - **Methods**: Includes pharmacological manipulations (e.g., inducing oscillatory states), anaesthetic states for stable dynamics, or focusing on basic rhythms like EEG alpha waves.
 - **Benefits**: Reduces errors in analysis algorithms; facilitates extrapolation from simplified systems to complex ones; complements high-tech tools like multi-channel recordings without attempting exhaustive bottom-up simulations (e.g., Blue Brain project's limitations).
 - **Applications**: From spatiotemporal patterns to clinical oscillations and behaviour, coarse graining reveals insights like self-organisation in neural activity.
+
+## Related
+
+- [Degrees of Freedom of the Brain](degrees_of_freedom_of_the_brain.md)
+- [Time Scales of the Brain](time_scales_of_the_brain.md)
 
 ## Examples from Cerebral Cortex Dynamics
 

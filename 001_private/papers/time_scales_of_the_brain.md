@@ -8,7 +8,7 @@ These scales reflect the brain's hierarchical organisation, where different regi
 
 - **Multiscale Temporal Organisation**: The brain operates as a non-equilibrium system with fluctuations across time scales. Intrinsic neural timescales vary by region; for example, sensory areas process quickly (short timescales), while higher-order areas like the prefrontal cortex integrate over longer periods.
 - **Hierarchy of Processing**: Brain activity builds from fast, local events to slower, global integrations. This allows the brain to handle immediate inputs (e.g., sensory spikes) while forming coherent experiences over time.
-- **Comparison to Other Systems**: As noted in research on cerebral cortex dynamics, the brain is vastly more complex than the heart in degrees of freedom, including temporal aspects. The heart's dynamics (e.g., atrial fibrillation) operate on limited scales (seconds to minutes), while the brain spans astronomical ranges, from rapid oscillations to lifelong learning.
+- **Comparison to Other Systems**: As noted in research on cerebral cortex dynamics, the brain is vastly more complex than the heart in [degrees of freedom](degrees_of_freedom_of_the_brain.md), including temporal aspects. The heart's dynamics (e.g., atrial fibrillation) operate on limited scales (seconds to minutes), while the brain spans astronomical ranges, from rapid oscillations to lifelong learning.
 
 ---
 
@@ -40,3 +40,8 @@ These scales reflect the brain's hierarchical organisation, where different regi
 - **Learning and Plasticity**: Minutes to hours – Synaptic strengthening (e.g., long-term potentiation).
 - **Memory Consolidation**: Hours to days – Transfer from short-term to long-term storage, often during sleep.
 - **Developmental Changes**: Months to years – E.g., acceleration of posterior basic rhythm in autistic children, indicating altered dynamic timescales.
+
+## Related
+
+- [Degrees of Freedom of the Brain](degrees_of_freedom_of_the_brain.md)
+- [Coarse-Graining](coarse_graining.md)
