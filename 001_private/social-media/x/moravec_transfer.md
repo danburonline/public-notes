@@ -8,9 +8,9 @@ A neuron-sized robot swims up to a neuron and scans it into memory. A compute
 
 This entire procedure has had no effect on the flow of information of the brain except that one neuron's worth of processing is now being done inside a computer instead of a neuron. Repeat, neuron by neuron, until the entire brain is composed of robot neurons whose guts are inside the computer.
 
-## Comparison with Ectopic Cognitive Preservation
+## Comparison with Extracorporeal Cognitive Preservation
 
-The Moravec transfer is fundamentally a **digitisation** procedure: computation moves _out of_ biological tissue into an external simulation computer, with nanobots serving as I/O relays. This contrasts with [Ectopic Cognitive Preservation](../../_general/psnst.md) (ECP), which performs a **substrate migration** — biological tissue is replaced by engineered biological (or de novo synthetic) tissue that retains intrinsic computational properties.
+The Moravec transfer is fundamentally a **digitisation** procedure: computation moves _out of_ biological tissue into an external simulation computer, with nanobots serving as I/O relays. This contrasts with [Extracorporeal Cognitive Preservation](../../_general/psnst.md) (ECP), which performs a **substrate migration** — biological tissue is replaced by engineered biological (or de novo synthetic) tissue that retains intrinsic computational properties.
 
 |                                                                                                               | Moravec Transfer                       | [ECP](../../_general/psnst.md)                           |
 | ------------------------------------------------------------------------------------------------------------- | -------------------------------------- | -------------------------------------------------------- |

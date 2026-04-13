@@ -49,7 +49,7 @@ Hemispherotomy provides striking empirical evidence for [substrate independence]
 - **Maintained sense of self** — Personal identity and autobiographical continuity persist through radical neural reorganisation
 
 > [!tip] Relevance to Extracorporeal Cognitive Preservation
-> For [Extracorporeal Cognitive Preservation](../../_%20general/Extracorporeal%20Cognitive%20Preservation.md), hemispherotomy demonstrates that:
+> For [Extracorporeal Cognitive Preservation](../../_general/psnst.md), hemispherotomy demonstrates that:
 >
 > 1. Consciousness can survive major substrate changes when functional organisation is preserved
 > 2. Gradual transition (vs. instantaneous) allows neural plasticity to maintain integration
