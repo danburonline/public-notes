@@ -24,7 +24,7 @@ The possibility of isolated consciousness raises profound ethical questions:
 
 ## Connection to Extracorporeal Cognitive Preservation
 
-The island of awareness concept directly informs [Extracorporeal Cognitive Preservation](../../_%20general/Extracorporeal%20Cognitive%20Preservation.md) thinking:
+The island of awareness concept directly informs [Extracorporeal Cognitive Preservation](../../_general/psnst.md) thinking:
 
 If consciousness can persist in isolated neural substrates, gradual substrate replacement becomes more plausible
 The minimum viable substrate for consciousness may be far smaller than a full brain

@@ -1,4 +1,4 @@
-#core/artificialintelligence
+#core/artificialintelligence #core/syntheticphenomenology
 
 ![iit](_attachments/iit.png)
 

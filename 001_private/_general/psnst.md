@@ -7,10 +7,10 @@ The **Progressive Synthetic Neural Substrate Transfer** (PSNST) is a hypothetica
 In contrast to other work, such as that from the [Hébert Lab](https://hebertlab.einsteinmedneuroscience.org/), the idea behind PSNST is that the new neural substrate is designed for high-throughput brain-computer interfacing (e.g., by genetically modifying the synthetic neural substrate to enable optogenetic interfacing, [bioprinting](../../003_education/kings-college/05_neuroscience_in_society/bioprinting.md) it around electrodes/nanoparticles (neural dust), etc.). The goal is not to keep the person inside the original skull—creating an [ex cranio](../books/sizing_up_consciousness/ex_cranio_brains.md) or [island of awareness](../books/sizing_up_consciousness/island_of_awareness.md) scenario—but rather to enable the explanted brain to be collocated across physical distances for redundancy (akin to globally distributed software on cloud computing) and to facilitate sensory input from simulated environments or robots, rather than a biological physical body. The main vision is to not only defeat death, but make it really hard to die.
 
 > [!info]
-> **ECP (Ectopic Cognitive Preservation)** is an umbrella concept that encompasses PSNST and related approaches. While PSNST specifically describes the _gradual synthetic neural substrate transfer_, ECP is broader—it includes the full stack of cognitive preservation: substrate engineering, consciousness monitoring, simulated reality engagement, and the underlying invariance mathematics. See [Invariant brain emulation](../../002_profession/eightsix-science/invariant_brain_emulation.md) for the mathematical framework.
->
+> **ECP (Extracorporeal Cognitive Preservation)** is an umbrella concept that encompasses PSNST and related approaches. While PSNST specifically describes the _gradual synthetic neural substrate transfer_, ECP is broader—it includes the full stack of cognitive preservation: substrate engineering, consciousness monitoring, simulated reality engagement, and the underlying invariance mathematics. See [Invariant brain emulation](../../002_profession/eightsix-science/invariant_brain_emulation.md) for the mathematical framework.
+> 
 > PSNST remains the canonical name for the procedure itself.
->
+> 
 > ![ecp](_attachments/ecp.png)
 
 ## Procedure
@@ -43,7 +43,7 @@ A critical challenge is verifying that [phenomenal consciousness](../videos/acce
 - [IIT's Φ](../videos/integrated_information_theory.md) as a substrate-independent consciousness metric
 - [Naturalised phenomenology](../articles/naturalisation_of_phenomenology.md) methods for first-person verification
 
-## Enabling Substrate
+## Extracorporeal Cognitive Preservation
 
 ECP presupposes a synthetic substrate capable of supporting neuroplastic information migration — the receiving tissue must "speak the same language" as biological cortex. This is the domain of [biomimetic neuromorphics](../../002_profession/eightsix-science/biomimetic_neuromorphics.md): engineering substrates that replicate the computational architecture, temporal dynamics, and material properties of biological neural tissue at the level required for seamless integration during progressive transfer. The [invariance criterion](../../002_profession/eightsix-science/invariant_brain_emulation.md) ($O(f(b)) \equiv O(b)$) provides the mathematical contract this substrate must satisfy.
 
