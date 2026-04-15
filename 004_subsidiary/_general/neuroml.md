@@ -1,6 +1,6 @@
 #core/artificialintelligence #core/appliedneuroscience
 
-NeuroML (Neuroscience Markup Language) is an **XML-based format for representing computational models of neural systems,** including their morphology, electrophysiology, and network connectivity. It allows for the exchange and reuse of models across different simulation environments and analysis tools.
+NeuroML (Neuroscience Markup Language) is an **XML-based format for representing computational models of neural systems,** including their morphology, electrophysiology, and network connectivity. It enables exchange and reuse of [in silico](../../003_education/kings-college/01_techniques_in_neuroscience/in_silico.md) models across simulation environments — from single-compartment [Hodgkin-Huxley](../../003_education/epfl/02_computational_neuroscience/hodgkin-huxley_model.md) cells to multi-layer networks of [leaky integrate-and-fire neurons](../../003_education/epfl/02_computational_neuroscience/leaky_integrate-and-fire_neurons.md).
 
 ```xml
 <?xml version="1.0"?>
@@ -37,3 +37,7 @@ NeuroML (Neuroscience Markup Language) is an **XML-based format for representing
 
 </neuroml>
 ```
+
+## Applications in Brain Emulation
+
+NeuroML is foundational to substrate-equivalence testing in [invariant brain emulation](../../002_profession/eightsix-science/invariant_brain_emulation.md): a model validated in NeuroML can in principle run on any compliant substrate, whether biological or synthetic. This underpins the engineering goals of [biomimetic neuromorphics](../../002_profession/eightsix-science/biomimetic_neuromorphics.md) and, at the flagship level, [ECP/PSNST](../../001_private/_general/psnst.md) — where a NeuroML representation of a patient's neural architecture would serve as the continuity-verification record across substrate migration.
