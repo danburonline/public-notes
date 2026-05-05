@@ -4,6 +4,8 @@
 
 Emergent properties are **characteristics that arise at macroscopic levels that can’t be predicted solely from the properties of microscopic components.** They ‘emerge‘ when parts interact in wider wholes. They are central to theories of complex systems and appear in fields like biology, chemistry, physics, and AI. Examples include life from non-living molecules and temperature from particle motion. They embody the concept ’the whole is more than the sum of its parts.
 
+See [Strong emergence](strong_emergence.md) for the philosophical distinction between weak and strong forms and its consequences for [consciousness engineering](../_general/consciousness_engineering.md).
+
 > [!info] Further Exploration: Emergent Properties
 >
 > - **Key Features:**
