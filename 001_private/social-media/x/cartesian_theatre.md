@@ -4,6 +4,9 @@
 
 - The term “Cartesian Theatre” was introduced by [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) in his book “Consciousness Explained” (1991). It critiques a dualistic view of the mind that Dennett attributes to René Descartes, though Descartes himself did not use the term. **The metaphor suggests a place in the mind where “everything comes together”** for the benefit of a central observer or “homunculus.”
 
+> [!info] Metaphor vs. Position
+> The *Cartesian Theatre* is the **metaphor**. The underlying **philosophical position** Dennett is diagnosing — materialism that still expects an inner finish line — is [Cartesian Materialism](../../videos/cartesian_materialism.md). The two notes are companions.
+
 ## Concept
 
 - The Cartesian Theatre posits a theoretical stage in the mind where sensory inputs are presented to a conscious self or soul.
