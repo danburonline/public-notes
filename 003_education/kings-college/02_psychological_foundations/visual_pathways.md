@@ -4,7 +4,7 @@
 
 The visual pathway is the complex **network of neurons responsible for transmitting visual signals from the retina to various parts of the brain** for interpretation and response. Starting at the primary visual cortex (V1), the pathway divides into two main streams: the ventral stream and the dorsal stream, each contributing to different aspects of vision.
 
-1. **Primary Visual Cortex (V1):** This is the area in the brain where visual information first arrives from the retina (via the lateral geniculate nucleus in the thalamus). V1 contains a detailed visual world map and is primarily responsible for the initial encoding of visual information, such as edge detection and spatial frequency.
+1. **Primary Visual Cortex (V1):** This is the area in the brain where visual information first arrives from the retina (via the lateral geniculate nucleus in the thalamus). V1 contains a detailed visual world map and is primarily responsible for the initial encoding of visual information, such as edge detection and spatial frequency — the [feature detector neurons](feature_detector_neurons.md) in V1 are tuned to these elementary properties (Hubel & Wiesel).
 
 2. **Ventral Stream (The ‘What’ Pathway):** From V1, the visual signal may travel down the ventral stream, a pathway extending into the temporal lobe. This stream is known as the “what” pathway, as it’s responsible for object recognition, face recognition, and colour perception. The key areas in this stream include V2, V4, and the Inferior Temporal Cortex.
    - **V2:** This area refines the visual information sent from V1, helping to categorise visual information based on features such as colour and form.
@@ -14,4 +14,11 @@ The visual pathway is the complex **network of neurons responsible for transmitt
    - **V2:** As in the ventral stream, V2 in the dorsal stream continues to refine the visual information processed in V1.
    - **V3:** This area is primarily responsible for the perception of global motion and the processing of dynamic form.
    - **V5/MT:** It’s vital for motion detection and perception.
-   - **Posterior Parietal Cortex:** This region is involved in spatial awareness and guidance of actions in relation to objects within the environment.
+    - **Posterior Parietal Cortex:** This region is involved in spatial awareness and guidance of actions in relation to objects within the environment. Damage here (especially right-hemisphere) causes [hemispatial neglect](hemispatial_neglect.md), linking the dorsal stream directly to spatial attention deficits.
+
+## Related Concepts
+
+- [Vision in the brain](vision_in_the_brain.md) — upstream retinal-to-cortex pathway
+- [Feature detector neurons](feature_detector_neurons.md) — V1's tuned receptive fields
+- [Hemispatial neglect](hemispatial_neglect.md) — dorsal stream attention deficit
+- [Visual search](visual_search.md) — feature vs conjunction search maps onto the ventral/dorsal division
