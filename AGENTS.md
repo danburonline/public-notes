@@ -8,7 +8,7 @@
 
 Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine for [consciousness engineering](001_private/_general/consciousness_engineering.md)—connecting quantum cosmology, computational [phenomenology](003_education/kings-college/03_mental_health_in_the_community/phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix-science/biomimetic_neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework.
+**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine across all skill categories — lead, core, and fundamental. The lead tier drives the highest-level synthesis: today [consciousness engineering](001_private/_general/consciousness_engineering.md) is the only well-defined lead, connecting quantum cosmology, computational [phenomenology](003_education/kings-college/03_mental_health_in_the_community/phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix-science/biomimetic_neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework. The focus extends equally to the other core competencies and the fundamental skills, and will broaden as further leads mature.
 
 ### STRUCTURE
 
