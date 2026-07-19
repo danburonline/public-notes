@@ -22,7 +22,7 @@ Three-tier tagging system reflecting knowledge depth and focus:
 
 #### Lead
 
-- #lead/??? (draft: anthropic ontology)
+- #lead/??? (draft: operational philosophy)
 - #lead/consciousnessengineering
 - #lead/??? (draft: venture science)
 
