@@ -4,7 +4,7 @@ The **access/phenomenal consciousness distinction**, introduced by [Ned Block](h
 
 ## Access Consciousness
 
-Access consciousness refers to the type of information that is readily available to cognitive processes for reasoning, decision making, and verbal report. It is the aspect of consciousness that allows us to access and utilise information in a way that influences our actions and decisions. Key characteristics include:
+Access consciousness refers to the type of information that is readily available to cognitive processes for reasoning, decision-making, and verbal report. It is the aspect of consciousness that allows us to access and utilise information in a way that influences our actions and decisions. Key characteristics include:
 
 - **Awareness and Processing:** Involves awareness of information and its active processing.
 - **Cognitive Utilisation:** Enables reasoning, decision-making, and the ability to verbally report information.
@@ -22,7 +22,7 @@ Phenomenal consciousness, in contrast, is the subjective experience of sensory p
 - **Sensory Perceptions:** Includes the raw feel of sensory inputs, such as the redness of red or the pain of a headache.
 - **Emotional Feelings:** Encompasses the full range of emotional experiences, from joy to sorrow.
 
-The [neural correlate of consciousness](../books/the_feeling_of_life_itself/neural_correlate_of_consciousness.md) research programme empirically searches for the minimal neural mechanisms sufficient for phenomenal experience. [Integrated information theory](integrated_information_theory.md) attempts to quantify it via Φ (phi): the degree to which a system generates integrated information irreducible to its parts. PCI uses TMS-evoked cortical responses to estimate Φ — an _access-based_ measurement of a _phenomenal_ target.
+The [neural correlate of consciousness](../books/the_feeling_of_life_itself/neural_correlate_of_consciousness.md) research programme empirically searches for the minimal neural mechanisms sufficient for phenomenal experience. [Integrated information theory](integrated_information_theory.md) attempts to quantify it via Φ (phi): the degree to which a system generates integrated information irreducible to its parts. PCI — an IIT-inspired but computationally tractable proxy — indexes the complexity of TMS-evoked cortical responses rather than Φ directly: an _access-based_ measurement of a _phenomenal_ target.
 
 > [!Examples]
 > **Access Consciousness Examples:**
@@ -66,10 +66,9 @@ The fading qualia argument supports the latter, but the argument is philosophica
 Different theories of consciousness treat the access/phenomenal distinction differently, and this affects whether they license substrate independence:
 
 - **[Integrated information theory](integrated_information_theory.md) (Tononi).** The cause-effect structure specified by the system's intrinsic causal powers _is_ the experience. Φ quantifies phenomenal level, but access (global availability) is a separate property. Both depend on the intrinsic causal structure of the physical substrate — so merely input-output equivalent systems may differ in Φ.
-- **Global workspace theory (Baars, Dehaene).** Consciousness IS global broadcast — the difference between access and phenomenal collapses. If you've replicated the global workspace dynamics, you've replicated consciousness.
+- **Global workspace theory (Baars, Dehaene).** Consciousness _is_ global broadcast — the difference between access and phenomenal collapses. If you've replicated the global workspace dynamics, you've replicated consciousness.
 - **Higher-order theories (Rosenthal, Lau).** Phenomenal = access to a higher-order representation of one's own mental state. The gap is bridged by metacognition.
 - **Biological naturalism (Searle).** The access/phenomenal distinction is an artefact: all consciousness is phenomenal, and it is a biological phenomenon like digestion. There is no gap to close — biology just does it.
-
 
 ## Related Concepts
 
