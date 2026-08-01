@@ -5,7 +5,7 @@
 See [Emergent properties](emergent_properties.md) for the general concept; this note specialises on the strong/weak distinction and its consequences for [consciousness engineering](../_general/consciousness_engineering.md).
 
 > [!example] Quick intuition
->
+> 
 > - **Weak emergence**: a system has a property absent in its parts individually, yet derivable in principle from micro-rules — often only via simulation.
 > - **Strong emergence**: a system has a property that cannot, even in principle, be fully accounted for by its parts and micro-rules — entailing genuinely novel causal powers at the higher level.
 
