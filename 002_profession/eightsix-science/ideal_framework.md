@@ -64,7 +64,7 @@ BCI procedures are classified by invasiveness:
 
 Within the [biomimetic neuromorphics](biomimetic_neuromorphics.md) programme, the IDEAL framework offers a regulatory and methodological roadmap for translating [neural grafts](../videos/neural_grafts.md) from bench to bedside:
 
-- **Stage 1–2a**: Pre-pilot work such as the [GelMA transport study](shared/experiments/001_graft-implant-pre-pilot/context.md) and [stereotaxic neurosurgery](stereotaxic_neurosurgery.md) protocol development map directly onto Idea and Development phases
+- **Stage 1–2a**: Pre-pilot work such as the GelMA transport study and [stereotaxic neurosurgery](stereotaxic_neurosurgery.md) protocol development map directly onto Idea and Development phases
 - **Stage 2b–3**: Future porcine and non-human primate studies of [cortical organoid](organoid_types.md) implantation would constitute Exploration and Assessment
 - **Stage 4**: Long-term monitoring of [neurotrophic factors](neurotrophic_factors.md), [genetic stability](genetic_instability_in_ipscs.md), and graft-host integration metrics aligns with the Long-term Study requirement
 
