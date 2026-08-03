@@ -1,58 +1,39 @@
-## Public Notes
+# Notes of a polymath
 
-Personal Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)-style knowledge base covering all my skill categories in life.
+I am a polymath. This is my public, Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten): a working knowledge base for learning across disciplines, connecting them, and turning those connections into research, engineering, and new intellectual frameworks.
 
-### Structure
+The notes come from personal study, professional work, formal education, and subsidiary projects. Their value lies not only in each subject, but in the bridges between them.
 
-| Folder            | Purpose                                              |
-| ----------------- | ---------------------------------------------------- |
-| `_inbox/`         | Private meta-level planning and staging; not in Git or Obsidian Publish |
-| `001_private/`    | Personal learning: books, videos, papers, etc.       |
-| `002_profession/` | Work: Eightsix Science, Blue Brain, FinalSpark, etc. |
-| `003_education/`  | Formal: King's College, EPFL, Buckingham, etc.       |
-| `004_subsidiary/` | Side projects: Carboncopies, courses, etc.           |
-| `005_public/`     | Personal brand: branding, marketing, etc.            |
+Browse the [published notes](https://publish.obsidian.md/danburonline).
 
-### Publishing
+## Skill architecture
 
-Curated parts of this vault are published at [publish.obsidian.md/danburonline](https://publish.obsidian.md/danburonline).
+I organise my skills in three layers. The layers describe how each skill functions within my work, not how valuable it is.
 
-The `_inbox/` folder is a private meta-level layer for personal planning, prompts, sketches, and provisional information. It is excluded from Obsidian Publish and ignored by Git, remaining only in the private Obsidian vault and its sync layer.
+### Lead
 
-Organisation-owned `shared/` submodules are excluded from Obsidian Publish. This currently includes Eightsix Science at `002_profession/eightsix-science/shared/` and Synconetics at `004_subsidiary/synconetics/shared/`. Their contents have separate governance, access, and publication processes.
+Lead skills are the highest level of synthesis: fields in which several core competencies converge into a distinct direction of work. Consciousness engineering is currently the clearest lead, bringing together neuroscience, phenomenology, mathematics, physics, artificial intelligence, and engineering.
 
-### Skill Categories
+- `#lead/consciousnessengineering`
 
-Three-tier tagging system reflecting knowledge depth and focus:
+### Core
 
-#### Lead
+Core skills are deep disciplinary competencies. Each can stand on its own, while their combinations make lead-level synthesis possible.
 
-- #lead/??? (draft: operational philosophy)
-- #lead/consciousnessengineering
-- #lead/??? (draft: venture science)
+- `#core/quantumcosmology`
+- `#core/syntheticphenomenology`
+- `#core/biomimeticneuromorphics`
+- `#core/computationalmathematics`
+- `#core/theoreticalneurosurgery`
+- `#core/appliedneuroscience`
+- `#core/artificialintelligence`
+- `#core/softwaredevelopment`
+- `#core/interactiondesign`
 
-#### Core
+### Fundamental
 
-- #core/quantumcosmology
-- #core/syntheticphenomenology
-- #core/biomimeticneuromorphics
-- #core/computationalmathematics
-- #core/theoreticalneurosurgery
-- #core/appliedneuroscience
-- #core/artificialintelligence
-- #core/softwaredevelopment
-- #core/interactiondesign
+Fundamental skills are the personal capacities beneath every discipline. They shape how I reason, create, and communicate.
 
-#### Fundamental
-
-- #fundamental/logic
-- #fundamental/communication
-- #fundamental/creativity
-
-### Conventions
-
-- **Tags**: Every note starts with a tag on line 1
-- **Links**: Standard markdown `[Note Title](relative/path/to/note.md)`
-- **Images**: Standard markdown `![alt text](relative/path/to/image.png)`
-- **Attachment location**: Store attachments in the nearest local `_attachments/` folder relative to each note
-- **Spelling**: British English
+- `#fundamental/logic`
+- `#fundamental/communication`
+- `#fundamental/creativity`
