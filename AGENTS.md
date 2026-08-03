@@ -40,6 +40,8 @@ Notes/
 | AI prompt logs                | `_inbox/prompts/`                          | Auto-generated filenames with timestamps              |
 | Synconetics shared knowledge  | `004_subsidiary/synconetics/wiki/`         | Git submodule — ISOLATED, no links to private notes   |
 
+**Convention scope:** The conventions below apply only to files owned by the parent Notes repository. They do not apply inside `002_profession/eightsix-science/wiki/` or `004_subsidiary/synconetics/wiki/`. Each wiki is an independent repository governed by its own documentation. Never propagate this vault's personal taxonomy (`#lead/`, `#core/`, `#fundamental/`) or other personal organisational conventions into either wiki.
+
 ### CONVENTIONS
 
 #### Note Structure (MANDATORY)
