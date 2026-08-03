@@ -91,7 +91,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 - **DO NOT** create notes without tags at line 1
 - **DO NOT** revert to Obsidian-only embeds `![[image.png]]`
 - **DO NOT** store active note attachments in `_inbox/` (use local `_attachments/` folders)
-- **DO NOT** commit `_inbox/` content - gitignored staging area
+- **DO NOT** commit or publish `_inbox/` content - it is the gitignored private meta-level planning and staging layer
 - **DO NOT** use Title Case, spaces, or special characters (`& , . ( )`) in file or folder names
 - **DO NOT** convert existing hyphens to underscores — both are allowed
 - **DO NOT** cross-link between `shared/` submodule and private vault folders — the shared folder is team-synced and must remain self-contained
@@ -147,7 +147,7 @@ When working with notes:
 - **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
 - **Searching content**: Use `obsidian search` for full-text vault search; use `mcp_grep` for pattern/regex searches across raw files
 - **Database views**: Use the `obsidian-bases` skill to create `.base` files for structured views (e.g., tables of notes by tag, folder, or property)
-- **Publishing boundary**: Before publishing from Obsidian, verify that every organisation-owned `shared/` submodule is excluded. The current required exclusions are `002_profession/eightsix-science/shared/` and `004_subsidiary/synconetics/shared/`.
+- **Publishing boundary**: Before publishing from Obsidian, verify that `_inbox/` and every organisation-owned `shared/` submodule are excluded. The current required exclusions are `_inbox/`, `002_profession/eightsix-science/shared/`, and `004_subsidiary/synconetics/shared/`.
 
 ### NOTES
 
@@ -156,8 +156,9 @@ When working with notes:
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
 - **Obsidian CLI requires Obsidian to be running** — CLI commands will fail if the app is closed
+- **`_inbox/`** is Daniel's private meta-level planning, prompting, sketch, and provisional-information layer. It is ignored by Git and excluded from Obsidian Publish, while remaining available through the private Obsidian vault and its sync layer.
 - **`002_profession/eightsix-science/shared/`** is a git submodule synced with a remote team repo.
   - **CRITICAL**: This folder is ISOLATED. Never link to/from private vault notes. Content here syncs externally.
 - **`004_subsidiary/synconetics/shared/`** is a git submodule synced with the Synconetics team repo.
   - **CRITICAL**: This folder is ISOLATED. Never link to/from private vault notes. Content here syncs externally.
-- **Obsidian Publish** covers curated material from the parent vault only. Organisation-owned `shared/` submodules must remain excluded from the site's publish selection.
+- **Obsidian Publish** covers curated material from the parent vault only. `_inbox/` and organisation-owned `shared/` submodules must remain excluded from the site's publish selection.
