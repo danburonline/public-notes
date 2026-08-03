@@ -6,6 +6,7 @@ Personal Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkaste
 
 | Folder            | Purpose                                              |
 | ----------------- | ---------------------------------------------------- |
+| `_inbox/`         | Private meta-level planning and staging; not in Git or Obsidian Publish |
 | `001_private/`    | Personal learning: books, videos, papers, etc.       |
 | `002_profession/` | Work: Eightsix Science, Blue Brain, FinalSpark, etc. |
 | `003_education/`  | Formal: King's College, EPFL, Buckingham, etc.       |
@@ -15,6 +16,8 @@ Personal Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkaste
 ### Publishing
 
 Curated parts of this vault are published at [publish.obsidian.md/danburonline](https://publish.obsidian.md/danburonline).
+
+The `_inbox/` folder is a private meta-level layer for personal planning, prompts, sketches, and provisional information. It is excluded from Obsidian Publish and ignored by Git, remaining only in the private Obsidian vault and its sync layer.
 
 Private or independently governed local checkouts are excluded from Obsidian Publish and require their own publication approval.
 

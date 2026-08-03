@@ -86,7 +86,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 - **DO NOT** create notes without tags at line 1
 - **DO NOT** revert to Obsidian-only embeds `![[image.png]]`
 - **DO NOT** store active note attachments in `_inbox/` (use local `_attachments/` folders)
-- **DO NOT** commit `_inbox/` content - gitignored staging area
+- **DO NOT** commit or publish `_inbox/` content - it is the gitignored private meta-level planning and staging layer
 - **DO NOT** use Title Case, spaces, or special characters (`& , . ( )`) in file or folder names
 - **DO NOT** convert existing hyphens to underscores — both are allowed
 - **DO NOT** link public notes to private repositories or restricted records. Keep separately controlled knowledge self-contained.
@@ -149,4 +149,5 @@ When working with notes:
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
 - **Obsidian CLI requires Obsidian to be running** — CLI commands will fail if the app is closed
+- **`_inbox/`** is Daniel's private meta-level planning, prompting, sketch, and provisional-information layer. It is ignored by Git and excluded from Obsidian Publish, while remaining available through the private Obsidian vault and its sync layer.
 - **Obsidian Publish** covers curated material from this public repository only. `_inbox/` and private or independently governed local checkouts must remain excluded.
