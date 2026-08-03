@@ -20,7 +20,9 @@ Notes/
 │   └── eightsix-science/
 │       └── shared/   # Git submodule: team-shared knowledge (ISOLATED — do not cross-link)
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
-├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js)
+├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js), Synconetics
+│   └── synconetics/
+│       └── shared/   # Git submodule: team-shared knowledge (ISOLATED — do not cross-link)
 └── 005_public/       # Empty for now
 ```
 
@@ -36,6 +38,7 @@ Notes/
 | Add course material           | `003_education/{institution}/{module}/`    | Match existing module naming                          |
 | Store image/attachment        | `{note_dir}/_attachments/`                 | Keep each attachment near the note that references it |
 | AI prompt logs                | `_inbox/prompts/`                          | Auto-generated filenames with timestamps              |
+| Synconetics shared knowledge  | `004_subsidiary/synconetics/shared/`       | Git submodule — ISOLATED, no links to private notes   |
 
 ### CONVENTIONS
 
@@ -92,6 +95,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 - **DO NOT** use Title Case, spaces, or special characters (`& , . ( )`) in file or folder names
 - **DO NOT** convert existing hyphens to underscores — both are allowed
 - **DO NOT** cross-link between `shared/` submodule and private vault folders — the shared folder is team-synced and must remain self-contained
+- **DO NOT** include organisation-owned `shared/` submodules in Obsidian Publish — they have separate governance and publication processes
 
 ### UNIQUE STYLES
 
@@ -143,6 +147,7 @@ When working with notes:
 - **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
 - **Searching content**: Use `obsidian search` for full-text vault search; use `mcp_grep` for pattern/regex searches across raw files
 - **Database views**: Use the `obsidian-bases` skill to create `.base` files for structured views (e.g., tables of notes by tag, folder, or property)
+- **Publishing boundary**: Before publishing from Obsidian, verify that every organisation-owned `shared/` submodule is excluded. The current required exclusions are `002_profession/eightsix-science/shared/` and `004_subsidiary/synconetics/shared/`.
 
 ### NOTES
 
@@ -153,3 +158,6 @@ When working with notes:
 - **Obsidian CLI requires Obsidian to be running** — CLI commands will fail if the app is closed
 - **`002_profession/eightsix-science/shared/`** is a git submodule synced with a remote team repo.
   - **CRITICAL**: This folder is ISOLATED. Never link to/from private vault notes. Content here syncs externally.
+- **`004_subsidiary/synconetics/shared/`** is a git submodule synced with the Synconetics team repo.
+  - **CRITICAL**: This folder is ISOLATED. Never link to/from private vault notes. Content here syncs externally.
+- **Obsidian Publish** covers curated material from the parent vault only. Organisation-owned `shared/` submodules must remain excluded from the site's publish selection.

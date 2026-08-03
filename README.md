@@ -14,7 +14,9 @@ Personal Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkaste
 
 ### Publishing
 
-This vault is published at [publish.obsidian.md/danburonline](https://publish.obsidian.md/danburonline)
+Curated parts of this vault are published at [publish.obsidian.md/danburonline](https://publish.obsidian.md/danburonline).
+
+Organisation-owned `shared/` submodules are excluded from Obsidian Publish. This currently includes Eightsix Science at `002_profession/eightsix-science/shared/` and Synconetics at `004_subsidiary/synconetics/shared/`. Their contents have separate governance, access, and publication processes.
 
 ### Skill Categories
 
