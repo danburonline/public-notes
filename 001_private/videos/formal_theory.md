@@ -44,7 +44,7 @@ Formal theories are not merely descriptive — they are _generative_. A well-cho
 
 - **[Occam's razor](../_general/occams_razor.md)** — in axiom selection, parsimony is the tiebreaker: prefer the theory with fewer primitives for equal explanatory power
 - **[Strong emergence](strong_emergence.md)** — if strong emergence is genuine, some phenomena cannot be captured by _any_ finite formal theory of their components, no matter how elaborate
-- **[Invariant brain emulation](../../002_profession/eightsix-science/invariant_brain_emulation.md)** — the invariance criterion $O(f(b)) \equiv O(b)$ is a formal statement about when two substrates are observationally equivalent, making brain emulation a formal theory of substrate identity
+- **[Invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md)** — the invariance criterion $O(f(b)) \equiv O(b)$ is a formal statement about when two substrates are observationally equivalent, making brain emulation a formal theory of substrate identity
 
 ## Related Concepts
 
@@ -53,4 +53,4 @@ Formal theories are not merely descriptive — they are _generative_. A well-cho
 - [Strong emergence](strong_emergence.md) — the claim that some phenomena defy formal reduction
 - [Occam's razor](../_general/occams_razor.md) — the parsimony principle for axiom selection
 - [Coarse-graining](../papers/coarse_graining.md) — formal mapping between theories at different scales
-- [Invariant brain emulation](../../002_profession/eightsix-science/invariant_brain_emulation.md) — formal equivalence between neural substrates
+- [Invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md) — formal equivalence between neural substrates

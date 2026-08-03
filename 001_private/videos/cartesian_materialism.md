@@ -76,7 +76,7 @@ The reading: rejecting Cartesian Materialism is necessary but not sufficient. Th
 
 ### Implications for Consciousness Engineering
 
-If there is no central observer, there is no special thing to preserve in [consciousness engineering](../_general/consciousness_engineering.md) — only the pattern of integration. This is the philosophical license for projects like [PSNST](../_general/psnst.md) and [invariant brain emulation](../../002_profession/eightsix-science/invariant_brain_emulation.md): substrate is negotiable, distributed integration is not. Dennett's framework also reframes the [access and phenomenal consciousness](access_and_phenomenal_consciousness.md) distinction — for Dennett, phenomenal consciousness over and above access consciousness *is* the Zombic Hunch in disguise.
+If there is no central observer, there is no special thing to preserve in [consciousness engineering](../_general/consciousness_engineering.md) — only the pattern of integration. This is the philosophical license for projects like [PSNST](../_general/psnst.md) and [invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md): substrate is negotiable, distributed integration is not. Dennett's framework also reframes the [access and phenomenal consciousness](access_and_phenomenal_consciousness.md) distinction — for Dennett, phenomenal consciousness over and above access consciousness *is* the Zombic Hunch in disguise.
 
 ---
 
@@ -94,7 +94,7 @@ If there is no central observer, there is no special thing to preserve in [consc
 - [strong_emergence](strong_emergence.md) — the stronger metaphysical reading Dennett resists
 - [consciousness_engineering](../_general/consciousness_engineering.md) — engineering implications
 - [psnst](../_general/psnst.md) — substrate-independence in practice
-- [invariant_brain_emulation](../../002_profession/eightsix-science/invariant_brain_emulation.md) — what survives substrate transfer
+- [invariant_brain_emulation](../../002_profession/eightsix/invariant_brain_emulation.md) — what survives substrate transfer
 
 ---
 

@@ -48,8 +48,8 @@ The brain itself appears to be a multiply realising system at every scale:
 Multiple realisability is the philosophical licence for the entire programme of [consciousness engineering](../../_general/consciousness_engineering.md). Without it, projects that aim to transfer or preserve a mind in a non-biological substrate are stillborn.
 
 - **[Progressive Synthetic Neural Substrate Transfer (PSNST)](../../_general/psnst.md).** Gradual neuron-by-neuron replacement of biological tissue with functionally equivalent synthetic units, exploiting cortical reorganisation to maintain integration across the transition. The argument structure is Chalmers' fading-qualia thought experiment, executed empirically.
-- **[Invariant brain emulation](../../../002_profession/eightsix-science/invariant_brain_emulation.md).** Formalises the requirement: a substrate transformation $f : B \rightarrow S$ counts as preserving the mind iff $O(f(b)) \equiv O(b)$ for all observables $O$ in the relevant set. Multiple realisability is the hypothesis that some such $f$ exists for biological brains.
-- **[Biomimetic neuromorphics](../../../002_profession/eightsix-science/biomimetic_neuromorphics.md).** The engineering discipline that constructs synthetic substrates with sufficient functional fidelity (molecular, cellular, circuit, systems levels) to count as realisers of the original mental states.
+- **[Invariant brain emulation](../../../002_profession/eightsix/invariant_brain_emulation.md).** Formalises the requirement: a substrate transformation $f : B \rightarrow S$ counts as preserving the mind iff $O(f(b)) \equiv O(b)$ for all observables $O$ in the relevant set. Multiple realisability is the hypothesis that some such $f$ exists for biological brains.
+- **[Biomimetic neuromorphics](../../../002_profession/eightsix/biomimetic_neuromorphics.md).** The engineering discipline that constructs synthetic substrates with sufficient functional fidelity (molecular, cellular, circuit, systems levels) to count as realisers of the original mental states.
 - **[Mind-uploading techniques](../taxonomy_and_metaphysics_of_mind-uploading/mind-uploading_techniques.md).** Whole-brain emulation, gradual replacement, and scan-and-copy approaches all rest implicitly on multiple realisability, but differ in which grain of functional description they take to be the relevant invariant.
 
 ## Criticisms and Limits
@@ -87,8 +87,8 @@ Conflating these levels causes most of the heat in debates about whether _the_ m
 - [Hemispherotomy](../sizing_up_consciousness/hemispherotomy.md) — empirical biological substrate flexibility
 - [Consciousness engineering](../../_general/consciousness_engineering.md) — engineering programme built on this thesis
 - [PSNST](../../_general/psnst.md) — substrate-transfer protocol
-- [Invariant brain emulation](../../../002_profession/eightsix-science/invariant_brain_emulation.md) — formal preservation criterion
-- [Biomimetic neuromorphics](../../../002_profession/eightsix-science/biomimetic_neuromorphics.md) — engineering realisation
+- [Invariant brain emulation](../../../002_profession/eightsix/invariant_brain_emulation.md) — formal preservation criterion
+- [Biomimetic neuromorphics](../../../002_profession/eightsix/biomimetic_neuromorphics.md) — engineering realisation
 - [Access and phenomenal consciousness](../../videos/access_and_phenomenal_consciousness.md) — what kind of mind is multiply realisable
 - [Theory of mind](../../../003_education/kings-college/02_psychological_foundations/theory_of_mind.md), [types of intelligence](../../_general/types_of_intelligence.md) — adjacent concepts
 

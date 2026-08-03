@@ -1,5 +1,5 @@
 [submodule "002_profession/eightsix-science/shared"]
-	path = 002_profession/eightsix-science/wiki
+	path = 002_profession/eightsix/wiki
 	url = https://github.com/eightsixscience/wiki.git
 [submodule "004_subsidiary/synconetics/shared"]
 	path = 004_subsidiary/synconetics/wiki

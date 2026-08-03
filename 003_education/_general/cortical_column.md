@@ -58,7 +58,7 @@ Hawkins et al. (Numenta, 2019) propose that each cortical column independently c
 - Columns vote across long-range horizontal connections to achieve consensus on a single coherent percept
 - Intelligence arises from the near-identical replication of a single cortical algorithm across 150,000 columns
 
-See: [Thousand Brains Theory](../../002_profession/eightsix-science/thousand_brains_theory.md)
+See: [Thousand Brains Theory](../../002_profession/eightsix/thousand_brains_theory.md)
 
 ## Biomimetic Relevance
 
@@ -69,4 +69,4 @@ The columnar-laminar architecture is the **primary template for synthetic neural
 - **Inhibitory gating**: intracolumnar basket cell inhibition enforcing winner-takes-most dynamics must be preserved to replicate attractor states and stable representations
 - **Inter-column communication**: lateral long-range connections (Layers II/III) implement the voting mechanism that binds distributed column outputs into coherent representations
 
-See: [biomimetic neuromorphics](../../002_profession/eightsix-science/biomimetic_neuromorphics.md)
+See: [biomimetic neuromorphics](../../002_profession/eightsix/biomimetic_neuromorphics.md)

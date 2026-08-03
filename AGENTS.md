@@ -8,7 +8,7 @@
 
 Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine across all skill categories — lead, core, and fundamental. The lead tier drives the highest-level synthesis: today [consciousness engineering](001_private/_general/consciousness_engineering.md) is the only well-defined lead, connecting quantum cosmology, computational [phenomenology](003_education/kings-college/03_mental_health_in_the_community/phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix-science/biomimetic_neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework. The focus extends equally to the other core competencies and the fundamental skills, and will broaden as further leads mature.
+**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine across all skill categories — lead, core, and fundamental. The lead tier drives the highest-level synthesis: today [consciousness engineering](001_private/_general/consciousness_engineering.md) is the only well-defined lead, connecting quantum cosmology, computational [phenomenology](003_education/kings-college/03_mental_health_in_the_community/phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix/biomimetic_neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework. The focus extends equally to the other core competencies and the fundamental skills, and will broaden as further leads mature.
 
 ### STRUCTURE
 
@@ -17,7 +17,7 @@ Notes/
 ├── _inbox/           # Staging: prompts, sketches (fully gitignored)
 ├── 001_private/      # Personal learning: books, videos, papers, articles, social, etc. media
 ├── 002_profession/   # Work: blue brain project, eightsix science, finalspark, idun, etc.
-│   └── eightsix-science/
+│   └── eightsix/
 │       └── wiki/     # Git submodule: team-shared knowledge (ISOLATED — do not cross-link)
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
 ├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js), Synconetics
@@ -34,13 +34,13 @@ Notes/
 | ----------------------------- | ------------------------------------------ | ----------------------------------------------------- |
 | Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/the_feeling_of_life_itself/` |
 | Add work-related note         | `002_profession/{company}/`                | Match existing company folders                        |
-| Team-shared knowledge         | `002_profession/eightsix-science/wiki/`    | Git submodule — ISOLATED, no cross-links to private   |
+| Team-shared knowledge         | `002_profession/eightsix/wiki/`            | Git submodule — ISOLATED, no cross-links to private   |
 | Add course material           | `003_education/{institution}/{module}/`    | Match existing module naming                          |
 | Store image/attachment        | `{note_dir}/_attachments/`                 | Keep each attachment near the note that references it |
 | AI prompt logs                | `_inbox/prompts/`                          | Auto-generated filenames with timestamps              |
 | Synconetics shared knowledge  | `004_subsidiary/synconetics/wiki/`         | Git submodule — ISOLATED, no links to private notes   |
 
-**Convention scope:** The conventions below apply only to files owned by the parent Notes repository. They do not apply inside `002_profession/eightsix-science/wiki/` or `004_subsidiary/synconetics/wiki/`. Each wiki is an independent repository governed by its own documentation. Never propagate this vault's personal taxonomy (`#lead/`, `#core/`, `#fundamental/`) or other personal organisational conventions into either wiki.
+**Convention scope:** The conventions below apply only to files owned by the parent Notes repository. They do not apply inside `002_profession/eightsix/wiki/` or `004_subsidiary/synconetics/wiki/`. Each wiki is an independent repository governed by its own documentation. Never propagate this vault's personal taxonomy (`#lead/`, `#core/`, `#fundamental/`) or other personal organisational conventions into either wiki.
 
 ### CONVENTIONS
 
@@ -112,7 +112,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 # No build/test commands - knowledge base, not code project
 
 # Git submodule — sync team-shared notes
-git submodule update --remote 002_profession/eightsix-science/wiki
+git submodule update --remote 002_profession/eightsix/wiki
 
 # Obsidian CLI — requires Obsidian to be open
 obsidian read file="note_name"                          # Read a note by wikilink name
@@ -149,7 +149,7 @@ When working with notes:
 - **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
 - **Searching content**: Use `obsidian search` for full-text vault search; use `mcp_grep` for pattern/regex searches across raw files
 - **Database views**: Use the `obsidian-bases` skill to create `.base` files for structured views (e.g., tables of notes by tag, folder, or property)
-- **Publishing boundary**: Before publishing from Obsidian, verify that `_inbox/` and every organisation-owned `wiki/` submodule are excluded. The current required exclusions are `_inbox/`, `002_profession/eightsix-science/wiki/`, and `004_subsidiary/synconetics/wiki/`.
+- **Publishing boundary**: Before publishing from Obsidian, verify that `_inbox/` and every organisation-owned `wiki/` submodule are excluded. The current required exclusions are `_inbox/`, `002_profession/eightsix/wiki/`, and `004_subsidiary/synconetics/wiki/`.
 
 ### NOTES
 
@@ -159,7 +159,7 @@ When working with notes:
 - `piecesdb.json` is external tool data (gitignored)
 - **Obsidian CLI requires Obsidian to be running** — CLI commands will fail if the app is closed
 - **`_inbox/`** is Daniel's private meta-level planning, prompting, sketch, and provisional-information layer. It is ignored by Git and excluded from Obsidian Publish, while remaining available through the private Obsidian vault and its sync layer.
-- **`002_profession/eightsix-science/wiki/`** is a git submodule synced with a remote team repo.
+- **`002_profession/eightsix/wiki/`** is a git submodule synced with a remote team repo.
   - **CRITICAL**: This folder is ISOLATED. Never link to/from private vault notes. Content here syncs externally.
 - **`004_subsidiary/synconetics/wiki/`** is a git submodule synced with the Synconetics team repo.
   - **CRITICAL**: This folder is ISOLATED. Never link to/from private vault notes. Content here syncs externally.
