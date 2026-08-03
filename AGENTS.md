@@ -19,7 +19,7 @@ Notes/
 ├── 002_profession/   # Work: blue brain project, eightsix science, finalspark, idun, etc.
 │   └── eightsix-science/
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
-├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js)
+├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js), Synconetics
 └── 005_public/       # Empty for now
 ```
 
@@ -90,6 +90,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 - **DO NOT** use Title Case, spaces, or special characters (`& , . ( )`) in file or folder names
 - **DO NOT** convert existing hyphens to underscores — both are allowed
 - **DO NOT** link public notes to private repositories or restricted records. Keep separately controlled knowledge self-contained.
+- **DO NOT** include private or independently governed local checkouts in Obsidian Publish. They require their own publication approval.
 
 ### UNIQUE STYLES
 
@@ -139,6 +140,7 @@ When working with notes:
 - **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
 - **Searching content**: Use `obsidian search` for full-text vault search; use `mcp_grep` for pattern/regex searches across raw files
 - **Database views**: Use the `obsidian-bases` skill to create `.base` files for structured views (e.g., tables of notes by tag, folder, or property)
+- **Publishing boundary**: Before publishing from Obsidian, verify that `_inbox/` and every private or independently governed local checkout are excluded from the site's publish selection. Git ignores alone do not enforce publication exclusions.
 
 ### NOTES
 
@@ -147,3 +149,4 @@ When working with notes:
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
 - **Obsidian CLI requires Obsidian to be running** — CLI commands will fail if the app is closed
+- **Obsidian Publish** covers curated material from this public repository only. `_inbox/` and private or independently governed local checkouts must remain excluded.
