@@ -8,10 +8,10 @@
 
 ## Theoretical Foundations
 
-- [Invariant brain emulation](../../002_profession/eightsix-science/invariant_brain_emulation.md): Mathematical formalism for substrate-independent functional equivalence
-- [Diffeomorphic transformation](../../002_profession/eightsix-science/diffeomorphic_transformation.md): Smooth mappings preserving structure between state spaces
+- [Invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md): Mathematical formalism for substrate-independent functional equivalence
+- [Diffeomorphic transformation](../../002_profession/eightsix/diffeomorphic_transformation.md): Smooth mappings preserving structure between state spaces
 - [Multiple realisability](../books/how_to_build_a_brain/multiple_realisability.md): The thesis that mental states can be implemented in diverse physical substrates
-- [Thousand brains theory](../../002_profession/eightsix-science/thousand_brains_theory.md): Cortical column architecture informing modular approaches to preservation
+- [Thousand brains theory](../../002_profession/eightsix/thousand_brains_theory.md): Cortical column architecture informing modular approaches to preservation
 
 ## Phenomenology and Consciousness
 

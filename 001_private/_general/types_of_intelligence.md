@@ -42,7 +42,7 @@ Sternberg's framework challenges the sufficiency of analytical IQ alone, arguing
 What does the brain reveal about whether intelligence is singular or manifold?
 
 - **General Factor (_g_)** — psychometric analysis consistently extracts a single factor accounting for ~40–50% of variance across cognitive tests. Neuroimaging (Jung & Haier's **Parieto-Frontal Integration Theory**, P-FIT) associates _g_ with a distributed network spanning dorsolateral prefrontal cortex, posterior parietal cortex, anterior cingulate, and regions of temporal and occipital lobes — not a single locus but a coordinated ensemble.
-- **Cortical Column Architecture** — the [neocortex](../../003_education/_general/neocortex.md) is composed of ~150,000 [cortical columns](../../003_education/_general/cortical_column.md), each a vertical processing unit. The [Thousand Brains Theory](../../002_profession/eightsix-science/thousand_brains_theory.md) proposes each column builds independent models of the world and votes via long-range connections — intelligence as a distributed consensus rather than centralised computation.
+- **Cortical Column Architecture** — the [neocortex](../../003_education/_general/neocortex.md) is composed of ~150,000 [cortical columns](../../003_education/_general/cortical_column.md), each a vertical processing unit. The [Thousand Brains Theory](../../002_profession/eightsix/thousand_brains_theory.md) proposes each column builds independent models of the world and votes via long-range connections — intelligence as a distributed consensus rather than centralised computation.
 - **Emergence** — intelligence may be an [emergent property](../videos/emergent_properties.md) of neocortical architecture: no single neuron or column is "intelligent," but their coordinated interaction across scales produces cognition irreducible to component parts. See [strong emergence](../videos/strong_emergence.md) for the philosophical claim this irreducibility is genuine.
 - **Network Efficiency** — diffusion tensor imaging reveals that higher _g_ correlates with more efficient white-matter connectivity (higher fractional anisotropy), suggesting intelligence is partly a function of how well distributed regions communicate — a bandwidth argument.
 
@@ -51,6 +51,6 @@ What does the brain reveal about whether intelligence is singular or manifold?
 - [Long-term memory](../../003_education/kings-college/02_psychological_foundations/long-term_memory.md) — substrate of crystallised intelligence
 - [Neocortex](../../003_education/_general/neocortex.md) — biological substrate of higher cognition
 - [Cortical column](../../003_education/_general/cortical_column.md) — the elementary computational unit of [neocortex](../../003_education/_general/neocortex.md)
-- [Thousand Brains Theory](../../002_profession/eightsix-science/thousand_brains_theory.md) — distributed intelligence via columnar voting
+- [Thousand Brains Theory](../../002_profession/eightsix/thousand_brains_theory.md) — distributed intelligence via columnar voting
 - [Emergent properties](../videos/emergent_properties.md) — intelligence as an irreducible macro-level phenomenon
 - [Neuromyths](../../003_education/kings-college/05_neuroscience_in_society/neuromyths.md) — category containing Gardner's empirically unvalidated framework

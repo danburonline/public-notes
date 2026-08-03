@@ -8,7 +8,7 @@
 
 ### Types
 
-- **Molecular Biomarkers:** DNA, RNA, proteins, lipids, or [metabolites](../../../002_profession/eightsix-science/metabolites.md).
+- **Molecular Biomarkers:** DNA, RNA, proteins, lipids, or [metabolites](../../../002_profession/eightsix/metabolites.md).
 - **Clinical Biomarkers:** Blood pressure, cholesterol levels, or body mass index (BMI).
 
 ### Uses

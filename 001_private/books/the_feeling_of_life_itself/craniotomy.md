@@ -19,15 +19,15 @@ The patient's head is typically rotated 20–30 degrees away from the side of th
 
 - **Tumour removal** — large brain tumours requiring extensive access for complete resection
 - **Trauma** — severe head injuries with significant swelling or haemorrhage necessitating decompression
-- **[Vascular](../../../002_profession/eightsix-science/cortex_vascularisation.md) pathology** — aneurysm clipping and arteriovenous malformation repair
-- **Functional neurosurgery** — electrode implantation for Deep Brain Stimulation, epilepsy surgery, and brain-computer interface placement (see [IDEAL Framework](../../../002_profession/eightsix-science/ideal_framework.md))
+- **[Vascular](../../../002_profession/eightsix/cortex_vascularisation.md) pathology** — aneurysm clipping and arteriovenous malformation repair
+- **Functional neurosurgery** — electrode implantation for Deep Brain Stimulation, epilepsy surgery, and brain-computer interface placement (see [IDEAL Framework](../../../002_profession/eightsix/ideal_framework.md))
 - **Infections** — deep-seated abscesses requiring drainage and debridement
 
 ## Surgical Technique
 
 ### Planning and Imaging
 
-Modern craniotomy relies on [stereotactic](../../../002_profession/eightsix-science/stereotaxic_neurosurgery.md) image guidance—preoperative MRI/CT scans are co-registered with the patient's anatomy to plan the optimal incision site, bone flap size, and surgical corridor. Frameless neuronavigation systems track instruments in real time relative to the preoperative imaging.
+Modern craniotomy relies on [stereotactic](../../../002_profession/eightsix/stereotaxic_neurosurgery.md) image guidance—preoperative MRI/CT scans are co-registered with the patient's anatomy to plan the optimal incision site, bone flap size, and surgical corridor. Frameless neuronavigation systems track instruments in real time relative to the preoperative imaging.
 
 ### Procedure
 
@@ -61,7 +61,7 @@ Craniotomy is the **enabling access procedure** for any physical intervention on
 >
 > 1. Craniotomy provides the surgical access necessary for [neural graft](../../videos/neural_grafts.md) placement and synthetic substrate layering
 > 2. Awake craniotomy techniques could enable real-time consciousness monitoring during progressive transfer
-> 3. The [IDEAL Framework](../../../002_profession/eightsix-science/ideal_framework.md) classifies BCI implantation (requiring craniotomy) through structured innovation stages
+> 3. The [IDEAL Framework](../../../002_profession/eightsix/ideal_framework.md) classifies BCI implantation (requiring craniotomy) through structured innovation stages
 >
 > Craniotomy also underpins [Hemispherotomy](../sizing_up_consciousness/hemispherotomy.md)—itself key empirical evidence that consciousness survives major substrate alteration.
 

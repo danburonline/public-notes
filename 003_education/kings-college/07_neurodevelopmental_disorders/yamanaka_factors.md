@@ -21,4 +21,4 @@ Yamanaka factors are a set of **four transcription factors that have the ability
 
 ## Applications
 
-iPSCs derived via Yamanaka reprogramming serve as the starting material for generating [organoids](../../../002_profession/eightsix-science/organoid_types.md), enabling patient-specific disease modelling and drug screening.
+iPSCs derived via Yamanaka reprogramming serve as the starting material for generating [organoids](../../../002_profession/eightsix/organoid_types.md), enabling patient-specific disease modelling and drug screening.

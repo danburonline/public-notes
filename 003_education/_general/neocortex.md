@@ -93,7 +93,7 @@ Your computational neuroanatomy and brain atlas research intersects with neocort
 
 The neocortex's laminar-columnar architecture is the **template for synthetic neural substrate engineering**. Biomimetic neuromorphics targets:
 
-- **Architectural fidelity**: Replicating 6-layer lamination and columnar modularity (~150,000 columns in human neocortex). See: [biomimetic neuromorphics](002_profession/eightsix-science/biomimetic_neuromorphics.md)
+- **Architectural fidelity**: Replicating 6-layer lamination and columnar modularity (~150,000 columns in human neocortex). See: [biomimetic neuromorphics](../../002_profession/eightsix/biomimetic_neuromorphics.md)
 - **Temporal dynamics**: Matching synaptic plasticity timescales (LTP/LTD) and oscillatory dynamics (theta, gamma)
 - **Scaling challenge**: Human neocortex = ~16B neurons, ~150T synapses. Current organoid technology produces ~10⁶ neurons. Bridging this gap is the central engineering challenge
 

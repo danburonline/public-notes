@@ -9,13 +9,13 @@ Teleology is a philosophical term that refers to **the explanation of phenomena 
 
 **Modern Applications:**
 
-- In contemporary philosophy, teleology might refer to the study of structured processes that seem to be directed toward a [final result or function](../../002_profession/eightsix-science/invariant_brain_emulation.md).
+- In contemporary philosophy, teleology might refer to the study of structured processes that seem to be directed toward a [final result or function](../../002_profession/eightsix/invariant_brain_emulation.md).
 - In ethics, teleological theories propose that the morality of an action is determined by the outcome that the action produces.
 
 **Examples of Teleological Thinking:**
 
 - In biology, the concept of natural selection can be seen as teleological to the extent that it explains the evolution of organisms by their capacity to survive and reproduce.
-- In technology, devices are often designed with a specific purpose or function in mind, reflecting [teleological thinking in engineering and design](../../002_profession/eightsix-science/ideal_framework.md).
+- In technology, devices are often designed with a specific purpose or function in mind, reflecting [teleological thinking in engineering and design](../../002_profession/eightsix/ideal_framework.md).
 
 **Critiques:**
 

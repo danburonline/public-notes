@@ -8,7 +8,7 @@
 
 Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine across all skill categories — lead, core, and fundamental. The lead tier drives the highest-level synthesis: today [consciousness engineering](001_private/_general/consciousness_engineering.md) is the only well-defined lead, connecting quantum cosmology, computational [phenomenology](003_education/kings-college/03_mental_health_in_the_community/phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix-science/biomimetic_neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework. The focus extends equally to the other core competencies and the fundamental skills, and will broaden as further leads mature.
+**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine across all skill categories — lead, core, and fundamental. The lead tier drives the highest-level synthesis: today [consciousness engineering](001_private/_general/consciousness_engineering.md) is the only well-defined lead, connecting quantum cosmology, computational [phenomenology](003_education/kings-college/03_mental_health_in_the_community/phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix/biomimetic_neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework. The focus extends equally to the other core competencies and the fundamental skills, and will broaden as further leads mature.
 
 ### STRUCTURE
 
@@ -17,7 +17,7 @@ Notes/
 ├── _inbox/           # Staging: prompts, sketches (fully gitignored)
 ├── 001_private/      # Personal learning: books, videos, papers, articles, social, etc. media
 ├── 002_profession/   # Work: blue brain project, eightsix science, finalspark, idun, etc.
-│   └── eightsix-science/
+│   └── eightsix/
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
 ├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js), Synconetics
 └── 005_public/       # Empty for now

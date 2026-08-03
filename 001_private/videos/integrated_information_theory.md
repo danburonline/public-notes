@@ -31,7 +31,7 @@ The central mathematical object in IIT is the **cause-effect structure** — a �
 - A *concept* is the maximally irreducible cause-effect repertoire of a mechanism — a point in cause-effect space.
 - The full cause-effect structure is the set of all concepts across the system, and is claimed to be **identical** to the quality of the experience (not merely correlated with it — this is IIT's strong identity claim).
 
-This notion of **intrinsic causal structure** underlies IIT's critique of purely functional approaches: two systems with identical input-output mappings but different internal causal architectures may have different Φ values — and therefore, per IIT, different conscious experiences. This is directly relevant to the comparison between [Moravec transfer](../social-media/x/moravec_transfer.md) (which out-sources computation to a digital simulation, potentially stripping intrinsic causality) and [ECP/PSNST](../_general/psnst.md) (which preserves intrinsic causal structure in the replacement substrate). The mathematical contract for substrate equivalence is formalised in [invariant brain emulation](../../002_profession/eightsix-science/invariant_brain_emulation.md).
+This notion of **intrinsic causal structure** underlies IIT's critique of purely functional approaches: two systems with identical input-output mappings but different internal causal architectures may have different Φ values — and therefore, per IIT, different conscious experiences. This is directly relevant to the comparison between [Moravec transfer](../social-media/x/moravec_transfer.md) (which out-sources computation to a digital simulation, potentially stripping intrinsic causality) and [ECP/PSNST](../_general/psnst.md) (which preserves intrinsic causal structure in the replacement substrate). The mathematical contract for substrate equivalence is formalised in [invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md).
 
 ## IIT 4.0 (2019–Present)
 
@@ -48,7 +48,7 @@ Whether IIT's Φ is best understood as a case of [weak or strong emergence](stro
 - **Weak-emergence reading**: Φ is formally derivable from a system's transition probability matrix — given the right computation, it follows from the micro-level. Consciousness is a property of the *organisation* of matter, not of matter *per se*.
 - **Strong-emergence reading**: The cause-effect structure has genuinely novel intrinsic existence — it is not merely a formal description but an additional ontological fact. Tononi's language of "intrinsic existence" is sometimes read as entailing strong emergence.
 
-This classification carries direct stakes for [consciousness engineering](../_general/consciousness_engineering.md): if Φ is weakly emergent, reproducing the causal architecture in [biomimetic neuromorphic](../../002_profession/eightsix-science/biomimetic_neuromorphics.md) substrates should preserve consciousness. If it is strongly emergent, the specific material realisation may matter beyond the causal pattern — a far more demanding constraint.
+This classification carries direct stakes for [consciousness engineering](../_general/consciousness_engineering.md): if Φ is weakly emergent, reproducing the causal architecture in [biomimetic neuromorphic](../../002_profession/eightsix/biomimetic_neuromorphics.md) substrates should preserve consciousness. If it is strongly emergent, the specific material realisation may matter beyond the causal pattern — a far more demanding constraint.
 
 ## Empirical Tests
 
