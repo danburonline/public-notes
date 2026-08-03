@@ -35,6 +35,8 @@ Notes/
 | Store image/attachment        | `{note_dir}/_attachments/`                 | Keep each attachment near the note that references it |
 | AI prompt logs                | `_inbox/prompts/`                          | Auto-generated filenames with timestamps              |
 
+**Convention scope:** These conventions apply only to files owned by this public repository. Separately controlled repositories follow their own instructions and must not inherit this vault's personal taxonomy.
+
 ### CONVENTIONS
 
 #### Note Structure (MANDATORY)
