@@ -2,11 +2,11 @@
 
 ![hebbian-assembly](_attachments/hebbian-assembly.png)
 
-[Hebbian](../../003_education/kings-college/04_biological_foundations_of_mental_health/hebbian_synaptic_plasticity.md) assemblies are **groups of neurons that become interconnected through repeated activation.** This concept, proposed by [Donald Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb), suggests that when neurons fire together frequently, the connections between them strengthen. This strengthened connection makes it more likely that the neurons will activate together in the future, forming a functional unit or "assembly."
+[Hebbian](../../003_education/kcl/04_biological_foundations_of_mental_health/hebbian_synaptic_plasticity.md) assemblies are **groups of neurons that become interconnected through repeated activation.** This concept, proposed by [Donald Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb), suggests that when neurons fire together frequently, the connections between them strengthen. This strengthened connection makes it more likely that the neurons will activate together in the future, forming a functional unit or "assembly."
 
 ## **1. Neurobiological Basis**
 
-- **Hebbian Rule**: Synapses strengthen when pre→post firing is causal \& repetitive ([STDP](../../003_education/kings-college/09_research_ethics_to_reviewing_and_critical_analysis/local_learning_rules.md#spike-timing-dependent-plasticity-stdp) precision: %3C50ms windows). LTP requires NMDA-R Ca²⁺ influx → AMPA-R insertion \& spine growth.
+- **Hebbian Rule**: Synapses strengthen when pre→post firing is causal \& repetitive ([STDP](../../003_education/kcl/09_research_ethics_to_reviewing_and_critical_analysis/local_learning_rules.md#spike-timing-dependent-plasticity-stdp) precision: %3C50ms windows). LTP requires NMDA-R Ca²⁺ influx → AMPA-R insertion \& spine growth.
 - **Assembly Signatures**:
   - _Auto-association_: Recurrent excitation sustains activity (persistent firing = working memory).
   - _Phase sequences_: Theta-gamma coupling chains assemblies for predictive processing.

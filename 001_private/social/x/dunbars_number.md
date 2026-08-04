@@ -6,7 +6,7 @@ Dunbar’s Number is a **theoretical limit to the number of people with whom one
 
 ## Key Concepts
 
-### Stable [Social](../../../003_education/kings-college/02_psychological_foundations/social_cognition.md) Relationships
+### Stable [Social](../../../003_education/kcl/02_psychological_foundations/social_cognition.md) Relationships
 
 - These are relationships in which an individual knows who each person is and how each person relates to every other person in the network.
 - Dunbar’s number is based on cognitive limits, not the time constraints of socialising.

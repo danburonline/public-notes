@@ -5,7 +5,7 @@ Optoresponsive materials are **substances that respond to light stimuli by chang
 ## Characteristics and Applications
 
 - **Light Sensitivity**: Optoresponsive materials can undergo changes in shape, colour, conductivity, or other properties when exposed to light. This sensitivity is typically achieved through photoactive molecules or structures that absorb light energy.
-- **Biomedical Applications**: In biomedicine, optoresponsive materials are used in drug delivery systems, tissue engineering, and [optogenetics](../../001_private/social-media/linkedin/optogenetics.md). They can be designed to release drugs or modulate cellular behaviour in response to light.
+- **Biomedical Applications**: In biomedicine, optoresponsive materials are used in drug delivery systems, tissue engineering, and [optogenetics](../../001_private/social/linkedin/optogenetics.md). They can be designed to release drugs or modulate cellular behaviour in response to light.
 - **Energy and Sensing**: Optoresponsive materials are also explored for energy harvesting and storage, as well as in sensors that detect environmental changes through light-induced responses.
 
 ## Photoswitching Mechanisms
@@ -34,7 +34,7 @@ Within [biomimetic neuromorphics](biomimetic_neuromorphics.md), optoresponsive m
 ## Related Concepts
 
 - [Biomimetic neuromorphics](biomimetic_neuromorphics.md) — the engineering context where optoresponsive materials enable neural read/write
-- [Optogenetics](../../001_private/social-media/linkedin/optogenetics.md) — the biological technique optoresponsive scaffolds are designed to support
+- [Optogenetics](../../001_private/social/linkedin/optogenetics.md) — the biological technique optoresponsive scaffolds are designed to support
 - [Sonogenetics](sonogenetics.md) — acoustic analogue for non-invasive deep-tissue control
 - [4D bioprinting](4d_bioprinting.md) — fabrication method for time-responsive constructs incorporating optoresponsive elements
 - [Biomimetics](biomimetics.md) — broader scaffold design principles underlying responsive material choices

@@ -22,7 +22,7 @@ Anisotropic microstructures are **materials with direction-dependent properties*
    - Commonly used polymers: PLGA, PCL, and collagen.
    - Applications: Muscle and nerve tissue engineering.
 
-2. **3D [Bioprinting](../../../003_education/kings-college/05_neuroscience_in_society/bioprinting.md)**:
+2. **3D [Bioprinting](../../../003_education/kcl/05_neuroscience_in_society/bioprinting.md)**:
    - Controlled deposition of biomaterials to create aligned patterns.
    - Offers high precision and customisation.
 

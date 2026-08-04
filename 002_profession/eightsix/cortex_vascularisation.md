@@ -43,7 +43,7 @@
 ### Capillary Network
 
 - Dense, lacy network around larger vessels
-- Forms [blood-brain barrier](../../003_education/kings-college/06_neuroimaging_in_mental_health/blood-brain_barrier.md)
+- Forms [blood-brain barrier](../../003_education/kcl/06_neuroimaging_in_mental_health/blood-brain_barrier.md)
 - Adapts to neuronal needs (angiogenesis/reabsorption)
 
 ## Cortical Vascular Layers

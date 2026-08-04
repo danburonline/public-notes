@@ -22,11 +22,11 @@ The human neocortex contains approximately **150,000 minicolumns**.
 Within every column, information follows a broadly conserved laminar routing that repeats across virtually all neocortical areas:
 
 1. **Layer IV** (stellate cells) — primary thalamic input
-2. **Layer II/III** ([pyramidal neurons](../kings-college/06_neuroimaging_in_mental_health/pyramidal_neurons.md)) — intracolumnar processing; output to other cortical columns
+2. **Layer II/III** ([pyramidal neurons](../kcl/06_neuroimaging_in_mental_health/pyramidal_neurons.md)) — intracolumnar processing; output to other cortical columns
 3. **Layer V** (large pyramidal neurons) — subcortical output (brainstem, spinal cord, striatum)
 4. **Layer VI** (multiform) — feedback projection back to thalamus, closing the thalamocortical loop
 
-This recurrent loop — the **canonical cortical circuit** — is modulated by [interneurons](../kings-college/07_neurodevelopmental_disorders/interneurons.md): basket cells provide fast lateral inhibition that sharpens tuning and enforces winner-takes-most competition between neighbouring columns; chandelier cells gate pyramidal output at the axon initial segment.
+This recurrent loop — the **canonical cortical circuit** — is modulated by [interneurons](../kcl/07_neurodevelopmental_disorders/interneurons.md): basket cells provide fast lateral inhibition that sharpens tuning and enforces winner-takes-most competition between neighbouring columns; chandelier cells gate pyramidal output at the axon initial segment.
 
 See [laminar cytoarchitecture](../../001_private/_general/laminar_cytoarchitecture.md) for the full layer-by-layer cellular description.
 

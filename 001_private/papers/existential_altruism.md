@@ -42,5 +42,5 @@ This stance can be termed _contingent existential altruism_. It is a rational et
 
 - **Parfit’s Teletransportation Thought Experiment**: Explores the tension between continuity and pattern replication.
 - **Ship of Theseus**: Questions whether gradual replacement affects identity.
-- **[Phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) of the Self:** Emphasises embodiment, process, and lived experience over static representation.
+- **[Phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) of the Self:** Emphasises embodiment, process, and lived experience over static representation.
 - **Neuroscientific Accounts**: Focus on emergent dynamics of the brain rather than isolated information patterns.

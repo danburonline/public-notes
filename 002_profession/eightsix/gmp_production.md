@@ -12,7 +12,7 @@
 
 - **Sterile environment** - Clean room facilities to prevent contamination
 - **Quality control** - Rigorous testing of materials and final product
-- **Standardised processes** - Validated, reproducible [bioprinting](../../003_education/kings-college/05_neuroscience_in_society/bioprinting.md) protocols
+- **Standardised processes** - Validated, reproducible [bioprinting](../../003_education/kcl/05_neuroscience_in_society/bioprinting.md) protocols
 - **Traceability** - Documentation of all steps and materials used
 - **Qualified personnel** - Trained staff following standard operating procedures
 

@@ -6,7 +6,7 @@ Eliminativism, often referred to as eliminative materialism in the philosophy of
 
 ## Key Ideas of Eliminativism
 
-1. **Rejection of Folk [Psychology](../../../003_education/kings-college/03_mental_health_in_the_community/psychiatry_vs_psychology.md#psychology)**
+1. **Rejection of Folk [Psychology](../../../003_education/kcl/03_mental_health_in_the_community/psychiatry_vs_psychology.md#psychology)**
    - Folk psychology is seen as a flawed and outdated framework.
    - Concepts like belief and desire are not grounded in scientific understanding and will likely be replaced by neuroscientific explanations.
 
@@ -29,7 +29,7 @@ Eliminativism, often referred to as eliminative materialism in the philosophy of
 - Outdated concepts like phlogiston (in chemistry) or the luminiferous ether (in physics) were eliminated by science. Similarly, terms like "belief" and "desire" may eventually be discarded.
 - Some eliminativists argue against the existence of:
   - **Qualia**: Subjective experiences.
-  - **Propositional [Attitudes](../../../003_education/kings-college/02_psychological_foundations/attitudes.md)**: Mental states involving beliefs about something.
+  - **Propositional [Attitudes](../../../003_education/kcl/02_psychological_foundations/attitudes.md)**: Mental states involving beliefs about something.
 
 ## Criticisms
 
@@ -52,6 +52,6 @@ The eliminativist position sits at the heart of contemporary debates in consciou
 
  **Global Workspace Theory (GWT)**: Models consciousness as information broadcast across brain-wide networks. The theory makes testable predictions about when conscious access occurs, providing empirical grounding that eliminativists must address.
 
- **Higher-Order Theories**: Frameworks like Higher-Order Thought (HOT) theory posit that consciousness requires meta-cognitive representations of one's own mental states. These directly engage with eliminativist denials of propositional [attitudes](../../../003_education/kings-college/02_psychological_foundations/attitudes.md) and self-awareness.
+ **Higher-Order Theories**: Frameworks like Higher-Order Thought (HOT) theory posit that consciousness requires meta-cognitive representations of one's own mental states. These directly engage with eliminativist denials of propositional [attitudes](../../../003_education/kcl/02_psychological_foundations/attitudes.md) and self-awareness.
 
 The "hard problem" of consciousness (Chalmers) remains the central challenge: explaining why and how physical processes give rise to subjective experience. Eliminativists effectively argue the hard problem is illusory, a position that requires dismissing not just folk psychology but the entire phenomenological tradition from Brentano to contemporary neurophenomenology.

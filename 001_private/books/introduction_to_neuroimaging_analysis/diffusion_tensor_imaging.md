@@ -2,7 +2,7 @@
 
 ![dti](_attachments/dti.png)
 
-Diffusion Tensor Imaging (DTI) is a **neuroimaging technique that measures the diffusion of water molecules in brain tissue**. It provides insights into the structural organisation of brain regions, particularly white matter tracts. DTI underpins [diffusion tensor tractography](../../../003_education/kings-college/04_biological_foundations_of_mental_health/diffusion_tensor_tractography.md), which reconstructs estimated fibre orientations from diffusion directionality to map the trajectory and connectivity patterns of neural fibres by analysing water diffusion along them. Critically, tractography is inferential — it does not directly visualise axons or prove true anatomical connectivity.
+Diffusion Tensor Imaging (DTI) is a **neuroimaging technique that measures the diffusion of water molecules in brain tissue**. It provides insights into the structural organisation of brain regions, particularly white matter tracts. DTI underpins [diffusion tensor tractography](../../../003_education/kcl/04_biological_foundations_of_mental_health/diffusion_tensor_tractography.md), which reconstructs estimated fibre orientations from diffusion directionality to map the trajectory and connectivity patterns of neural fibres by analysing water diffusion along them. Critically, tractography is inferential — it does not directly visualise axons or prove true anatomical connectivity.
 
 ## Key Concepts
 
@@ -46,7 +46,7 @@ The attached image illustrates diffusion tensors in different brain regions:
    - Water has some directional preference but far less structural constraint than in white matter.
 3. **White Matter Region**:
    - Diffusion tensors are highly elongated ellipsoids, indicating anisotropic diffusion (high FA).
-   - Water predominantly diffuses along [association fibres](../../../003_education/kings-college/04_biological_foundations_of_mental_health/association_fibres.md) and other coherent axonal fibre tracts.
+   - Water predominantly diffuses along [association fibres](../../../003_education/kcl/04_biological_foundations_of_mental_health/association_fibres.md) and other coherent axonal fibre tracts.
 
 ### Diffusion Metrics
 

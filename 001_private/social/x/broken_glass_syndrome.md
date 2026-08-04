@@ -1,6 +1,6 @@
 #fundamental/communication
 
-- **Definition**: Broken Glass [Syndrome](../../../003_education/kings-college/02_psychological_foundations/charles_bonnet_syndrome.md) refers to a situation where a small problem, like a broken window, is ignored or not fixed in a timely manner, leading to larger issues or a decline in standards.
+- **Definition**: Broken Glass [Syndrome](../../../003_education/kcl/02_psychological_foundations/charles_bonnet_syndrome.md) refers to a situation where a small problem, like a broken window, is ignored or not fixed in a timely manner, leading to larger issues or a decline in standards.
 - **Origin**: The term is derived from the "broken windows theory" in criminology, which suggests that visible signs of disorder and neglect lead to an increase in crime and anti-social behaviour.
 
 ## Key Points

@@ -14,7 +14,7 @@ The model is based on the concept of the neuron as an electrical circuit, which 
 
 ## Gating Variables
 
-[Ion channels](../../kings-college/01_techniques_in_neuroscience/ion_channels.md) are gated by variables that change with voltage and time, reflecting the probability of a channel being open or closed. There are three main gating variables:
+[Ion channels](../../kcl/01_techniques_in_neuroscience/ion_channels.md) are gated by variables that change with voltage and time, reflecting the probability of a channel being open or closed. There are three main gating variables:
 
 - **n**: Potassium channel activation gate
 - **m**: Sodium channel activation gate
@@ -26,7 +26,7 @@ These variables obey first-order kinetics and are described by their rate consta
 
 The fundamental equations of the Hodgkin-Huxley model include:
 
-1. **[Membrane](../../kings-college/01_techniques_in_neuroscience/resting_membrane_potential.md) equation:**
+1. **[Membrane](../../kcl/01_techniques_in_neuroscience/resting_membrane_potential.md) equation:**
 
    $$ C \frac{dV}{dt} = I - (g*{Na} m^3 h (V - E*{Na}) + g*{K} n^4 (V - E*{K}) + g*{L} (V - E*{L})) $$
 

@@ -69,4 +69,4 @@ Plasmids can encode:
 
 ## Related Concepts
 
-- [Optogenetics](../../../001_private/social-media/linkedin/optogenetics.md)
+- [Optogenetics](../../../001_private/social/linkedin/optogenetics.md)

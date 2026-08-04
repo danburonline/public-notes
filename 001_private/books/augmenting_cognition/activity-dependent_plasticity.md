@@ -8,7 +8,7 @@ Activity-dependent plasticity is the **adaptive process of the brain, changing i
 
 ### Long-Term Potentiation (LTP)
 
-- [Long-term](../../../003_education/kings-college/02_psychological_foundations/long-term_memory.md) potentiation is the process of strengthening synapses based on recent patterns of activity. (There is also a short-term potentiation (STP)).
+- [Long-term](../../../003_education/kcl/02_psychological_foundations/long-term_memory.md) potentiation is the process of strengthening synapses based on recent patterns of activity. (There is also a short-term potentiation (STP)).
 - It is considered one of the brain’s primary mechanisms for memory storage.
 
 Here are some properties of LTP:
@@ -24,22 +24,22 @@ Here are some properties of LTP:
 - Homeostatic plasticity helps to maintain the overall activity of neural networks within certain bounds.
 - It prevents the networks from becoming too active or too quiet, playing a vital role in stabilising neural function.
 
-#### [Synaptic Plasticity](../../../003_education/kings-college/04_biological_foundations_of_mental_health/synaptic_plasticity.md)
+#### [Synaptic Plasticity](../../../003_education/kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md)
 
-- [Synaptic plasticity](../../../003_education/kings-college/04_biological_foundations_of_mental_health/synaptic_plasticity.md) is a subset of homeostatic plasticity, specifically referring to changes in the efficiency or strength of synaptic transmission.
+- [Synaptic plasticity](../../../003_education/kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md) is a subset of homeostatic plasticity, specifically referring to changes in the efficiency or strength of synaptic transmission.
 - It includes long-term potentiation (LTP) and long-term depression (LTD), adjusting synaptic strength in response to increases or decreases in neural activity.
 - This plasticity plays a key role in learning and memory and in fine-tuning synaptic connections to maintain network stability.
 
 #### Intrinsic Plasticity
 
 - Intrinsic plasticity involves changes in the neuron’s intrinsic excitability independent of synaptic activity.
-- This form of plasticity adjusts the neuron’s response to inputs, often by altering the expression of [ion channels](../../../003_education/kings-college/01_techniques_in_neuroscience/ion_channels.md) or modifying the neuron’s internal regulatory mechanisms.
-- Intrinsic plasticity is a complementary mechanism to [synaptic plasticity](../../../003_education/kings-college/04_biological_foundations_of_mental_health/synaptic_plasticity.md), contributing to the homeostasis of neural circuits and the overall adaptability of the brain.
+- This form of plasticity adjusts the neuron’s response to inputs, often by altering the expression of [ion channels](../../../003_education/kcl/01_techniques_in_neuroscience/ion_channels.md) or modifying the neuron’s internal regulatory mechanisms.
+- Intrinsic plasticity is a complementary mechanism to [synaptic plasticity](../../../003_education/kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md), contributing to the homeostasis of neural circuits and the overall adaptability of the brain.
 
 ### Structural Plasticity
 
 - Structural plasticity involves changes in the brain’s physical structure.
-- Changes can include the growth of new neurons ([Neurogenesis](../../../003_education/kings-college/04_biological_foundations_of_mental_health/neurogenesis.md)), the formation of new neural connections ([synaptogenesis](../../../003_education/kings-college/04_biological_foundations_of_mental_health/synaptogenesis.md)), or the pruning away of less-used connections (synaptic pruning).
+- Changes can include the growth of new neurons ([Neurogenesis](../../../003_education/kcl/04_biological_foundations_of_mental_health/neurogenesis.md)), the formation of new neural connections ([synaptogenesis](../../../003_education/kcl/04_biological_foundations_of_mental_health/synaptogenesis.md)), or the pruning away of less-used connections (synaptic pruning).
 
 ## Key Principle
 

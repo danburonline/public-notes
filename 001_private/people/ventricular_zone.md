@@ -14,7 +14,7 @@
 
 ## Role in Brain Organoid Development
 
-- **[Neurogenesis](../../003_education/kings-college/04_biological_foundations_of_mental_health/neurogenesis.md):** The VZ is a key site for [neurogenesis](../../003_education/kings-college/04_biological_foundations_of_mental_health/neurogenesis.md), where neural stem cells divide and give rise to neurons and glial cells.
+- **[Neurogenesis](../../003_education/kcl/04_biological_foundations_of_mental_health/neurogenesis.md):** The VZ is a key site for [neurogenesis](../../003_education/kcl/04_biological_foundations_of_mental_health/neurogenesis.md), where neural stem cells divide and give rise to neurons and glial cells.
 - **Organoid Growth:** Influences the overall growth and morphological development of brain organoids.
 
 ## Research Implications

@@ -46,4 +46,4 @@ Stereotaxic (or stereotactic) neurosurgery is a minimally invasive surgical tech
 
 - **1908**: Horsley & Clarke develop stereotaxy for animal research.
 - **1940s**: Spiegel & Wycis adapt the technique for humans.
-- **Modern era**: Frameless navigation, intraoperative [MRI](../../003_education/university-of-buckingham/01_module/nice_head_injury_guide.md#mri), and robotic assistance.
+- **Modern era**: Frameless navigation, intraoperative [MRI](../../003_education/buckingham/nice_head_injury_guide.md#mri), and robotic assistance.

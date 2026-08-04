@@ -13,7 +13,7 @@ Ion channels are **pore-forming membrane proteins that allow the selective passa
 
 ## Gating and selectivity
 
-Channel opening is a **conformational change** in a multi-subunit transmembrane protein, switching the pore between closed, open, and inactivated states. A **selectivity filter** discriminates ions by size and charge, so each family preferentially passes one species — which is why Na^+ or Ca^{2+} influx depolarises, while K^+ efflux or Cl^- influx hyperpolarises. Engineered light-gated channels, as in [optogenetics](../../../001_private/social-media/linkedin/optogenetics.md), exploit this same machinery for causal manipulation of neural activity.
+Channel opening is a **conformational change** in a multi-subunit transmembrane protein, switching the pore between closed, open, and inactivated states. A **selectivity filter** discriminates ions by size and charge, so each family preferentially passes one species — which is why Na^+ or Ca^{2+} influx depolarises, while K^+ efflux or Cl^- influx hyperpolarises. Engineered light-gated channels, as in [optogenetics](../../../001_private/social/linkedin/optogenetics.md), exploit this same machinery for causal manipulation of neural activity.
 
 > [!warning] Channelopathies
 > Mutations in ion channel genes cause a broad class of diseases. **SCN1A** (Nav1.1) → Dravet syndrome and GEFS+ epilepsies; **KCNQ1** → long QT syndrome type 1; **CLCN1** → myotonia congenita (impaired muscle relaxation); **CFTR** → cystic fibrosis; **CACNA1A** → episodic ataxia and familial hemiplegic migraine. Because the same channel families recur across excitable tissues, a single gene can produce neuronal, cardiac, and skeletal muscle phenotypes.

@@ -2,7 +2,7 @@
 
 ![pns](_attachments/pns.png)
 
-The peripheral nervous system (PNS) is one of the two major nervous system divisions. It is composed of **all the nerves that branch off from the brain and spinal cord** ([Central nervous system](../../../../003_education/kings-college/04_biological_foundations_of_mental_health/central_nervous_system.md)).
+The peripheral nervous system (PNS) is one of the two major nervous system divisions. It is composed of **all the nerves that branch off from the brain and spinal cord** ([Central nervous system](../../../../003_education/kcl/04_biological_foundations_of_mental_health/central_nervous_system.md)).
 
 ## Structure
 
@@ -32,7 +32,7 @@ The peripheral nervous system (PNS) is one of the two major nervous system divis
 
 ## Sensations
 
-The peripheral nervous system plays a key role in transmitting sensory information to the [Central nervous system](../../../../003_education/kings-college/04_biological_foundations_of_mental_health/central_nervous_system.md). It handles both special and general sensations.
+The peripheral nervous system plays a key role in transmitting sensory information to the [Central nervous system](../../../../003_education/kcl/04_biological_foundations_of_mental_health/central_nervous_system.md). It handles both special and general sensations.
 
 ### Special Sensations
 

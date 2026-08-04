@@ -2,7 +2,7 @@
 
 ![physical-reservoir-computing](_attachments/physical-reservoir-computing.png)
 
-Physical Reservoir Computing (PRC) is an approach to computational processing that **utilises the dynamic responses of physical systems as computational resources.** Rather than engineering precise circuit architectures, PRC exploits the natural nonlinear dynamics of a physical substrate to project inputs into a high-dimensional [state space](../../../003_education/kings-college/08_advances_in_neuroscience/phase_space_and_phasing_rotator.md) from which a simple readout layer extracts computation. This method is part of the broader Reservoir Computing (RC) field, which emerged independently through Herbert Jaeger's Echo State Networks (2001) and Wolfgang Maass's Liquid State Machines (2002).
+Physical Reservoir Computing (PRC) is an approach to computational processing that **utilises the dynamic responses of physical systems as computational resources.** Rather than engineering precise circuit architectures, PRC exploits the natural nonlinear dynamics of a physical substrate to project inputs into a high-dimensional [state space](../../../003_education/kcl/08_advances_in_neuroscience/phase_space_and_phasing_rotator.md) from which a simple readout layer extracts computation. This method is part of the broader Reservoir Computing (RC) field, which emerged independently through Herbert Jaeger's Echo State Networks (2001) and Wolfgang Maass's Liquid State Machines (2002).
 
 ## Key Concepts
 
@@ -20,7 +20,7 @@ where $\mathbf{u}(t)$ is the input, $\mathbf{x}(t)$ the reservoir state vector, 
 
 $$\mathbf{y}(t) = W_{\text{out}}\mathbf{x}(t)$$
 
-The **echo state property** requires that the reservoir's dynamics asymptotically wash out initial conditions—ensuring that the current state depends only on recent input history, not on arbitrary starting configurations. This is analogous to the [attractor dynamics](../../../003_education/kings-college/08_advances_in_neuroscience/attractor_state.md) observed in neural circuits.
+The **echo state property** requires that the reservoir's dynamics asymptotically wash out initial conditions—ensuring that the current state depends only on recent input history, not on arbitrary starting configurations. This is analogous to the [attractor dynamics](../../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md) observed in neural circuits.
 
 ## Biological Reservoir Computing
 
@@ -42,7 +42,7 @@ This biological perspective reframes the brain not as a carefully engineered cir
 
 ## Applications
 
-- **Signal processing**: PRC is particularly adept at handling time-series data, including neural signal classification using [attractor](../../../003_education/kings-college/08_advances_in_neuroscience/attractor_state.md) identification.
+- **Signal processing**: PRC is particularly adept at handling time-series data, including neural signal classification using [attractor](../../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md) identification.
 - **Pattern recognition**: Suitable for complex pattern recognition and anomaly detection across diverse physical substrates.
 - **Robotics**: Sensor data processing and motor control, where embodied physical dynamics can be harnessed directly.
 - **Neuromorphic computing**: Carbon nanotubes, memristive devices, and organic electrochemical transistors implemented as physical reservoirs for brain-inspired hardware.
@@ -54,7 +54,7 @@ PRC provides empirical evidence that **computation is substrate-independent**: m
 However, this raises a critical question for [Consciousness Engineering](../../_general/consciousness_engineering.md): if computation is substrate-agnostic, is phenomenal experience also transferable across substrates? The [Invariant brain emulation](../../../002_profession/eightsix/invariant_brain_emulation.md) framework demands preservation of dynamical properties under substrate transformation ($O(f(b)) \equiv O(b)$), and PRC's demonstration that diverse physical systems can host equivalent dynamics provides partial support for this possibility.
 
 > [!question] Open Question
-> PRC demonstrates **computational** substrate independence, but whether this extends to **phenomenal** substrate independence remains contested. [IIT](../../videos/integrated_information_theory.md) argues that consciousness depends on intrinsic causal structure, not merely input-output equivalence—suggesting that two reservoirs with identical readouts might differ in their [phenomenology](../../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md). This tension is central to approaches like [PSNST](../../_general/psnst.md), where the challenge is preserving not just function but experience during substrate transition.
+> PRC demonstrates **computational** substrate independence, but whether this extends to **phenomenal** substrate independence remains contested. [IIT](../../videos/integrated_information_theory.md) argues that consciousness depends on intrinsic causal structure, not merely input-output equivalence—suggesting that two reservoirs with identical readouts might differ in their [phenomenology](../../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md). This tension is central to approaches like [PSNST](../../_general/psnst.md), where the challenge is preserving not just function but experience during substrate transition.
 
 ## Challenges
 

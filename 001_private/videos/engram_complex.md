@@ -33,7 +33,7 @@ This distribution spans forebrain, thalamus, midbrain, and hindbrain — demonst
 
 ## Relationship to Engrams
 
-While an [engram](engram.md) refers to the physical trace of a memory at the cellular level (specific neurons and [synaptic changes](../../003_education/kings-college/04_biological_foundations_of_mental_health/synaptic_plasticity.md)), the [engram](engram.md) complex describes the higher-order organisation of these traces into a distributed ensemble:
+While an [engram](engram.md) refers to the physical trace of a memory at the cellular level (specific neurons and [synaptic changes](../../003_education/kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md)), the [engram](engram.md) complex describes the higher-order organisation of these traces into a distributed ensemble:
 
 - **[Engram](engram.md) cells** are the building blocks; the **[engram](engram.md) complex** is the architecture
 - [Ecphory](../../003_education/epfl/01_systems_neuroscience/ecphory.md) — the retrieval process — must reactivate not just local [engram](engram.md) cells but coordinate the entire complex across regions

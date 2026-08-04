@@ -15,7 +15,7 @@ BIS is computed from a **single frontal EEG channel** via a forehead sensor. The
 
 These subparameters are combined through multiple regression equations whose weights switch with the estimated anaesthetic state. The first algorithm (~1992) was trained to predict movement at surgical incision; the widely used version 4.1 dates from 2004.
 
-The EEG signal itself originates from synchronised [postsynaptic potentials](../../../003_education/kings-college/01_techniques_in_neuroscience/types_of_biological_electrical_activity.md) of cortical pyramidal neurons, recorded at the scalp as a population-level [field potential](../../../003_education/kings-college/01_techniques_in_neuroscience/field_potential.md).
+The EEG signal itself originates from synchronised [postsynaptic potentials](../../../003_education/kcl/01_techniques_in_neuroscience/types_of_biological_electrical_activity.md) of cortical pyramidal neurons, recorded at the scalp as a population-level [field potential](../../../003_education/kcl/01_techniques_in_neuroscience/field_potential.md).
 
 ## The 0–100 Scale
 

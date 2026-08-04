@@ -4,11 +4,11 @@ Bistability in cortical neurons refers to their **ability to maintain two stable
 
 ## Mechanisms and Properties
 
-The phenomenon of bistability primarily arises from the interplay of voltage-gated [ion channels](../../../003_education/kings-college/01_techniques_in_neuroscience/ion_channels.md), particularly persistent sodium currents and calcium-activated potassium currents. These create positive feedback loops that can sustain depolarized states. A key feature of bistable neurons is hysteresis, where the neuron’s state depends not only on current inputs but also on its history.
+The phenomenon of bistability primarily arises from the interplay of voltage-gated [ion channels](../../../003_education/kcl/01_techniques_in_neuroscience/ion_channels.md), particularly persistent sodium currents and calcium-activated potassium currents. These create positive feedback loops that can sustain depolarized states. A key feature of bistable neurons is hysteresis, where the neuron’s state depends not only on current inputs but also on its history.
 
-Conceptually, the two stable states can be viewed as [attractors](../../../003_education/kings-college/08_advances_in_neuroscience/attractor_state.md) in the neuron’s state space, with a separatrix dividing their basins of attraction. This attractor dynamics underlies the neuron’s ability to maintain distinct states.
+Conceptually, the two stable states can be viewed as [attractors](../../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md) in the neuron’s state space, with a separatrix dividing their basins of attraction. This attractor dynamics underlies the neuron’s ability to maintain distinct states.
 
-[Neuromodulators](../../../003_education/kings-college/04_biological_foundations_of_mental_health/neurotransmitters_vs_neuromodulators_vs_neuropeptides.md#neuromodulators) like acetylcholine and norepinephrine can significantly influence the bistable properties of neurons, affecting their computational capabilities. While individual neurons can exhibit bistability, network interactions can further stabilize or destabilize these states, leading to emergent bistable behavior at the circuit level.
+[Neuromodulators](../../../003_education/kcl/04_biological_foundations_of_mental_health/neurotransmitters_vs_neuromodulators_vs_neuropeptides.md#neuromodulators) like acetylcholine and norepinephrine can significantly influence the bistable properties of neurons, affecting their computational capabilities. While individual neurons can exhibit bistability, network interactions can further stabilize or destabilize these states, leading to emergent bistable behavior at the circuit level.
 
 ## Functional Implications and Observations
 
@@ -18,4 +18,4 @@ To study bistable dynamics, researchers employ computational models ranging from
 
 ## Related Concepts
 
-- [Attractor State](../../../003_education/kings-college/08_advances_in_neuroscience/attractor_state.md) — Network-level attractor dynamics; bistability as a single-neuron precursor to circuit-level attractor states
+- [Attractor State](../../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md) — Network-level attractor dynamics; bistability as a single-neuron precursor to circuit-level attractor states

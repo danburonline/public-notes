@@ -6,7 +6,7 @@ Inductive bias in machine learning refers to the **inherent set of assumptions o
 
 ## Key Concepts
 
-- **Role in [Generalisation](../../../003_education/kings-college/02_psychological_foundations/generalisation_gradient.md)**: Allows algorithms to make inductive leaps from finite datasets to broader patterns; without it, learning would be impossible as infinite hypotheses could fit the data.
+- **Role in [Generalisation](../../../003_education/kcl/02_psychological_foundations/generalisation_gradient.md)**: Allows algorithms to make inductive leaps from finite datasets to broader patterns; without it, learning would be impossible as infinite hypotheses could fit the data.
 - **Types**: Includes architectural biases (e.g., CNNs favoring spatial hierarchies for images) and algorithmic biases (e.g., decision trees preferring simpler splits); can be explicit (e.g., regularisation) or implicit (e.g., model structure).
 - **Relation to Bias-Variance Tradeoff**: Strong inductive bias reduces variance but may increase bias if assumptions don't match the true data distribution; weak bias allows flexibility but risks overfitting.
 - **Examples**: In neural networks, activation functions or layer types impose biases; in SVMs, the kernel choice assumes data separability in higher dimensions.

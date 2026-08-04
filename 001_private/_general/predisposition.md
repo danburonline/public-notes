@@ -6,17 +6,17 @@ Predisposition refers to a **tendency or inclination to develop a particular con
 
 Predispositions arise from multiple sources:
 
-- **Genetic factors**: Inherited variations affecting neural development, neurotransmitter systems, or [stress](../../003_education/kings-college/03_mental_health_in_the_community/stress.md) reactivity (see [Linkage and association studies](../../003_education/kings-college/07_neurodevelopmental_disorders/linkage_and_association_studies.md))
+- **Genetic factors**: Inherited variations affecting neural development, neurotransmitter systems, or [stress](../../003_education/kcl/03_mental_health_in_the_community/stress.md) reactivity (see [Linkage and association studies](../../003_education/kcl/07_neurodevelopmental_disorders/linkage_and_association_studies.md))
 - **Epigenetic factors**: Environmental influences that modify gene expression without altering DNA sequence
-- **Early life experiences**: Developmental events shaping neural architecture and [stress](../../003_education/kings-college/03_mental_health_in_the_community/stress.md) response systems
+- **Early life experiences**: Developmental events shaping neural architecture and [stress](../../003_education/kcl/03_mental_health_in_the_community/stress.md) response systems
 
-[Endophenotypes](../../003_education/kings-college/07_neurodevelopmental_disorders/endophenotypes.md) serve as measurable intermediate markers between genetic variation and clinical phenotypes, often reflecting underlying predispositions.
+[Endophenotypes](../../003_education/kcl/07_neurodevelopmental_disorders/endophenotypes.md) serve as measurable intermediate markers between genetic variation and clinical phenotypes, often reflecting underlying predispositions.
 
 ## The Diathesis-Stress Framework
 
-The [Diathesis-stress model](../../003_education/kings-college/03_mental_health_in_the_community/diathesis-stress_model.md) formalises how predispositions interact with environmental triggers:
+The [Diathesis-stress model](../../003_education/kcl/03_mental_health_in_the_community/diathesis-stress_model.md) formalises how predispositions interact with environmental triggers:
 
-- **High diathesis**: Individuals require less [Stress](../../003_education/kings-college/03_mental_health_in_the_community/stress.md) exposure to develop a disorder
+- **High diathesis**: Individuals require less [Stress](../../003_education/kcl/03_mental_health_in_the_community/stress.md) exposure to develop a disorder
 - **Low diathesis**: Greater environmental strain needed before symptoms emerge
 - **Protective factors**: Resilience mechanisms that buffer against predisposition expression
 
@@ -24,6 +24,6 @@ The [Diathesis-stress model](../../003_education/kings-college/03_mental_health_
 
 Common predisposition-disorder relationships include:
 
-- **Schizophrenia**: Polygenic risk interacting with prenatal [stress](../../003_education/kings-college/03_mental_health_in_the_community/stress.md) or cannabis use
+- **Schizophrenia**: Polygenic risk interacting with prenatal [stress](../../003_education/kcl/03_mental_health_in_the_community/stress.md) or cannabis use
 - **Depression**: Serotonin transporter gene variants combined with life adversity
 - **Anxiety disorders**: Temperamental inhibition amplified by early trauma

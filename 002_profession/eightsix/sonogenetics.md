@@ -6,8 +6,8 @@ Sonogenetics is an emerging medical technology that **utilises acoustic waves, s
 
 ## Key Components of Sonogenetics
 
-- **Ultrasound Technology**: Sonogenetics leverages ultrasound waves to penetrate deep into tissues, including the brain, without the need for invasive procedures. This capability is particularly beneficial for neuromodulation, as it can reach areas inaccessible by other methods like [Optogenetics](../../001_private/social-media/linkedin/optogenetics.md).
-- **Genetically Encoded Mediators**: Cells are genetically modified to express sonosensitive mediators, such as mechanosensitive [ion channels](../../003_education/kings-college/01_techniques_in_neuroscience/ion_channels.md) (e.g., TRP-4, Piezo family) or thermosensitive proteins. These mediators convert ultrasound energy into cellular responses, enabling the control of neural activity or other cellular functions.
+- **Ultrasound Technology**: Sonogenetics leverages ultrasound waves to penetrate deep into tissues, including the brain, without the need for invasive procedures. This capability is particularly beneficial for neuromodulation, as it can reach areas inaccessible by other methods like [Optogenetics](../../001_private/social/linkedin/optogenetics.md).
+- **Genetically Encoded Mediators**: Cells are genetically modified to express sonosensitive mediators, such as mechanosensitive [ion channels](../../003_education/kcl/01_techniques_in_neuroscience/ion_channels.md) (e.g., TRP-4, Piezo family) or thermosensitive proteins. These mediators convert ultrasound energy into cellular responses, enabling the control of neural activity or other cellular functions.
 
 ## Mechanisms and Applications
 
@@ -15,4 +15,4 @@ Sonogenetics is an emerging medical technology that **utilises acoustic waves, s
 - **Applications**: The technology holds promise for treating various conditions, including neurological diseases (e.g., Parkinson's), cancer, and vision restoration. It offers a non-invasive method to modulate neural circuits and potentially address cellular dysfunction.
 
 > [!example]
-> Sonogenetics could be used to treat Parkinson's Disease by non-invasively modulating specific neural circuits deep within the brain using focused ultrasound. This is achieved by genetically modifying neurons to express SSMs like mechanosensitive [ion channels](../../003_education/kings-college/01_techniques_in_neuroscience/ion_channels.md).
+> Sonogenetics could be used to treat Parkinson's Disease by non-invasively modulating specific neural circuits deep within the brain using focused ultrasound. This is achieved by genetically modifying neurons to express SSMs like mechanosensitive [ion channels](../../003_education/kcl/01_techniques_in_neuroscience/ion_channels.md).

@@ -17,7 +17,7 @@ Advanced additive manufacturing creating dynamic, **cell-laden structures that e
 - **Implants**: Temperature-triggered stents, wearable biosensors.
 - **Biorobotics**: Biohybrid actuators for diagnostics.
 
-## Advantages vs. 3D [Bioprinting](../../003_education/kings-college/05_neuroscience_in_society/bioprinting.md)
+## Advantages vs. 3D [Bioprinting](../../003_education/kcl/05_neuroscience_in_society/bioprinting.md)
 
 - Dynamic adaptation mimics natural tissue behaviour.
 - Improved host integration (e.g., heart valves adjusting to physiological pressures).
