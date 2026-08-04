@@ -16,7 +16,7 @@ Radical empiricism complements James's [pragmatism](https://en.wikipedia.org/wik
 
 ## Connection to Phenomenology
 
-James's emphasis on the primacy of experience anticipates key themes in [phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md):
+James's emphasis on the primacy of experience anticipates key themes in [phenomenology](../../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md):
 
 - The **stream of consciousness** (James's term) predates Husserl's phenomenological analysis of temporal consciousness
 - The rejection of atomistic sense-data in favour of continuous, relational experience
@@ -41,7 +41,7 @@ James's radical empiricism laid groundwork for modern consciousness research:
 - **The fringe**: James identified the "fringe" of consciousness—vague, non-sensory feelings of relations—as essential to cognition, anticipating modern work on [access and phenomenal consciousness](../../videos/access_and_phenomenal_consciousness.md)
 - **Anti-reductionism**: By treating relations as real and experienced, James resisted reducing consciousness to isolated sensory atoms
 
-## Relation to [James-Lange Theory](../../003_education/kcl/02_psychological_foundations/james-lange_theory_of_emotion.md)
+## Relation to [James-Lange Theory](../../../003_education/kcl/02_psychological_foundations/james-lange_theory_of_emotion.md)
 
 James's radical empiricism is consistent with his theory of emotion: both prioritise the **body and experience** over abstract reasoning. The James-Lange theory—that emotions are perceptions of bodily changes—exemplifies the radical empiricist commitment to grounding knowledge in direct experience rather than rationalist speculation.
 
@@ -53,7 +53,7 @@ James's radical empiricism is consistent with his theory of emotion: both priori
 
 ## See Also
 
-- [Phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) — Husserl's systematic study of experience
+- [Phenomenology](../../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) — Husserl's systematic study of experience
 - [Naturalisation of phenomenology](../../articles/naturalisation_of_phenomenology.md) — Bridging first-person and third-person methods
-- [James-Lange theory of emotion](../../003_education/kcl/02_psychological_foundations/james-lange_theory_of_emotion.md) — James's theory of emotion
+- [James-Lange theory of emotion](../../../003_education/kcl/02_psychological_foundations/james-lange_theory_of_emotion.md) — James's theory of emotion
 - [Consciousness engineering](../../_general/consciousness_engineering.md) — Applied science of understanding and preserving conscious experience

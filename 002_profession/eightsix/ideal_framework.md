@@ -62,7 +62,7 @@ BCI procedures are classified by invasiveness:
 
 ## Relevance to Neural Substrate Engineering
 
-Within the [biomimetic neuromorphics](biomimetic_neuromorphics.md) programme, the IDEAL framework offers a regulatory and methodological roadmap for translating [neural grafts](../videos/neural_grafts.md) from bench to bedside:
+Within the [biomimetic neuromorphics](biomimetic_neuromorphics.md) programme, the IDEAL framework offers a regulatory and methodological roadmap for translating [neural grafts](../../001_private/videos/neural_grafts.md) from bench to bedside:
 
 - **Stage 1–2a**: Pre-pilot work such as the GelMA transport study and [stereotaxic neurosurgery](stereotaxic_neurosurgery.md) protocol development map directly onto Idea and Development phases
 - **Stage 2b–3**: Future porcine and non-human primate studies of [cortical organoid](organoid_types.md) implantation would constitute Exploration and Assessment
@@ -74,7 +74,7 @@ The framework's emphasis on prospective registration and standardised outcome re
 
 - [Stereotaxic neurosurgery](stereotaxic_neurosurgery.md) — surgical precision methodology underpinning IDEAL Stage 2a protocol refinement
 - [Biomimetic neuromorphics](biomimetic_neuromorphics.md) — the engineering discipline whose clinical translation IDEAL would structure
-- [Neural grafts](../videos/neural_grafts.md) — the specific intervention class that requires IDEAL-stage evaluation
+- [Neural grafts](../../001_private/videos/neural_grafts.md) — the specific intervention class that requires IDEAL-stage evaluation
 - [GMP production](gmp_production.md) — regulatory manufacturing standards converging with IDEAL Stage 3 assessment criteria
 - [4D bioprinting](4d_bioprinting.md) — fabrication technology whose clinical introduction would follow an IDEAL progression
 - [Invariant brain emulation](invariant_brain_emulation.md) — mathematical framework for defining success criteria in neural substrate replacement

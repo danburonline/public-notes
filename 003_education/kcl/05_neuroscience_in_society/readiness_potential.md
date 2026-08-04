@@ -43,7 +43,7 @@ The findings have been interpreted in competing ways:
 
 #### The "Free Won't" Response
 
-Libet proposed that while we may not consciously *initiate* actions, we retain the ability to consciously *veto* or inhibit them in the final moments before execution—termed **[conscious veto](09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md)** or "free won't." This capability, he argued, preserves a meaningful role for conscious will in controlling our actions.
+Libet proposed that while we may not consciously *initiate* actions, we retain the ability to consciously *veto* or inhibit them in the final moments before execution—termed **[conscious veto](../09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md)** or "free won't." This capability, he argued, preserves a meaningful role for conscious will in controlling our actions.
 
 #### Ongoing Debate
 
@@ -53,7 +53,7 @@ The controversy remains unresolved:
 - **Critics** argue Libet's paradigm (simple movements in lab settings) doesn't generalise to complex, deliberate decisions
 - **Philosophers** continue debating whether conscious veto is sufficient for genuine free will or merely an illusion of control
 
-See also: [Volition](volition.md), [Conscious Veto](09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md), [Philosophical Zombies](philosophical_zombies.md)
+See also: [Volition](../../../001_private/papers/volition.md), [Conscious Veto](../09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md), [Philosophical Zombies](../../../001_private/_general/philosophical_zombies.md)
 
 ## Current Research
 

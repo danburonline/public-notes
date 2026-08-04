@@ -58,10 +58,10 @@ What distinguishes science from non-science? No consensus:
 | Falsifiability | Popper        | Some sciences aren't easily falsifiable |
 | Paradigms      | Kuhn          | Relativises truth to consensus          |
 
-See [Philosophy of science](books/_%20general/Philosophy%20of%20science.md).
+See Philosophy of science.
 
 ## Relevance to Consciousness Research
 
-This distinction matters for consciousness studies: [IIT](../videos/integrated_information_theory.md) and other consciousness theories grapple with whether consciousness can be empirically measured or is inherently phenomenological (first-person, meaning-laden). The [hard problem of consciousness](../books/From%20Biological%20to%20Artificial%20Consciousness/The%20hard%20problem.md) represents a hermeneutic boundary—some argue it cannot be solved through positive science alone.
+This distinction matters for consciousness studies: [IIT](../videos/integrated_information_theory.md) and other consciousness theories grapple with whether consciousness can be empirically measured or is inherently phenomenological (first-person, meaning-laden). The hard problem of consciousness represents a hermeneutic boundary—some argue it cannot be solved through positive science alone.
 
 See also: [Naturalisation of phenomenology](naturalisation_of_phenomenology.md), [Noesis and noema](noesis_and_noema.md).
