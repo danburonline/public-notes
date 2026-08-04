@@ -24,7 +24,7 @@ An attractor state is a **set of points in the [phase space](phase_space_and_pha
 ## Applications in Neural Signal Processing
 
 - **Modelling neural dynamics**: attractors model how circuits stabilise to a function or behaviour — memory, pattern recognition, persistent activity. The Hopfield network (1982) is the canonical computational model: stored patterns act as point attractors, and content-addressable retrieval corresponds to settling into the nearest basin from a partial cue.
-- **Understanding neural connectivity**: attractor dynamics explain how networks achieve synchronisation and maintain distinct states. In [physical reservoir computing](../../../001_private/social-media/x/physical_reservoir_computing.md), the echo state property — where dynamics asymptotically wash out initial conditions — is a direct instance of attractor-based computation.
+- **Understanding neural connectivity**: attractor dynamics explain how networks achieve synchronisation and maintain distinct states. In [physical reservoir computing](../../../001_private/social/x/physical_reservoir_computing.md), the echo state property — where dynamics asymptotically wash out initial conditions — is a direct instance of attractor-based computation.
 - **Decision-making circuits**: in Wang-type (2002) models of prefrontal cortex, competing excitatory populations with shared inhibition form a low-dimensional dynamical system. As recurrent excitation crosses a critical value, a pitchfork bifurcation creates two stable choice attractors separated by a separatrix; decision commitment is the noise-driven trajectory crossing the separatrix into one basin. Reaction-time and accuracy emerge as continuous-state analogues of drift-diffusion models.
 - **Signal classification**: identifying attractor states in neural signals helps distinguish cognitive states or diagnose neurological conditions.
 
@@ -34,6 +34,6 @@ Attractor dynamics produce deterministic yet sometimes unpredictable behaviour. 
 
 - [Bistability in cortical neurons](../../../001_private/books/sizing_up_consciousness/bistability_in_cortical_neurons.md) — two stable firing states as a single-cell attractor pair with a separatrix between basins
 - [Decoupling of scale](../../../001_private/videos/decoupling_of_scale.md) — attractor dynamics at criticality as a source of cross-scale coupling
-- [Physical reservoir computing](../../../001_private/social-media/x/physical_reservoir_computing.md) — echo state property as attractor-based computation
+- [Physical reservoir computing](../../../001_private/social/x/physical_reservoir_computing.md) — echo state property as attractor-based computation
 - [Computational irreducibility](../../../001_private/videos/computational_irreducibility.md) — chaotic attractors and the absence of simulation shortcuts
 - [Phase space and phasing rotator](phase_space_and_phasing_rotator.md) — the geometrical substrate in which attractors live

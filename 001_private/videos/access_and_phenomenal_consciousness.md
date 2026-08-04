@@ -81,4 +81,4 @@ Different theories of consciousness treat the access/phenomenal distinction diff
 - [Neural correlate of consciousness](../books/the_feeling_of_life_itself/neural_correlate_of_consciousness.md) — empirical search for phenomenal mechanisms
 - [Consciousness engineering](../_general/consciousness_engineering.md) — practical programme built on preserving both
 - [PSNST](../_general/psnst.md) — substrate transfer protocol that must preserve both or declare its scope
-- [Phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) — the first-person study of phenomenal experience
+- [Phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) — the first-person study of phenomenal experience

@@ -7,7 +7,7 @@ Ecphory is a **cognitive process involving retrieving memories by activating the
 ## Process of Ecphory
 
 - **Interaction with Cues**: Ecphory occurs when external stimuli or internal thoughts provide cues that match or closely resemble the context in which the memory was initially encoded.
-- **Triggering [Memory](../../kings-college/02_psychological_foundations/working_memory_model.md) Recall**: These cues trigger the neural mechanisms that ‘awaken’ the [engram](../../../001_private/videos/engram.md), allowing for the conscious recollection of the memory.
+- **Triggering [Memory](../../kcl/02_psychological_foundations/working_memory_model.md) Recall**: These cues trigger the neural mechanisms that ‘awaken’ the [engram](../../../001_private/videos/engram.md), allowing for the conscious recollection of the memory.
 
 ## Ecphory vs. [Engram](../../../001_private/videos/engram.md)
 

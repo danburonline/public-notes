@@ -50,7 +50,7 @@ Neocortical connectivity operates at two scales:
 ### Inter-regional (Long-range)
 
 - **Corticocortical association tracts**: Connect frontal, parietal, temporal, and occipital association areas
-- **Commissural fibres** (via [corpus callosum](kings-college/05_neuroscience_in_society/corpus_callosum.md)): Connect homotopic and heterotopic regions across hemispheres
+- **Commissural fibres** (via [corpus callosum](kcl/05_neuroscience_in_society/corpus_callosum.md)): Connect homotopic and heterotopic regions across hemispheres
 - **Projection fibres**: Layers III and V project to striatum, brainstem, and spinal cord
 
 Connectivity topology underpins the [distributed brain](epfl/01_systems_neuroscience/distributed_brain.md) model. No single region is the seat of consciousness or cognition; function emerges from network interactions.
@@ -86,7 +86,7 @@ Your computational neuroanatomy and brain atlas research intersects with neocort
 
 ### Population Atlases
 
-- **MNI/ICBM AVG152**: Probabilistic stereotaxic template based on 152 MRI scans. See: [Talairach and MNI templates](kings-college/06_neuroimaging_in_mental_health/talairach_atlas_and_mni-icbm_avg152.md)
+- **MNI/ICBM AVG152**: Probabilistic stereotaxic template based on 152 MRI scans. See: [Talairach and MNI templates](kcl/06_neuroimaging_in_mental_health/talairach_atlas_and_mni-icbm_avg152.md)
 - **CerebrA** (Collins et al., 2020, _Scientific Data_): Cortical and subcortical labeling registered to MNI-ICBM2009c
 
 ## Biomimetic Neuromorphics
@@ -108,9 +108,9 @@ The neocortex operates across multiple scales:
 | Scale | Structure | Function |
 |---|---|---|
 | **Molecular** | Ion channels, receptors, neurotransmitters | Synaptic transmission, plasticity |
-| **Cellular** | Pyramidal neurons, [interneurons](../kings-college/07_neurodevelopmental_disorders/interneurons.md) | Excitation/inhibition balance, integration |
+| **Cellular** | Pyramidal neurons, [interneurons](../kcl/07_neurodevelopmental_disorders/interneurons.md) | Excitation/inhibition balance, integration |
 | **Circuit** | Cortical columns, layers | Local feature extraction, hierarchical processing |
 | **Regional** | Frontal, parietal, temporal, occipital lobes | Domain-specialised processing |
 | **Network** | Resting-state networks, long-range tracts | Global integration, consciousness |
 
-See: [scales of neuronal organisation](kings-college/06_neuroimaging_in_mental_health/scales_of_neuronal_organisation.md)
+See: [scales of neuronal organisation](kcl/06_neuroimaging_in_mental_health/scales_of_neuronal_organisation.md)

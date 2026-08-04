@@ -43,7 +43,7 @@ Several formal tools help structure appraisal:
 
 ## Related Concepts
 
-- [Peer review methodologies](../../003_education/kings-college/09_research_ethics_to_reviewing_and_critical_analysis/peer_review_methodologies.md) — the gatekeeping layer that precedes publication but does not replace critical appraisal
+- [Peer review methodologies](../../003_education/kcl/09_research_ethics_to_reviewing_and_critical_analysis/peer_review_methodologies.md) — the gatekeeping layer that precedes publication but does not replace critical appraisal
 - [Correlation coefficient](../books/essential_math_for_data_science/correlation_coefficient.md) — a common statistic that is easily misinterpreted as causation
 - [Bayesian brain hypothesis](../papers/bayesian_brain_hypothesis.md) — an example of how prior beliefs shape evidence interpretation, both in brains and in scientists
 

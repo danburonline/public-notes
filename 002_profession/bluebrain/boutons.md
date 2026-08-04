@@ -6,8 +6,8 @@ Boutons are **small swellings or protrusions at the terminal ends of axons** in 
 
 ## Function
 
-- **Role in [Synapses](../../003_education/kings-college/04_biological_foundations_of_mental_health/types_of_synapses.md)**: Boutons are key components of synapses, the junctions where neurons communicate with each other or other cell types.
-- **Containment of [Neurotransmitters](../../003_education/kings-college/04_biological_foundations_of_mental_health/neurotransmitters_vs_neuromodulators_vs_neuropeptides.md#neurotransmitters)**: They contain synaptic vesicles filled with neurotransmitters, the chemicals used for neural communication.
+- **Role in [Synapses](../../003_education/kcl/04_biological_foundations_of_mental_health/types_of_synapses.md)**: Boutons are key components of synapses, the junctions where neurons communicate with each other or other cell types.
+- **Containment of [Neurotransmitters](../../003_education/kcl/04_biological_foundations_of_mental_health/neurotransmitters_vs_neuromodulators_vs_neuropeptides.md#neurotransmitters)**: They contain synaptic vesicles filled with neurotransmitters, the chemicals used for neural communication.
 
 ## Mechanism
 

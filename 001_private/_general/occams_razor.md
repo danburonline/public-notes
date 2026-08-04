@@ -18,7 +18,7 @@ When multiple hypotheses explain the same data equally well, prefer the one with
 - **Science** — Parsimony is a criterion in theory choice (alongside falsifiability, explanatory scope, and coherence). Ptolemaic epicycles could fit any orbit with enough circles; Kepler's ellipses required far fewer parameters for equal accuracy.
 - **Machine learning** — Occam's razor manifests as [inductive bias](../books/_general/inductive_bias.md): regularisation penalises model complexity, and the preference for simpler decision boundaries helps prevent overfitting. The principle that "the simplest model consistent with the data should be preferred" is foundational to generalisation theory.
 - **Medicine** — "When you hear hoofbeats, think horses, not zebras": diagnostic reasoning defaults to common explanations before rare ones, an application of base-rate parsimony.
-- **Comparative psychology** — [Morgan's Canon](../../003_education/kings-college/02_psychological_foundations/morgans_cannon.md) explicitly applies Occam's razor to animal behaviour: do not attribute higher cognitive processes when simpler mechanisms (associative learning, instinct) suffice.
+- **Comparative psychology** — [Morgan's Canon](../../003_education/kcl/02_psychological_foundations/morgans_cannon.md) explicitly applies Occam's razor to animal behaviour: do not attribute higher cognitive processes when simpler mechanisms (associative learning, instinct) suffice.
 
 ## Limitations
 
@@ -32,7 +32,7 @@ Occam's razor is best understood as a **default heuristic**, not an epistemic wa
 
 ## Related Concepts
 
-- [Morgan's Canon](../../003_education/kings-college/02_psychological_foundations/morgans_cannon.md) — the parsimony principle applied to animal cognition
+- [Morgan's Canon](../../003_education/kcl/02_psychological_foundations/morgans_cannon.md) — the parsimony principle applied to animal cognition
 - [Inductive bias](../books/_general/inductive_bias.md) — Occam's razor as the most fundamental bias in machine learning
 - [Emergent properties](../videos/emergent_properties.md) — when complexity defies parsimonious reduction
 - [Strong emergence](../videos/strong_emergence.md) — the philosophical claim that some phenomena genuinely resist simplification

@@ -20,7 +20,7 @@
 
 The brain itself appears to be a multiply realising system at every scale:
 
-- **[Synaptic plasticity](../../../003_education/kings-college/04_biological_foundations_of_mental_health/synaptic_plasticity.md)** and **[Hebbian plasticity](../../../003_education/kings-college/04_biological_foundations_of_mental_health/hebbian_synaptic_plasticity.md)** show that the _same_ memory, skill, or perceptual representation can be re-encoded across different synaptic configurations as connections potentiate, depress, and rewire over time.
+- **[Synaptic plasticity](../../../003_education/kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md)** and **[Hebbian plasticity](../../../003_education/kcl/04_biological_foundations_of_mental_health/hebbian_synaptic_plasticity.md)** show that the _same_ memory, skill, or perceptual representation can be re-encoded across different synaptic configurations as connections potentiate, depress, and rewire over time.
 - **Cortical reorganisation** after stroke, sensory loss, or developmental damage demonstrates that functional roles can migrate to new tissue while preserving behavioural and (presumably) phenomenal outcomes.
 - **[Hemispherotomy](../sizing_up_consciousness/hemispherotomy.md)** provides arguably the most striking empirical case: surgical disconnection of an entire hemisphere reduces the conscious substrate by roughly 50 % while preserving unified phenomenal experience and personal identity. If consciousness were tied to a specific physical aggregate rather than to a pattern of integration, this should be impossible.
 - **Inter-individual variability.** No two human brains share identical microcircuitry, yet humans share a recognisably common mental life — already a low-key form of multiple realisability within a single species.
@@ -28,13 +28,13 @@ The brain itself appears to be a multiply realising system at every scale:
 ## Computational Evidence
 
 - **Universal computation.** Any Turing-complete substrate can simulate any other, so the _computational_ profile of a brain is, in principle, implementable across radically different physical media.
-- **[Physical reservoir computing](../../social-media/x/physical_reservoir_computing.md).** Mechanical springs, optical cavities, memristive devices, and living neuronal cultures can all serve as computational reservoirs given appropriate nonlinear dynamics — direct empirical support for computational substrate independence (Maass et al. 2002; Dale et al. 2019; Yada et al. 2021).
+- **[Physical reservoir computing](../../social/x/physical_reservoir_computing.md).** Mechanical springs, optical cavities, memristive devices, and living neuronal cultures can all serve as computational reservoirs given appropriate nonlinear dynamics — direct empirical support for computational substrate independence (Maass et al. 2002; Dale et al. 2019; Yada et al. 2021).
 - **Artificial neural networks.** Distributed representations in deep networks implement perceptual and linguistic competences once thought to require biological cortex, with no commitment to any specific physical realiser.
 
 ## Implications in Consciousness Research
 
 - **Diversity of conscious entities.** Different creatures — including those with radically different brain structures, or non-biological systems with equivalent functional organisation — might be conscious in a sense comparable to human consciousness.
-- **Challenge to reductionism.** Understanding [mind](../../../003_education/kings-college/02_psychological_foundations/theory_of_mind.md) is not exhausted by understanding any single physical realiser; mental kinds may be irreducibly functional.
+- **Challenge to reductionism.** Understanding [mind](../../../003_education/kcl/02_psychological_foundations/theory_of_mind.md) is not exhausted by understanding any single physical realiser; mental kinds may be irreducibly functional.
 - **Tests for theories of consciousness.** Multiple realisability provides a constraint: any adequate theory must say _what_ it is about a physical system that makes it conscious, in terms general enough to cover heterogeneous realisers.
   - [Integrated information theory](../../videos/integrated_information_theory.md) answers with intrinsic causal structure ($\Phi$), explicitly substrate-neutral.
   - [Higher-order theories](../sizing_up_consciousness/higher-order_theories_of_consciousness.md) answer with metacognitive representation of one's own states.
@@ -67,7 +67,7 @@ A useful refinement is to distinguish _what_ is multiply realisable:
 
 | Level | Substrate independence | Empirical support | Critical theory |
 |---|---|---|---|
-| Computation (Turing equivalence) | Strong | Universal computation; [physical reservoir computing](../../social-media/x/physical_reservoir_computing.md) | Uncontroversial |
+| Computation (Turing equivalence) | Strong | Universal computation; [physical reservoir computing](../../social/x/physical_reservoir_computing.md) | Uncontroversial |
 | Access consciousness | Plausible | Distributed processing in AI; cortical reorganisation | Functionalist consensus |
 | Phenomenal consciousness | Contested | [Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md); [hemispherotomy](../sizing_up_consciousness/hemispherotomy.md) | Open — IIT yes, biological naturalism no |
 | Personal identity | Contested | [PSNST](../../_general/psnst.md) gradualism; teletransport intuitions | Depends on continuity criterion |
@@ -83,14 +83,14 @@ Conflating these levels causes most of the heat in debates about whether _the_ m
 - [Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md) — Chalmers' argument for organisational invariance
 - [Integrated information theory](../../videos/integrated_information_theory.md) — substrate-neutral consciousness metric
 - [Strong emergence](../../videos/strong_emergence.md) — principal threat to phenomenal multiple realisability
-- [Physical reservoir computing](../../social-media/x/physical_reservoir_computing.md) — empirical computational substrate independence
+- [Physical reservoir computing](../../social/x/physical_reservoir_computing.md) — empirical computational substrate independence
 - [Hemispherotomy](../sizing_up_consciousness/hemispherotomy.md) — empirical biological substrate flexibility
 - [Consciousness engineering](../../_general/consciousness_engineering.md) — engineering programme built on this thesis
 - [PSNST](../../_general/psnst.md) — substrate-transfer protocol
 - [Invariant brain emulation](../../../002_profession/eightsix/invariant_brain_emulation.md) — formal preservation criterion
 - [Biomimetic neuromorphics](../../../002_profession/eightsix/biomimetic_neuromorphics.md) — engineering realisation
 - [Access and phenomenal consciousness](../../videos/access_and_phenomenal_consciousness.md) — what kind of mind is multiply realisable
-- [Theory of mind](../../../003_education/kings-college/02_psychological_foundations/theory_of_mind.md), [types of intelligence](../../_general/types_of_intelligence.md) — adjacent concepts
+- [Theory of mind](../../../003_education/kcl/02_psychological_foundations/theory_of_mind.md), [types of intelligence](../../_general/types_of_intelligence.md) — adjacent concepts
 
 > [!summary] One-line takeaway
 > Multiple realisability is the bridge between Aristotelian form, computationalist mind, and the engineering claim that a person can survive a change of substrate. Its scope across _computation_, _access_, and _phenomenal_ consciousness is what every serious theory of mind, and every honest mind-uploading proposal, must specify.

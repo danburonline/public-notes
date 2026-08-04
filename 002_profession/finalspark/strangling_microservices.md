@@ -78,7 +78,7 @@ Continue extracting services until the monolith is either:
 - **API Gateways**: Kong, AWS API Gateway, Traefik
 - **Service Mesh**: Istio, Linkerd (for traffic management)
 - **Feature Flags**: Gradual rollout control
-- **[Pull-based deployments](../blue-brain-project/pull-based_deployments.md)**: GitOps for managing service configurations
+- **[Pull-based deployments](../bluebrain/pull-based_deployments.md)**: GitOps for managing service configurations
 
 > [!tip] Start Small
 > Begin with a low-risk, well-understood component. Success builds confidence and reveals patterns for subsequent extractions.

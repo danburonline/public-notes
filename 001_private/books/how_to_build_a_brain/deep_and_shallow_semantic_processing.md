@@ -16,7 +16,7 @@ Semantic processing is a **cognitive science and linguistics concept relating to
 
 ---
 
-## Shallow [Semantic](../../../003_education/kings-college/02_psychological_foundations/long-term_memory.md#semantic-memory) Processing
+## Shallow [Semantic](../../../003_education/kcl/02_psychological_foundations/long-term_memory.md#semantic-memory) Processing
 
 ### Description
 

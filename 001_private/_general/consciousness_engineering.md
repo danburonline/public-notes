@@ -1,6 +1,6 @@
 #lead/consciousnessengineering
 
-**Consciousness engineering** is the applied science of understanding, preserving, and potentially transferring conscious experience across substrates. It bridges [phenomenological](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) inquiry with neuroscience, mathematics, and engineering to address questions of identity, experience, and substrate independence.
+**Consciousness engineering** is the applied science of understanding, preserving, and potentially transferring conscious experience across substrates. It bridges [phenomenological](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) inquiry with neuroscience, mathematics, and engineering to address questions of identity, experience, and substrate independence.
 
 ## Flagship Approach
 
@@ -15,7 +15,7 @@
 
 ## Phenomenology and Consciousness
 
-- [Phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md): Methodological foundation for studying subjective experience
+- [Phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md): Methodological foundation for studying subjective experience
 - [Philosophical zombies](philosophical_zombies.md): Thought experiment probing the relationship between function and experience
 - [Access and phenomenal consciousness](../videos/access_and_phenomenal_consciousness.md): Distinguishing information availability from subjective experience
 - [Naturalisation of phenomenology](../articles/naturalisation_of_phenomenology.md): Bridging first-person and third-person methods
@@ -24,12 +24,12 @@
 
 ## Computational Frameworks
 
-- [Attractor state](../../003_education/kings-college/08_advances_in_neuroscience/attractor_state.md): Dynamical systems perspective on stable conscious states
-- [Phase space and phasing rotator](../../003_education/kings-college/08_advances_in_neuroscience/phase_space_and_phasing_rotator.md): Mathematical tools for analysing neural dynamics
+- [Attractor state](../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md): Dynamical systems perspective on stable conscious states
+- [Phase space and phasing rotator](../../003_education/kcl/08_advances_in_neuroscience/phase_space_and_phasing_rotator.md): Mathematical tools for analysing neural dynamics
 - [Combinatorial explosion](../../004_subsidiary/carboncopies/combinatorial_explosion.md): Computational challenges in whole brain emulation
 
 ## Clinical and Applied
 
-- [Conscious veto](../../003_education/kings-college/09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md): Free will and the timing of conscious intervention
+- [Conscious veto](../../003_education/kcl/09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md): Free will and the timing of conscious intervention
 - [Hemispherotomy](../books/sizing_up_consciousness/hemispherotomy.md): Empirical evidence that consciousness survives major brain removal
 - [Quantitative consciousness index](../papers/quantitative_consciousness_index.md): Measuring consciousness objectively for clinical monitoring

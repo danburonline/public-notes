@@ -32,15 +32,15 @@ Successful grafting depends on the transplanted tissue establishing a functional
 
 - **Vascularisation** — perfusion via host capillaries; see [cortex vascularisation](../../002_profession/eightsix/cortex_vascularisation.md). Avascular grafts develop necrotic cores beyond ~200 μm.
 - **Axonal pathfinding** — graft-derived axons must navigate the host parenchyma, guided by molecular gradients and engineered [topographic guidance cues](../../002_profession/eightsix/topographic_guidance_cues.md).
-- **[Synaptogenesis](../../003_education/kings-college/04_biological_foundations_of_mental_health/synaptogenesis.md)** — formation of pre- and post-synaptic specialisations across the graft–host boundary.
+- **[Synaptogenesis](../../003_education/kcl/04_biological_foundations_of_mental_health/synaptogenesis.md)** — formation of pre- and post-synaptic specialisations across the graft–host boundary.
 - **Trophic support** — sustained delivery of [neurotrophic factors](../../002_profession/eightsix/neurotrophic_factors.md) (BDNF, GDNF, NGF) supports survival and integration; commonly engineered via biomaterial-based controlled release.
-- **[Neurogenesis](../../003_education/kings-college/04_biological_foundations_of_mental_health/neurogenesis.md) coupling** — host endogenous neurogenic niches may be recruited or suppressed by the graft microenvironment.
+- **[Neurogenesis](../../003_education/kcl/04_biological_foundations_of_mental_health/neurogenesis.md) coupling** — host endogenous neurogenic niches may be recruited or suppressed by the graft microenvironment.
 
 The image above shows the cellular interface in fluorescence microscopy: graft-derived (green) and host (red) neural populations intermingling along a clear boundary, with a visible needle track from stereotaxic delivery and DAPI-stained nuclei (blue) framing the surrounding tissue architecture.
 
 ## Delivery and Surgical Considerations
 
-Grafts are typically delivered via [stereotaxic neurosurgery](../../002_profession/eightsix/stereotaxic_neurosurgery.md) using MRI/CT-guided coordinates with 1–2 mm accuracy. Delivery vehicles range from cell suspensions through hydrogels (GelMA, fibrin) to pre-formed scaffolds produced by [bioprinting](../../003_education/kings-college/05_neuroscience_in_society/bioprinting.md) or [4D bioprinting](../../002_profession/eightsix/4d_bioprinting.md). Brain shift, haemorrhage, and target migration are the principal procedural risks.
+Grafts are typically delivered via [stereotaxic neurosurgery](../../002_profession/eightsix/stereotaxic_neurosurgery.md) using MRI/CT-guided coordinates with 1–2 mm accuracy. Delivery vehicles range from cell suspensions through hydrogels (GelMA, fibrin) to pre-formed scaffolds produced by [bioprinting](../../003_education/kcl/05_neuroscience_in_society/bioprinting.md) or [4D bioprinting](../../002_profession/eightsix/4d_bioprinting.md). Brain shift, haemorrhage, and target migration are the principal procedural risks.
 
 ## Immunology
 

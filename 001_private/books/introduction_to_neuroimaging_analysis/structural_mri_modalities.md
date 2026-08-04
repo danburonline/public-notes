@@ -11,7 +11,7 @@
 
 ## **DIR (Double Inversion Recovery)**
 
-- **Usage**: Provides high contrast resolution between grey matter (GM) and white matter (WM). It is particularly useful for detecting cortical and subcortical lesions in [central nervous system](../../../003_education/kings-college/04_biological_foundations_of_mental_health/central_nervous_system.md) diseases.
+- **Usage**: Provides high contrast resolution between grey matter (GM) and white matter (WM). It is particularly useful for detecting cortical and subcortical lesions in [central nervous system](../../../003_education/kcl/04_biological_foundations_of_mental_health/central_nervous_system.md) diseases.
 - **Mechanism**: Applies two 180° inversion radio-frequency pulses to suppress two tissue types simultaneously (e.g., WM and CSF or GM and CSF). This selective suppression enhances the conspicuity of specific tissue types.
 
 ---

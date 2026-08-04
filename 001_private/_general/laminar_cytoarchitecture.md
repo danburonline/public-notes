@@ -11,16 +11,16 @@ Laminar cytoarchitecture refers to the **specific arrangement of neuronal cell b
 The neocortex is organised into six horizontal layers, each with unique types of neurons and connections. Layer prominence varies considerably across cortical areas, reflecting their specialised functions:
 
 - **Layer I (Molecular / Plexiform Layer)**: Very cell-sparse, lying directly beneath the pia. Contains mainly dendrites and axons from deeper-layer neurons plus a small population of interneurons (including Cajal–Retzius cells in early development). Important for intracortical integration and horizontal interactions across columns.
-- **Layer II (External Granular Layer)**: Contains a mixture of small [pyramidal neurons](../../003_education/kings-college/06_neuroimaging_in_mental_health/pyramidal_neurons.md) and small granule (stellate) cells, plus interneurons. Contributes to corticocortical connections, particularly to nearby cortical areas, and participates in local processing within columns.
-- **Layer III (External Pyramidal Layer)**: Contains small–medium [pyramidal neurons](../../003_education/kings-college/06_neuroimaging_in_mental_health/pyramidal_neurons.md) plus interneurons. Major source of corticocortical association and callosal (commissural) fibres, projecting to other ipsilateral and contralateral cortical regions. Critical for horizontal integration across cortical areas.
+- **Layer II (External Granular Layer)**: Contains a mixture of small [pyramidal neurons](../../003_education/kcl/06_neuroimaging_in_mental_health/pyramidal_neurons.md) and small granule (stellate) cells, plus interneurons. Contributes to corticocortical connections, particularly to nearby cortical areas, and participates in local processing within columns.
+- **Layer III (External Pyramidal Layer)**: Contains small–medium [pyramidal neurons](../../003_education/kcl/06_neuroimaging_in_mental_health/pyramidal_neurons.md) plus interneurons. Major source of corticocortical association and callosal (commissural) fibres, projecting to other ipsilateral and contralateral cortical regions. Critical for horizontal integration across cortical areas.
 - **Layer IV (Internal Granular Layer)**: Dominated by densely packed small stellate/granule cells. Principal recipient of thalamocortical sensory input, especially prominent in primary sensory (koniocortical) areas where it is thick and well differentiated. Gives rise to short-range projections to supragranular and infragranular layers.
-- **Layer V (Internal Pyramidal Layer)**: Contains large [pyramidal neurons](../../003_education/kings-college/06_neuroimaging_in_mental_health/pyramidal_neurons.md), including Betz cells in primary motor cortex. Major source of corticofugal output to subcortical targets: brainstem, spinal cord, and some thalamic and basal ganglia nuclei. Prominent in motor and association areas; less developed in highly granular sensory cortex.
+- **Layer V (Internal Pyramidal Layer)**: Contains large [pyramidal neurons](../../003_education/kcl/06_neuroimaging_in_mental_health/pyramidal_neurons.md), including Betz cells in primary motor cortex. Major source of corticofugal output to subcortical targets: brainstem, spinal cord, and some thalamic and basal ganglia nuclei. Prominent in motor and association areas; less developed in highly granular sensory cortex.
 - **Layer VI (Multiform / Fusiform Layer)**: Heterogeneous mix of fusiform and smaller pyramidal cells plus interneurons. Sends dense corticothalamic projections back to thalamic nuclei and also contributes to intracortical and commissural fibres. Gradually transitions into the underlying white matter, acting as an interface between cortex and subcortical structures.
 
 ### 2. Functional Specialisation
 
 - Different cortical areas have variations in the prominence of these layers, reflecting their specialised functions. Sensory cortices (e.g. primary visual cortex, V1) are **granular** with a thick, elaborated layer IV for processing sensory input, whereas motor and limbic regions are **dysgranular or agranular**, with a poorly developed or absent layer IV and prominent layers V–VI.
-- The motor cortex has a thicker layer V, accommodating large [pyramidal neurons](../../003_education/kings-college/06_neuroimaging_in_mental_health/pyramidal_neurons.md) that project to motor neurons in the spinal cord.
+- The motor cortex has a thicker layer V, accommodating large [pyramidal neurons](../../003_education/kcl/06_neuroimaging_in_mental_health/pyramidal_neurons.md) that project to motor neurons in the spinal cord.
 - The six-layer scheme applies to neocortex; allocortical regions (e.g. hippocampus, piriform cortex) have fewer layers and different laminar patterns, also studied under cytoarchitecture.
 
 ### 3. Cortical Columns and Minicolumns
@@ -41,7 +41,7 @@ Laminar cytoarchitecture underpins hierarchical cortical processing via layer-sp
 
 ## Techniques for Studying Laminar Cytoarchitecture
 
-- **Histological Staining**: [Nissl staining](../../003_education/kings-college/01_techniques_in_neuroscience/nissl_staining.md) is commonly used to highlight neuronal cell bodies and distinguish the cortical layers.
+- **Histological Staining**: [Nissl staining](../../003_education/kcl/01_techniques_in_neuroscience/nissl_staining.md) is commonly used to highlight neuronal cell bodies and distinguish the cortical layers.
 - **Immunohistochemistry**: Identifies specific proteins within different layers, providing insights into the functional roles of each layer.
 - **Electrophysiology**: Measures electrical activity across layers to understand how information flows through the cortical columns.
 - **MR Microscopy and Histology**: High-resolution ex vivo MRI and myelin-sensitive imaging reveal laminar structure in 3D, complementing classical 2D histology.

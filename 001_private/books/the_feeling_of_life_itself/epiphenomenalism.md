@@ -13,7 +13,7 @@ Epiphenomenalism is a theory in philosophy of mind that posits **mental states o
    - Consciousness does not influence neural activity or behaviour
 
 3. **Implications**:
-   - [Conscious](../../../003_education/kings-college/09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md) will is illusory
+   - [Conscious](../../../003_education/kcl/09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md) will is illusory
    - Correlation between thoughts and actions explained by common physical cause
 
 ## Contrasting Theories

@@ -18,4 +18,4 @@ Reductionism faces challenges when applied to systems exhibiting [emergent prope
 
 ## Contrast with Holistic Approaches
 
-[Phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md) offers an alternative methodology that studies phenomena as unified wholes rather than decomposed parts. The [Naturalisation of phenomenology](../articles/naturalisation_of_phenomenology.md) represents an attempt to bridge reductionist neuroscience with holistic first-person methods, acknowledging that subjective experience may require both perspectives for complete understanding.
+[Phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) offers an alternative methodology that studies phenomena as unified wholes rather than decomposed parts. The [Naturalisation of phenomenology](../articles/naturalisation_of_phenomenology.md) represents an attempt to bridge reductionist neuroscience with holistic first-person methods, acknowledging that subjective experience may require both perspectives for complete understanding.

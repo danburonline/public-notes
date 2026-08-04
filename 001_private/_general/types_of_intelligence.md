@@ -16,14 +16,14 @@ The study of intelligence types attempts to **categorise the distinct cognitive 
 8. **Naturalist Intelligence** — discriminating among living things and natural patterns; draws on ventral temporal cortex for fine-grained category recognition
 
 > [!warning]
-> Gardner's Multiple Intelligences have been criticised as a [neuromyth](../../003_education/kings-college/05_neuroscience_in_society/neuromyths.md): they were derived without empirical factor analysis or statistical validation. Most of these "intelligences" can be reduced to acquired skills or existing cognitive constructs. Gardner himself added further types over his career, weakening the original taxonomy.
+> Gardner's Multiple Intelligences have been criticised as a [neuromyth](../../003_education/kcl/05_neuroscience_in_society/neuromyths.md): they were derived without empirical factor analysis or statistical validation. Most of these "intelligences" can be reduced to acquired skills or existing cognitive constructs. Gardner himself added further types over his career, weakening the original taxonomy.
 
 ## Cattell: Fluid and Crystallised Intelligence
 
 Proposed by [Raymond Cattell](https://en.wikipedia.org/wiki/Raymond_Cattell), this two-factor model distinguishes:
 
 - **Fluid Intelligence (Gf)** — the capacity to reason and solve novel problems independent of prior knowledge; involves identifying patterns, relationships, and extrapolating from them using logic. Relies on working memory and executive control. Tends to decline during late adulthood.
-- **Crystallised Intelligence (Gc)** — the ability to apply accumulated skills, knowledge, and experience. Depends on accessing [long-term memory](../../003_education/kings-college/02_psychological_foundations/long-term_memory.md); reflected in vocabulary, general knowledge, and verbal fluency. Improves with age as a cumulative measure.
+- **Crystallised Intelligence (Gc)** — the ability to apply accumulated skills, knowledge, and experience. Depends on accessing [long-term memory](../../003_education/kcl/02_psychological_foundations/long-term_memory.md); reflected in vocabulary, general knowledge, and verbal fluency. Improves with age as a cumulative measure.
 
 Gf and Gc are complementary: Gf solves the novel problem, Gc draws on the solved precedent. Together they underpin Spearman's general factor _g_, derived through factor analysis of broad cognitive test batteries.
 
@@ -48,9 +48,9 @@ What does the brain reveal about whether intelligence is singular or manifold?
 
 ## Related Concepts
 
-- [Long-term memory](../../003_education/kings-college/02_psychological_foundations/long-term_memory.md) — substrate of crystallised intelligence
+- [Long-term memory](../../003_education/kcl/02_psychological_foundations/long-term_memory.md) — substrate of crystallised intelligence
 - [Neocortex](../../003_education/_general/neocortex.md) — biological substrate of higher cognition
 - [Cortical column](../../003_education/_general/cortical_column.md) — the elementary computational unit of [neocortex](../../003_education/_general/neocortex.md)
 - [Thousand Brains Theory](../../002_profession/eightsix/thousand_brains_theory.md) — distributed intelligence via columnar voting
 - [Emergent properties](../videos/emergent_properties.md) — intelligence as an irreducible macro-level phenomenon
-- [Neuromyths](../../003_education/kings-college/05_neuroscience_in_society/neuromyths.md) — category containing Gardner's empirically unvalidated framework
+- [Neuromyths](../../003_education/kcl/05_neuroscience_in_society/neuromyths.md) — category containing Gardner's empirically unvalidated framework

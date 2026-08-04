@@ -6,7 +6,7 @@
 
 ## Key Points
 
-1. The brain has specialised networks for controlling [attention](../../../003_education/kings-college/02_psychological_foundations/endogenous_and_exogenous_attention.md) — selecting what sensory information to prioritise.
+1. The brain has specialised networks for controlling [attention](../../../003_education/kcl/02_psychological_foundations/endogenous_and_exogenous_attention.md) — selecting what sensory information to prioritise.
 2. Alongside attentional control, the brain constructs an **attention schema**: a simplified, schematised model of the attention process itself.
 3. This model is a caricature, not an accurate depiction — much as the brain's model of a coffee cup is a compressed representation, not a pixel-perfect reconstruction.
 4. The schema includes the notion of a non-physical entity — what we label "awareness" or "consciousness" — as a modelling convenience.
@@ -25,4 +25,4 @@ Unlike [Integrated Information Theory](../../videos/integrated_information_theor
 - [Integrated Information Theory](../../videos/integrated_information_theory.md) — consciousness as irreducible causal integration (contrast with AST's model-based account)
 - [Neural correlate of consciousness](../the_feeling_of_life_itself/neural_correlate_of_consciousness.md) — what the brain is doing when consciousness occurs
 - [Consciousness engineering](../../_general/consciousness_engineering.md) — AST's implication: if awareness is a model, it may be engineerable
-- [Attention](../../../003_education/kings-college/02_psychological_foundations/endogenous_and_exogenous_attention.md) — the process AST claims consciousness models
+- [Attention](../../../003_education/kcl/02_psychological_foundations/endogenous_and_exogenous_attention.md) — the process AST claims consciousness models

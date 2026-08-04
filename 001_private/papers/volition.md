@@ -14,14 +14,14 @@ Volition, or will, is the **cognitive process by which individuals make decision
 
 - **Prefrontal [Cortex](../../003_education/_general/neocortex.md) (PFC)**: Planning and decision-making.
 - **Supplementary Motor Area (SMA)**: Preparation and initiation of movements.
-- **[Basal Ganglia](../../003_education/kings-college/04_biological_foundations_of_mental_health/basal_ganglia.md)**: Action selection and regulation.
+- **[Basal Ganglia](../../003_education/kcl/04_biological_foundations_of_mental_health/basal_ganglia.md)**: Action selection and regulation.
 - **Parietal Cortex**: Integration of sensory information and spatial decision-making.
 
-### [Neurotransmitters](../../003_education/kings-college/04_biological_foundations_of_mental_health/neurotransmitters_vs_neuromodulators_vs_neuropeptides.md)
+### [Neurotransmitters](../../003_education/kcl/04_biological_foundations_of_mental_health/neurotransmitters_vs_neuromodulators_vs_neuropeptides.md)
 
 - **Dopamine**: Motivation and reward-based decisions.
 - **Serotonin**: Mood modulation and decision-making.
-- **Acetylcholine**: [Attention](../../003_education/kings-college/02_psychological_foundations/endogenous_and_exogenous_attention.md) and motor activity modulation.
+- **Acetylcholine**: [Attention](../../003_education/kcl/02_psychological_foundations/endogenous_and_exogenous_attention.md) and motor activity modulation.
 
 ## Theories of Volition
 
@@ -35,5 +35,5 @@ These propose that volition involves both automatic (unconscious) and controlled
 
 ## Ethical Considerations
 
-- **Free [Will](../../003_education/kings-college/09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md#implications-for-free-will) vs. Determinism**: Examines the influence of unconscious processes on decision-making.
+- **Free [Will](../../003_education/kcl/09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md#implications-for-free-will) vs. Determinism**: Examines the influence of unconscious processes on decision-making.
 - **Neuroenhancement**: Raises ethical questions about autonomy and fairness in enhancing volitional control.

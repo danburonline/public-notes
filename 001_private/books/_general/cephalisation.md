@@ -10,7 +10,7 @@ Cephalisation emerged alongside bilateral symmetry in early bilaterian animals:
 - **Cambrian explosion**: Rapid diversification of head structures with sensory organs
 - **Vertebrate evolution**: Progressive encephalisation with expanded forebrains
 
-The presence of [Homologous structures](../../../003_education/kings-college/01_techniques_in_neuroscience/homologous_structures.md) across species—such as conserved gene expression patterns in head development—supports a common evolutionary origin for cephalic organisation.
+The presence of [Homologous structures](../../../003_education/kcl/01_techniques_in_neuroscience/homologous_structures.md) across species—such as conserved gene expression patterns in head development—supports a common evolutionary origin for cephalic organisation.
 
 ## Neurobiological Basis
 

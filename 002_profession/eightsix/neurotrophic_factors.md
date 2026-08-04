@@ -8,7 +8,7 @@ Neurotrophic factors (NTFs) are **specialised biomolecules, primarily peptides a
 
 - **Neurotrophins**: Including NGF, BDNF, NT-3
 - **GFLs**: Glial cell-line derived neurotrophic factor family
-- **Neuropoietic [Cytokines](../../003_education/kings-college/08_advances_in_neuroscience/cytokines.md)**: Including CNTF
+- **Neuropoietic [Cytokines](../../003_education/kcl/08_advances_in_neuroscience/cytokines.md)**: Including CNTF
 
 ## Signalling Mechanisms
 
@@ -27,11 +27,11 @@ Neurotrophic factors (NTFs) are **specialised biomolecules, primarily peptides a
 > Use case: Repairing a peripheral nerve gap with a BDNF-releasing conduit.
 >
 > - Objective: Promote axonal regrowth and survival across a 10–15 mm nerve gap.
-> - NTF choice: BDNF (± NGF) from the [Neurotrophic factors](neurotrophic_factors.md) family to enhance neurite extension, survival, and [synaptic plasticity](../../003_education/kings-college/04_biological_foundations_of_mental_health/synaptic_plasticity.md) via Trk signalling.
+> - NTF choice: BDNF (± NGF) from the [Neurotrophic factors](neurotrophic_factors.md) family to enhance neurite extension, survival, and [synaptic plasticity](../../003_education/kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md) via Trk signalling.
 > - Scaffold: Aligned electrospun PCL/PLGA fibre conduit with a heparinised gelatin hydrogel core for controlled release.
 > - Delivery strategy: Biomaterial-based sustained release (zero-order target ~2–4 weeks) matched to early regenerative phases; optional gradient (proximal→distal) to guide directionality.
 > - Optional augmentations:
 >   - Cell-based: MSCs engineered to secrete NTFs for paracrine support.
 >   - Electrical stimulation to synergise with NTF-driven plasticity.
-> - Readouts: Increased neurite length and myelinated fibre count, reduced [apoptosis](../../003_education/kings-college/08_advances_in_neuroscience/apoptosis.md), improved functional indices (e.g., SFI), and enhanced reinnervation of target muscle.
+> - Readouts: Increased neurite length and myelinated fibre count, reduced [apoptosis](../../003_education/kcl/08_advances_in_neuroscience/apoptosis.md), improved functional indices (e.g., SFI), and enhanced reinnervation of target muscle.
 > - Practical notes: Validate retained bioactivity post-encapsulation, tune loading (e.g., tens–hundreds ng/mL range) and release kinetics, and avoid burst release that can downregulate receptor sensitivity.

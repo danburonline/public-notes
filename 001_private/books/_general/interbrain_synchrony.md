@@ -2,7 +2,7 @@
 
 ![interbrain-synchrony](_attachments/interbrain-synchrony.png)
 
-**Interbrain synchrony** refers to the phenomenon in which the brains of two or more individuals show correlated patterns of neural activity during social interaction. It reflects **neural coupling** between individuals and underlies social bonding, [empathy](../../social-media/linkedin/spectrum_of_empathy.md), joint attention, and mutual understanding.
+**Interbrain synchrony** refers to the phenomenon in which the brains of two or more individuals show correlated patterns of neural activity during social interaction. It reflects **neural coupling** between individuals and underlies social bonding, [empathy](../../social/linkedin/spectrum_of_empathy.md), joint attention, and mutual understanding.
 
 ## Mechanisms
 

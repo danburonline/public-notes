@@ -2,17 +2,17 @@
 
 ![noesis-noema](_attachments/noesis-noema.jpg)
 
-Noesis and noema are **two core Husserlian ideas in [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md).** Noesis names the lived act of thinking, perceiving, or judgement, while noema names the intended object or content of that act. Together they offer a clear process and product distinction that helps in analysing conscious experience, from everyday reading to formal research.
+Noesis and noema are **two core Husserlian ideas in [phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md).** Noesis names the lived act of thinking, perceiving, or judgement, while noema names the intended object or content of that act. Together they offer a clear process and product distinction that helps in analysing conscious experience, from everyday reading to formal research.
 
 - **Noesis**:
-  In [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md), a branch of philosophy, Noesis refers to the act of conscious thinking or cognition. It’s the part of the mind involving thought, understanding, and self-awareness.
+  In [phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md), a branch of philosophy, Noesis refers to the act of conscious thinking or cognition. It’s the part of the mind involving thought, understanding, and self-awareness.
 
 - **Noema**:
   Noema, on the other hand, refers to the object or content of thought, perception, or a similar mental act.
 
 ## Origin
 
-Both concepts were central to the philosophy of [Edmund Husserl](https://en.wikipedia.org/wiki/Edmund_Husserl), the founder of [phenomenology](../../003_education/kings-college/03_mental_health_in_the_community/phenomenology.md). They are also integral to the phenomenological research method.
+Both concepts were central to the philosophy of [Edmund Husserl](https://en.wikipedia.org/wiki/Edmund_Husserl), the founder of [phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md). They are also integral to the phenomenological research method.
 
 ## Key Distinctions
 

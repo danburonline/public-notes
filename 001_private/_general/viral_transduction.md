@@ -19,9 +19,9 @@ Viral transduction is a **method to introduce genetic material into cells using 
 
 ---
 
-## Example: [Optogenetics](../social-media/linkedin/optogenetics.md)
+## Example: [Optogenetics](../social/linkedin/optogenetics.md)
 
-[Optogenetics](../social-media/linkedin/optogenetics.md) uses light to control genetically modified neurons expressing light-sensitive [ion channels](../../003_education/kings-college/01_techniques_in_neuroscience/ion_channels.md).
+[Optogenetics](../social/linkedin/optogenetics.md) uses light to control genetically modified neurons expressing light-sensitive [ion channels](../../003_education/kcl/01_techniques_in_neuroscience/ion_channels.md).
 
 ### Channelrhodopsin (ChR2)
 
@@ -33,7 +33,7 @@ Viral transduction is a **method to introduce genetic material into cells using 
 - **Function**: Yellow light (590 nm) activates NpHR, hyperpolarising and inhibiting neurons.
 - **Application**: Viral transduction introduces NpHR into neurons, enabling precise inhibition with yellow light.
 
-### Applications of [Optogenetics](../social-media/linkedin/optogenetics.md)
+### Applications of [Optogenetics](../social/linkedin/optogenetics.md)
 
 - **Neural Circuit Mapping**: Selective activation/inhibition of neurons to map circuits.
 - **Behavioral Studies**: Control of neuronal activity during behaviour experiments.

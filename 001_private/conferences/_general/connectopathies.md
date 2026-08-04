@@ -19,7 +19,7 @@
 ### Functional Impact
 
 - Affects cognitive and behavioural processes
-- Example: In ASD, altered connectivity in [visual pathways](../../../003_education/kings-college/02_psychological_foundations/visual_pathways.md) and attention networks
+- Example: In ASD, altered connectivity in [visual pathways](../../../003_education/kcl/02_psychological_foundations/visual_pathways.md) and attention networks
 
 ### Detection Methods
 

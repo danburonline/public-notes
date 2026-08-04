@@ -33,7 +33,7 @@ Biomimetics in tissue engineering refers to the **design and fabrication of mate
 
 ## Advanced Approaches
 
-- **3D [Bioprinting](../../003_education/kings-college/05_neuroscience_in_society/bioprinting.md)**: Creating complex tissue architectures
+- **3D [Bioprinting](../../003_education/kcl/05_neuroscience_in_society/bioprinting.md)**: Creating complex tissue architectures
 - **Smart Materials**: Responsive to cellular signals
 - **Stem Cell Integration**: Controlled differentiation in biomimetic environments
 - **Nanoscale Engineering**: Mimicking ECM ultrastructure
