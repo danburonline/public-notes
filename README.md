@@ -1,4 +1,4 @@
-# Public Notes
+## Public Notes
 
 This is my public, Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten): a working knowledge base for learning across disciplines, connecting them, and turning those connections into research, engineering, and new intellectual frameworks.
 
@@ -6,11 +6,11 @@ The notes bring together personal study, professional work, formal education, su
 
 Browse website version at [publish.obsidian.md/danburonline](https://publish.obsidian.md/danburonline).
 
-## Skill Architecture
+### Skill Architecture
 
 I organise my skills in three layers. The layers describe how each skill functions within my work, not how valuable it is.
 
-### 1. Lead
+#### 1. Lead
 
 Lead skills are the highest level of synthesis: fields in which several core competencies converge into a distinct direction of work. Consciousness engineering is currently the clearest lead, bringing together neuroscience, phenomenology, mathematics, physics, artificial intelligence, and engineering.
 
@@ -18,7 +18,7 @@ Lead skills are the highest level of synthesis: fields in which several core com
 - #lead/consciousnessengineering
 - #lead/??? (draft: venture science)
 
-### 2. Core
+#### 2. Core
 
 Core skills are deep disciplinary competencies. Each can stand on its own, while their combinations make lead-level synthesis possible.
 
@@ -32,7 +32,7 @@ Core skills are deep disciplinary competencies. Each can stand on its own, while
 - #core/softwaredevelopment
 - #core/interactiondesign
 
-### 3. Fundamental
+#### 3. Fundamental
 
 Fundamental skills are the personal capacities beneath every discipline. They shape how I reason, create, and communicate.
 

@@ -1,7 +1,6 @@
 ## AGENTS.md
 
-**Generated:** 2026-01-05
-**Commit:** 7276287
+**Updated:** 2026-08-04
 **Branch:** main
 
 ### OVERVIEW
@@ -15,7 +14,7 @@ Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes co
 ```txt
 Notes/
 ├── _inbox/           # Staging: prompts, sketches (fully gitignored)
-├── 001_private/      # Personal learning: books, videos, papers, articles, social, etc. media
+├── 001_private/      # Personal learning taxonomy: books, videos, papers, articles, social, etc.
 ├── 002_profession/   # Work: blue brain project, eightsix science, finalspark, idun, etc.
 │   └── eightsix/
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
@@ -25,6 +24,8 @@ Notes/
 
 **Numbered prefixes** = priority/visibility. Lower = more active.
 
+**Privacy boundary:** `001_private/` is a personal organisational label, not a confidentiality boundary. Its tracked content belongs to the public parent Notes repository. Daniel's private meta-level planning, prompts, sketches, and provisional information belong in the gitignored `_inbox/`; credentials and organisation records belong in their own controlled systems, not this vault.
+
 ### WHERE TO LOOK
 
 | Task                          | Location                                   | Notes                                                 |
@@ -32,6 +33,8 @@ Notes/
 | Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/the_feeling_of_life_itself/` |
 | Add work-related note         | `002_profession/{company}/`                | Match existing company folders                        |
 | Add course material           | `003_education/{institution}/{module}/`    | Match existing module naming                          |
+| Add Buckingham material       | `003_education/buckingham/`                | Flat exception: notes at root, files in `_attachments/` |
+| Add EPFL material             | `003_education/epfl/`                      | Notes at root; images in `_attachments/`; slides remain separately nested |
 | Store image/attachment        | `{note_dir}/_attachments/`                 | Keep each attachment near the note that references it |
 | AI prompt logs                | `_inbox/prompts/`                          | Auto-generated filenames with timestamps              |
 
@@ -74,7 +77,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 #### Naming
 
 - **Notes**: Lowercase with underscores (e.g., `bayes_theorem.md`)
-- **Folders**: Lowercase with underscores (e.g., `the_feeling_of_life_itself/`). Existing hyphens are preserved (e.g., `kcl/`)
+- **Folders**: Lowercase with underscores (e.g., `the_feeling_of_life_itself/`). Existing hyphens are preserved (e.g., `taxonomy_and_metaphysics_of_mind-uploading/`)
 - **`_general`**: Prefix underscore for miscellaneous concepts within a category
 
 #### Spelling
@@ -97,7 +100,7 @@ Multiple tags allowed: `#core/artificialintelligence #core/computationalmathemat
 ### UNIQUE STYLES
 
 - **Source-based organisation**: Notes grouped by where learned (book, video, paper, podcast, social media)
-- **Institution nesting**: Education notes nested by school then module number
+- **Institution nesting**: Education notes are normally nested by school then module number; Buckingham and EPFL notes are intentionally flat within their institution folders
 - **Register/Sketches**: `_inbox/register/` and `_inbox/sketches/` mirror main folder structure for drafts
 
 ### COMMANDS
@@ -140,7 +143,7 @@ When working with notes:
 - **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image via the note's nearest `_attachments/` folder (or other relative image path) and visually examine it using `look_at` to better understand the note's content before refining or expanding
 - **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools — CLI reflects Obsidian's current state (plugins, linter, resolved links)
 - **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
-- **Searching content**: Use `obsidian search` for full-text vault search; use `mcp_grep` for pattern/regex searches across raw files
+- **Searching content**: Use `obsidian search` for full-text vault search; use `rg` for pattern/regex searches across raw files
 - **Database views**: Use the `obsidian-bases` skill to create `.base` files for structured views (e.g., tables of notes by tag, folder, or property)
 - **Publishing boundary**: Before publishing from Obsidian, verify that `_inbox/` and every private or independently governed local checkout are excluded from the site's publish selection. Git ignores alone do not enforce publication exclusions.
 
