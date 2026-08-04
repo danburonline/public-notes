@@ -14,7 +14,7 @@ Conceptually, the two stable states can be viewed as [attractors](../../../003_e
 
 Bistability is thought to play a crucial role in working memory, decision-making, and the maintenance of persistent activity in the absence of ongoing stimulation. It has been observed in various cortical regions, including the prefrontal cortex and sensory areas, often using intracellular recordings and pharmacological manipulations.
 
-To study bistable dynamics, researchers employ computational models ranging from detailed [Hodgkin-Huxley](../../../003_education/epfl/02_computational_neuroscience/hodgkin-huxley_model.md) type models with additional currents to simplified models like the FitzHugh-Nagumo model.
+To study bistable dynamics, researchers employ computational models ranging from detailed [Hodgkin-Huxley](../../../003_education/epfl/hodgkin-huxley_model.md) type models with additional currents to simplified models like the FitzHugh-Nagumo model.
 
 ## Related Concepts
 

@@ -18,8 +18,8 @@ In silico complements [In vivo vs in vitro](in_vivo_vs_in_vitro.md) approaches. 
 
 Computational models vary in biological detail:
 
-- [Hodgkin-Huxley model](../../epfl/02_computational_neuroscience/hodgkin-huxley_model.md): Biophysically detailed, models individual ion channel kinetics
-- [Leaky integrate-and-fire neurons](../../epfl/02_computational_neuroscience/leaky_integrate-and-fire_neurons.md): Simplified, captures spike timing without channel dynamics
+- [Hodgkin-Huxley model](../../epfl/hodgkin-huxley_model.md): Biophysically detailed, models individual ion channel kinetics
+- [Leaky integrate-and-fire neurons](../../epfl/leaky_integrate-and-fire_neurons.md): Simplified, captures spike timing without channel dynamics
 - [Point neuron](../../../002_profession/bluebrain/point_neuron.md): Abstract, represents firing rate without spatial extent
 
 [NeuroML](../../../004_subsidiary/_general/neuroml.md) provides a standardised XML format for exchanging neural models across simulation platforms.
@@ -30,8 +30,8 @@ In silico approaches span multiple levels of abstraction, from biophysically det
 
 | Model                                                                                                            | Biological Detail           | Computational Cost | Use Case                 |
 | ---------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------ | ------------------------ |
-| [Hodgkin-Huxley model](../../epfl/02_computational_neuroscience/hodgkin-huxley_model.md)                         | High (ion channel kinetics) | High               | Understanding biophysics |
-| [Leaky integrate-and-fire neurons](../../epfl/02_computational_neuroscience/leaky_integrate-and-fire_neurons.md) | Medium (spike timing)       | Medium             | Network simulations      |
+| [Hodgkin-Huxley model](../../epfl/hodgkin-huxley_model.md)                         | High (ion channel kinetics) | High               | Understanding biophysics |
+| [Leaky integrate-and-fire neurons](../../epfl/leaky_integrate-and-fire_neurons.md) | Medium (spike timing)       | Medium             | Network simulations      |
 | [Point neuron](../../../002_profession/bluebrain/point_neuron.md)                                       | Low (firing rate)           | Low                | Large-scale models       |
 
 [NeuroML](../../../004_subsidiary/_general/neuroml.md) enables interoperability between these approaches.

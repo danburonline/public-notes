@@ -11,9 +11,9 @@ The concept of the distributed brain highlights that **brain functions are not c
 
 ## A “Simple” Example: Playing Tennis
 
-- **[Visual](../../kcl/02_psychological_foundations/visual_search.md) Cortex:** Engaged in judging the tennis ball’s size, motion, and velocity.
+- **[Visual](../kcl/02_psychological_foundations/visual_search.md) Cortex:** Engaged in judging the tennis ball’s size, motion, and velocity.
 - **Amygdala and Brainstem:** Adjust heart rate and respiration; work with the hypothalamus to motivate.
 - **Premotor and Motor Cortex:** Involved in signalling the spinal cord to hit the ball.
-- **[Basal ganglia](../../kcl/04_biological_foundations_of_mental_health/basal_ganglia.md):** Activated to recall learned movements, contributing to muscle memory.
+- **[Basal ganglia](../kcl/04_biological_foundations_of_mental_health/basal_ganglia.md):** Activated to recall learned movements, contributing to muscle memory.
 - **Cerebellum, Parietal and Somatosensory Cortex:** Provide a sense of the body’s position and feedback on movement.
 - **Hippocampus:** Responsible for memory functions, like remembering successful hits for later recall or storytelling.

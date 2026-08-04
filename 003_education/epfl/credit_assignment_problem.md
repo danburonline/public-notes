@@ -14,14 +14,14 @@ The credit assignment problem is a fundamental challenge in various fields, incl
 ## In Neuroscience
 
 - **Definition**: In neuroscience, the credit assignment problem refers to understanding how the brain determines which neurons and synaptic connections contribute to specific behaviours or learning outcomes.
-- **Importance**: Addressing this problem is key to comprehending how brain learning, memory formation, and [synaptic plasticity](../../kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md) occur.
+- **Importance**: Addressing this problem is key to comprehending how brain learning, memory formation, and [synaptic plasticity](../kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md) occur.
 - **Challenges**: The brain’s complex network of neurons and the delayed relationship between actions and their outcomes complicate credit attribution to specific neural activities.
-- **Solutions**: Theories like dopamine-based reward prediction error signalling hypothesise mechanisms the brain might use to solve the credit assignment problem. [Dopamine](../../kcl/04_biological_foundations_of_mental_health/hedonic_system.md#role-of-dopamine) neurons signal the difference between expected and actual rewards, guiding the adjustment of synaptic strengths.
+- **Solutions**: Theories like dopamine-based reward prediction error signalling hypothesise mechanisms the brain might use to solve the credit assignment problem. [Dopamine](../kcl/04_biological_foundations_of_mental_health/hedonic_system.md#role-of-dopamine) neurons signal the difference between expected and actual rewards, guiding the adjustment of synaptic strengths.
 
 ---
 
 ## Key Concepts
 
-- **[Synaptic](../../kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md) Plasticity:** The ability of synapses to strengthen or weaken over time, based on their activity levels. This is fundamental to learning and memory in the brain.
+- **[Synaptic](../kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md) Plasticity:** The ability of synapses to strengthen or weaken over time, based on their activity levels. This is fundamental to learning and memory in the brain.
 - **Reward Prediction Error**: A hypothesis in neuroscience that dopamine neurons signal the difference between expected and received rewards, providing feedback that helps the brain learn from experiences.
-- **[Operant](../../kcl/02_psychological_foundations/operant_learning.md) Conditioning:** A learning process through which the strength of a behaviour is modified by reinforcement or punishment.
+- **[Operant](../kcl/02_psychological_foundations/operant_learning.md) Conditioning:** A learning process through which the strength of a behaviour is modified by reinforcement or punishment.

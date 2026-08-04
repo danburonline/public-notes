@@ -2,7 +2,7 @@
 
 ![cartesian-materialism](_attachments/cartesian-materialism.png)
 
-**Cartesian Materialism**, a term coined by [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) in [*Consciousness Explained*](https://en.wikipedia.org/wiki/Consciousness_Explained) (1991), describes a common intuitive error in conceptualising the mind: **embracing materialism theoretically (mind as brain processes) while subconsciously retaining the dualistic idea of a central "theatre" where consciousness converges.** Dennett diagnoses it as the "often unacknowledged residue of [René Descartes's](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) dualism in modern materialist views" — a flawed model that hinders scientific understanding by assuming a unified locus for experience despite clear evidence of [distributed brain](../../003_education/epfl/01_systems_neuroscience/distributed_brain.md) processing.
+**Cartesian Materialism**, a term coined by [Daniel Dennett](https://en.wikipedia.org/wiki/Daniel_Dennett) in [*Consciousness Explained*](https://en.wikipedia.org/wiki/Consciousness_Explained) (1991), describes a common intuitive error in conceptualising the mind: **embracing materialism theoretically (mind as brain processes) while subconsciously retaining the dualistic idea of a central "theatre" where consciousness converges.** Dennett diagnoses it as the "often unacknowledged residue of [René Descartes's](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) dualism in modern materialist views" — a flawed model that hinders scientific understanding by assuming a unified locus for experience despite clear evidence of [distributed brain](../../003_education/epfl/distributed_brain.md) processing.
 
 > [!quote] Dennett's definition (Consciousness Explained, 1991, p. 107)
 > "Cartesian materialism is the view that there is a crucial finish line or boundary somewhere in the brain, marking a place where the order of arrival equals the order of 'presentation' in experience because what happens there is what you are conscious of."
@@ -86,7 +86,7 @@ If there is no central observer, there is no special thing to preserve in [consc
 - [multiple_realisability](../books/how_to_build_a_brain/multiple_realisability.md) — substrate-independence rationale
 - [multiple_realisability_and_functionalism](../books/how_to_build_a_brain/multiple_realisability_and_functionalism.md) — bridge to functionalism
 - [philosophical_zombies](../_general/philosophical_zombies.md) — the canonical target of Dennett's rejection
-- [distributed_brain](../../003_education/epfl/01_systems_neuroscience/distributed_brain.md) — the neural evidence
+- [distributed_brain](../../003_education/epfl/distributed_brain.md) — the neural evidence
 - [access_and_phenomenal_consciousness](access_and_phenomenal_consciousness.md) — the distinction Dennett denies
 - [integrated_information_theory](integrated_information_theory.md) — partial escape via causal structure
 - [michael_grazianos_attention_schema_theory](../books/_general/michael_grazianos_attention_schema_theory.md) — cleanest escape

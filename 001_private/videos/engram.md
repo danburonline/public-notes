@@ -19,7 +19,7 @@ Contemporary findings demonstrate:
 
 ## Relationship to Memory Systems
 
-- **[Ecphory](../../003_education/epfl/01_systems_neuroscience/ecphory.md)**: The retrieval process that reactivates engrams through cue-dependent mechanisms
+- **[Ecphory](../../003_education/epfl/ecphory.md)**: The retrieval process that reactivates engrams through cue-dependent mechanisms
 - **[Hebbian assemblies](../../004_subsidiary/_general/hebbian_assemblies.md)**: Theoretical framework explaining how engrams form through correlated activity
 - **[Modal model of memory](../../003_education/kcl/02_psychological_foundations/modal_model_of_memory.md)**: Engrams represent the substrate for long-term memory storage
 - **[Synaptic plasticity](../../003_education/kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md)**: The cellular mechanism by which engrams are encoded
