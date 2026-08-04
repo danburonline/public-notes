@@ -29,7 +29,7 @@ with bright soliton solution $\psi(x,t) = A\,\mathrm{sech}(Ax)\,e^{iA^2t/2}$ (th
 
 ## Heimburg-Jackson Model of Nerve Impulse
 
-In contrast to the [Hodgkin-Huxley model](../../../003_education/epfl/02_computational_neuroscience/hodgkin-huxley_model.md), Heimburg and Jackson (2005) proposed that the action potential is a **mechanical density soliton** in the lipid bilayer, propagating near the gel-to-fluid phase transition. The governing equation is a modified Boussinesq form:
+In contrast to the [Hodgkin-Huxley model](../../../003_education/epfl/hodgkin-huxley_model.md), Heimburg and Jackson (2005) proposed that the action potential is a **mechanical density soliton** in the lipid bilayer, propagating near the gel-to-fluid phase transition. The governing equation is a modified Boussinesq form:
 
 $$\frac{\partial^2 \Delta\rho}{\partial t^2} = \frac{\partial}{\partial x}\!\left[\left(c_0^2 + p\,\Delta\rho + q\,(\Delta\rho)^2\right)\frac{\partial\Delta\rho}{\partial x}\right] - h\,\frac{\partial^4\Delta\rho}{\partial x^4}$$
 

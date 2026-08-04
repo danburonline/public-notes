@@ -7,7 +7,7 @@
 
 ### Brain Network Disorder
 
-- Affects [distributed brain](../../../003_education/epfl/01_systems_neuroscience/distributed_brain.md) areas, not localised deficits
+- Affects [distributed brain](../../../003_education/epfl/distributed_brain.md) areas, not localised deficits
 - Impacts areas involved in social information processing
 
 ### Connectivity Patterns

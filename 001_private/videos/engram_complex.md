@@ -36,7 +36,7 @@ This distribution spans forebrain, thalamus, midbrain, and hindbrain — demonst
 While an [engram](engram.md) refers to the physical trace of a memory at the cellular level (specific neurons and [synaptic changes](../../003_education/kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md)), the [engram](engram.md) complex describes the higher-order organisation of these traces into a distributed ensemble:
 
 - **[Engram](engram.md) cells** are the building blocks; the **[engram](engram.md) complex** is the architecture
-- [Ecphory](../../003_education/epfl/01_systems_neuroscience/ecphory.md) — the retrieval process — must reactivate not just local [engram](engram.md) cells but coordinate the entire complex across regions
+- [Ecphory](../../003_education/epfl/ecphory.md) — the retrieval process — must reactivate not just local [engram](engram.md) cells but coordinate the entire complex across regions
 - [Hebbian assemblies](../../004_subsidiary/_general/hebbian_assemblies.md) provide the wiring rule; the [engram](engram.md) complex is the resulting multi-regional circuit
 
 ## Computational Parallels
@@ -44,7 +44,7 @@ While an [engram](engram.md) refers to the physical trace of a memory at the cel
 The distributed nature of [engram](engram.md) complexes finds direct analogues in artificial intelligence:
 
 - **Distributed representations** in neural networks — no single unit encodes a concept; activation patterns across many units do
-- **Content-addressable memory** — retrieval via partial cues mirrors how [ecphory](../../003_education/epfl/01_systems_neuroscience/ecphory.md) can reactivate an entire complex from a fragment
+- **Content-addressable memory** — retrieval via partial cues mirrors how [ecphory](../../003_education/epfl/ecphory.md) can reactivate an entire complex from a fragment
 - **Holographic models** (Gabor, 1968; Pribram, 1971) — interference patterns distribute information across the entire storage medium, such that any part contains a degraded version of the whole
 
 ## Implications for Consciousness Engineering

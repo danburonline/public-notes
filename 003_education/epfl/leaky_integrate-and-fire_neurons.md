@@ -2,7 +2,7 @@
 
 ![lif](_attachments/lif.png)
 
-The [Leaky](../../../001_private/books/neural_networks_from_scratch/activation_functions_overview.md#leaky-relu) Integrate-and-Fire (LIF) model is a **simplified version of a neuron used in computational neuroscience.** It captures the essential features of neuronal activity and is computationally less complex than the [Hodgkin-Huxley model](hodgkin-huxley_model.md).
+The [Leaky](../../001_private/books/neural_networks_from_scratch/activation_functions_overview.md#leaky-relu) Integrate-and-Fire (LIF) model is a **simplified version of a neuron used in computational neuroscience.** It captures the essential features of neuronal activity and is computationally less complex than the [Hodgkin-Huxley model](hodgkin-huxley_model.md).
 
 ## Core Concept
 
@@ -19,7 +19,7 @@ where:
 - $\tau_m = R_m C_m$ is the membrane time constant,
 - $R_m$ is the membrane resistance,
 - $C_m$ is the membrane capacitance,
-- $V_{rest}$ is the [resting membrane potential](../../kcl/01_techniques_in_neuroscience/resting_membrane_potential.md),
+- $V_{rest}$ is the [resting membrane potential](../kcl/01_techniques_in_neuroscience/resting_membrane_potential.md),
 - $I_e$ is the external current.
 
 When $V$ reaches the threshold voltage $V_{threshold}$, the neuron fires an action potential, and $V$ is reset to the resting potential $V_{rest}$

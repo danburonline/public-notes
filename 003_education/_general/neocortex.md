@@ -53,7 +53,7 @@ Neocortical connectivity operates at two scales:
 - **Commissural fibres** (via [corpus callosum](kcl/05_neuroscience_in_society/corpus_callosum.md)): Connect homotopic and heterotopic regions across hemispheres
 - **Projection fibres**: Layers III and V project to striatum, brainstem, and spinal cord
 
-Connectivity topology underpins the [distributed brain](epfl/01_systems_neuroscience/distributed_brain.md) model. No single region is the seat of consciousness or cognition; function emerges from network interactions.
+Connectivity topology underpins the [distributed brain](../epfl/distributed_brain.md) model. No single region is the seat of consciousness or cognition; function emerges from network interactions.
 
 ## Role in Consciousness
 
