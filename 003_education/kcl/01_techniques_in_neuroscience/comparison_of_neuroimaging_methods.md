@@ -16,7 +16,7 @@ Neuroimaging techniques occupy different positions in a trade-off space defined 
 
 ## Trade-off Dimensions
 
-### Temporal vs Spatial Resolution
+### Temporal Vs Spatial Resolution
 
 Techniques with high temporal resolution (EEG, MEG) measure electrical/magnetic activity directly but suffer from the inverse problem—inferring source locations from scalp recordings is mathematically ill-posed. Haemodynamic methods (fMRI, PET, NIRS) offer superior anatomical localisation but measure blood flow changes that lag neural activity by seconds.
 
