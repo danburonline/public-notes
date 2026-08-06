@@ -1,4 +1,4 @@
-#core/computationalmathematics #core/artificialintelligence
+#lead/computationalphilosophy #core/artificialintelligence
 
 ![supervenience](_attachments/supervenience.jpg)
 

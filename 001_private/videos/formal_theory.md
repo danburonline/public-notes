@@ -1,4 +1,4 @@
-#core/computationalmathematics #fundamental/logic
+#lead/computationalphilosophy #fundamental/logic
 
 ![formal-theory](_attachments/formal-theory.jpg)
 

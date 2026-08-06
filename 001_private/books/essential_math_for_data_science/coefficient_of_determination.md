@@ -1,4 +1,4 @@
-#core/computationalmathematics #core/artificialintelligence
+#core/artificialintelligence
 
 ![coefficient-of-determination](_attachments/coefficient-of-determination.jpeg)
 

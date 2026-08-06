@@ -1,4 +1,4 @@
-#core/computationalmathematics
+#core/mathematicalphysics
 
 Decoupling of scale is the **principle that behaviours or properties at different scales can often be treated independently, with phenomena at one scale not significantly impacting another.** It enables simplified models by allowing scientists to ignore irrelevant detail at scales far removed from the phenomenon of interest. However, this is a contingent empirical fact — not a guarantee — and many systems exhibit cross-scale coupling that cannot be ignored.
 

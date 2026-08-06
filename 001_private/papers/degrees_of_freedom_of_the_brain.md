@@ -1,4 +1,4 @@
-#core/appliedneuroscience #core/computationalmathematics
+#core/appliedneuroscience
 
 Degrees of freedom in the brain denote the **vast number of independent parameters—such as neuronal states, synaptic connections, and dynamic patterns—that define its configuration and behaviour.** This metric underscores the brain's astronomical complexity compared to simpler systems like the heart, where fewer variables govern dynamics, making brain modelling far more challenging due to potential over-interpretation and biases in high-dimensional data.
 

@@ -1,4 +1,4 @@
-#core/computationalmathematics
+#lead/computationalphilosophy #core/mathematicalphysics
 
 ![ruliad](_attachments/ruliad.png)
 

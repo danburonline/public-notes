@@ -1,4 +1,4 @@
-#lead/consciousnessengineering
+#lead/computationalphilosophy #lead/experimentalmedicine
 
 **Consciousness engineering** is the applied science of understanding, preserving, and potentially transferring conscious experience across substrates. It bridges [phenomenological](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) inquiry with neuroscience, mathematics, and engineering to address questions of identity, experience, and substrate independence.
 

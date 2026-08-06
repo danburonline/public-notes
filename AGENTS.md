@@ -1,13 +1,13 @@
 ## AGENTS.md
 
-**Updated:** 2026-08-04
+**Updated:** 2026-08-06
 **Branch:** main
 
 ### OVERVIEW
 
 Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine across all skill categories — lead, core, and fundamental. The lead tier drives the highest-level synthesis: today [consciousness engineering](001_private/_general/consciousness_engineering.md) is the only well-defined lead, connecting quantum cosmology, computational [phenomenology](003_education/kcl/03_mental_health_in_the_community/phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix/biomimetic_neuromorphics.md), mathematical physics, AI, applied neuroscience, and theoretical neurosurgery into a unified framework. The focus extends equally to the other core competencies and the fundamental skills, and will broaden as further leads mature.
+**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine across all skill categories: lead, core, and fundamental. The lead tier forms a deliberate continuum. Computational philosophy makes abstract thought and pure knowledge more precise. Venture science turns those foundations into research, technologies, and interventions through venture building. Experimental medicine works at the most hands-on end, experimenting with living systems and humans to understand and repair biological faults. These leads draw on core disciplines including evolutionary panmemetics, synthetic [phenomenology](003_education/kcl/03_mental_health_in_the_community/phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix/biomimetic_neuromorphics.md), mathematical physics, theoretical neurosurgery, applied neuroscience, artificial intelligence, software development, and interaction design. [Consciousness engineering](001_private/_general/consciousness_engineering.md) is one integrative direction emerging from their combination.
 
 ### STRUCTURE
 
@@ -67,11 +67,11 @@ Three-tier hierarchy at **line 1** of every note:
 
 | Tier            | Purpose                            | Examples                                                                                                                                                                                                                    |
 | --------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `#lead/`        | Unique positioning / frontier work | `consciousnessengineering`                                                                                                                                                                                                  |
-| `#core/`        | Main competencies                  | `quantumcosmology`, `syntheticphenomenology`, `biomimeticneuromorphics`, `computationalmathematics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
-| `#fundamental/` | Foundational skills                | `logic`, `communication`, `creativity`                                                                                                                                                                                      |
+| `#lead/`        | Unique positioning / frontier work | `computationalphilosophy`, `venturescience`, `experimentalmedicine`                                                                                                                                                           |
+| `#core/`        | Main competencies                  | `evolutionarypanmemetics`, `syntheticphenomenology`, `biomimeticneuromorphics`, `mathematicalphysics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
+| `#fundamental/` | Foundational skills                | `communication`, `creativity`, `logic`                                                                                                                                                                                      |
 
-Multiple tags allowed: `#core/artificialintelligence #core/computationalmathematics`
+Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
 
 #### Linking
 
