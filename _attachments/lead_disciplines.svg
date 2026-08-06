@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title description">
+  <title id="title">Lead disciplines across a continuum</title>
+  <desc id="description">A continuum from computational philosophy at the abstract and platonic side, through venture science, to experimental medicine at the applied and human side.</desc>
+
+  <rect width="1200" height="220" rx="24" fill="#F3F4F6"/>
+
+  <line x1="60" y1="132" x2="1140" y2="132" stroke="#6B7280" stroke-width="2"/>
+
+  <text x="240" y="54" text-anchor="middle" fill="#4B5563" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">ABSTRACT AND PLATONIC</text>
+  <text x="240" y="88" text-anchor="middle" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Computational philosophy</text>
+  <circle cx="240" cy="132" r="6" fill="#374151"/>
+
+  <text x="600" y="54" text-anchor="middle" fill="#4B5563" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">VIA</text>
+  <text x="600" y="88" text-anchor="middle" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Venture science</text>
+  <circle cx="600" cy="132" r="6" fill="#374151"/>
+
+  <text x="960" y="54" text-anchor="middle" fill="#4B5563" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">APPLIED AND HUMAN</text>
+  <text x="960" y="88" text-anchor="middle" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Experimental medicine</text>
+  <circle cx="960" cy="132" r="6" fill="#374151"/>
+</svg>

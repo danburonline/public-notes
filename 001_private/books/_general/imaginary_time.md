@@ -1,4 +1,4 @@
-#core/quantumcosmology #core/computationalmathematics
+#core/mathematicalphysics
 
 ![no-boundary](_attachments/no-boundary.jpg)
 

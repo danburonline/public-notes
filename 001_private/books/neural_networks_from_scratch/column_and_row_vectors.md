@@ -1,4 +1,4 @@
-#core/computationalmathematics
+#core/artificialintelligence
 
 ## Column Vectors
 

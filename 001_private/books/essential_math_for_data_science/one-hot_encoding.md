@@ -1,4 +1,4 @@
-#core/computationalmathematics #core/artificialintelligence
+#core/artificialintelligence
 
 ![one-hot-encoding](_attachments/one-hot-encoding.jpg)
 

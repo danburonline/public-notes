@@ -1,4 +1,4 @@
-#core/computationalmathematics #core/appliedneuroscience
+#core/mathematicalphysics #core/appliedneuroscience
 
 ![soliton](_attachments/soliton.png)
 
