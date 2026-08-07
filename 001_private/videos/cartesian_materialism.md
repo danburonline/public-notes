@@ -18,7 +18,7 @@ The fallacy is a hybrid of two conflicting views:
 
 ### The Cartesian Theatre Metaphor
 
-Dennett's central metaphor for this error is the [Cartesian Theatre](https://en.wikipedia.org/wiki/Cartesian_theater) (see sibling note: [cartesian_theatre](../social/x/cartesian_theatre.md)):
+Dennett's central metaphor for this error is the [Cartesian Theatre](https://en.wikipedia.org/wiki/Cartesian_theater) (see sibling note: [cartesian_theatre](../social/twitter/cartesian_theatre.md)):
 
 - **Stage/Screen**: A place in the brain where all sensory inputs are gathered and projected for "viewing."
 - **Audience (The Homunculus)**: A tiny "self" or central observer who experiences the show. This is the part that is _truly_ conscious.
@@ -82,7 +82,7 @@ If there is no central observer, there is no special thing to preserve in [consc
 
 ## Related Concepts
 
-- [cartesian_theatre](../social/x/cartesian_theatre.md) — the metaphor, sibling note
+- [cartesian_theatre](../social/twitter/cartesian_theatre.md) — the metaphor, sibling note
 - [multiple_realisability](../books/how_to_build_a_brain/multiple_realisability.md) — substrate-independence rationale
 - [multiple_realisability_and_functionalism](../books/how_to_build_a_brain/multiple_realisability_and_functionalism.md) — bridge to functionalism
 - [philosophical_zombies](../_general/philosophical_zombies.md) — the canonical target of Dennett's rejection

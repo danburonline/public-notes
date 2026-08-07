@@ -43,7 +43,7 @@ Strong emergence is most provocatively invoked in the philosophy of mind:
 
 The strong/weak emergence question carries direct stakes for substrate-replacement protocols:
 
-- **Substrate independence at risk**: If consciousness is strongly emergent from biological neural tissue specifically, [multiple realisability](../books/how_to_build_a_brain/multiple_realisability.md) and substrate-transfer schemes ([PSNST](../_general/psnst.md), [Moravec transfer](../social/x/moravec_transfer.md)) become contentious — synthetic substrates may fail to instantiate the requisite emergence base.
+- **Substrate independence at risk**: If consciousness is strongly emergent from biological neural tissue specifically, [multiple realisability](../books/how_to_build_a_brain/multiple_realisability.md) and substrate-transfer schemes ([PSNST](../_general/psnst.md), [Moravec transfer](../social/twitter/moravec_transfer.md)) become contentious — synthetic substrates may fail to instantiate the requisite emergence base.
 - **Chalmers' organisational invariance**: Even granting strong emergence, [fading qualia](../books/from_biological_to_artificial_consciousness/fading_qualia.md) arguments suggest qualia depend on functional organisation rather than substrate-specific intrinsic properties — preserving the pattern across [biomimetic neuromorphic](../../002_profession/eightsix/biomimetic_neuromorphics.md) substrates would preserve the emergent state.
 - **Verification problem**: Strong emergence implies no derivation-from-parts test for consciousness — monitoring during gradual transfer must rely on first-person report and indirect markers (Φ, PCI) rather than deductive proof from substrate state.
 

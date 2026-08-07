@@ -78,7 +78,7 @@ No physical substrate guarantees phenomenal experience. Biomimetic neuromorphics
 
 ## Why Biomimetic Neuromorphics Is Necessary
 
-Not all gradual brain replacement approaches require biomimetic substrates. The [Moravec transfer](../../001_private/social/x/moravec_transfer.md), for instance, replaces neurons with nanobots that relay I/O to an external simulation computer — computation moves _out of_ tissue into silicon, so the replacement hardware need not replicate neural dynamics. Biomimetic neuromorphics becomes essential specifically because [ECP](../../001_private/_general/psnst.md) keeps computation _in tissue_: the synthetic substrate must support neuroplastic reorganisation and intrinsic causal processing, not merely relay signals. This is the engineering consequence of demanding [invariance](invariant_brain_emulation.md) ($O(f(b)) \equiv O(b)$) at the substrate level rather than at a simulation level.
+Not all gradual brain replacement approaches require biomimetic substrates. The [Moravec transfer](../../001_private/social/twitter/moravec_transfer.md), for instance, replaces neurons with nanobots that relay I/O to an external simulation computer — computation moves _out of_ tissue into silicon, so the replacement hardware need not replicate neural dynamics. Biomimetic neuromorphics becomes essential specifically because [ECP](../../001_private/_general/psnst.md) keeps computation _in tissue_: the synthetic substrate must support neuroplastic reorganisation and intrinsic causal processing, not merely relay signals. This is the engineering consequence of demanding [invariance](invariant_brain_emulation.md) ($O(f(b)) \equiv O(b)$) at the substrate level rather than at a simulation level.
 
 ## Relationship to [Biomimetics](biomimetics.md)
 

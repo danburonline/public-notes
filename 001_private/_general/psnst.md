@@ -47,11 +47,11 @@ A critical challenge is verifying that [phenomenal consciousness](../videos/acce
 
 ECP presupposes a synthetic substrate capable of supporting neuroplastic information migration — the receiving tissue must "speak the same language" as biological cortex. This is the domain of [biomimetic neuromorphics](../../002_profession/eightsix/biomimetic_neuromorphics.md): engineering substrates that replicate the computational architecture, temporal dynamics, and material properties of biological neural tissue at the level required for seamless integration during progressive transfer. The [invariance criterion](../../002_profession/eightsix/invariant_brain_emulation.md) ($O(f(b)) \equiv O(b)$) provides the mathematical contract this substrate must satisfy.
 
-This substrate requirement is what fundamentally distinguishes ECP from digitisation approaches like the [Moravec transfer](../social/x/moravec_transfer.md), which outsource computation to an external simulation computer and therefore do not require biomimetically equivalent replacement tissue.
+This substrate requirement is what fundamentally distinguishes ECP from digitisation approaches like the [Moravec transfer](../social/twitter/moravec_transfer.md), which outsource computation to an external simulation computer and therefore do not require biomimetically equivalent replacement tissue.
 
 ## Related Concepts
 
-- [Moravec transfer](../social/x/moravec_transfer.md) — Hans Moravec's nanobot-based gradual replacement (digitisation, not substrate migration)
+- [Moravec transfer](../social/twitter/moravec_transfer.md) — Hans Moravec's nanobot-based gradual replacement (digitisation, not substrate migration)
 - [Biomimetic neuromorphics](../../002_profession/eightsix/biomimetic_neuromorphics.md) — the engineering discipline producing ECP-compatible substrates
 - [Invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md) — mathematical framework guaranteeing substrate equivalence
 - [Multiple realisability](../books/how_to_build_a_brain/multiple_realisability.md) — philosophical foundation for substrate independence
