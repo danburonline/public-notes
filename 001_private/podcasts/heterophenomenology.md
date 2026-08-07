@@ -1,4 +1,4 @@
-#core/artificialintelligence
+#lead/computationalphilosophy #core/syntheticphenomenology #core/artificialintelligence
 
 [Heterophenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) is a methodology used in the field of cognitive science to **study consciousness and subjective experiences.** Philosopher Daniel Dennett coined the term.
 

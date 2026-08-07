@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/experimentalmedicine #core/appliedneuroscience
 
 ![sonogenetics](_attachments/sonogenetics.jpg)
 

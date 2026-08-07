@@ -1,4 +1,4 @@
-#core/softwaredevelopment
+#lead/computationalphilosophy #core/artificialintelligence #core/softwaredevelopment
 
 ## Ontology
 

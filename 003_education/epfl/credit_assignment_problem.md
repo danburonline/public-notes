@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#core/appliedneuroscience #core/artificialintelligence
 
 ![credit-assignment-problem](_attachments/credit-assignment-problem.jpg)
 

@@ -1,4 +1,4 @@
-#core/appliedneuroscience #core/syntheticphenomenology
+#core/syntheticphenomenology #core/appliedneuroscience
 
 ![interbrain-synchrony](_attachments/interbrain-synchrony.png)
 

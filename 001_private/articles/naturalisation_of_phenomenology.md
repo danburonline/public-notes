@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/syntheticphenomenology
+#core/syntheticphenomenology #core/artificialintelligence
 
 The naturalisation of [Phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) is a **philosophical movement that seeks to reconcile phenomenological and cognitive science approaches to understanding consciousness and subjective experience.** This emerging field attempts to bridge the gap between first-person experiences ([phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md)) and third-person explanations (cognitive science and neuroscience).
 

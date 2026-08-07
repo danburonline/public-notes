@@ -1,4 +1,4 @@
-#fundamental/logic #core/appliedneuroscience
+#core/appliedneuroscience #fundamental/logic
 
 ![hylozoism](_attachments/hylozoism.png)
 

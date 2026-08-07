@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/experimentalmedicine #core/appliedneuroscience
 
 ![human-on-a-chip](_attachments/human-on-a-chip.jpg)
 

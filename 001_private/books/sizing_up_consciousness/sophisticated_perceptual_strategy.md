@@ -1,4 +1,4 @@
-#core/interactiondesign #core/appliedneuroscience
+#core/appliedneuroscience #core/interactiondesign
 
 A sophisticated perceptual strategy is an **advanced approach to perceiving and interpreting information from the environment to guide decision-making and actions.** It involves selectively attending to relevant stimuli, efficiently organising perceptual input, and mapping percepts to appropriate responses, often in an optimised way based on experience.
 

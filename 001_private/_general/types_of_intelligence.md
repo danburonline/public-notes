@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/appliedneuroscience
+#core/appliedneuroscience #core/artificialintelligence
 
 The study of intelligence types attempts to **categorise the distinct cognitive capacities that underlie human problem-solving, reasoning, creativity, and adaptation**. Multiple theoretical frameworks have been proposed, ranging from domain-specific taxonomies to factor-analytic models — none universally accepted, each illuminating different facets of cognition.
 

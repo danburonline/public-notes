@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/appliedneuroscience
+#core/appliedneuroscience #core/artificialintelligence
 
 ![combinatorial-explosion](_attachments/combinatorial-explosion.jpg)
 

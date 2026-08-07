@@ -1,4 +1,4 @@
-#core/appliedneuroscience #core/theoreticalneurosurgery #core/biomimeticneuromorphics
+#core/biomimeticneuromorphics #core/theoreticalneurosurgery #core/appliedneuroscience
 
 ![neural-graft](_attachments/neural-graft.png)
 

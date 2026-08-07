@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#core/mathematicalphysics #core/appliedneuroscience
 
 Spectral analysis in EEG is the **examination of the signal’s frequency content and involves techniques like Fast Fourier Transform (FFT) and Wavelet Transform.** These methods decompose the EEG signal into its constituent frequencies, revealing insights into the rhythmic and transient aspects of brain activity.
 

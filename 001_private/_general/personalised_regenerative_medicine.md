@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/experimentalmedicine #core/appliedneuroscience
 
 ![regenerative-medicine](_attachments/regenerative-medicine.jpg)
 

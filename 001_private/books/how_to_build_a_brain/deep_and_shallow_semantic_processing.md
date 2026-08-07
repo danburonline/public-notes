@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/appliedneuroscience
+#core/appliedneuroscience #core/artificialintelligence
 
 Semantic processing is a **cognitive science and linguistics concept relating to how humans interpret and derive meaning from language.** It’s divided into two categories: deep and shallow processing, each varying in the depth of cognitive processing involved.
 

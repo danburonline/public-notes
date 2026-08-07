@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/appliedneuroscience
+#core/appliedneuroscience #core/artificialintelligence
 
 ![nef-framework](_attachments/nef-framework.png)
 

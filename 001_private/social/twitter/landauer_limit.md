@@ -1,4 +1,4 @@
-#core/mathematicalphysics
+#core/biomimeticneuromorphics #core/mathematicalphysics #core/artificialintelligence
 
 ![landauer-limit](_attachments/landauer-limit.png)
 

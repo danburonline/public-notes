@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/computationalphilosophy #core/appliedneuroscience
 
 ![readiness-potential](_attachments/readiness-potential.png)
 

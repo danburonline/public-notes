@@ -1,4 +1,4 @@
-#fundamental/logic
+#lead/computationalphilosophy #fundamental/logic
 
 Hylomorphism is a **philosophical theory** developed by [Aristotle](https://en.wikipedia.org/wiki/Aristotle). It states that every physical object is a combination of two fundamental components:
 

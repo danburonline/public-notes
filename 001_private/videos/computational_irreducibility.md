@@ -1,4 +1,4 @@
-#lead/computationalphilosophy
+#lead/computationalphilosophy #core/mathematicalphysics
 
 ![computational-irreducibility](_attachments/computational-irreducibility.png)
 

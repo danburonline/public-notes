@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/computationalphilosophy #core/appliedneuroscience
 
 The concept of conscious veto is derived from the pioneering work of neuroscientist [Benjamin Libet](https://en.wikipedia.org/wiki/Benjamin_Libet). It refers to **the ability of individuals to consciously inhibit or veto an action that their brain has prepared to execute.** This phenomenon is often described as **“free won’t,”** in contrast to “free will.”
 

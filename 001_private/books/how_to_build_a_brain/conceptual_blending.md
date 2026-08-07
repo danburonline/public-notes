@@ -1,4 +1,4 @@
-#core/artificialintelligence
+#core/artificialintelligence #fundamental/creativity
 
 ![conceptual-blending](_attachments/conceptual-blending.png)
 

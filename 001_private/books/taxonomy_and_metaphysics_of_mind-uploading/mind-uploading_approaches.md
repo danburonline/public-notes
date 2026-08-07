@@ -1,4 +1,4 @@
-#core/artificialintelligence
+#core/syntheticphenomenology #core/appliedneuroscience #core/artificialintelligence
 
 ## Top-Down Approach
 

@@ -1,4 +1,4 @@
-#core/artificialintelligence
+#core/syntheticphenomenology #core/theoreticalneurosurgery #core/artificialintelligence
 
 From Keith Wiley’s book “Taxonomy and Metaphysics of Mind-Uploading”.
 
