@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#core/evolutionarypanmemetics #core/appliedneuroscience #fundamental/communication
 
 ![](_attachments/didactic_transposition.png)
 

@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/computationalphilosophy #core/syntheticphenomenology #core/artificialintelligence
 
 ![fading-qualia](_attachments/fading-qualia.png)
 

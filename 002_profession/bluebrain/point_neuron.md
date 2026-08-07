@@ -1,4 +1,4 @@
-#core/artificialintelligence
+#core/biomimeticneuromorphics #core/appliedneuroscience #core/artificialintelligence
 
 ![point-neurons](_attachments/point-neurons.png)
 

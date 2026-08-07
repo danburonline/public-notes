@@ -1,4 +1,4 @@
-#core/artificialintelligence
+#lead/computationalphilosophy #core/artificialintelligence
 
 ![symbol-grounding-problem](_attachments/symbol-grounding-problem.png)
 

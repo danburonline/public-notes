@@ -1,4 +1,4 @@
-#core/syntheticphenomenology
+#lead/computationalphilosophy #core/syntheticphenomenology
 
 **Radical empiricism** is a philosophical doctrine developed by American philosopher and psychologist [William James](https://en.wikipedia.org/wiki/William_James) (1842–1910) in the early 20th century. It asserts that **reality consists purely of relations between experiences**, and that both the connections between things and the things themselves are matters of direct experience.
 

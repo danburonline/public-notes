@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/appliedneuroscience
+#core/appliedneuroscience #core/artificialintelligence
 
 A **mental state becomes conscious when it is the object of a higher-order representation**, such as a higher-order thought or perception.
 

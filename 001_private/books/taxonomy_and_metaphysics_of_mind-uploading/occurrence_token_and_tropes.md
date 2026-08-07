@@ -1,4 +1,4 @@
-#lead/computationalphilosophy #core/artificialintelligence
+#lead/computationalphilosophy
 
 ## Occurrence
 

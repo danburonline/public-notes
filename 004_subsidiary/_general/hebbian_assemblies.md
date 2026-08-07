@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#core/biomimeticneuromorphics #core/appliedneuroscience #core/artificialintelligence
 
 ![hebbian-assembly](_attachments/hebbian-assembly.png)
 

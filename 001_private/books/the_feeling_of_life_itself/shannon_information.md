@@ -1,4 +1,4 @@
-#core/softwaredevelopment #core/appliedneuroscience
+#core/appliedneuroscience #core/softwaredevelopment
 
 ![shannon-information](_attachments/shannon-information.png)
 

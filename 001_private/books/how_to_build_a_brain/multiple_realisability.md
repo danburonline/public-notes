@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/syntheticphenomenology #fundamental/logic
+#lead/computationalphilosophy #core/syntheticphenomenology #core/artificialintelligence #fundamental/logic
 
 **Multiple realisability** is the thesis in philosophy of mind that a single mental property, state, or kind can be instantiated (realised) by indefinitely many distinct physical systems. If the same mental state can be implemented in a carbon-based brain, a silicon circuit, an alien physiology, or a sufficiently rich abstract dynamical system, then mental kinds cannot be identified with any particular physical kind. The thesis was made canonical by [Hilary Putnam](https://en.wikipedia.org/wiki/Hilary_Putnam) (1967) and developed by [Jerry Fodor](https://en.wikipedia.org/wiki/Jerry_Fodor) (1974); together their arguments grounded [functionalism](multiple_realisability_and_functionalism.md) and the modern case for substrate independence.
 

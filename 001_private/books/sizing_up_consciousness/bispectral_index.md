@@ -1,4 +1,4 @@
-#core/appliedneuroscience #core/theoreticalneurosurgery
+#core/theoreticalneurosurgery #core/appliedneuroscience
 
 ![bispectral-index-monitor](_attachments/bispectral-index-monitor.png)
 

@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/experimentalmedicine #core/appliedneuroscience
 
 ![bioprinting](_attachments/bioprinting.jpg)
 

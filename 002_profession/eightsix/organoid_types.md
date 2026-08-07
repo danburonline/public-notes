@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/experimentalmedicine #core/appliedneuroscience
 
 Organoids are miniature, three-dimensional structures grown in vitro that **mimic the architecture and function of real organs**. They are derived from stem cells and classified based on the tissue lineage from which they originate. Below is a categorised overview for study purposes:
 

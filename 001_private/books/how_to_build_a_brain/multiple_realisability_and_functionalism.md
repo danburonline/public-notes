@@ -1,4 +1,4 @@
-#core/artificialintelligence
+#lead/computationalphilosophy #core/artificialintelligence
 
 Multiple realisability and functionalism are **two closely related theses in the philosophy of mind.** [Multiple realisability](multiple_realisability.md) holds that a single mental state or kind can be instantiated by many different physical substrates; functionalism is the theory of mental kinds that makes this possible, defining states by their causal-functional roles rather than their material composition.
 

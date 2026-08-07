@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/experimentalmedicine #core/appliedneuroscience
 
 ![xenotransplant](_attachments/xenotransplant.jpg)
 

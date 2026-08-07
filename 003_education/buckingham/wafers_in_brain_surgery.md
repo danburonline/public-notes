@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/experimentalmedicine #core/theoreticalneurosurgery #core/appliedneuroscience
 
 ![neurosurgical-wafers 1](_attachments/neurosurgical-wafers_1.png)
 

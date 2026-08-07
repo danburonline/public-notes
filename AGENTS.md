@@ -1,6 +1,6 @@
 ## AGENTS.md
 
-**Updated:** 2026-08-06
+**Updated:** 2026-08-07
 **Branch:** main
 
 ### OVERVIEW
@@ -72,6 +72,8 @@ Three-tier hierarchy at **line 1** of every note:
 | `#fundamental/` | Foundational skills                | `communication`, `creativity`, `logic`                                                                                                                                                                                      |
 
 Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
+
+Tags are not mutually exclusive. Add each category that is substantively developed in a note, but do not tag passing mentions, examples, or links.
 
 #### Linking
 

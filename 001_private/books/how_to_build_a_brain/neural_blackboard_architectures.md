@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#core/biomimeticneuromorphics #core/appliedneuroscience #core/artificialintelligence
 
 ![neural-blackboard](_attachments/neural-blackboard.png)
 

@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#core/evolutionarypanmemetics #core/appliedneuroscience #fundamental/communication
 
 Neuromyths are **misconceptions generated from misunderstanding, over-simplification, or misinterpreting scientific facts about the brain.** These misconceptions are often widely held beliefs about how the brain works and how we learn despite being scientifically inaccurate. Addressing these myths can help ensure more effective teaching, learning, and general understanding of the human brain.
 

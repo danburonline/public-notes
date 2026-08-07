@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/appliedneuroscience #core/syntheticphenomenology
+#lead/computationalphilosophy #core/syntheticphenomenology #core/appliedneuroscience #core/artificialintelligence
 
 The **access/phenomenal consciousness distinction**, introduced by [Ned Block](https://en.wikipedia.org/wiki/Ned_Block) (1995), divides conscious mental life into two dissociable components: the information available for reasoning and report (access consciousness), and the qualitative "what it is like" character of experience (phenomenal consciousness). The distinction is central to philosophy of mind, empirical consciousness research, and the engineering programme of [consciousness engineering](../_general/consciousness_engineering.md) because it raises the question: if we preserve function, have we preserved _experience_?
 

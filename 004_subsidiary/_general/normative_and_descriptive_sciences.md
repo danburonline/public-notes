@@ -1,4 +1,4 @@
-#fundamental/logic
+#lead/computationalphilosophy #fundamental/logic
 
 **Normative sciences aim to evaluate or prescribe what ought to be done**, relying on preferred standards or ideals, whereas **non-normative (or descriptive) sciences investigate what is the case without making value judgements.** Commonly identified normative sciences include ethics, aesthetics, and certain branches of philosophy that make evaluative claims about actions, values, or states of affairs. In contrast, non-normative fields like physics or biology focus on empirical, factual observations that describe phenomena as they occur in nature.
 

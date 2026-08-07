@@ -1,4 +1,4 @@
-#core/artificialintelligence #core/appliedneuroscience
+#core/appliedneuroscience #core/artificialintelligence
 
 ![engram-cell-connectivity](_attachments/engram-cell-connectivity.jpeg)
 

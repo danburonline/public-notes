@@ -1,4 +1,4 @@
-#fundamental/communication
+#fundamental/communication #fundamental/logic
 
 Appraising the evidence **means evaluating the quality, relevance, and reliability of information, data, or research findings before using them to make a decision.** It is the disciplined step between reading a paper and trusting its conclusion. Whether the context is clinical practice, grant writing, engineering design, or policy, the goal is the same: ensure that decisions rest on the best available evidence rather than on authority, novelty, or confirmation bias.
 

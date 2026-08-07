@@ -1,4 +1,4 @@
-#fundamental/logic
+#lead/computationalphilosophy #fundamental/logic
 
 **The positive/normative distinction** separates disciplines that describe what _is_ (empirical observation) from those addressing what _ought to be_ (values) or what things _mean_ (interpretation).
 
