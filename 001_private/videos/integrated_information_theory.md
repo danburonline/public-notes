@@ -31,7 +31,7 @@ The central mathematical object in IIT is the **cause-effect structure** — a �
 - A *concept* is the maximally irreducible cause-effect repertoire of a mechanism — a point in cause-effect space.
 - The full cause-effect structure is the set of all concepts across the system, and is claimed to be **identical** to the quality of the experience (not merely correlated with it — this is IIT's strong identity claim).
 
-This notion of **intrinsic causal structure** underlies IIT's critique of purely functional approaches: two systems with identical input-output mappings but different internal causal architectures may have different Φ values — and therefore, per IIT, different conscious experiences. This is directly relevant to the comparison between [Moravec transfer](../social/x/moravec_transfer.md) (which out-sources computation to a digital simulation, potentially stripping intrinsic causality) and [ECP/PSNST](../_general/psnst.md) (which preserves intrinsic causal structure in the replacement substrate). The mathematical contract for substrate equivalence is formalised in [invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md).
+This notion of **intrinsic causal structure** underlies IIT's critique of purely functional approaches: two systems with identical input-output mappings but different internal causal architectures may have different Φ values — and therefore, per IIT, different conscious experiences. This is directly relevant to the comparison between [Moravec transfer](../social/twitter/moravec_transfer.md) (which out-sources computation to a digital simulation, potentially stripping intrinsic causality) and [ECP/PSNST](../_general/psnst.md) (which preserves intrinsic causal structure in the replacement substrate). The mathematical contract for substrate equivalence is formalised in [invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md).
 
 ## IIT 4.0 (2019–Present)
 
@@ -80,7 +80,7 @@ IIT occupies a strategic position in [consciousness engineering](../_general/con
 
 - **Substrate independence**: IIT provides the most developed mathematical argument that consciousness depends on causal architecture rather than biological substrate — directly supporting the feasibility of synthetic neural substrates for [PSNST](../_general/psnst.md).
 - **Verification**: If Φ can be estimated during progressive transfer, it offers an objective, continuous measure of consciousness preservation that does not require behavioural report.
-- **Risk**: If IIT is correct that every causal mechanism contributes to experience, gradual substrate replacement must preserve not just global Φ but the specific cause-effect structure — a far more demanding constraint than preserving input-output function alone. The [Moravec transfer](../social/x/moravec_transfer.md), which outsources computation, may fail on these grounds.
+- **Risk**: If IIT is correct that every causal mechanism contributes to experience, gradual substrate replacement must preserve not just global Φ but the specific cause-effect structure — a far more demanding constraint than preserving input-output function alone. The [Moravec transfer](../social/twitter/moravec_transfer.md), which outsources computation, may fail on these grounds.
 
 ## Related Concepts
 
@@ -93,4 +93,4 @@ IIT occupies a strategic position in [consciousness engineering](../_general/con
 - [Naturalisation of phenomenology](../articles/naturalisation_of_phenomenology.md) — IIT as a mathematical bridge between first- and third-person methods
 - [Philosophical zombies](../_general/philosophical_zombies.md) — IIT denies zombies are possible: any system with the right Φ is conscious
 - [PSNST](../_general/psnst.md) — substrate verification via Φ monitoring during progressive transfer
-- [Moravec transfer](../social/x/moravec_transfer.md) — digitisation approaches risk losing intrinsic causal structure (Φ → 0)
+- [Moravec transfer](../social/twitter/moravec_transfer.md) — digitisation approaches risk losing intrinsic causal structure (Φ → 0)

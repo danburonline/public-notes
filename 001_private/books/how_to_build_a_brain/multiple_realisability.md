@@ -28,7 +28,7 @@ The brain itself appears to be a multiply realising system at every scale:
 ## Computational Evidence
 
 - **Universal computation.** Any Turing-complete substrate can simulate any other, so the _computational_ profile of a brain is, in principle, implementable across radically different physical media.
-- **[Physical reservoir computing](../../social/x/physical_reservoir_computing.md).** Mechanical springs, optical cavities, memristive devices, and living neuronal cultures can all serve as computational reservoirs given appropriate nonlinear dynamics — direct empirical support for computational substrate independence (Maass et al. 2002; Dale et al. 2019; Yada et al. 2021).
+- **[Physical reservoir computing](../../social/twitter/physical_reservoir_computing.md).** Mechanical springs, optical cavities, memristive devices, and living neuronal cultures can all serve as computational reservoirs given appropriate nonlinear dynamics — direct empirical support for computational substrate independence (Maass et al. 2002; Dale et al. 2019; Yada et al. 2021).
 - **Artificial neural networks.** Distributed representations in deep networks implement perceptual and linguistic competences once thought to require biological cortex, with no commitment to any specific physical realiser.
 
 ## Implications in Consciousness Research
@@ -67,7 +67,7 @@ A useful refinement is to distinguish _what_ is multiply realisable:
 
 | Level | Substrate independence | Empirical support | Critical theory |
 |---|---|---|---|
-| Computation (Turing equivalence) | Strong | Universal computation; [physical reservoir computing](../../social/x/physical_reservoir_computing.md) | Uncontroversial |
+| Computation (Turing equivalence) | Strong | Universal computation; [physical reservoir computing](../../social/twitter/physical_reservoir_computing.md) | Uncontroversial |
 | Access consciousness | Plausible | Distributed processing in AI; cortical reorganisation | Functionalist consensus |
 | Phenomenal consciousness | Contested | [Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md); [hemispherotomy](../sizing_up_consciousness/hemispherotomy.md) | Open — IIT yes, biological naturalism no |
 | Personal identity | Contested | [PSNST](../../_general/psnst.md) gradualism; teletransport intuitions | Depends on continuity criterion |
@@ -83,7 +83,7 @@ Conflating these levels causes most of the heat in debates about whether _the_ m
 - [Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md) — Chalmers' argument for organisational invariance
 - [Integrated information theory](../../videos/integrated_information_theory.md) — substrate-neutral consciousness metric
 - [Strong emergence](../../videos/strong_emergence.md) — principal threat to phenomenal multiple realisability
-- [Physical reservoir computing](../../social/x/physical_reservoir_computing.md) — empirical computational substrate independence
+- [Physical reservoir computing](../../social/twitter/physical_reservoir_computing.md) — empirical computational substrate independence
 - [Hemispherotomy](../sizing_up_consciousness/hemispherotomy.md) — empirical biological substrate flexibility
 - [Consciousness engineering](../../_general/consciousness_engineering.md) — engineering programme built on this thesis
 - [PSNST](../../_general/psnst.md) — substrate-transfer protocol

@@ -2,7 +2,7 @@
 
 This is my public, Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten): a working knowledge base for learning across disciplines, connecting them, and turning those connections into research, engineering, and new intellectual frameworks.
 
-The notes bring together personal study, professional work, formal education, subsidiary projects, and public communication. This breadth reflects my aim to become a modern-day [polymath](https://en.wikipedia.org/wiki/Polymath): to develop depth across disciplines and, more importantly, build bridges between them. **Browse website version at [publish.obsidian.md/danburonline](https://publish.obsidian.md/danburonline)**
+The notes bring together personal study, professional work, formal education, subsidiary projects, and public communication. This breadth reflects my aim to become a modern-day [polymath](https://en.wikipedia.org/wiki/Polymath): to develop depth across disciplines and, more importantly, build bridges between them. **Browse the website version of this repository here: [https://publish.obsidian.md/danburonline](https://publish.obsidian.md/danburonline)**
 
 ### Skill Architecture
 
