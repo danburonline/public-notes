@@ -31,7 +31,7 @@ Several organisations have adapted the spirit of the beer test with more structu
 
 ## Contrast with Nepotism
 
-The beer test and [nepotism](nepotism.md) sit on opposite sides of a fine line: both involve personal judgment in hiring, but the beer test applies personal preference _after_ competence is established, whereas nepotism applies it _instead_ of competence. One is a cultural tiebreaker; the other is an anti-meritocratic shortcut. Conflating the two — hiring friends because you'd have a beer with them — is precisely the pathology the structured variants are designed to prevent.
+The beer test and [nepotism](nepotism.md) sit on opposite sides of a fine line: both involve personal judgment in hiring, but the beer test applies personal preference _after_ competence is established, whereas [nepotism](nepotism.md) applies it _instead_ of competence. One is a cultural tiebreaker; the other is an anti-meritocratic shortcut. Conflating the two — hiring friends because you'd have a beer with them — is precisely the pathology the structured variants are designed to prevent.
 
 ## Related Concepts
 
