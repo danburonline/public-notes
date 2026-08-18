@@ -6,7 +6,7 @@ The notes bring together personal study, professional work, formal education, su
 
 ## Skill Architecture
 
-![Continuum from computational philosophy at the abstract and platonic side, through venture science, to experimental medicine at the applied and human side.](005_public/_general/_attachments/skill_architecture.svg)
+![Continuum from computational philosophy at the abstract and platonic side, through venture engineering, to experimental medicine at the applied and human side.](005_public/_general/_attachments/skill_architecture.svg)
 
 I organise my skills in three layers: lead disciplines synthesise and direct my work, core disciplines provide depth, and fundamental skills underpin how I communicate, create, and reason. Individual notes can carry multiple tags when they substantively connect more than one of these areas.
 
@@ -15,7 +15,7 @@ I organise my skills in three layers: lead disciplines synthesise and direct my 
 Lead skills are the highest level of synthesis. These three leads form a continuum from abstract knowledge to direct intervention in living systems:
 
 - #lead/computationalphilosophy
-- #lead/venturescience
+- #lead/ventureengineering
 - #lead/experimentalmedicine
 
 ### 2. Core
