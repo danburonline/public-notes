@@ -4,15 +4,15 @@
 
 [Hebbian](../../003_education/kcl/04_biological_foundations_of_mental_health/hebbian_synaptic_plasticity.md) assemblies are **groups of neurons that become interconnected through repeated activation.** This concept, proposed by [Donald Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb), suggests that when neurons fire together frequently, the connections between them strengthen. This strengthened connection makes it more likely that the neurons will activate together in the future, forming a functional unit or "assembly."
 
-## **1. Neurobiological Basis**
+## 1. Neurobiological Basis
 
-- **Hebbian Rule**: Synapses strengthen when pre→post firing is causal \& repetitive ([STDP](../../003_education/kcl/09_research_ethics_to_reviewing_and_critical_analysis/local_learning_rules.md#spike-timing-dependent-plasticity-stdp) precision: %3C50ms windows). LTP requires NMDA-R Ca²⁺ influx → AMPA-R insertion \& spine growth.
+- **Hebbian Rule**: Synapses strengthen when pre→post firing is causal and repetitive ([STDP](../../003_education/kcl/09_research_ethics_to_reviewing_and_critical_analysis/local_learning_rules.md#spike-timing-dependent-plasticity-stdp) precision: <50ms windows). LTP requires NMDA-R Ca²⁺ influx → AMPA-R insertion and spine growth.
 - **Assembly Signatures**:
   - _Auto-association_: Recurrent excitation sustains activity (persistent firing = working memory).
   - _Phase sequences_: Theta-gamma coupling chains assemblies for predictive processing.
-  - _Criticality_: Neuronal avalanches (power-law distributions) optimize info transmission.
+  - _Criticality_: Neuronal avalanches (power-law distributions) optimise info transmission.
 
-## **2. Computational Framework**
+## 2. Computational Framework
 
 - **Assembly Calculus**:
   - _Project_: Feedforward drive (e.g., sensory → PFC).
@@ -20,30 +20,30 @@
   - _Associate_: Hebbian linking of co-active ensembles (episodic memory).
 - **Stability Solutions**: Synaptic scaling (global), inhibitory plasticity (GABA modulation), metaplasticity (Bienenstock-Cooper-Munro).
 
-## **3. Neuroengineering Applications**
+## 3. Neuroengineering Applications
 
 - **BMIs**: Closed-loop detection/stimulation of motor/decision assemblies improves neuroprosthetic latency (e.g., 300ms delay→50ms).
 - **Neuromorphic Chips**: Memristor-based STDP circuits achieve <10pJ/spike efficiency (vs. 1nJ CMOS).
 - **AI**: Hebbian layers in SNNs enhance unsupervised temporal pattern learning (40%↑ speech recognition vs. CNNs).
 
-## **4. Clinical Links**
+## 4. Clinical Links
 
 - **Alzheimer’s**: Aβ disrupts NMDA-R trafficking → fragmented hippocampal assemblies (reversed by anti-Aβ mAbs in mice).
 - **Schizophrenia**: Dysfunctional PFC assemblies show decoupled theta-gamma → working memory deficits.
 - **Stroke Recovery**: TMS reactivates peri-infarct assemblies (↑30% motor function vs. sham).
 
-## **5. Open Challenges**
+## 5. Open Challenges
 
 - **Detection**: Overlapping assemblies in 512+ channel recordings require graph neural networks.
 - **Temporal Coding**: Millisecond-scale spike timing models needed for true STDP emulation.
 - **Ethics**: Assembly manipulation risks cognitive privacy breaches (e.g., memory extraction).
 
----
+## Hebbian Assemblies Vs Engrams
 
 Hebbian assemblies and engrams are both concepts related to memory storage in the brain, but they differ in their scope and emphasis:
 
-- **Hebbian Assembly:** A Hebbian assembly is a group of neurons that become associated with each other through repeated co-activation. This is based on Hebb's rule ("neurons that fire together, wire together"). Hebbian assemblies are seen as a fundamental mechanism for learning and memory, where specific patterns of activity represent information.
-- **[Engram](../../001_private/videos/engram.md):** An [engram](../../001_private/videos/engram.md) refers to the physical embodiment of a memory in the brain. It is the specific set of neurons and synapses that are activated and modified to store a particular memory. The [engram](../../001_private/videos/engram.md) is the actual physical trace of a memory.
+- **Hebbian Assembly:** A group of neurons that become associated with each other through repeated co-activation. This is based on Hebb's rule ("neurons that fire together, wire together"). Hebbian assemblies are seen as a fundamental mechanism for learning and memory, where specific patterns of activity represent information.
+- **[Engram](../../001_private/videos/engram.md):** The physical embodiment of a memory in the brain. It is the specific set of neurons and synapses that are activated and modified to store a particular memory — the actual physical trace of a memory.
 
 > [!info] Analogy:
-> A Hebbian assembly is like a concept (e.g., "cat"), while the [engram](../../001_private/videos/engram.md) is the physical instantiation of that concept in your brain (the specific neurons that fire when you think of a cat). Hebbian assemblies provide a theoretical framework for how associations are formed, while the [engram](../../001_private/videos/engram.md) is the concrete, physical representation of a specific memory.>)
+> A Hebbian assembly is like a concept (e.g., "cat"), while the engram is the physical instantiation of that concept in your brain (the specific neurons that fire when you think of a cat). Hebbian assemblies provide a theoretical framework for how associations are formed, while the engram is the concrete, physical representation of a specific memory.
