@@ -26,6 +26,8 @@ Multiple realisability and functionalism are **two closely related theses in the
 1. **Mental States as Functional States**: Argues that what makes something a mental state is not its internal constitution, but rather its function in the broader mental system.
 2. **Role of Inputs and Outputs**: Emphasises how mental states are influenced by sensory inputs and lead to behavioural outputs.
 
+For a taxonomy of 98 functionalist positions mapped by computational commitment, thickness of the functional object, and liberality of realisability, see [Functionalism](../../_general/functionalism.md).
+
 > [!info] Interconnection
 > **Functionalism licenses multiple realisability**: because functionalism defines mental states by their causal role (relations to inputs, outputs, and other mental states), anything that satisfies the role counts as having the state — no particular physical substrate is required. This is why functionalism and multiple realisability are treated as a package deal in philosophy of mind.
 
