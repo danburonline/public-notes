@@ -1,5 +1,7 @@
 #fundamental/logic
 
+**The five main branches of philosophy — metaphysics, epistemology, ethics, logic, and aesthetics — organise the discipline's core questions about reality, knowledge, morality, reasoning, and beauty.**
+
 ## 1. Metaphysics
 
 - **Focus**: Nature of reality and existence.
@@ -7,9 +9,9 @@
 - **Subfields**:
   - Ontology (what exists)
   - Cosmology (study of the universe)
-  - Philosophy of Mind (mind–body relationship)
+  - Philosophy of Mind (mind–body relationship; [functionalism](../../_general/functionalism.md))
 - **Key Philosophers**:
-  - Aristotle (first systematic metaphysics)
+  - Aristotle (first systematic metaphysics; [hylomorphism](../../_general/hylomorphism.md))
   - René Descartes (mind–body dualism)
   - Martin Heidegger (Being and Time)
 
@@ -20,10 +22,10 @@
 - **Subfields**:
   - Rationalism (knowledge through reason)
   - Empiricism (knowledge through experience)
-  - Skepticism (doubting knowledge claims)
+  - Scepticism (doubting knowledge claims)
 - **Key Philosophers**:
   - Plato (theory of Forms and true knowledge)
-  - David Hume (empirical skepticism)
+  - David Hume (empirical scepticism)
   - Immanuel Kant (synthesis of rationalism and empiricism)
 
 ## 3. Ethics
@@ -35,7 +37,7 @@
   - Metaethics (nature of moral terms and facts)
   - Applied Ethics (ethics in real-world cases like medicine, law)
 - **Key Philosophers**:
-  - Aristotle (virtue ethics)
+  - Aristotle (virtue ethics; [virtuous life](../../_general/virtuous_life.md))
   - Immanuel Kant (deontological ethics)
   - John Stuart Mill (utilitarianism)
 
@@ -51,6 +53,8 @@
   - Gottlob Frege (modern logic and language)
   - Kurt Gödel (limits of formal systems)
 
+See: [logic basics](../short_introduction_to_logic/logic_basics.md)
+
 ## 5. Aesthetics
 
 - **Focus**: Nature of beauty, art, and taste.
@@ -60,10 +64,8 @@
   - Philosophy of Beauty (aesthetic experience)
 - **Key Philosophers**:
   - Plato (art as imitation)
-  - Immanuel Kant (the "sublime" and judgments of taste)
+  - Immanuel Kant (the "sublime" and judgements of taste)
   - Arthur Schopenhauer (art as escape from suffering)
-
----
 
 ## Summary Table
 
