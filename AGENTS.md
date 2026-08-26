@@ -1,13 +1,13 @@
 ## AGENTS.md
 
-**Updated:** 2026-08-07
+**Updated:** 2026-08-26
 **Branch:** main
 
 ### OVERVIEW
 
 Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine across all skill categories: lead, core, and fundamental. The lead tier forms a deliberate continuum. Computational philosophy makes abstract thought and pure knowledge more precise. Venture engineering turns those foundations into research, technologies, and interventions through venture building. Experimental medicine works at the most hands-on end, experimenting with living systems and humans to understand and repair biological faults. These leads draw on core disciplines including evolutionary panmemetics, synthetic [phenomenology](003_education/kcl/03_mental_health_in_the_community/phenomenology.md), [biomimetic neuromorphics](002_profession/eightsix/biomimetic_neuromorphics.md), mathematical physics, theoretical neurosurgery, applied neuroscience, artificial intelligence, software development, and interaction design. [Consciousness engineering](001_private/_general/consciousness_engineering.md) is one integrative direction emerging from their combination.
+**Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine across all skill categories: lead, core, and fundamental. The lead tier forms a deliberate continuum. Computational philosophy makes abstract thought and pure knowledge more precise. Venture engineering turns those foundations into research, technologies, and interventions through venture building. Experimental medicine works at the most hands-on end, experimenting with living systems and humans to understand and repair biological faults. These leads draw on core disciplines including evolutionary panmemetics, synthetic [phenomenology](003_education/kcl/03_mental_health_in_the_community/phenomenology.md), mathematical physics, theoretical neurosurgery, applied neuroscience, artificial intelligence, software development, and interaction design. [Consciousness engineering](001_private/_general/consciousness_engineering.md) is one integrative direction emerging from their combination.
 
 ### STRUCTURE
 
@@ -19,7 +19,7 @@ Notes/
 │   └── eightsix/
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
 ├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js), Synconetics
-└── 005_public/       # Empty for now
+└── 005_public/       # Public-facing notes and site assets (Obsidian Publish)
 ```
 
 **Numbered prefixes** = priority/visibility. Lower = more active.
@@ -32,6 +32,7 @@ Notes/
 | ----------------------------- | ------------------------------------------ | ----------------------------------------------------- |
 | Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/the_feeling_of_life_itself/` |
 | Add work-related note         | `002_profession/{company}/`                | Match existing company folders                        |
+| Public-facing note / site asset | `005_public/`                            | Publishable material and diagrams used by the README  |
 | Add course material           | `003_education/{institution}/{module}/`    | Match existing module naming                          |
 | Add Buckingham material       | `003_education/buckingham/`                | Flat exception: notes at root, files in `_attachments/` |
 | Add EPFL material             | `003_education/epfl/`                      | Notes at root; images in `_attachments/`; slides remain separately nested |
@@ -63,7 +64,7 @@ Three-tier hierarchy at **line 1** of every note:
 | Tier            | Purpose                            | Examples                                                                                                                                                                                                                    |
 | --------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `#lead/`        | Unique positioning / frontier work | `computationalphilosophy`, `ventureengineering`, `experimentalmedicine`                                                                                                                                                           |
-| `#core/`        | Main competencies                  | `evolutionarypanmemetics`, `syntheticphenomenology`, `biomimeticneuromorphics`, `mathematicalphysics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
+| `#core/`        | Main competencies                  | `evolutionarypanmemetics`, `syntheticphenomenology`, `mathematicalphysics`, `theoreticalneurosurgery`, `appliedneuroscience`, `artificialintelligence`, `softwaredevelopment`, `interactiondesign` |
 | `#fundamental/` | Foundational skills                | `communication`, `creativity`, `logic`                                                                                                                                                                                      |
 
 Multiple tags allowed: `#core/artificialintelligence #core/mathematicalphysics`
@@ -95,7 +96,7 @@ Tags are not mutually exclusive. Add each category that is substantively develop
 - **DO NOT** store active note attachments in `_inbox/` (use local `_attachments/` folders)
 - **DO NOT** commit or publish `_inbox/` content - it is the gitignored private meta-level planning and staging layer
 - **DO NOT** use Title Case, spaces, or special characters (`& , . ( )`) in file or folder names
-- **DO NOT** convert existing hyphens to underscores — both are allowed
+- **DO NOT** convert existing hyphens to underscores -- both are allowed
 - **DO NOT** link public notes to private repositories or restricted records. Keep separately controlled knowledge self-contained.
 - **DO NOT** include private or independently governed local checkouts in Obsidian Publish. They require their own publication approval.
 
@@ -108,11 +109,10 @@ Tags are not mutually exclusive. Add each category that is substantively develop
 ### COMMANDS
 
 ```bash
-# Tooling: opencode + Oh My OpenCode (omo) in Obsidian's integrated terminal
-# No build/test commands - knowledge base, not code project
+# Knowledge base, not a code project. No build or test commands.
 
 
-# Obsidian CLI — requires Obsidian to be open
+# Obsidian CLI -- requires Obsidian to be open
 obsidian read file="note_name"                          # Read a note by wikilink name
 obsidian create name="new_note" content="..." silent    # Create note (silent = don't open it)
 obsidian append file="note_name" content="New content"  # Append to existing note
@@ -125,26 +125,25 @@ obsidian daily:append content="- New entry"             # Append to today's dail
 
 ### SKILLS
 
-Available opencode skills for this workspace:
+Available skills for this vault:
 
 | Skill               | Use Case                                                                                     |
 | ------------------- | -------------------------------------------------------------------------------------------- |
-| `obsidian-markdown` | Wikilinks, embeds, callouts, frontmatter, tags — enforces vault conventions                  |
+| `obsidian-markdown` | Wikilinks, embeds, callouts, frontmatter, tags -- enforces vault conventions                  |
 | `obsidian-cli`      | Read, create, append, search, and manage notes live via Obsidian CLI (Obsidian must be open) |
 | `obsidian-bases`    | Create and edit `.base` database views with filters, formulas, table/cards/list layouts      |
-| `json-canvas`       | Create and edit `.canvas` files with nodes, edges, groups — mind maps, flowcharts, visual canvases |
-| `defuddle`          | Extract clean markdown from web pages — removes clutter, saves tokens over WebFetch          |
-| `perplexity`        | AI-powered research via Perplexity API — literature discovery, paper summaries, fact-checking with citations |
-| `git-master`        | Commits, history search, blame                                                               |
+| `json-canvas`       | Create and edit `.canvas` files with nodes, edges, groups -- mind maps, flowcharts, visual canvases |
+| `defuddle`          | Extract clean markdown from web pages -- removes clutter, saves tokens over WebFetch          |
+| `perplexity`        | AI-powered research via Perplexity API -- literature discovery, paper summaries, fact-checking with citations |
 
 ### AGENT WORKFLOW
 
 When working with notes:
 
-- **README discovery**: When traversing into any folder, check for `README.md` and read it — subfolders and separately governed local checkouts often contain their own context, conventions, and instructions
+- **README discovery**: When traversing into any folder, check for `README.md` and read it -- subfolders and separately governed local checkouts often contain their own context, conventions, and instructions
 - **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image via the note's nearest `_attachments/` folder (or other relative image path) and visually examine it using `look_at` to better understand the note's content before refining or expanding
-- **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools — CLI reflects Obsidian's current state (plugins, linter, resolved links)
-- **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
+- **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools -- CLI reflects Obsidian's current state (plugins, linter, resolved links)
+- **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running -- it triggers linter and plugin hooks automatically
 - **Searching content**: Use `obsidian search` for full-text vault search; use `rg` for pattern/regex searches across raw files
 - **Database views**: Use the `obsidian-bases` skill to create `.base` files for structured views (e.g., tables of notes by tag, folder, or property)
 - **Publishing boundary**: Before publishing from Obsidian, verify that `_inbox/` and every private or independently governed local checkout are excluded from the site's publish selection. Git ignores alone do not enforce publication exclusions.
@@ -155,6 +154,6 @@ When working with notes:
 - `.obsidian/` contains Obsidian app config (gitignored)
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
-- **Obsidian CLI requires Obsidian to be running** — CLI commands will fail if the app is closed
+- **Obsidian CLI requires Obsidian to be running** -- CLI commands will fail if the app is closed
 - **`_inbox/`** is Daniel's private meta-level planning, prompting, sketch, and provisional-information layer. It is ignored by Git and excluded from Obsidian Publish, while remaining available through the private Obsidian vault and its sync layer.
 - **Obsidian Publish** covers curated material from this public repository only. `_inbox/` and private or independently governed local checkouts must remain excluded.

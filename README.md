@@ -24,7 +24,6 @@ Core skills are deep disciplinary competencies. Each can stand on its own, while
 
 - #core/evolutionarypanmemetics
 - #core/syntheticphenomenology
-- #core/biomimeticneuromorphics
 - #core/mathematicalphysics
 - #core/theoreticalneurosurgery
 - #core/appliedneuroscience
