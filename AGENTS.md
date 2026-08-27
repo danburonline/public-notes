@@ -1,6 +1,6 @@
 ## AGENTS.md
 
-**Updated:** 2026-08-07
+**Updated:** 2026-08-26
 **Branch:** main
 
 ### OVERVIEW
@@ -17,12 +17,12 @@ Notes/
 ├── 001_private/      # Personal learning taxonomy: books, videos, papers, articles, social, etc.
 ├── 002_profession/   # Work: blue brain project, eightsix science, finalspark, idun, etc.
 │   └── eightsix/
-│       └── wiki/     # Git submodule: team-shared knowledge (ISOLATED — do not cross-link)
+│       └── wiki/     # Git submodule: team-shared knowledge (isolated -- do not cross-link)
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
 ├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js), Synconetics
 │   └── synconetics/
-│       └── wiki/     # Git submodule: team-shared knowledge (ISOLATED — do not cross-link)
-└── 005_public/       # Empty for now
+│       └── wiki/     # Git submodule: team-shared knowledge (isolated -- do not cross-link)
+└── 005_public/       # Public-facing notes and site assets (Obsidian Publish)
 ```
 
 **Numbered prefixes** = priority/visibility. Lower = more active.
@@ -35,13 +35,14 @@ Notes/
 | ----------------------------- | ------------------------------------------ | ----------------------------------------------------- |
 | Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/the_feeling_of_life_itself/` |
 | Add work-related note         | `002_profession/{company}/`                | Match existing company folders                        |
-| Team-shared knowledge         | `002_profession/eightsix/wiki/`            | Git submodule — ISOLATED, no cross-links to private   |
+| Public-facing note / site asset | `005_public/`                            | Publishable material and diagrams used by the README  |
+| Team-shared knowledge         | `002_profession/eightsix/wiki/`            | Git submodule -- ISOLATED, no cross-links to private   |
 | Add course material           | `003_education/{institution}/{module}/`    | Match existing module naming                          |
 | Add Buckingham material       | `003_education/buckingham/`                | Flat exception: notes at root, files in `_attachments/` |
 | Add EPFL material             | `003_education/epfl/`                      | Notes at root; images in `_attachments/`; slides remain separately nested |
 | Store image/attachment        | `{note_dir}/_attachments/`                 | Keep each attachment near the note that references it |
 | AI prompt logs                | `_inbox/prompts/`                          | Auto-generated filenames with timestamps              |
-| Synconetics shared knowledge  | `004_subsidiary/synconetics/wiki/`         | Git submodule — ISOLATED, no links to private notes   |
+| Synconetics shared knowledge  | `004_subsidiary/synconetics/wiki/`         | Git submodule -- ISOLATED, no links to private notes   |
 
 **Convention scope:** The conventions below apply only to files owned by the parent Notes repository. They do not apply inside `002_profession/eightsix/wiki/` or `004_subsidiary/synconetics/wiki/`. Each wiki is an independent repository governed by its own documentation. Never propagate this vault's personal taxonomy (`#lead/`, `#core/`, `#fundamental/`) or other personal organisational conventions into either wiki.
 
@@ -100,9 +101,9 @@ Tags are not mutually exclusive. Add each category that is substantively develop
 - **DO NOT** store active note attachments in `_inbox/` (use local `_attachments/` folders)
 - **DO NOT** commit or publish `_inbox/` content - it is the gitignored private meta-level planning and staging layer
 - **DO NOT** use Title Case, spaces, or special characters (`& , . ( )`) in file or folder names
-- **DO NOT** convert existing hyphens to underscores — both are allowed
-- **DO NOT** cross-link between organisation-owned `wiki/` submodules and private vault folders — each wiki is team-synced and must remain self-contained
-- **DO NOT** include organisation-owned `wiki/` submodules in Obsidian Publish — they have separate governance and publication processes
+- **DO NOT** convert existing hyphens to underscores -- both are allowed
+- **DO NOT** cross-link between organisation-owned `wiki/` submodules and private vault folders -- each wiki is team-synced and must remain self-contained
+- **DO NOT** include organisation-owned `wiki/` submodules in Obsidian Publish -- they have separate governance and publication processes
 
 ### UNIQUE STYLES
 
@@ -113,14 +114,13 @@ Tags are not mutually exclusive. Add each category that is substantively develop
 ### COMMANDS
 
 ```bash
-# Tooling: opencode + Oh My OpenCode (omo) in Obsidian's integrated terminal
-# No build/test commands - knowledge base, not code project
+# Knowledge base, not a code project. No build or test commands.
 
-# Git submodule — sync team-shared notes
+# Git submodule -- sync team-shared notes
 git submodule update --remote 002_profession/eightsix/wiki
 git submodule update --remote 004_subsidiary/synconetics/wiki
 
-# Obsidian CLI — requires Obsidian to be open
+# Obsidian CLI -- requires Obsidian to be open
 obsidian read file="note_name"                          # Read a note by wikilink name
 obsidian create name="new_note" content="..." silent    # Create note (silent = don't open it)
 obsidian append file="note_name" content="New content"  # Append to existing note
@@ -133,26 +133,25 @@ obsidian daily:append content="- New entry"             # Append to today's dail
 
 ### SKILLS
 
-Available opencode skills for this workspace:
+Available skills for this vault:
 
 | Skill               | Use Case                                                                                     |
 | ------------------- | -------------------------------------------------------------------------------------------- |
-| `obsidian-markdown` | Wikilinks, embeds, callouts, frontmatter, tags — enforces vault conventions                  |
+| `obsidian-markdown` | Wikilinks, embeds, callouts, frontmatter, tags -- enforces vault conventions                  |
 | `obsidian-cli`      | Read, create, append, search, and manage notes live via Obsidian CLI (Obsidian must be open) |
 | `obsidian-bases`    | Create and edit `.base` database views with filters, formulas, table/cards/list layouts      |
-| `json-canvas`       | Create and edit `.canvas` files with nodes, edges, groups — mind maps, flowcharts, visual canvases |
-| `defuddle`          | Extract clean markdown from web pages — removes clutter, saves tokens over WebFetch          |
-| `perplexity`        | AI-powered research via Perplexity API — literature discovery, paper summaries, fact-checking with citations |
-| `git-master`        | Commits, history search, blame                                                               |
+| `json-canvas`       | Create and edit `.canvas` files with nodes, edges, groups -- mind maps, flowcharts, visual canvases |
+| `defuddle`          | Extract clean markdown from web pages -- removes clutter, saves tokens over WebFetch          |
+| `perplexity`        | AI-powered research via Perplexity API -- literature discovery, paper summaries, fact-checking with citations |
 
 ### AGENT WORKFLOW
 
 When working with notes:
 
-- **README discovery**: When traversing into any folder, check for `README.md` and read it — subfolders (especially submodules) often contain their own context, conventions, and instructions
+- **README discovery**: When traversing into any folder, check for `README.md` and read it -- subfolders (especially submodules) often contain their own context, conventions, and instructions
 - **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image via the note's nearest `_attachments/` folder (or other relative image path) and visually examine it using `look_at` to better understand the note's content before refining or expanding
-- **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools — CLI reflects Obsidian's current state (plugins, linter, resolved links)
-- **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running — it triggers linter and plugin hooks automatically
+- **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools -- CLI reflects Obsidian's current state (plugins, linter, resolved links)
+- **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running -- it triggers linter and plugin hooks automatically
 - **Searching content**: Use `obsidian search` for full-text vault search; use `rg` for pattern/regex searches across raw files
 - **Database views**: Use the `obsidian-bases` skill to create `.base` files for structured views (e.g., tables of notes by tag, folder, or property)
 - **Publishing boundary**: Before publishing from Obsidian, verify that `_inbox/` and every organisation-owned `wiki/` submodule are excluded. The current required exclusions are `_inbox/`, `002_profession/eightsix/wiki/`, and `004_subsidiary/synconetics/wiki/`.
@@ -163,7 +162,7 @@ When working with notes:
 - `.obsidian/` contains Obsidian app config (gitignored)
 - `.smart-env/` is plugin data (gitignored)
 - `piecesdb.json` is external tool data (gitignored)
-- **Obsidian CLI requires Obsidian to be running** — CLI commands will fail if the app is closed
+- **Obsidian CLI requires Obsidian to be running** -- CLI commands will fail if the app is closed
 - **`_inbox/`** is Daniel's private meta-level planning, prompting, sketch, and provisional-information layer. It is ignored by Git and excluded from Obsidian Publish, while remaining available through the private Obsidian vault and its sync layer.
 - **`002_profession/eightsix/wiki/`** is a git submodule synced with a remote team repo.
   - **CRITICAL**: This folder is ISOLATED. Never link to/from private vault notes. Content here syncs externally.
