@@ -5,9 +5,6 @@ _inbox/
 000_inbox/
 piecesdb.json
 
-
-
-
 # Ignore Smart Environment folder
 .smart-env
 .sisyphus
