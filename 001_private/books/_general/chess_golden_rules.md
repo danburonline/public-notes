@@ -1,8 +1,10 @@
 #fundamental/logic
 
+**Chess golden rules are a compact set of opening, middlegame, and endgame heuristics that prioritise development, king safety, and planning — the positional foundations of sound play.**
+
 ## Opening Principles
 
-1. **Control the center**
+1. **Control the centre**
    - Occupy and control central squares (e4, d4, e5, d5)
    - Provides greater mobility and strategic advantages
 
@@ -55,3 +57,5 @@
 
 3. **Rooks behind passed pawns**
    - Place rooks behind passed pawns (yours or opponent's)
+
+See: [logic basics](../short_introduction_to_logic/logic_basics.md) · [problem decomposition](../../people/problem_decomposition.md) · [polymath principles](../../../004_subsidiary/_general/polymath_principles.md)
