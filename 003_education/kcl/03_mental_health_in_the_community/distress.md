@@ -19,4 +19,4 @@ Distress activates the **hypothalamic-pituitary-adrenal (HPA) axis**, leading to
 
 ## Contrast with Eustress
 
-Unlike [Eustress](eustress.md) (positive [stress](stress.md) that motivates and improves performance), distress is characterised by feeling overwhelmed rather than challenged. The [Diathesis-stress model](diathesis-stress_model.md) explains how individual vulnerabilities interact with stressors to produce negative outcomes. [Cognitive-behavioural therapy](cognitive-behavioural_therapy.md) is an effective intervention for managing distress responses.
+Where [eustress](eustress.md) is the motivating form of [stress](stress.md) that improves performance, distress is characterised by feeling overwhelmed rather than challenged. The [Diathesis-stress model](diathesis-stress_model.md) explains how individual vulnerabilities interact with stressors to produce negative outcomes. [Cognitive-behavioural therapy](cognitive-behavioural_therapy.md) is an effective intervention for managing distress responses.

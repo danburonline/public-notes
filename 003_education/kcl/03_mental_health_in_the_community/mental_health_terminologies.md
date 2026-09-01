@@ -1,5 +1,7 @@
 #core/appliedneuroscience
 
+A glossary of terms used to describe mental health and mental illness, from the broadest umbrella terms to the most clinically specific.
+
 1. **Mental Health Issues/Problems**: These are challenges or difficulties related to mental or emotional well-being. They could be temporary responses to [stress](stress.md) or a symptom of a more persistent mental disorder. However, the term "issues" or "problems" doesn't always imply a diagnosable mental disorder.
 2. **Mental Disorders**: These are diagnosable conditions characterised by changes in thinking, mood, or behaviour, which cause [distress](distress.md) or impaired function. Established diagnostic criteria, such as those in the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), typically define them.
 3. **Psychiatric Disorders**: This term is used interchangeably with "mental disorders." It tends to be used more in clinical or medical contexts and emphasises these conditions' biological and medical aspects. It includes disorders like schizophrenia, bipolar disorder, and depression.
