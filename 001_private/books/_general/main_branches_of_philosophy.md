@@ -1,6 +1,6 @@
 #fundamental/logic
 
-**The five main branches of philosophy — metaphysics, epistemology, ethics, logic, and aesthetics — organise the discipline's core questions about reality, knowledge, morality, reasoning, and beauty.**
+The five main branches of philosophy — metaphysics, epistemology, ethics, logic, and aesthetics — organise the discipline's core questions about reality, knowledge, morality, reasoning, and beauty.
 
 ## 1. Metaphysics
 

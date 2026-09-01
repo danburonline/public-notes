@@ -2,7 +2,7 @@
 
 ![Architectural rendering of Próspera's terraced eco-city with drones overhead](_attachments/prospera.jpg)
 
-**Infinita (formerly Vitalia) is a pop-up "longevity city" inside the Próspera ZEDE on Roatán, Honduras — a live test case for charter-city venture engineering.**
+Infinita (formerly Vitalia) is a pop-up "longevity city" inside the Próspera ZEDE on Roatán, Honduras — a live test case for charter-city venture engineering.
 
 ## Honduras
 

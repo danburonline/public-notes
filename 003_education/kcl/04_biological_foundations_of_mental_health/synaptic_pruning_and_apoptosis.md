@@ -2,7 +2,7 @@
 
 ![cell-death](_attachments/cell-death.png)
 
-**Synapse pruning and apoptosis are two developmental refinement mechanisms — eliminating weak synaptic connections and unwanted cells, respectively — that sculpt the maturing brain.**
+Synapse pruning and apoptosis are two developmental refinement mechanisms — eliminating weak synaptic connections and unwanted cells, respectively — that sculpt the maturing brain.
 
 ## Synapse Pruning
 

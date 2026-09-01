@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-**Summary of NICE guideline criteria for assessing, imaging, and managing head injuries across pre-hospital, emergency department, and discharge settings.**
+Summary of NICE guideline criteria for assessing, imaging, and managing head injuries across pre-hospital, emergency department, and discharge settings.
 
 - **ABCDE First:** Prioritise Airway, Breathing, Circulation, Disability, Exposure. Hypoxia and hypotension worsen secondary brain injury.
 - **Systematic Approach:** Structured approach (e.g., ATLS) for all trauma patients.
