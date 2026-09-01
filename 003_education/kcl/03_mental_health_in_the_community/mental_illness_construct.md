@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-The term “mental illness construct” typically refers to the way in which mental illnesses are conceptualised or understood. This concept involves various factors, such as biological, psychological, and sociocultural influences. It can be affected by the framework through which we understand and describe mental illnesses, including but not limited to medical models, sociocultural models, and psychological models.
+The "mental illness construct" refers to the frameworks through which mental illness is conceptualised — spanning biological, psychological, and sociocultural lenses. For the vocabulary of mental-health terms, see [mental health terminologies](mental_health_terminologies.md).
 
 1. **Medical Model**: This model understands mental illness as primarily a biological phenomenon, often due to chemical imbalances in the brain, genetics, or other physical factors. Treatments in this model usually involve medication, sometimes combined with psychotherapy.
 
@@ -8,7 +8,7 @@ The term “mental illness construct” typically refers to the way in which men
 
 3. **Sociocultural Model**: This model emphasises the role of societal and cultural factors in mental illness. It might consider how factors like poverty, discrimination, or societal norms contribute to mental health issues. Solutions in this model often involve changing the social or cultural context and individual treatment.
 
-[Mental](mental_health_terminologies.md) illness constructs can significantly affect how society responds to those with mental illnesses, the kind of treatments that are seen as effective, and the way those with mental illnesses see themselves. It’s important to remember that these constructs can vary widely across different cultures and societies, and none of them is wholly sufficient to explain every aspect of mental health. They are more like lenses through which we can understand different facets of mental health.
+These constructs significantly affect how society responds to those with mental illnesses, the treatments seen as effective, and how those with mental illnesses see themselves. Constructs vary widely across cultures and societies, and none is wholly sufficient — they are lenses onto different facets of mental health.
 
 A variety of people has criticised this construct:
 
