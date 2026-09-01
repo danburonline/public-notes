@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-**Radical [behaviourism](behaviourism.md) is the philosophy of behaviour science associated with B.F. [Skinner](the_operant_chamber_skinner_box.md), holding that all behaviour — including private events such as thoughts and feelings — is shaped by environmental selection.**
+Radical [behaviourism](behaviourism.md) is the philosophy of behaviour science associated with B.F. [Skinner](the_operant_chamber_skinner_box.md), holding that all behaviour — including private events such as thoughts and feelings — is shaped by environmental selection.
 
 ## Core Tenets
 

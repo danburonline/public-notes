@@ -1,6 +1,6 @@
 #fundamental/logic
 
-**Chess golden rules are a compact set of opening, middlegame, and endgame heuristics that prioritise development, king safety, and planning — the positional foundations of sound play.**
+Chess golden rules are a compact set of opening, middlegame, and endgame heuristics that prioritise development, king safety, and planning — the positional foundations of sound play.
 
 ## Opening Principles
 
