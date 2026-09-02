@@ -1,6 +1,6 @@
 #core/appliedneuroscience
 
-See examples in [Mental disorders overview](mental_disorders_overview.md).
+The main categories in psychiatric classification, drawn from the ICD/DSM framework — see [Nosology](nosology.md) for the classificatory logic and [Mental disorders overview](mental_disorders_overview.md) for a structured overview.
 
 - **Affective Disorders:** These include major depressive disorder and bipolar disorder. Major depression involves persistent feelings of sadness, lack of interest in previously enjoyed activities, and physical symptoms like fatigue. [Bipolar](spectrum_of_bipolar_disorder.md) disorder is characterised by alternating periods of extremely elevated mood (mania) and depression.
 - **Schizophrenia and Delirium Disorders:** These disorders are characterised by profound disruptions in thinking, causing altered awareness of reality. Schizophrenia often involves hallucinations, delusions, and cognitive impairment. Delusional disorders involve holding false, unshakeable beliefs despite clear evidence to the contrary.
