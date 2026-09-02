@@ -1,6 +1,8 @@
 #core/appliedneuroscience
 
-- **Extracellular recording:** Measures electrical activity near neuron surface.
+Electrophysiology measurements record the **electrical activity of neurons at different spatial scales and degrees of invasiveness**, from single ion channels to the whole brain.
+
+- **Extracellular recording:** Measures electrical activity near neuron surface — see [summary of extracellular recordings](summary_of_extracellular_recordings.md).
 - **Intracellular recording:** Measures electrical activity inside a neuron. Invasive.
 - **Single-channel recording:** Records ionic currents through individual [Ion channels](ion_channels.md). High resolution.
 

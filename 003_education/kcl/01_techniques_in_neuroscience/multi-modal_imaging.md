@@ -15,6 +15,8 @@ Multimodal imaging in e.g. fMRI uses multiple techniques, like fMRI and sMRI, to
 
 ## Advantages
 
+The motivation for combining modalities is that each has distinct trade-offs in resolution, invasiveness, and cost — see [comparison of neuroimaging methods](comparison_of_neuroimaging_methods.md).
+
 - **Comprehensive Insight:** Combining modalities allows researchers to correlate structural, functional, and metabolic data, improving understanding of underlying neural mechanisms.
 - **Improved Diagnosis:** Multi-modal imaging is valuable for diagnosing neurological disorders, such as epilepsy, Alzheimer’s disease, and brain tumours, by providing a multi-faceted view.
 - **Enhanced Localisation:** Simultaneous acquisition (e.g. EEG-fMRI) enables precise localisation of brain activity in both space and time.

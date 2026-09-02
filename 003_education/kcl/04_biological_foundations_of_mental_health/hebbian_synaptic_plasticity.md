@@ -6,7 +6,7 @@ Hebbian plasticity is a theory about [synaptic plasticity](synaptic_plasticity.m
 
 ## Key Features
 
-- **Hebbian Learning:** This is a rule for adjusting weights on connections in artificial neural networks, and it’s based on how neurons adapt during the process of Hebbian plasticity. If two connected neurons fire simultaneously, their synaptic connection is strengthened.
+- **Hebbian learning rule:** The computational abstraction of Hebbian plasticity — a weight-update rule for artificial neural networks formalised in [local learning rules](../09_research_ethics_to_reviewing_and_critical_analysis/local_learning_rules.md) (STDP, BCM, Oja's). If two connected neurons fire simultaneously, their connection strengthens.
 - **Example:** A real-world example of Hebbian plasticity is seen in sensory deprivation studies. For instance, in kittens, if one eye is covered during a critical period of development, the synapses in the visual cortex that receive input from that eye will weaken, while the synapses receiving input from the other eye will strengthen. This is an example of “fire together, wire together.”
 
 ## Critical Period

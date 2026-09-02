@@ -23,3 +23,5 @@ Neurogenesis is influenced by various factors, including:
 - [Stress](../03_mental_health_in_the_community/stress.md)
 - Environment
 - Exercise
+
+See: [neurogenic niche](../08_advances_in_neuroscience/neurogenic_niche.md) — the anatomical regions that host and support adult neurogenesis
