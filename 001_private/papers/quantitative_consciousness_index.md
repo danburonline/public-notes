@@ -1,4 +1,4 @@
-#lead/experimentalmedicine #core/syntheticphenomenology #core/appliedneuroscience
+#lead/experimentalmedicine #core/appliedneuroscience
 
 ![quantitative-consciousness-index](_attachments/quantitative-consciousness-index.png)
 

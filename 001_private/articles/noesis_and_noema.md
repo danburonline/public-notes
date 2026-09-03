@@ -1,4 +1,4 @@
-#lead/computationalphilosophy #core/syntheticphenomenology #core/artificialintelligence
+#lead/computationalphilosophy #core/artificialintelligence
 
 ![noesis-noema](_attachments/noesis-noema.jpg)
 

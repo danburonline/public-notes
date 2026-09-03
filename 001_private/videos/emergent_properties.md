@@ -1,4 +1,4 @@
-#lead/computationalphilosophy #core/syntheticphenomenology
+#lead/computationalphilosophy
 
 ![emergent](_attachments/emergent.png)
 

@@ -1,4 +1,4 @@
-#lead/computationalphilosophy #core/syntheticphenomenology #core/artificialintelligence
+#lead/computationalphilosophy #core/artificialintelligence
 
 ![computerised-mind](_attachments/computerised-mind.jpg)
 

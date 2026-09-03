@@ -1,4 +1,4 @@
-#core/syntheticphenomenology #core/appliedneuroscience #fundamental/logic
+#core/appliedneuroscience #fundamental/logic
 
 ![cartesian-materialism](_attachments/cartesian-materialism.png)
 

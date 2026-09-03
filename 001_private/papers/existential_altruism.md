@@ -1,4 +1,4 @@
-#lead/computationalphilosophy #core/syntheticphenomenology #fundamental/logic
+#lead/computationalphilosophy #fundamental/logic
 
 In the context of cryopreservation, mind uploading, and other neurotechnological interventions, existential altruism names **the ethical stance of valuing the survival or continuation of one's pattern, memory, or psychological structure, even when experiential continuity is irreversibly lost.** It reframes identity not as a binary property tied to uninterrupted consciousness, but as something that can persist in derivative or successor forms, provided structural and functional integrity is maintained.
 

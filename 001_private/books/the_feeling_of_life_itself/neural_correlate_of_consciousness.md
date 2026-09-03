@@ -1,4 +1,4 @@
-#core/syntheticphenomenology #core/appliedneuroscience
+#core/appliedneuroscience
 
 ![perturbational-complexity-index](_attachments/perturbational-complexity-index.png)
 

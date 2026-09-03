@@ -1,4 +1,4 @@
-#lead/computationalphilosophy #core/syntheticphenomenology #core/biomimeticneuromorphics #core/theoreticalneurosurgery #core/appliedneuroscience #core/artificialintelligence
+#lead/computationalphilosophy #core/biomimeticneuromorphics #core/theoreticalneurosurgery #core/appliedneuroscience #core/artificialintelligence
 
 ![moravec-transfer](_attachments/moravec-transfer.jpg)
 

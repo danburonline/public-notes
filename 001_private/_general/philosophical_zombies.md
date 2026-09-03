@@ -1,4 +1,4 @@
-#lead/computationalphilosophy #core/syntheticphenomenology #core/appliedneuroscience #core/artificialintelligence
+#lead/computationalphilosophy #core/appliedneuroscience #core/artificialintelligence
 
 ![p-zombie](_attachments/p-zombie.png)
 
