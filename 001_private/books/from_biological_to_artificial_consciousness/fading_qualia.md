@@ -1,4 +1,4 @@
-#lead/computationalphilosophy #core/syntheticphenomenology #core/artificialintelligence
+#lead/computationalphilosophy #core/artificialintelligence
 
 ![fading-qualia](_attachments/fading-qualia.png)
 

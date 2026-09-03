@@ -1,4 +1,4 @@
-#lead/computationalphilosophy #core/syntheticphenomenology #fundamental/logic
+#lead/computationalphilosophy #fundamental/logic
 
 **Strong emergence** describes phenomena whose macro-level properties cannot, even *in principle*, be derived from the laws governing their micro-level constituents. It contrasts with **weak emergence** — surprising or computationally irreducible patterns that nevertheless follow from lower-level dynamics — and is most controversially invoked in theories of consciousness as the position that subjective experience cannot be reduced to neural mechanism.
 

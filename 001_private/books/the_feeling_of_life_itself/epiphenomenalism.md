@@ -1,4 +1,4 @@
-#lead/computationalphilosophy #core/syntheticphenomenology #core/appliedneuroscience
+#lead/computationalphilosophy #core/appliedneuroscience
 
 Epiphenomenalism is a theory in philosophy of mind that posits **mental states or conscious experiences are byproducts (epiphenomena) of physical brain states**, without causal power over physical states or behaviour.
 

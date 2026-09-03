@@ -1,4 +1,4 @@
-#core/syntheticphenomenology #core/biomimeticneuromorphics #core/appliedneuroscience #core/artificialintelligence
+#core/biomimeticneuromorphics #core/appliedneuroscience #core/artificialintelligence
 
 ![dac](_attachments/dac.png)
 
