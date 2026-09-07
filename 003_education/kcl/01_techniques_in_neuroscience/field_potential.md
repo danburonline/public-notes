@@ -2,7 +2,7 @@
 
 ![field-potential-recording](_attachments/field-potential-recording.png)
 
-A measure of the **electrical activity in a brain region from the summed electrical activity of many neurons.** Reflects the changes in voltage in a specific region due to the synchronised activity of many neurons. It can be used to study brain function.
+A **field potential** is the electrical activity of a brain region measured as the summed voltage produced by the synchronised activity of many neurons — reflecting population-level dynamics rather than individual cells. It is used to study brain function at the circuit level.
 
 ## What Generates the Signal
 
