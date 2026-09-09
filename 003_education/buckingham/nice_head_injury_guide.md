@@ -27,9 +27,9 @@ Summary of NICE guideline criteria for assessing, imaging, and managing head inj
 - Assume traumatic brain injury until proven otherwise; do _not_ attribute depressed consciousness solely to intoxication.
 - Pain management is essential to prevent raised ICP.
 
-## CT Head Scan Criteria (within 1 hour unless stated)
+## CT Head Scan Criteria (Within 1 hOur unless sTated)
 
-### Adults (16 and over) — _Immediate_ CT
+### Adults (16 and Over) — _Immediate_ CT
 
 - GCS ≤ 12 on initial assessment, or GCS < 15 at 2 hours post-injury.
 - Suspected open/depressed skull fracture.
@@ -38,14 +38,14 @@ Summary of NICE guideline criteria for assessing, imaging, and managing head inj
 - Focal neurological deficit.
 - > 1 episode of vomiting.
 
-### Adults (16 and over) — CT within 8 hours (1 hour if presenting > 8 hours post-injury) if _LOC or amnesia_ AND
+### Adults (16 and Over) — CT within 8 Hours (1 Hour if Presenting > 8 Hours Post-injury) if _LOC or amnesia_ AND
 
 - Age ≥ 65.
 - Current bleeding/clotting disorder.
 - Dangerous mechanism of injury.
 - > 30 minutes retrograde amnesia.
 
-### Children (under 16) — _Immediate_ CT
+### Children (Under 16) — _Immediate_ CT
 
 - Suspicion of non-accidental injury.
 - Post-traumatic seizure.
@@ -55,7 +55,7 @@ Summary of NICE guideline criteria for assessing, imaging, and managing head inj
 - Focal neurological deficit.
 - Bruise/swelling/laceration > 5 cm (babies under 1).
 
-### Children (under 16) — _Immediate_ CT if _more than 1_ of
+### Children (Under 16) — _Immediate_ CT if _more than 1_ of
 
 - Witnessed LOC > 5 minutes.
 - Abnormal drowsiness.
@@ -64,11 +64,11 @@ Summary of NICE guideline criteria for assessing, imaging, and managing head inj
 - Amnesia > 5 minutes.
 - Current bleeding/clotting disorder.
 
-### Children (under 16) — Observation (4 hours) if _only 1_ of the above, then CT if
+### Children (Under 16) — Observation (4 hOurs) if _only 1_ of the aBove, then CT if
 
 - GCS < 15, further vomiting, or further drowsiness.
 
-### Anticoagulants/Antiplatelets (all ages)
+### Anticoagulants/Antiplatelets (All aGes)
 
 - **Consider** CT even with _no other indications_ if on: vitamin K antagonists (e.g., warfarin), DOACs (e.g., apixaban, rivaroxaban, dabigatran, edoxaban), heparin (LMWH or UFH), or antiplatelets (excluding aspirin monotherapy).
 - **Timing:** within 8 hours of injury, or within 1 hour if presenting _more_ than 8 hours post-injury.
@@ -76,7 +76,7 @@ Summary of NICE guideline criteria for assessing, imaging, and managing head inj
 
 ## CT Cervical Spine Criteria
 
-### Adults (16 and over) — _Immediate_ CT
+### Adults (16 and Over) — _Immediate_ CT
 
 - GCS ≤ 12; intubated; definitive C-spine diagnosis urgently needed (e.g., for surgery); polytrauma (head + chest/abdomen/pelvis) and alert/stable.
 - Clinical suspicion of C-spine injury AND: age ≥ 65, dangerous mechanism, focal peripheral neurological deficit, or paraesthesia (upper or lower limbs).
@@ -85,12 +85,12 @@ Summary of NICE guideline criteria for assessing, imaging, and managing head inj
   - Cannot actively rotate neck 45 degrees left and right.
 - Condition predisposing to C-spine injury.
 
-### Children (under 16) — _Immediate_ CT
+### Children (Under 16) — _Immediate_ CT
 
 - GCS ≤ 12; intubated; focal peripheral neurological signs; paraesthesia (upper or lower limbs); definitive diagnosis urgently needed.
 - Imaging other body areas AND clinical suspicion of C-spine injury; strong clinical suspicion despite normal X-rays; X-rays technically difficult/inadequate; X-rays identify significant bony injury.
 
-### Children (under 16) — X-ray
+### Children (Under 16) — X-ray
 
 - X-ray before range-of-motion assessment if no CT indication but neck pain/tenderness, plus any of: dangerous mechanism, unsafe to assess range of movement, predisposing condition.
 - If cannot actively rotate neck 45 degrees left/right, do X-rays.
