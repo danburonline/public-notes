@@ -32,7 +32,7 @@
   - Firing or not firing
   - Neurotransmitter levels
   - Membrane potential
-- Combinatorial explosion of possible global brain states
+- Combinatorial explosion of possible global brain states — this is the state space $B \subset \mathbb{R}^n$ that an [invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md) must map onto an alternative substrate while preserving observables
 
 ### 2.3 Connectivity
 
@@ -64,11 +64,15 @@
 2. Simulation Fidelity: Combinatorial explosion impacts computational feasibility of simulating all states and interactions
 3. Data Requirements: High-dimensional spaces require exponentially more data for accurate representation
 4. Algorithmic Efficiency: Need for extremely efficient algorithms to handle the computational complexity
-5. Hardware Limitations: Current computing power may be insufficient for full-scale, high-fidelity WBE
+5. Hardware Limitations: Current computing power may be insufficient for full-scale, high-fidelity WBE (a gap [biomimetic neuromorphics](../../002_profession/eightsix/biomimetic_neuromorphics.md) targets by engineering substrates at the tissue level rather than brute-forcing conventional computing)
+
+## Connections in the Vault
+
+- The explosion of states classical WBE must capture and simulate is part of why gradual, biology-leveraging approaches like [PSNST](../../001_private/_general/psnst.md) are explored: progressive transfer lets neuroplasticity carry information across substrates, avoiding a single exhaustive scan-and-simulate step.
 
 ## 4. Potential Approaches to Mitigate These Challenges
 
-1. Dimensionality Reduction: Techniques to identify and focus on most important variables
+1. Dimensionality Reduction: Techniques to identify and focus on most important variables (e.g., [autoencoders](../../001_private/videos/autoencoder.md))
 2. Hierarchical Modelling: Model brain at multiple scales, from molecular to regional
 3. Sparse Sampling: Develop methods to accurately represent the brain with limited sampling
 4. Advanced Algorithms: Create specialised algorithms optimised for high-dimensional neural data

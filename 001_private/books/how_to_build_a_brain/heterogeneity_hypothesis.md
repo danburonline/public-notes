@@ -6,11 +6,11 @@ The Heterogeneity Hypothesis, as discussed in the book [How to Build a Brain,](h
 
 - **Concept:** Traditionally, a mental representation that captures the essential features of a category, allowing us to understand and reason about objects, ideas, and events. The Heterogeneity Hypothesis challenges this traditional, unified view.
 - **Heterogeneity:** Diversity or variability. In this context, it refers to the diverse range of cognitive processes and representations that are often grouped under the label "concept."
-- **Functional Unification:** The idea is that, although "concepts" can be very different at the implementational level, they can be unified by the similar role they play.
+- **[Functional Unification](../../_general/functionalism.md):** The idea is that, although "concepts" can be very different at the implementational level, they can be unified by the similar role they play.
 - **Semantic Pointers:** A kind of compressed neural representation, that is very flexible in what it can represent (e.g. words, images, plans).
 - **Unified Theory (in contrast):** A single theory or framework that could explain all aspects of concepts. The Heterogeneity Hypothesis argues against the likelihood or necessity of such a theory.
-- **Levels of Explanation:** Different levels at which a complex system (like the brain) can be understood. The Heterogeneity Hypothesis does not specify what counts as a good or bad level, but proposes that a unified theory, like the Semantic Pointer Architecture, can relate the relevant levels to each other.
-- **Core Cognitive Criteria:** A set of conditions to assess if a given system is "cognitive". For example, they must be able to account for compositionality, productivity, and others.
+- **Levels of Explanation:** Different levels at which a complex system (like the brain) can be understood. The Heterogeneity Hypothesis does not specify what counts as a good or bad level, but proposes that a unified theory, like the [Semantic Pointer Architecture](principles_of_the_neural_engineering_framework.md), can relate the relevant levels to each other.
+- **Core Cognitive Criteria:** A set of conditions to assess if a given system is "cognitive". For example, they must be able to account for [compositionality and productivity](neural_blackboard_architectures.md), and others.
 - **Descriptive Pragmatism:** The position that we should be mostly concerned with constructing good scientific explanations of a given phenomena, and that the questions and goals in a scientific enterprise determines what a "good" explanation is.
 
 ## Relationships Between Concepts
@@ -20,9 +20,9 @@ The core idea is that what we call "concepts" are used for many different things
 1.  **Categorisation:** Grouping objects or ideas into categories (e.g., "dog," "furniture").
 2.  **Inference:** Drawing conclusions based on existing knowledge (e.g., "If it's a dog, it barks").
 3.  **Reasoning:** Combining concepts to form new thoughts and solve problems.
-4.  **Motor Planning:** Using concepts to guide actions (e.g., "pet the dog").
-5.  **Analogical Reasoning:** Drawing comparisons between seemingly different things.
-6.  **Grounding:** The problem of relating internal symbolic states to the physical world.
+4. **Motor Planning:** Using concepts to guide actions (e.g., "pet the dog").
+5. **[Analogical Reasoning](conceptual_blending.md):** Drawing comparisons between seemingly different things.
+6. **[Grounding](symbol_grounding_problem.md):** The problem of relating internal symbolic states to the physical world.
 
 The Heterogeneity Hypothesis suggests that because concepts fulfil these roles in very different ways, _these diverse processes are unlikely to all be explained by a single, unified representational format or process_. The SPA suggests that "semantic pointers", a flexible form of vector representations, helps unify the distinct processes.
 
@@ -33,18 +33,23 @@ The Heterogeneity Hypothesis suggests that because concepts fulfil these roles i
 - **Semantic Pointers:** The "Semantic Pointer Architecture" is presented as a theory capable of accounting for many aspects of biological cognition.
 
 > [!example] Example
->
+> 
 > Consider how you might use the concept "dog":
->
+> 
 > - You can quickly recognise a dog (categorisation).
 > - You can infer that a dog will likely bark (inference).
 > - You can plan how to approach a dog (motor planning).
 > - You understand the structure of the statement "The dog chases the boy"
->
+> 
 > The Heterogeneity Hypothesis suggests these different uses might rely on different underlying mechanisms or representations. Trying to define "dog" with a single, universal representation that captures all of these uses might be a futile exercise. Instead, the SPA models these different uses of the concept "dog" using _semantic pointers_.
 
 ## Implications for the SPA
 
 The SPA does not treat concepts as a single, unified type of representation. Semantic pointers are unified because of the various roles they can play in cognition. This unification is a _functional_ one, not a _representational_ one.
 
-A semantic pointer can be used to represent many different concepts, and the same concepts can be represented by different semantic pointers. In a sense, concepts are not _things_, but they are _functions_ that semantic pointers can be used for.
+A semantic pointer can be used to represent many different concepts, and the same concepts can be represented by different semantic pointers. In a sense, concepts are not _things_, but they are _functions_ that semantic pointers can be used for — a commitment shared with [multiple realisability and functionalism](multiple_realisability_and_functionalism.md).
+
+## Connections in the Vault
+
+- The Semantic Pointer Architecture is a working answer to the question [biomimetic neuromorphics](../../../002_profession/eightsix/biomimetic_neuromorphics.md) takes as its starting point: how to organise neural hardware so that heterogeneous, low-level mechanisms give rise to unified cognitive function. The [NEF's three principles](principles_of_the_neural_engineering_framework.md) supply the representation, transformation, and dynamics vocabulary for such architectures.
+- Because functional unification defines cognition by role rather than by implementation, it is philosophical groundwork for [consciousness engineering](../../_general/consciousness_engineering.md) and its substrate-independence ambitions: if concepts are functions rather than things, they can be re-implemented — and eventually re-substrated.
