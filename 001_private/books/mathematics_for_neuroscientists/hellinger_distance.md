@@ -48,8 +48,8 @@ $$
 
 ## Applications
 
-- **Statistics:** Comparing probability distributions, hypothesis testing.
-- **Machine Learning:** Clustering, distribution comparison.
+- **Statistics:** Comparing probability distributions, [hypothesis testing](../essential_math_for_data_science/p-value.md).
+- **Machine Learning:** Clustering, distribution comparison (e.g., between distributions over a [latent space](../../videos/latent_space.md)).
 - **Image Processing:** Image similarity.
 - **Ecology:** Comparing species distributions.
 
@@ -61,6 +61,6 @@ $$
 > - **Compare probability distributions** of neural responses (e.g., spike trains, firing rates) across different experimental conditions or brain states.
 > - **Assess changes in information content** by measuring how the probability distribution of neural features shifts due to learning, plasticity, or disease.
 > - **Cluster or classify neural activity patterns** by evaluating the similarity between distributions from different brain regions, time periods, or subject groups.
-> - **Analyse population coding**, where the Hellinger distance helps determine how distinguishable different stimulus-evoked neural responses are.
+> - **Analyse [population coding](../how_to_build_a_brain/principles_of_the_neural_engineering_framework.md)** — the framework that models variables represented through distributed activity across neural populations — where the Hellinger distance helps determine how distinguishable different stimulus-evoked neural responses are.
 >
 > Overall, the Hellinger distance provides a principled, interpretable metric to compare probabilistic models of neural data and can reveal subtle changes in neural dynamics, supporting both theoretical and applied neuroscience research.
