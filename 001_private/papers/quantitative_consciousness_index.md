@@ -2,34 +2,43 @@
 
 ![quantitative-consciousness-index](_attachments/quantitative-consciousness-index.png)
 
-The term Quantitative Consciousness Index (QCI) refers to a variety of **methods aimed at objectively measuring and quantifying a person's level of consciousness.** These methods often utilise technology and data analysis to provide a more precise assessment compared to purely observational scales.
+In this vault, **Quantitative Consciousness Index (QCI) is an informal umbrella term**, not the name of one universal, validated instrument. It groups quantitative neural and behavioural measures that may help characterise arousal, responsiveness, or consciousness-related states. These measures use technology and data analysis, but they do not all target the same construct, and none should automatically be treated as a direct measurement of phenomenal consciousness.
 
 ## Methods and Technologies
 
-Several techniques fall under the umbrella of QCI:
+Several techniques may fall under this informal umbrella:
 
-- **Electroencephalography (EEG):** Analysing brainwave patterns to assess consciousness levels.
-  - **Patient State Index (PSI):** An EEG-derived index used to monitor the depth of anaesthesia.
-- **Quantitative EEG (qEEG):** A more comprehensive analysis of EEG data for assessing disorders of consciousness.
-- **Auditory Evoked Potential Index:** Quantitative measure of changes in consciousness.
+- **Electroencephalography (EEG) and quantitative EEG (qEEG):** Signal-derived features that can support assessment of clinical state or disorders of consciousness; they are context-dependent neural measures rather than direct phenomenal-consciousness readouts.
+- **Processed EEG indices (BIS and PSI):** Estimates of anaesthetic depth and, in defined clinical settings, probabilities related to explicit recall or responsiveness. NICE describes related depth-of-anaesthesia monitors as having limitations; these indices are not direct measures of phenomenal consciousness.
+- **Auditory-evoked indices:** Measures of stimulus-evoked neural responses. They are not universal consciousness meters.
+- **Perturbational Complexity Index (PCI):** A specific TMS–EEG perturbational complexity measure. Casali et al. reported state-discrimination evidence, but PCI is not a proof of phenomenal consciousness, personal identity, or continuity; it also does not directly measure IIT's Φ.
 
-## Comparison with [Glasgow](../../003_education/buckingham/nice_head_injury_guide.md#glasgow-coma-scale-gcs) Coma Scale (GCS)
+## Comparison and limitations
 
-| Feature        | Quantitative Consciousness Index (QCI)                            | Glasgow Coma Scale (GCS)                          |
-| :------------- | :---------------------------------------------------------------- | :------------------------------------------------ |
-| **Nature**     | Objective, technology-driven                                      | Subjective, observational                         |
-| **Assessment** | Utilizes EEG and other data analysis                              | Based on eye-opening, verbal, and motor responses |
-| **Precision**  | Potentially more precise                                          | Less precise, based on clinical observation       |
-| **Use Cases**  | Anesthesia monitoring, disorders of consciousness, coma prognosis | Initial assessment of head injury and coma        |
+| Approach | What it measures or estimates | What it does not establish |
+| :------- | :---------------------------- | :------------------------- |
+| **QCI** | An informal umbrella for several quantitative approaches | A single universal instrument or a settled consciousness scale |
+| **PCI** | TMS-evoked, high-density EEG complexity; evidence for discriminating studied conscious and unconscious states | A proof of phenomenal consciousness, personal identity, continuity, or Φ |
+| **BIS/PSI** | Processed EEG estimates used for anaesthetic depth and probability of responsiveness in defined clinical settings | Direct phenomenal consciousness |
+| **Auditory-evoked indices** | Neural responses evoked by an auditory stimulus | A universal consciousness meter |
+| **[IIT Φ](../videos/integrated_information_theory.md)** | A theoretical causal/intrinsic quantity over a specified causal system, within IIT's formalism | PCI or a standard EEG-derived measurement; a real-time measurement of Φ unless the causal formalism is actually instantiated |
+| **[Glasgow Coma Scale (GCS)](../../003_education/buckingham/nice_head_injury_guide.md#glasgow-coma-scale-gcs)** | Observed eye-opening, verbal, and motor responses | A complete measure of phenomenal experience |
 
 ## Applications
 
-- **Anaesthesia:** Monitoring the depth of anaesthesia during surgical procedures.
-- **Disorders of Consciousness:** Assessing and tracking patients with conditions like coma, vegetative state, and minimally conscious state.
-- **Prognosis:** Predicting the likelihood of recovery in patients with brain injuries or disorders of consciousness.
-- Seizure management: Electrical stimulation at a quantitative consciousness index of 60-70 may improve electroencephalography seizure parameters without increasing complications.
+- **Anaesthesia:** Supporting monitoring of anaesthetic depth in defined clinical settings; processed EEG should not be equated with phenomenal consciousness.
+- **Disorders of Consciousness:** Assessing and tracking state-related neural or behavioural features in patients with conditions like coma, vegetative state, and minimally conscious state.
+- **Prognosis:** Informing estimates of recovery in patients with brain injuries or disorders of consciousness, without guaranteeing a particular outcome.
 
 ## Limitations
 
-- The specific meaning and application of "Quantitative Consciousness Index" can vary depending on the context.
-- Interpretation of EEG data and other quantitative measures requires specialised expertise.
+- "Quantitative Consciousness Index" is an informal umbrella here, not a single validated instrument.
+- The component measures estimate different targets, including responsiveness, anaesthetic depth, evoked responses, and perturbational complexity.
+- A neural proxy can provide state-discrimination evidence without proving phenomenal consciousness or personal identity and continuity.
+- Interpretation of EEG data and other quantitative measures requires specialised expertise and clinical context.
+
+## Sources
+
+- [Casali et al. (2013), Perturbational Complexity Index](https://doi.org/10.1126/scitranslmed.3006294)
+- [NICE HTG292](https://www.nice.org.uk/guidance/htg292) — limitations and intended use of processed EEG depth-of-anaesthesia monitors.
+- [IIT 4.0](https://doi.org/10.1371/journal.pcbi.1011465) — theoretical formalism for Φ, distinct from PCI and standard EEG-derived measures.

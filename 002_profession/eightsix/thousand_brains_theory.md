@@ -2,7 +2,7 @@
 
 ![thousand-brains](_attachments/thousand-brains.png)
 
-The Thousand Brains Theory, developed by neuroscientist [Jeff Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins) and his team at Numenta, proposes that **human intelligence arises from the [neocortex](../../003_education/_general/neocortex.md)'s structure of approximately 150,000 cortical columns, each acting as an independent "mini-brain"** that builds complete models of the world through reference frames and sensorimotor predictions. These columns collaborate via voting mechanisms to resolve ambiguities and form coherent perceptions, challenging traditional views of centralised brain processing and offering insights for AI development.
+The Thousand Brains Theory, developed by neuroscientist [Jeff Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins) and his team at Numenta, proposes that **human intelligence arises from the [neocortex](../../003_education/_general/neocortex.md)'s structure of approximately 150,000 larger cortical columns, each acting as an independent “mini-brain”** that builds complete models of the world through reference frames and sensorimotor predictions. This is Hawkins's proposal, not a settled anatomical census of minicolumns. In the 2017 theory model, a column is approximately 300–600 µm wide and contains 150–250 model minicolumns of approximately 30–60 µm; these dimensions and counts are model conventions rather than universal anatomical facts ([Hawkins et al., 2017](https://doi.org/10.3389/fncir.2017.00081)). These columns collaborate via voting mechanisms to resolve ambiguities and form coherent perceptions, challenging traditional views of centralised brain processing and offering insights for AI development.
 
 ## Key Concepts
 

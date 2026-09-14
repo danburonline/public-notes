@@ -18,7 +18,7 @@ This taxonomy matters because different brain regions may serve different roles:
 
 | Region                                               | Theory Supporting                                                                                                                       | Key Evidence                                               |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **Posterior "hot zone"** (temporo-parieto-occipital) | [Integrated information theory](../../videos/integrated_information_theory.md)                                                          | High Φ values, PCI correlations, content-specific activity |
+| **Posterior "hot zone"** (temporo-parieto-occipital) | [Integrated information theory](../../videos/integrated_information_theory.md)                                                          | IIT's posterior-cortex prediction, PCI associations, content-specific activity |
 | **Prefrontal cortex**                                | Global Workspace Theory, [Higher-order theories of consciousness](../sizing_up_consciousness/higher-order_theories_of_consciousness.md) | Late "ignition" events, P3b component, metacognition       |
 | **Early visual cortex (V1)**                         | Recurrent Processing Theory                                                                                                             | Local recurrent loops correlate with visual awareness      |
 | **Thalamocortical system**                           | Multiple theories                                                                                                                       | Thalamic awareness potential, gating function              |
@@ -28,10 +28,10 @@ This taxonomy matters because different brain regions may serve different roles:
 
 ### [Integrated Information Theory](../../videos/integrated_information_theory.md) (IIT)
 
-NCC resides in the posterior cortex where integrated information (Φ) is maximal. Consciousness _is_ integrated information—physical systems are conscious to the degree they integrate information irreducibly.
+IIT proposes that the NCC is associated with a posterior cortex where integrated information (Φ) would be maximal. Within IIT's theory, consciousness _is_ integrated information: physical systems are conscious to the degree they integrate information irreducibly. This is a theoretical claim, not an empirical finding that PCI or standard EEG has measured Φ.
 
 - **Prediction**: Posterior "hot zone" is the NCC; prefrontal cortex not required
-- **Measure**: [Perturbational Complexity Index](../../papers/quantitative_consciousness_index.md) (PCI)
+- **Empirical proxy**: [Perturbational Complexity Index](../../papers/quantitative_consciousness_index.md) (PCI), which is not a measurement of Φ
 - **Key researcher**: Giulio Tononi
 - See: [Integrated information theory](../../videos/integrated_information_theory.md), [Shannon information](shannon_information.md)
 
@@ -71,25 +71,26 @@ Consciousness emerges from hierarchical predictive models minimising prediction 
 
 ### Perturbational Complexity Index (PCI)
 
-The "zap-and-zip" method developed by Giulio Tononi operationalises the IIT principle that consciousness requires both **integration** (distributed interactions) and **differentiation** (information-rich patterns):
+The "zap-and-zip" method developed by Giulio Tononi is motivated by the idea that consciousness requires both **integration** (distributed interactions) and **differentiation** (information-rich patterns), but it does not instantiate IIT's causal formalism or compute Φ:
 
 1. **Zap**: TMS pulse to cortex creates direct perturbation
 2. **Record**: High-density EEG captures the spatiotemporal response
 3. **Binarise**: Statistical thresholding creates binary activation matrix
 4. **Zip**: Lempel-Ziv compression quantifies algorithmic complexity
-5. **Interpret**: PCI ≥ 0.31 indicates consciousness (PCI\*)
+5. **Interpret**: In the original study, a PCI* threshold around 0.31 separated the studied conscious and unconscious conditions; it is not a universal consciousness boundary.
 
 **Clinical validation**:
 
-- 100% accuracy distinguishing conscious from unconscious states (Casali et al., 2013)
-- Detects covert consciousness in minimally conscious patients
-- Ketamine insight: high PCI despite unresponsiveness (dissociates responsiveness from consciousness)
+- Casali et al. (2013) reported 100% separation of the studied conscious and unconscious states ([source](https://doi.org/10.1126/scitranslmed.3006294))
+- Reported detection of covert consciousness in behaviourally unresponsive patients
+- Ketamine finding: high PCI despite unresponsiveness, providing evidence that responsiveness and PCI can dissociate; this does not by itself prove phenomenal consciousness
 
 **Limitations**:
 
 - Lacks clear theoretical link to IIT (Virmani & Nagaraj, 2019)
 - Measures integration-differentiation without specifying critical brain regions
 - Requires expensive TMS-EEG equipment
+- Does not establish phenomenal consciousness, personal identity, or continuity, and does not directly measure Φ
 
 See: [Quantitative consciousness index](../../papers/quantitative_consciousness_index.md)
 
@@ -135,13 +136,13 @@ The COGITATE consortium (Nature, April 2025) conducted a large-scale adversarial
 
 ## Relation to [Consciousness Engineering](../../_general/consciousness_engineering.md)
 
-For [Progressive Synthetic Neural Substrate Transfer](../../_general/psnst.md), NCC measures serve as real-time consciousness monitoring during gradual substrate replacement:
+For [Progressive Synthetic Neural Substrate Transfer](../../_general/psnst.md), NCC-related measures could provide real-time, indirect monitoring signals during gradual substrate replacement:
 
-- [PCI](../../papers/quantitative_consciousness_index.md) for objective level assessment
-- [IIT's Φ](../../videos/integrated_information_theory.md) as substrate-independent metric
+- [PCI](../../papers/quantitative_consciousness_index.md) for a state-related perturbational-complexity proxy, not proof of phenomenal consciousness or continuity
+- [IIT's Φ](../../videos/integrated_information_theory.md) as a theoretical causal/intrinsic quantity, not a standard EEG-derived metric
 - [Naturalisation of phenomenology](../../articles/naturalisation_of_phenomenology.md) for first-person verification
 
-The key question: if NCCs are preserved during substrate transfer, is [phenomenal consciousness](../../videos/access_and_phenomenal_consciousness.md) preserved? This connects to [Chalmers' organisational invariance](../from_biological_to_artificial_consciousness/fading_qualia.md) and [the hard problem](../../_general/philosophical_zombies.md).
+The key philosophical question is whether preserving NCC-related mechanisms during substrate transfer would preserve [phenomenal consciousness](../../videos/access_and_phenomenal_consciousness.md). These empirical proxies do not settle that question. This connects to [Chalmers' organisational invariance](../from_biological_to_artificial_consciousness/fading_qualia.md) and [the hard problem](../../_general/philosophical_zombies.md).
 
 ## Key Researchers
 

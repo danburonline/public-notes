@@ -2,20 +2,21 @@
 
 ![cortical-column](_attachments/cortical-column.jpg)
 
-A cortical column is the **basic functional unit of the [neocortex](neocortex.md),** first described by Vernon Mountcastle in 1957. Each column is a vertically oriented module spanning all six cortical layers, containing ~80–100 neurons within a ~50–100 µm diameter, whose cells share similar response properties to the same class of stimulus. The image above shows five columns in rat vibrissal (whisker) cortex, with Layer 4 (yellow) serving as the primary thalamic input layer.
+A cortical column is a **proposed functional unit of the [neocortex](neocortex.md),** first described by Vernon Mountcastle in 1957. “Column” is used for more than one anatomical scale: minicolumn dimensions and cell counts vary by region, species, and definition ([Buxhoeveden & Casanova, 2002](https://doi.org/10.1093/brain/awf110)). A ~50–100 µm diameter can be retained as a rough engineering target for a minicolumn-like module, not as a universal anatomical constant. The image above shows five columns in rat vibrissal (whisker) cortex, with Layer 4 (yellow) serving as the primary thalamic input layer.
 
 ## Scale Hierarchy
 
-Cortical columns exist at two anatomical scales:
+Cortical columns are discussed at multiple anatomical and functional scales:
 
-| Scale | Diameter | Neuron count | Example |
+| Scale | Diameter | Count / composition | Example |
 |---|---|---|---|
-| **Minicolumn** (ontogenetic column) | ~50–100 µm | ~80–100 neurons | Universal repeating unit across all areas |
-| **Macrocolumn / Hypercolumn** | ~500 µm–1 mm | ~10,000–50,000 neurons | Orientation hypercolumn in V1; barrel column in rodent S1 |
+| **Minicolumn** (small-scale column) | Variable; ~30–60 µm in the Hawkins et al. model | Variable | A useful term, but not a uniform census unit across all areas |
+| **Larger cortical column** (Hawkins et al. model) | ~300–600 µm | 150–250 model minicolumns | A theory-level convention, not a settled universal anatomical unit |
+| **Macrocolumn / hypercolumn** | Area-specific or functional | Area-specific | Orientation organisation in V1 and barrel organisation in rodent S1 are not interchangeable |
 
-The minicolumn is the fundamental developmental unit — derived from a single radial glial progenitor cell during cortical neurogenesis, producing a vertical clone of neurons across all six layers. Macrocolumns are functional aggregates that tile the cortical surface with a complete representational cycle (e.g., a full 360° orientation sweep in primary visual cortex).
+The minicolumn is often discussed as a developmental or radial unit, but its dimensions, cell counts, and relationship to response columns vary across regions, species, and operational definitions. Macrocolumns and hypercolumns are better treated as area-specific or functional aggregates; they do not provide one universal cortical tiling scheme. In Hawkins et al.'s 2017 theory model, a larger column is approximately 300–600 µm wide and contains 150–250 model minicolumns of approximately 30–60 µm. These are model conventions rather than universal anatomical facts ([Hawkins et al., 2017](https://doi.org/10.3389/fncir.2017.00081)).
 
-The human neocortex contains approximately **150,000 minicolumns**.
+The often-cited **~150,000 figure must not be treated as a census of minicolumns**. Hawkins uses approximately 150,000 as a proposal for larger cortical columns in his theory; it is not a settled anatomical count, and it cannot be multiplied by a fixed minicolumn cell count to account for the tens of billions of cortical neurons ([Hawkins et al., 2017](https://doi.org/10.3389/fncir.2017.00081)).
 
 ## Canonical Microcircuit
 
@@ -46,9 +47,9 @@ See [laminar cytoarchitecture](../../001_private/_general/laminar_cytoarchitectu
 
 ## The Column Debate
 
-The column as a universal anatomical entity is contested. Horton & Adams (2005, *Brain*) argued that "cortical columns" are a convenient abstraction rather than a physically defined structure — the wide variation in columnar organisation across areas and species undermines a single columnar principle. The minicolumn (ontogenetic column) has the strongest anatomical grounding. Hypercolumns are better treated as functional constructs, not obligate anatomical modules.
+The column as a universal anatomical entity is contested. Horton & Adams (2005, *Philosophical Transactions of the Royal Society B*) argued that “cortical columns” can be a convenient abstraction rather than a physically defined structure — the wide variation in columnar organisation across areas and species undermines a single columnar principle ([Horton & Adams, 2005](https://doi.org/10.1098/rstb.2005.1623)). Minicolumns have anatomical grounding, but their dimensions and counts are not invariant. Hypercolumns are better treated as functional constructs, not obligate anatomical modules.
 
-For computational and engineering purposes, the minicolumn remains the accepted repeating unit of cortical computation.
+For computational and engineering purposes, minicolumn-like modules remain useful abstractions, provided that their dimensions and counts are treated as variable rather than as a universal repeating unit.
 
 ## Thousand Brains Theory
 
@@ -56,7 +57,7 @@ Hawkins et al. (Numenta, 2019) propose that each cortical column independently c
 
 - Every column maintains allocentric location representations (analogous to entorhinal grid cells) to build object models
 - Columns vote across long-range horizontal connections to achieve consensus on a single coherent percept
-- Intelligence arises from the near-identical replication of a single cortical algorithm across 150,000 columns
+- Intelligence arises, in Hawkins's proposal, from the near-identical replication of a single cortical algorithm across approximately 150,000 larger columns ([Hawkins et al., 2017](https://doi.org/10.3389/fncir.2017.00081))
 
 See: [Thousand Brains Theory](../../002_profession/eightsix/thousand_brains_theory.md)
 
@@ -64,7 +65,7 @@ See: [Thousand Brains Theory](../../002_profession/eightsix/thousand_brains_theo
 
 The columnar-laminar architecture is the **primary template for synthetic neural substrate design**. Engineering targets derived from column organisation:
 
-- **Minicolumn modularity**: ~150,000 parallel processing units at 50–100 µm pitch allows massively parallel, spatially localised computation
+- **Minicolumn modularity**: a rough 50–100 µm engineering target can support massively parallel, spatially localised computation; it must not be multiplied into a 150,000-minicolumn anatomical estimate
 - **Canonical circuit replication**: the Layer IV → II/III → V → VI recurrent loop provides the minimal repeating circuit motif for engineered analogue substrates
 - **Inhibitory gating**: intracolumnar basket cell inhibition enforcing winner-takes-most dynamics must be preserved to replicate attractor states and stable representations
 - **Inter-column communication**: lateral long-range connections (Layers II/III) implement the voting mechanism that binds distributed column outputs into coherent representations
