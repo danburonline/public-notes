@@ -14,7 +14,7 @@ An open dynamic system is a **system that interacts with its environment.** Unli
 
 ### System Behaviour
 
-The "behaviour" of an open dynamic system refers to the set of all possible trajectories or signal patterns that the system can exhibit over time, following its internal laws and interactions with the environment.
+The "behaviour" of an open dynamic system refers to the set of all possible trajectories or signal patterns that the system can exhibit over time, following its internal laws and interactions with the environment — and it is exactly this behaviour that [invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md) must preserve when mapping a brain's dynamics onto an alternative substrate.
 
 ## Examples of Open Dynamic Systems
 
@@ -33,3 +33,8 @@ The main distinction lies in their interaction with the environment:
 | **Interaction with Environment** | Interacts with and is influenced by its environment.                 | Isolated from its environment.                                               |
 | **Evolution**                    | Determined by internal laws, initial state, AND external influences. | Determined solely by internal laws and initial state.                        |
 | **Examples**                     | Living cells, ecosystems, weather patterns.                          | A closed container with a fixed amount of gas, a perfectly insulated system. |
+
+## Connections in the Vault
+
+- The regimes such trajectories settle into are studied in neural computation as [attractor states](../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md), where dynamics poised near the edge of chaos let small inputs reshape the attractor landscape.
+- The States/Inputs/Update/Readout components are the same vocabulary the [Neural Engineering Framework](../books/how_to_build_a_brain/principles_of_the_neural_engineering_framework.md) uses to model neural populations: representing variables through distributed activity, transforming them via update dynamics, and decoding them through readout.
