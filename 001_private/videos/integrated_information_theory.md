@@ -21,7 +21,7 @@ These axioms form the bridge between phenomenological description and informatio
 - **Definition**: Φ quantifies the degree to which a system's cause-effect structure is irreducible — how much information the whole generates beyond the sum of its parts' independent information.
 - **Calculation**: Computing Φ is computationally intractable for realistic neural systems (NP-hard in general). Practical approximations exist (pyphi toolbox, MICS algorithm) but full Φ for a human brain remains out of reach.
 - **Interpretation**: Φ = 0 for purely feedforward systems and systems decomposable into independent parts. Φ > 0 indicates genuine causal integration. Φ reaches its maximum for the system's *main complex* — the constellation of elements that together specify the maximally irreducible cause-effect structure.
-- **Substrate independence**: Φ is defined over causal structure — a system's mechanisms, their possible states, and the transition probabilities between them — not over a specific physical substrate. Any physical system realising the right cause-effect structure with non-zero Φ is, according to IIT, conscious. This makes Φ a candidate **substrate-independent consciousness metric**, central to verification in [PSNST](../_general/psnst.md).
+- **Substrate independence**: Φ is defined over causal structure — a system's mechanisms, their possible states, and the transition probabilities between them — not over a specific physical substrate. Any physical system realising the right cause-effect structure with non-zero Φ is, according to IIT, conscious. This makes Φ a theoretical candidate for a **substrate-independent consciousness quantity**, not an established clinical metric or a value read directly from ordinary EEG.
 
 ## Cause-Effect Structure and Intrinsic Causality
 
@@ -34,6 +34,8 @@ The central mathematical object in IIT is the **cause-effect structure** — a �
 This notion of **intrinsic causal structure** underlies IIT's critique of purely functional approaches: two systems with identical input-output mappings but different internal causal architectures may have different Φ values — and therefore, per IIT, different conscious experiences. This is directly relevant to the comparison between [Moravec transfer](../social/twitter/moravec_transfer.md) (which out-sources computation to a digital simulation, potentially stripping intrinsic causality) and [ECP/PSNST](../_general/psnst.md) (which preserves intrinsic causal structure in the replacement substrate). The mathematical contract for substrate equivalence is formalised in [invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md).
 
 ## IIT 4.0 (2019–Present)
+
+The current formal presentation is [IIT 4.0](https://doi.org/10.1371/journal.pcbi.1011465).
 
 The current formulation introduced several refinements over earlier versions:
 
@@ -54,9 +56,9 @@ This classification carries direct stakes for [consciousness engineering](../_ge
 
 ### Perturbational Complexity Index (PCI)
 
-The "zap-and-zip" method (Casali et al., 2013 *Science Translational Medicine*) operationalises the integration-differentiation requirement without computing Φ directly. A TMS pulse to cortex is followed by high-density EEG; the Lempel-Ziv algorithmic complexity of the binarised spatiotemporal response reliably distinguishes conscious from unconscious states (PCI ≥ 0.31 threshold), including detection of covert consciousness in behaviourally unresponsive patients.
+The "zap-and-zip" method (Casali et al., 2013, [*Science Translational Medicine*](https://doi.org/10.1126/scitranslmed.3006294)) is motivated by integration-differentiation, without computing Φ directly. A TMS pulse to cortex is followed by high-density EEG; the Lempel-Ziv complexity of the binarised spatiotemporal response provided evidence for discriminating studied conscious and unconscious states, including reported detection of covert consciousness in behaviourally unresponsive patients. The reported PCI* threshold (around 0.31) is study- and protocol-dependent, not a universal consciousness boundary.
 
-**Limitations**: PCI lacks a formal derivation from IIT axioms and may measure complexity without specifically measuring integration (Virmani & Nagaraj, 2019). See [quantitative consciousness index](../papers/quantitative_consciousness_index.md).
+**Limitations**: PCI is a specific TMS–EEG perturbational complexity measure, not IIT's causal/intrinsic Φ. It lacks a formal derivation from IIT axioms and may measure complexity without specifically measuring integration ([Virmani & Nagaraj, 2019](https://arxiv.org/abs/1902.04321)). State-discrimination evidence is not proof of phenomenal consciousness, personal identity, or continuity. See [quantitative consciousness index](../papers/quantitative_consciousness_index.md) for the comparison of QCI components.
 
 ### COGITATE Consortium (2025)
 
@@ -64,7 +66,7 @@ The adversarial collaboration published in *Nature* (April 2025) tested IIT vs G
 
 ### Hemispherotomy
 
-[Patients surviving hemispherotomy](../books/sizing_up_consciousness/hemispherotomy.md) retain consciousness — a finding IIT accommodates because Φ depends on integrated information within the *remaining* tissue, not on total brain volume. The remaining hemisphere's recurrent cortical architecture is sufficient to sustain a main complex with non-zero Φ.
+[Patients surviving hemispherotomy](../books/sizing_up_consciousness/hemispherotomy.md) retain consciousness — an observation that IIT can accommodate in principle. Within IIT's framework, the remaining tissue might instantiate a main complex with non-zero Φ; this is a theoretical interpretation or hypothesis, not a calculated or measured result. Φ cannot currently be computed for real brains.
 
 ## Criticisms
 
@@ -78,8 +80,8 @@ The adversarial collaboration published in *Nature* (April 2025) tested IIT vs G
 
 IIT occupies a strategic position in [consciousness engineering](../_general/consciousness_engineering.md):
 
-- **Substrate independence**: IIT provides the most developed mathematical argument that consciousness depends on causal architecture rather than biological substrate — directly supporting the feasibility of synthetic neural substrates for [PSNST](../_general/psnst.md).
-- **Verification**: If Φ can be estimated during progressive transfer, it offers an objective, continuous measure of consciousness preservation that does not require behavioural report.
+- **Substrate independence**: Within IIT's framework, consciousness depends on causal architecture rather than biological substrate — a theoretical argument relevant to the feasibility of synthetic neural substrates for [PSNST](../_general/psnst.md), not an empirical demonstration of that feasibility.
+- **Verification**: If the causal formalism could be instantiated for a system during progressive transfer, Φ might provide a theoretical quantity relevant to consciousness preservation. PCI and other proxies may provide indirect state-related evidence, but they do not verify Φ or personal identity and continuity.
 - **Risk**: If IIT is correct that every causal mechanism contributes to experience, gradual substrate replacement must preserve not just global Φ but the specific cause-effect structure — a far more demanding constraint than preserving input-output function alone. The [Moravec transfer](../social/twitter/moravec_transfer.md), which outsources computation, may fail on these grounds.
 
 ## Related Concepts
@@ -92,5 +94,5 @@ IIT occupies a strategic position in [consciousness engineering](../_general/con
 - [Phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) — IIT's axiomatic method is explicitly phenomenological
 - [Naturalisation of phenomenology](../articles/naturalisation_of_phenomenology.md) — IIT as a mathematical bridge between first- and third-person methods
 - [Philosophical zombies](../_general/philosophical_zombies.md) — IIT denies zombies are possible: any system with the right Φ is conscious
-- [PSNST](../_general/psnst.md) — substrate verification via Φ monitoring during progressive transfer
+- [PSNST](../_general/psnst.md) — conceptual relevance of Φ to substrate-preservation questions, not a current monitoring or verification method
 - [Moravec transfer](../social/twitter/moravec_transfer.md) — digitisation approaches risk losing intrinsic causal structure (Φ → 0)

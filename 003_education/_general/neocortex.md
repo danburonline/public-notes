@@ -5,7 +5,7 @@
 The neocortex, also called the **neopallium** or **isocortex**, is the **outermost layered structure of the mammalian brain, responsible for higher cognitive functions** including sensory perception, spatial reasoning, conscious thought, and language. As the most recently evolved region of the cerebral cortex, it is the defining feature of mammalian brains and the substrate for much of what makes human cognition distinctive.
 
 > [!abstract] TL;DR
-> The neocortex is a 6-layered, highly folded sheet of grey matter covering the cerebrum. Its ~16 billion neurons are organised into ~150,000 cortical columns, each a vertical processing unit, connected by short-range intralaminar and long-range inter-regional projections. It is the primary target of neuroimaging research (fMRI, MEG), the substrate of consciousness theories (IIT, Global Workspace), and the structural template for biomimetic neuromorphic engineering. Key atlases include BigBrain (20 µm histological resolution) and the HCP's multi-modal parcellation (180 areas per hemisphere).
+> The neocortex is a 6-layered, highly folded sheet of grey matter covering the cerebrum. An isotropic-fractionation estimate by Azevedo et al. places the human cerebral cortex at ~16 billion neurons; this is not a precise standalone neocortex census ([Azevedo et al., 2009](https://doi.org/10.1002/cne.21974)). These neurons are organised through a multiscale and debated columnar architecture. Hawkins's theory uses approximately 150,000 larger cortical columns, not a census of minicolumns; these columns are connected by short-range intralaminar and long-range inter-regional projections. It is the primary target of neuroimaging research (fMRI, MEG), the substrate of consciousness theories (IIT, Global Workspace), and the structural template for biomimetic neuromorphic engineering. Key atlases include BigBrain (20 µm histological resolution) and the HCP's multi-modal parcellation (180 areas per hemisphere).
 
 ## Gross Anatomy
 
@@ -32,7 +32,7 @@ The layer-specific input/output organisation supports hierarchical processing: s
 
 ## Cortical Columns — The Functional Unit
 
-The neocortex's elementary computational unit is the **cortical column**, a vertically oriented module (~50-100 µm diameter, spanning all 6 layers) containing ~80-100 neurons that share similar response properties. The column hypothesis, first proposed by Mountcastle (1957), posits that the neocortex is built from ~**150,000 cortical columns** in humans.
+The neocortex has a proposed columnar organisation, but **“cortical column” does not identify one settled anatomical scale**. A ~50–100 µm diameter can be retained as a rough engineering target for a minicolumn-like module; minicolumn dimensions and cell counts vary by region, species, and definition ([Buxhoeveden & Casanova, 2002](https://doi.org/10.1093/brain/awf110)). Hawkins's ~150,000 figure refers to larger theory columns, not to 150,000 minicolumns. In his 2017 model, columns are approximately 300–600 µm and contain 150–250 model minicolumns of approximately 30–60 µm; these are model conventions rather than universal anatomical facts ([Hawkins et al., 2017](https://doi.org/10.3389/fncir.2017.00081)).
 
 Columns within a region share similar laminar organisation but vary in their specific functional tuning (e.g., orientation preference in V1). The [Thousand Brains Theory](../../002_profession/eightsix/thousand_brains_theory.md) extends this by proposing each column builds a complete model of the world independently, voting via long-range connections to achieve coherent perception.
 
@@ -67,7 +67,7 @@ The neocortex features prominently in major consciousness theories:
 
 The neocortex is the target of:
 
-- **Epilepsy surgery**: [Hemispherotomy](../../001_private/books/sizing_up_consciousness/hemispherotomy.md) — disconnecting or removing one hemisphere — demonstrates that half the neocortical substrate can sustain full conscious experience, supporting substrate-independence arguments
+- **Epilepsy surgery**: [Hemispherotomy](../../001_private/books/sizing_up_consciousness/hemispherotomy.md) — in selected clinical cases, unilateral pathology and surgical disconnection show biological resilience and possible functional reorganisation. This does not establish material substrate independence, unchanged phenomenal experience, or literal 50% removal
 - **Awake [craniotomy](../../001_private/books/the_feeling_of_life_itself/craniotomy.md)**: Direct cortical stimulation maps eloquent cortex during neurosurgical procedures. See: [craniotomy](../../001_private/books/the_feeling_of_life_itself/craniotomy.md)
 - **Disorders of consciousness**: Vegetative state ([apallic syndrome](../../001_private/books/sizing_up_consciousness/apallic_syndrome.md)) reflects neocortex-brainstem disconnection; quantitative measures (EEG, PCI) assess residual neocortical integration
 
@@ -93,9 +93,9 @@ Your computational neuroanatomy and brain atlas research intersects with neocort
 
 The neocortex's laminar-columnar architecture is the **template for synthetic neural substrate engineering**. Biomimetic neuromorphics targets:
 
-- **Architectural fidelity**: Replicating 6-layer lamination and columnar modularity (~150,000 columns in human neocortex). See: [biomimetic neuromorphics](../../002_profession/eightsix/biomimetic_neuromorphics.md)
+- **Architectural fidelity**: Replicating 6-layer lamination and multiscale columnar modularity; Hawkins's proposal uses ~150,000 larger columns, not a settled minicolumn census. See: [biomimetic neuromorphics](../../002_profession/eightsix/biomimetic_neuromorphics.md)
 - **Temporal dynamics**: Matching synaptic plasticity timescales (LTP/LTD) and oscillatory dynamics (theta, gamma)
-- **Scaling challenge**: Human neocortex = ~16B neurons, ~150T synapses. Current organoid technology produces ~10⁶ neurons. Bridging this gap is the central engineering challenge
+- **Scaling challenge**: Azevedo et al.'s isotropic-fractionation estimate for the human cerebral cortex is ~16B neurons, not a precise standalone neocortex census; ~150T synapses are also often cited. Current organoid technology produces ~10⁶ neurons. Bridging this gap is the central engineering challenge
 
 ## Evolutionary Context
 

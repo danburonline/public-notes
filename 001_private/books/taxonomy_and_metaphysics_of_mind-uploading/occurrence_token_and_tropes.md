@@ -5,7 +5,7 @@ Occurrences, tokens, and tropes are three notions of particularity in metaphysic
 ## Occurrence
 
 - **Definition**: An event or happening that takes place in the world. It is a specific instance of something occurring.
-- **[Context](../../../002_profession/eightsix/wiki/experiments/001_graft-implant-pre-pilot/context.md)**: Often discussed within the realms of time, causality, and event ontology.
+- **Context**: Often discussed within the realms of time, causality, and event ontology.
 - **Example**: A particular rainfall or a specific thought happening at a moment.
 
 ## Token

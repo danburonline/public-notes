@@ -20,7 +20,8 @@ Within the synconetics framework, biomimetic neuromorphics addresses a core engi
 Faithful reproduction of neural cytoarchitecture:
 
 - Layered cortical organisation (L1–L6)
-- Columnar modularity (~150,000 columns in human [neocortex](../../003_education/_general/neocortex.md))
+- Columnar modularity at multiple scales: Hawkins's theory uses approximately 150,000 larger columns in the human [neocortex](../../003_education/_general/neocortex.md), not a settled census of minicolumns ([Hawkins et al., 2017](https://doi.org/10.3389/fncir.2017.00081))
+- A rough 50–100 µm target may be useful for a minicolumn-like engineering module, but it must not be multiplied into the ~150,000 larger-column figure
 - White matter tract topology
 - Vascular and glial support structures
 
@@ -66,7 +67,7 @@ The [invariance criterion](invariant_brain_emulation.md) suggests circuit-level 
 
 ### Scaling
 
-Human cortex: ~16 billion neurons, ~150 trillion synapses. Current organoid technology produces ~10⁶ neurons. Bridging this gap requires:
+Azevedo et al.'s isotropic-fractionation estimate for the human cerebral cortex is ~16 billion neurons; this is not a precise standalone neocortex census ([Azevedo et al., 2009](https://doi.org/10.1002/cne.21974)). ~150 trillion synapses are also often cited. Current organoid technology produces ~10⁶ neurons. Bridging this gap requires:
 
 - Modular assembly of organoid units
 - Vascularisation for metabolic support (see [Cortex vascularisation](cortex_vascularisation.md))
@@ -74,7 +75,7 @@ Human cortex: ~16 billion neurons, ~150 trillion synapses. Current organoid tech
 
 ### Consciousness Verification
 
-No physical substrate guarantees phenomenal experience. Biomimetic neuromorphics must interface with [consciousness monitoring](../../001_private/papers/quantitative_consciousness_index.md) frameworks to validate that the synthetic tissue supports awareness.
+No physical substrate guarantees phenomenal experience. Biomimetic neuromorphics should interface with [consciousness monitoring](../../001_private/papers/quantitative_consciousness_index.md) frameworks to collect indirect, construct-specific, state-related evidence; these measures do not prove phenomenal awareness, personal identity, or continuity.
 
 ## Why Biomimetic Neuromorphics Is Necessary
 

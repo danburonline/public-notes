@@ -46,12 +46,6 @@
 - Forms [blood-brain barrier](../../003_education/kcl/06_neuroimaging_in_mental_health/blood-brain_barrier.md)
 - Adapts to neuronal needs (angiogenesis/reabsorption)
 
-## Cortical Vascular Layers
-
-1. Superficial layer (molecular)
-2. Middle layer (Purkinje cell)
-3. Deep layer (granular)
-
 ## Functional Aspects
 
 - Pial vessels: Extrinsic innervation ([peripheral nervous system](../../004_subsidiary/courses/udemy/neuroanatomy/peripheral_nervous_system.md))

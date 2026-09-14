@@ -2,11 +2,11 @@
 
 ![hemispherotomy](_attachments/hemispherotomy.png)
 
-Hemispherotomy is a surgical procedure used in the treatment of severe and intractable epilepsy. It is a modified version of [hemispherectomy](https://en.wikipedia.org/wiki/Hemispherectomy), which involves **removing or disconnecting one of the brain’s hemispheres.** Hemispherotomy, by contrast, aims to preserve more of the brain’s structure while still achieving the desired disconnection to control seizures.
+Hemispheric surgery is used to treat carefully selected patients with severe, drug-resistant epilepsy arising predominantly from one cerebral hemisphere. The terms describe related but distinct operations: anatomical hemispherectomy removes much of the affected hemisphere; functional hemispherectomy removes a more limited amount of tissue while extensively disconnecting the remainder; and hemispherotomy principally disconnects the affected hemisphere while sparing more tissue. The terminology is not always used identically between centres, so the operative details matter. [1]
 
 ## Indications
 
-Hemispherectomy is typically indicated for patients with epilepsy that are localised to one hemisphere of the brain and do not respond to medication. Common conditions leading to this procedure include:
+Reported indications include unilateral, drug-resistant epilepsy associated with conditions such as:
 
 - Rasmussen’s encephalitis
 - Sturge-Weber syndrome
@@ -17,19 +17,21 @@ Hemispherectomy is typically indicated for patients with epilepsy that are local
 
 ## Procedure
 
-The goal of hemispherotomy is to disconnect the epileptogenic hemisphere from the rest of the brain, thereby preventing seizure propagation. The procedure involves:
+The goal of a hemispherotomy is to interrupt the pathways by which seizures propagate from the affected hemisphere. The exact disconnections vary by technique, but the procedure generally involves:
 
 1. **Surgical Access**: A [craniotomy](../the_feeling_of_life_itself/craniotomy.md) is performed to access the affected hemisphere.
-2. **Disconnection**: Key structures such as the [corpus callosum](../../../003_education/kcl/05_neuroscience_in_society/corpus_callosum.md), internal capsule, and [basal ganglia](../../../003_education/kcl/04_biological_foundations_of_mental_health/basal_ganglia.md) are surgically disconnected. Unlike hemispherectomy, large parts of the brain tissue are not removed, reducing the risk of hydrocephalus and other complications.
+2. **Disconnection**: Relevant commissural and intrahemispheric pathways, including the [corpus callosum](../../../003_education/kcl/05_neuroscience_in_society/corpus_callosum.md), are disconnected according to the chosen approach. Unlike anatomical hemispherectomy, little tissue is removed.
 3. **Preservation**: Where possible, brain tissue is preserved to minimise the impact on cognitive and motor functions.
 
 ## Outcomes
 
-The success rate of hemispherotomy in reducing or eliminating seizures is high, often exceeding 80% in properly selected patients. However, the procedure may lead to or exacerbate existing deficits, particularly in:
+Seizure control can be substantial in appropriately selected patients, but outcomes vary. They depend on age at surgery, the underlying pathology, pre-existing damage, the laterality and extent of the affected network, and rehabilitation. Substantial functions can remain, but residual or exacerbated deficits are common, particularly in:
 
 - Motor control, leading to hemiparesis on the side opposite the surgery
 - Sensory functions, including vision, touch, and [proprioception](../../../004_subsidiary/courses/udemy/neuroanatomy/proprioception.md)
 - Language and cognitive functions, depending on the hemisphere involved and the age of the patient
+
+The possibility of functional reorganisation does not imply complete recovery or the absence of impairment. [1][2]
 
 ## Rehabilitation
 
@@ -42,53 +44,29 @@ Post-surgical rehabilitation is crucial for maximising recovery and adaptation. 
 
 ## Implications for Consciousness
 
-Hemispherotomy provides striking empirical evidence for [substrate independence](../how_to_build_a_brain/multiple_realisability.md) of consciousness. Patients retain unified conscious experience despite:
+These operations provide cautious evidence for biological functional reorganisation and resilience: a person can retain substantial abilities despite major unilateral pathology and surgical disconnection. They also show that some functions do not require every part of the normally connected brain. This is an inference about biological recovery and incomplete brain necessity, not evidence that:
 
-- **~50% neural substrate reduction** — The disconnected hemisphere remains physically present but functionally isolated, demonstrating that conscious experience does not require the full original substrate
-- **Preserved phenomenal unity** — Patients report continuous first-person experience, not a "halved" consciousness, supporting theories that consciousness emerges from integrated information patterns rather than raw neural mass
-- **Maintained sense of self** — Personal identity and autobiographical continuity persist through radical neural reorganisation
+- synthetic substrate replacement or arbitrary material substrate-independence;
+- unchanged phenomenal experience or personal identity; or
+- progressive transfer of a mind from one substrate to another.
 
-> [!tip] Relevance to Extracorporeal Cognitive Preservation
-> For [Extracorporeal Cognitive Preservation](../../_general/psnst.md), hemispherotomy demonstrates that:
->
-> 1. Consciousness can survive major substrate changes when functional organisation is preserved
-> 2. Gradual transition (vs. instantaneous) allows neural plasticity to maintain integration
-> 3. The "minimum viable substrate" for consciousness may be far smaller than the intact brain
-
-### Theoretical Connections
-
-| Theory                                                                              | Hemispherotomy Evidence                                                                               |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [Integrated information theory](../../videos/integrated_information_theory.md)      | Φ (phi) depends on integrated information, not volume—remaining hemisphere maintains high integration |
-| [Higher-order theories of consciousness](higher-order_theories_of_consciousness.md) | Metacognitive functions preserved in remaining hemisphere sufficient for conscious access             |
-| [Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md)    | Supports Chalmers' organisational invariance—if function preserved, experience preserved              |
-
-### Open Questions
-
-- Does the disconnected hemisphere retain any form of isolated consciousness?
-- How does PCI change pre- vs. post-surgery?
-- What is the minimum cortical volume required for unified conscious experience?
+The clinical outcomes therefore support only a limited biological analogy or motivation for questions about functional organisation; they are not direct evidence for those stronger claims.
 
 ## Surgical Variants
 
 The embedded diagram illustrates five approaches with varying degrees of tissue removal vs. disconnection:
 
-| Approach                    | Method                          | Tissue Removed                |
-| --------------------------- | ------------------------------- | ----------------------------- |
-| Anatomical hemispherectomy  | Complete removal                | Entire hemisphere             |
-| Functional hemispherectomy  | Partial removal + disconnection | Temporal lobe, central cortex |
-| Peri-insular hemispherotomy | Disconnection around insula     | Minimal                       |
-| Transsylvian hemispherotomy | Access via Sylvian fissure      | Minimal                       |
-| Vertical hemispherotomy     | Superior approach to ventricles | Minimal                       |
+| Approach                    | Method                                      | Tissue removed                         |
+| --------------------------- | ------------------------------------------- | --------------------------------------- |
+| Anatomical hemispherectomy  | Removal of much of the affected hemisphere  | Extensive                               |
+| Functional hemispherectomy  | Limited removal + extensive disconnection  | More limited                            |
+| Peri-insular hemispherotomy | Disconnection around the insula             | Minimal                                 |
+| Transsylvian hemispherotomy | Disconnection via the Sylvian fissure       | Minimal                                 |
+| Vertical hemispherotomy     | Superior disconnection approach              | Minimal                                 |
 
-Modern preference favours disconnective techniques (hemispherotomy) over anatomical removal due to reduced complications while achieving equivalent seizure control.
+Hemispherotomy generally aims to achieve the necessary disconnection with less tissue removal than anatomical hemispherectomy; the balance between seizure control and complications remains patient- and technique-dependent. [1]
 
-## Key Researchers
+## Sources
 
-| Researcher             | Contribution                                                                                                                                            |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Walter Dandy**       | Performed first hemispherectomy (1923) for glioma                                                                                                       |
-| **Kenneth McKenzie**   | First hemispherectomy for epilepsy (1938)                                                                                                               |
-| **Jean-Guy Villemure** | Developed peri-insular hemispherotomy technique                                                                                                         |
-| **Johannes Schramm**   | Pioneered transsylvian hemispherotomy                                                                                                                   |
-| **Giulio Tononi**      | [Integrated information theory](../../videos/integrated_information_theory.md) provides theoretical framework for understanding preserved consciousness |
+- [Lew, “Hemispherectomy in the treatment of seizures: a review”](https://doi.org/10.3978/j.issn.2224-4336.2014.04.01) ([full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC4729844/)) [1]
+- [Vining et al., paediatric hemispherectomy study](https://doi.org/10.1542/peds.100.2.163) [2]

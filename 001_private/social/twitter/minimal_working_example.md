@@ -7,7 +7,7 @@ A minimal working example (MWE) is the **most stripped-down version of code that
 ## Characteristics of an MWE
 
 - **Simplicity:** Contains only the essential code or steps needed to reproduce the issue, devoid of any extraneous details or complexities.
-- **Self-contained:** Can be executed or understood independently without requiring additional [context](../../../002_profession/eightsix/wiki/experiments/001_graft-implant-pre-pilot/context.md), settings, or dependencies. This makes it easily shareable and understandable by others.
+- **Self-contained:** Can be executed or understood independently without requiring additional context, settings, or dependencies. This makes it easily shareable and understandable by others.
 - **Focused:** Directly targets a specific problem or question, ensuring that the example is directly relevant to the issue at hand.
 
 ## Creating an MWE

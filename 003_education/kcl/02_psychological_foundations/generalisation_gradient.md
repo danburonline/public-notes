@@ -17,7 +17,7 @@ The generalisation gradient is the graded decrement in learned responding as a t
 ## Neural and Computational Parallels
 
 - **Neural tuning**: The behavioural gradient mirrors neural population tuning — neurons respond to a range of stimuli around a preferred value, and representational similarity decays with stimulus distance. This is the same logic as partial-volume blurring in neuroimaging ([partial volume effect](../../../001_private/books/introduction_to_neuroimaging_analysis/partial_volume_effect_in_mri.md)) and the tuning-curve overlap that underlies population coding.
-- **Machine learning**: The generalisation gradient is the behavioural analogue of **kernel similarity** in ML — a model's response to a new input decays with its distance from training examples. In neural networks, this is formalised by similarity in activation space ([activation functions](../neural_networks_from_scratch/activation_functions_overview.md) determine the representational geometry).
+- **Machine learning**: The generalisation gradient is the behavioural analogue of **kernel similarity** in ML — a model's response to a new input decays with its distance from training examples. In neural networks, this is formalised by similarity in activation space ([activation functions](../../../001_private/books/neural_networks_from_scratch/activation_functions_overview.md) determine the representational geometry).
 - **Credit assignment**: Distinguishing which stimuli to credit with outcomes is the [credit assignment problem](../../epfl/credit_assignment_problem.md) — a steep gradient is a narrow credit assignment.
 
 ## Why It Matters Across Competencies
@@ -25,4 +25,4 @@ The generalisation gradient is the graded decrement in learned responding as a t
 - **Applied neuroscience**: gradient steepness indexes learning precision and is altered in anxiety (over-generalisation) and autism (under-generalisation).
 - **Artificial intelligence**: kernel similarity and representation geometry are the ML version of the same principle — generalisation is what both brains and models must do.
 
-See: [bistability in cortical neurons](../sizing_up_consciousness/bistability_in_cortical_neurons.md) · [structural MRI modalities](structural_mri_modalities.md)
+See: [bistability in cortical neurons](../../../001_private/books/sizing_up_consciousness/bistability_in_cortical_neurons.md) · [structural MRI modalities](../../../001_private/books/introduction_to_neuroimaging_analysis/structural_mri_modalities.md)
