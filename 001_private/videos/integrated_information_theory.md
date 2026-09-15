@@ -50,7 +50,7 @@ Whether IIT's Φ is best understood as a case of [weak or strong emergence](stro
 - **Weak-emergence reading**: Φ is formally derivable from a system's transition probability matrix — given the right computation, it follows from the micro-level. Consciousness is a property of the *organisation* of matter, not of matter *per se*.
 - **Strong-emergence reading**: The cause-effect structure has genuinely novel intrinsic existence — it is not merely a formal description but an additional ontological fact. Tononi's language of "intrinsic existence" is sometimes read as entailing strong emergence.
 
-This classification carries direct stakes for [consciousness engineering](../_general/consciousness_engineering.md): if Φ is weakly emergent, reproducing the causal architecture in [biomimetic neuromorphic](../../002_profession/eightsix/biomimetic_neuromorphics.md) substrates should preserve consciousness. If it is strongly emergent, the specific material realisation may matter beyond the causal pattern — a far more demanding constraint.
+This classification carries direct stakes for [consciousness engineering](../_general/consciousness_engineering.md), but it does not by itself settle the realisation question. Reproducing the causal architecture in [biomimetic neuromorphic](../../002_profession/eightsix/biomimetic_neuromorphics.md) substrates may be sufficient only if no further substrate-specific or realisation requirements hold; if such requirements do hold, causal architecture alone may not suffice.
 
 ## Empirical Tests
 
@@ -58,11 +58,11 @@ This classification carries direct stakes for [consciousness engineering](../_ge
 
 The "zap-and-zip" method (Casali et al., 2013, [*Science Translational Medicine*](https://doi.org/10.1126/scitranslmed.3006294)) is motivated by integration-differentiation, without computing Φ directly. A TMS pulse to cortex is followed by high-density EEG; the Lempel-Ziv complexity of the binarised spatiotemporal response provided evidence for discriminating studied conscious and unconscious states, including reported detection of covert consciousness in behaviourally unresponsive patients. The reported PCI* threshold (around 0.31) is study- and protocol-dependent, not a universal consciousness boundary.
 
-**Limitations**: PCI is a specific TMS–EEG perturbational complexity measure, not IIT's causal/intrinsic Φ. It lacks a formal derivation from IIT axioms and may measure complexity without specifically measuring integration ([Virmani & Nagaraj, 2019](https://arxiv.org/abs/1902.04321)). State-discrimination evidence is not proof of phenomenal consciousness, personal identity, or continuity. See [quantitative consciousness index](../papers/quantitative_consciousness_index.md) for the comparison of QCI components.
+**Limitations**: PCI is a specific TMS–EEG perturbational complexity measure, not IIT's causal/intrinsic Φ, and it does not compute Φ. Casali et al.'s state-discrimination evidence is not proof of phenomenal consciousness, personal identity, or continuity. See [quantitative consciousness index](../papers/quantitative_consciousness_index.md) for the comparison of QCI components.
 
 ### COGITATE Consortium (2025)
 
-The adversarial collaboration published in *Nature* (April 2025) tested IIT vs GNWT predictions in 256 participants. IIT's prediction that posterior-cortex synchronisation specifies consciousness was challenged: sustained synchrony was observed in frontal regions, not posterior cortex. However, GNWT also failed to account for key findings. See [neural correlate of consciousness](../books/the_feeling_of_life_itself/neural_correlate_of_consciousness.md) for the full results.
+The adversarial collaboration published in *Nature* in 2025 (n = 256; [source](https://www.nature.com/articles/s41586-025-08888-1)) tested predictions from IIT and GNWT. It reported content-specific synchronisation between frontal and early visual areas, while finding no sustained posterior synchronisation of the kind predicted by the tested IIT account. The results challenged key predictions of both theories; they did not settle which theory is correct. See [neural correlate of consciousness](../books/the_feeling_of_life_itself/neural_correlate_of_consciousness.md) for the full results.
 
 ### Hemispherotomy
 
@@ -70,7 +70,7 @@ The adversarial collaboration published in *Nature* (April 2025) tested IIT vs G
 
 ## Criticisms
 
-- **Untestability**: Φ cannot currently be computed for real brains; the theory's predictions for large neural systems remain untestable in practice. The COGITATE (2025) results challenged IIT's specific posterior-cortex prediction.
+- **Untestability**: Φ cannot currently be computed for real brains; the theory's predictions for large neural systems remain difficult to test in practice. COGITATE (2025) challenged the tested prediction of sustained posterior synchronisation, as well as key GNWT predictions, without settling either theory.
 - **Panpsychism implication**: IIT implies any system with non-zero Φ is conscious, including simple logic gates (Φ ≈ 0.00001). Critics consider this a *reductio ad absurdum*.
 - **Exclusion boundary problem**: IIT must select a spatiotemporal scale for the main complex, but why neuronal firing patterns rather than molecular dynamics or field potentials? The choice of neuronal grain appears theory-driven.
 - **Missing content sensitivity**: Φ cannot distinguish between phenomenologically different experiences with equal Φ values — it may capture *level* of consciousness but not *content*.

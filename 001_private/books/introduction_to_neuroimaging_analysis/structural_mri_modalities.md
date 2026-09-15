@@ -26,5 +26,15 @@ Structural MRI modalities are specialised acquisition sequences — FLAIR, DIR, 
 
 ## MRA (Magnetic Resonance Angiography)
 
-- **Usage**: Non-invasive imaging of blood vessels to evaluate vascular conditions like stenosis or aneurysms. Preferred over CT angiography due to the absence of ionising radiation.
-- **Mechanism**: Techniques like TOF (Time-of-Flight) or QISS (Quiescent Interval Slice Selection) use saturation pulses to null background tissue signals while enhancing arterial blood flow signals. These methods rely on the inflow effect of unsaturated blood during systole.
+- **Usage**: Non-invasive depiction of blood vessels for assessing vascular anatomy and abnormalities such as stenosis or aneurysms. MRA does not use ionising radiation, and some MRA techniques can be performed without contrast. CT angiography (CTA) is generally faster, provides higher spatial resolution, and is less sensitive to motion during acquisition; it uses ionising radiation and, when contrast is used, typically uses iodinated contrast. These are contextual trade-offs rather than a universal preference for one modality. Modality choice depends on the vascular territory, urgency, required spatial resolution, flow characteristics, contrast requirements, motion, and contraindications ([ACR Cerebrovascular Disease](https://acsearch.acr.org/docs/69478/Narrative)).
+- **Mechanism**:
+  - **TOF (Time-of-Flight)**: Inflow-related enhancement occurs when relatively unsaturated blood enters an RF-excited slab and replaces saturated spins. The mechanism is not intrinsically tied to systole, although pulsatile flow can affect the signal ([Wheaton & Miyazaki, 2012](https://doi.org/10.1002/jmri.23641)).
+  - **Phase contrast**: Bipolar gradient pairs encode velocity-dependent phase shifts, allowing flow direction and velocity-related information to be represented ([Wheaton & Miyazaki, 2012](https://doi.org/10.1002/jmri.23641)).
+  - **CE-MRA (contrast-enhanced MRA)**: A gadolinium-based contrast agent shortens blood T1, increasing its signal in a T1-weighted acquisition; timing the acquisition to arterial passage supports arterial depiction ([Edelman et al., 2022](https://doi.org/10.1148/rg.2021210141)).
+  - **QISS (Quiescent-Interval Slice-Selective)**: A specialised synchronised noncontrast technique that uses cardiac timing, saturation, and inflow preparation; it is not a general description of all MRA methods ([Wheaton & Miyazaki, 2012](https://doi.org/10.1002/jmri.23641)).
+
+## Sources
+
+- [ACR Cerebrovascular Disease](https://acsearch.acr.org/docs/69478/Narrative)
+- [Wheaton & Miyazaki (2012)](https://doi.org/10.1002/jmri.23641)
+- [Edelman et al. (2022)](https://doi.org/10.1148/rg.2021210141)

@@ -87,7 +87,7 @@ The "zap-and-zip" method developed by Giulio Tononi is motivated by the idea tha
 
 **Limitations**:
 
-- Lacks clear theoretical link to IIT (Virmani & Nagaraj, 2019)
+- Does not itself instantiate IIT's causal formalism or compute Φ
 - Measures integration-differentiation without specifying critical brain regions
 - Requires expensive TMS-EEG equipment
 - Does not establish phenomenal consciousness, personal identity, or continuity, and does not directly measure Φ
@@ -115,7 +115,7 @@ Direct brain recordings in epilepsy patients provide high spatiotemporal resolut
 
 ## Adversarial Collaboration Results (2025)
 
-The COGITATE consortium (Nature, April 2025) conducted a large-scale adversarial collaboration testing IIT vs GNWT predictions in 256 participants using fMRI, MEG, and intracranial EEG:
+The COGITATE consortium conducted a large-scale adversarial collaboration testing IIT and GNWT predictions in 2025 (n = 256; [Nature source](https://www.nature.com/articles/s41586-025-08888-1)) using fMRI, MEG, and intracranial EEG:
 
 **Key findings**:
 
@@ -125,14 +125,14 @@ The COGITATE consortium (Nature, April 2025) conducted a large-scale adversarial
 
 **Challenges to IIT**:
 
-- Lack of sustained synchronisation within posterior cortex contradicts the claim that network connectivity specifies consciousness
+- No sustained posterior synchronisation of the kind predicted by the tested IIT account; this challenges that prediction rather than establishing a generic failure of posterior connectivity
 
 **Challenges to GNWT**:
 
 - Limited representation of certain conscious dimensions in prefrontal cortex
 - General lack of "ignition" at stimulus offset
 
-**Implication**: Neither major theory fully accounts for the empirical data. The field may need revised theoretical frameworks or recognition that different theories capture different aspects of consciousness.
+**Implication**: The results challenged key predictions of both IIT and GNWT, but did not settle which theory is correct. Different theories may still capture different aspects of consciousness, and further work is needed.
 
 ## Relation to [Consciousness Engineering](../../_general/consciousness_engineering.md)
 

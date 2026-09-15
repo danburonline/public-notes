@@ -7,12 +7,12 @@ Softmax is a **mathematical function used in the output layer of neural network 
 The softmax function is expressed as:
 
 $$
-\sigma(\mathbf{z})*i = \frac{e^{z_i}}{\sum*{j=1}^{K} e^{z_j}}
+\operatorname{softmax}(\mathbf{z})_i = \frac{\exp(z_i)}{\sum_{j=1}^{K} \exp(z_j)}
 $$
 
 Where:
 
-- $\sigma(\mathbf{z})*i$ is the output of the softmax function for the $i$-th class.
+- $\operatorname{softmax}(\mathbf{z})_i$ is the output of the softmax function for the $i$-th class.
 - $z_i$ is the $i$-th element from the input vector $\mathbf{z}$, representing the raw score for the class $i$.
 - $K$ is the total number of classes.
 
@@ -33,5 +33,5 @@ Consider the problem of classifying an image into one of three classes (Cat, Dog
 
 ## Cautions
 
-- **Numerical Stability**: Direct softmax computation might involve large or small exponentials. To avoid this, a normalisation trick is often used.
-- **Not Suitable for Binary Classification**: For binary classification problems, the sigmoid function is typically used.
+- **Numerical Stability**: Subtracting the largest logit before exponentiating gives the equivalent stable calculation $\operatorname{softmax}(\mathbf{z})_i = \frac{\exp(z_i-m)}{\sum_j \exp(z_j-m)}$, where $m = \max_k z_k$.
+- **Binary Classification**: A two-logit softmax is valid. A sigmoid is a common equivalent parameterisation: with logits $z_0$ and $z_1$, $\operatorname{softmax}(\mathbf{z})_1 = \operatorname{sigmoid}(z_1-z_0)$.

@@ -16,13 +16,13 @@ Where:
 
 - `P(A|B)` is the posterior probability: the probability of event A occurring given that B is true.
 - `P(B|A)` is the likelihood: the probability of event B occurring given that A is true.
-- `P(A)` and `P(B)` are the probabilities of A and B independently of each other.
+- `P(A)` is the marginal probability of A (and may serve as its prior before observing B); `P(B)` is the marginal probability of B, or the evidence probability. Bayes’ theorem does not assume that A and B are independent, but it requires `P(B) > 0`.
 
 ## Example
 
 Let’s consider a simple example: testing for a disease.
 
-Let’s say there’s a disease that affects 1% of the population (P(Disease) = 0.01). We have a test for this disease that’s 99% accurate (P(Positive|Disease) = 0.99). However, the test can also give false positives: in healthy individuals, the test will incorrectly be positive 2% of the time (P(Positive|Healthy) = 0.02).
+Let’s say there’s a disease that affects 1% of the population (P(Disease) = 0.01). We have a test for this disease with 99% sensitivity (true-positive rate; P(Positive|Disease) = 0.99). However, the test can also give false positives: in healthy individuals, the test will incorrectly be positive 2% of the time (P(Positive|Healthy) = 0.02).
 
 Now, if a person tests positive, what’s the probability that they actually have the disease? Using Bayes’ theorem, we can calculate this.
 
@@ -44,9 +44,9 @@ Now we can calculate P(Disease|Positive):
 ```
 P(Disease|Positive) = [P(Positive|Disease) * P(Disease)] / P(Positive)
                     = [0.99 * 0.01] / 0.0297
-                    = 0.332
+                    = 0.333
 ```
 
-So, even if a person tests positive, there’s only a 33.2% chance that they actually have the disease.
+So, even if a person tests positive, there’s only a 33.3% chance that they actually have the disease.
 
 This example highlights the importance of considering the base rate (P(Disease)) and the false positive rate when interpreting test results.
