@@ -1,13 +1,17 @@
 #lead/computationalphilosophy #fundamental/logic
 
-**Strong emergence** describes phenomena whose macro-level properties cannot, even *in principle*, be derived from the laws governing their micro-level constituents. It contrasts with **weak emergence** — surprising or computationally irreducible patterns that nevertheless follow from lower-level dynamics — and is most controversially invoked in theories of consciousness as the position that subjective experience cannot be reduced to neural mechanism.
+**Strong emergence** is a contested claim about the relation between a higher-level property and its lower-level base: the property depends on the base, yet cannot be derived from lower-level facts and laws even *in principle*. Some versions also attribute autonomous causal powers or new fundamental laws to the higher level. It contrasts with **weak emergence** — patterns that follow from lower-level dynamics, even if they are difficult to predict without simulating the system — and is most controversially invoked in theories of consciousness.
 
 See [Emergent properties](emergent_properties.md) for the general concept; this note specialises on the strong/weak distinction and its consequences for [consciousness engineering](../_general/consciousness_engineering.md).
+
+## Two Independent Axes
+
+The **emergence axis** asks how a higher-level property depends on, and can be derived from, its lower-level base: strong emergence denies derivability in principle, whereas weak emergence permits it. This is distinct from the **substrate-specificity axis**, which asks which physical materials or organisations can realise the property. Strong emergence does not by itself entail a specifically biological substrate, and substrate independence does not by itself establish weak emergence. **Multiple realisability** is the separate, contested claim that one property can have distinct physical realisers ([Chalmers, 2006](https://consc.net/papers/emergence.pdf); [O'Connor & Wong, 2024](https://plato.stanford.edu/entries/properties-emergent/); [Bickle, 2023](https://plato.stanford.edu/entries/multiple-realizability/)).
 
 > [!example] Quick intuition
 > 
 > - **Weak emergence**: a system has a property absent in its parts individually, yet derivable in principle from micro-rules — often only via simulation.
-> - **Strong emergence**: a system has a property that cannot, even in principle, be fully accounted for by its parts and micro-rules — entailing genuinely novel causal powers at the higher level.
+> - **Strong emergence**: a system has a property that cannot, even in principle, be derived from its parts and micro-rules; autonomous causal powers are an additional claim made by some versions.
 
 ## Bedau's Taxonomy
 
@@ -35,7 +39,7 @@ This argument hinges on the [supervenience](../books/taxonomy_and_metaphysics_of
 Strong emergence is most provocatively invoked in the philosophy of mind:
 
 - **Chalmers' position**: Consciousness may be a fundamental, strongly emergent feature requiring new psychophysical bridge laws — closely tied to the hard problem and the conceivability of [philosophical zombies](../_general/philosophical_zombies.md).
-- **IIT's position**: [Integrated information theory](integrated_information_theory.md) treats Φ as an intrinsic property of cause-effect structure — variously read as either weak emergence (formally derivable) or strong (genuinely novel intrinsic existence).
+- **IIT's position**: [Integrated information theory](integrated_information_theory.md) treats Φ as an intrinsic property of cause-effect structure. Whether this amounts to weak emergence, strong emergence, or neither is an interpretive question; IIT does not settle the emergence taxonomy.
 - **Eliminativist counter**: Strong emergence in cognition is rejected as obscurantist — apparent novelty reflects [reductionist](../_general/reductionist_research_approach.md) gaps, not metaphysical ones.
 - **Newman complication**: The [Newman problem of the brain](../papers/newman_problem_of_the_brain.md) shows that purely relational descriptions of neural activity may be too permissive to ground phenomenal experience regardless of which emergence tier is chosen.
 
@@ -43,9 +47,9 @@ Strong emergence is most provocatively invoked in the philosophy of mind:
 
 The strong/weak emergence question carries direct stakes for substrate-replacement protocols:
 
-- **Substrate independence at risk**: If consciousness is strongly emergent from biological neural tissue specifically, [multiple realisability](../books/how_to_build_a_brain/multiple_realisability.md) and substrate-transfer schemes ([PSNST](../_general/psnst.md), [Moravec transfer](../social/twitter/moravec_transfer.md)) become contentious — synthetic substrates may fail to instantiate the requisite emergence base.
-- **Chalmers' organisational invariance**: Even granting strong emergence, [fading qualia](../books/from_biological_to_artificial_consciousness/fading_qualia.md) arguments suggest qualia depend on functional organisation rather than substrate-specific intrinsic properties — preserving the pattern across [biomimetic neuromorphic](../../002_profession/eightsix/biomimetic_neuromorphics.md) substrates would preserve the emergent state.
-- **Verification problem**: Strong emergence implies no derivation-from-parts test for consciousness — monitoring during gradual transfer must rely on first-person report and indirect markers (Φ, PCI) rather than deductive proof from substrate state.
+- **Substrate independence at risk**: Strong emergence alone does not entail a biological substrate. If an additional argument ties consciousness specifically to biological neural tissue, [multiple realisability](../books/how_to_build_a_brain/multiple_realisability.md) and substrate-transfer schemes ([PSNST](../_general/psnst.md), [Moravec transfer](../social/twitter/moravec_transfer.md)) become contentious.
+- **Chalmers' organisational invariance**: [Fading qualia](../books/from_biological_to_artificial_consciousness/fading_qualia.md) is a separate argument about substrate realisation: it suggests qualia depend on functional organisation rather than substrate-specific intrinsic properties. It does not follow from, or settle, the strong-emergence question.
+- **Verification problem**: Under a strong-emergence hypothesis, no derivation-from-parts test would establish consciousness. Φ is a theoretical IIT quantity/criterion; it cannot currently be computed for real brains, and empirical proxies such as PCI are not direct Φ measures.
 
 ## Cross-Domain Examples
 
@@ -65,6 +69,6 @@ In every case, the test is whether downward causal powers can be specified that 
 - [Supervenience](../books/taxonomy_and_metaphysics_of_mind-uploading/supervenience.md) — related dependence relation; central to Kim's exclusion argument
 - [Multiple realisability](../books/how_to_build_a_brain/multiple_realisability.md) — substrate independence thesis
 - [Philosophical zombies](../_general/philosophical_zombies.md) — Chalmers' tool for arguing consciousness is not weakly emergent
-- [Integrated information theory](integrated_information_theory.md) — Φ as candidate emergent measure
+- [Integrated information theory](integrated_information_theory.md) — Φ as a theoretical IIT quantity/criterion
 - [Newman problem of the brain](../papers/newman_problem_of_the_brain.md) — complicates structural-only emergence claims
 - [PSNST](../_general/psnst.md) — substrate-transfer protocol whose viability depends on consciousness being at most weakly emergent or organisationally invariant

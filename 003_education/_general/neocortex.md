@@ -9,11 +9,10 @@ The neocortex, also called the **neopallium** or **isocortex**, is the **outermo
 
 ## Gross Anatomy
 
-The neocortex is a sheet of approximately **2,000 cm²** (in humans), folded into sulci (grooves) and gyri (ridges) to fit within the cranium. The degree of folding, called gyrification, increases with cortical surface area and is thought to minimise wiring length for long-range connectivity. Functionally:
+The human cerebral cortex has a rough total surface area of **2,000 cm² across both hemispheres**, although estimates vary substantially with individual anatomy and measurement method. Van Essen & Drury (1997) measured approximately **1,570 cm² per hemisphere**, with about **70% buried in sulci**, implying a total-to-exposed-area ratio of order **3**, without a universal exact ratio ([Van Essen & Drury, 1997](https://www.jneurosci.org/content/17/18/7079)). The neocortex is folded into sulci (grooves) and gyri (ridges) to fit within the cranium. The degree of folding, called gyrification, increases with cortical surface area and is thought to minimise wiring length for long-range connectivity. Functionally:
 
 - **Thickness**: ~2–4 mm, relatively uniform across areas
-- **Surface area**: ~2,000 cm² (humans), ~400× greater than its exposed outer surface due to folding
-- **Mass**: ~450 g (~40% of total brain mass in humans)
+- **Surface area**: rough estimate of ~2,000 cm² across both hemispheres, with substantial interindividual and methodological variation
 
 ## Laminar Organisation
 
@@ -40,18 +39,18 @@ See: [cortical column](cortical_column.md)
 
 ## Connectivity Architecture
 
-Neocortical connectivity operates at two scales:
+Neocortical connectivity operates across partly parallel, area- and layer-dependent pathways:
 
-### Intralaminar (Local)
+### Laminar and local pathways
 
-- **Horizontal/association fibres**: Run within layers II–III, connecting nearby columns (~0.5–2 mm range)
-- **Thalamocortical loops**: Layer IV → layer III → layer V → thalamus → layer IV (closed feedback circuits)
+- **Local and intralaminar fibres**: Layers II–III mainly support intracortical, corticocortical, and callosal communication; local horizontal/association fibres connect nearby columns (~0.5–2 mm range)
+- **Thalamocortical pathways**: Layer IV is commonly thalamorecipient, while layer VI provides prominent corticothalamic feedback; input and output arrangements vary with cortical area and thalamic nucleus
 
 ### Inter-regional (Long-range)
 
 - **Corticocortical association tracts**: Connect frontal, parietal, temporal, and occipital association areas
 - **Commissural fibres** (via [corpus callosum](../kcl/05_neuroscience_in_society/corpus_callosum.md)): Connect homotopic and heterotopic regions across hemispheres
-- **Projection fibres**: Layers III and V project to striatum, brainstem, and spinal cord
+- **Subcortical projections**: Layer V is a major source of subcortical output, including brainstem and spinal projections, and contributes to higher-order thalamic projections where applicable. Corticostriatal neurons span especially layers III and V, with distributions varying by region
 
 Connectivity topology underpins the [distributed brain](../epfl/distributed_brain.md) model. No single region is the seat of consciousness or cognition; function emerges from network interactions.
 

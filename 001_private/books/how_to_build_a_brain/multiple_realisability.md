@@ -16,13 +16,17 @@
 - **Functionalism.** The natural ontological partner of multiple realisability: mental states are defined by their causal-functional profile (relations to inputs, outputs, and other mental states), so anything satisfying the profile counts as having the state. See [Multiple Realisability and Functionalism](multiple_realisability_and_functionalism.md).
 - **Organisational invariance** ([Chalmers](https://consc.net/papers/qualia.html), 1995): if two systems share fine-grained functional organisation, they share conscious experience — the strongest defensible form of substrate independence.
 
+## Scope and Relation to Emergence
+
+Multiple realisability is a separate, contested claim about the range of physical systems that can realise a property. It is not a definition or consequence of weak or strong emergence: strong emergence does not by itself entail biological substrate specificity, while weak emergence does not by itself establish that distinct substrates realise the same mental property. See [strong emergence](../../videos/strong_emergence.md) for the two-axis distinction.
+
 ## Biological Evidence
 
 The brain itself appears to be a multiply realising system at every scale:
 
 - **[Synaptic plasticity](../../../003_education/kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md)** and **[Hebbian plasticity](../../../003_education/kcl/04_biological_foundations_of_mental_health/hebbian_synaptic_plasticity.md)** show that the _same_ memory, skill, or perceptual representation can be re-encoded across different synaptic configurations as connections potentiate, depress, and rewire over time.
 - **Cortical reorganisation** after stroke, sensory loss, or developmental damage demonstrates that functional roles can migrate to new tissue while preserving behavioural and (presumably) phenomenal outcomes.
-- **[Hemispherotomy](../sizing_up_consciousness/hemispherotomy.md)** provides arguably the most striking empirical case: surgical disconnection of an entire hemisphere reduces the conscious substrate by roughly 50 % while preserving unified phenomenal experience and personal identity. If consciousness were tied to a specific physical aggregate rather than to a pattern of integration, this should be impossible.
+- **[Hemispherotomy](../sizing_up_consciousness/hemispherotomy.md)** provides an observation compatible with biological substrate flexibility: surgical disconnection of an entire hemisphere can preserve reported unified consciousness. It does not by itself show that the same phenomenal state can be realised in arbitrarily different substrates, nor establish an emergence type.
 - **Inter-individual variability.** No two human brains share identical microcircuitry, yet humans share a recognisably common mental life — already a low-key form of multiple realisability within a single species.
 
 ## Computational Evidence
@@ -36,18 +40,18 @@ The brain itself appears to be a multiply realising system at every scale:
 - **Diversity of conscious entities.** Different creatures — including those with radically different brain structures, or non-biological systems with equivalent functional organisation — might be conscious in a sense comparable to human consciousness.
 - **Challenge to reductionism.** Understanding [mind](../../../003_education/kcl/02_psychological_foundations/theory_of_mind.md) is not exhausted by understanding any single physical realiser; mental kinds may be irreducibly functional.
 - **Tests for theories of consciousness.** Multiple realisability provides a constraint: any adequate theory must say _what_ it is about a physical system that makes it conscious, in terms general enough to cover heterogeneous realisers.
-  - [Integrated information theory](../../videos/integrated_information_theory.md) answers with intrinsic causal structure ($\Phi$), explicitly substrate-neutral.
+  - [Integrated information theory](../../videos/integrated_information_theory.md) offers intrinsic causal structure ($\Phi$) as a substrate-neutral theoretical criterion; this is not evidence that arbitrary substrates realise consciousness.
   - [Higher-order theories](../sizing_up_consciousness/higher-order_theories_of_consciousness.md) answer with metacognitive representation of one's own states.
   - [Global workspace](../the_feeling_of_life_itself/neural_correlate_of_consciousness.md) answers with broadcast-and-access dynamics.
 - **[Philosophical zombies](../../_general/philosophical_zombies.md).** P-zombies are designed to be physically and functionally identical to conscious humans yet lack experience. Their conceivability is meant to challenge functionalism — and therefore the strongest form of multiple realisability, where shared organisation guarantees shared experience.
-- **[Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md) and dancing qualia (Chalmers 1995).** Gradual replacement of neurons with functionally identical silicon: if qualia _faded_ or _danced_ under the swap, the subject's introspective reports would dissociate from their experience, an implausible split — Chalmers concludes qualia must be preserved, vindicating organisational invariance.
+- **[Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md) and dancing qualia (Chalmers 1995).** Gradual replacement of neurons with functionally identical silicon: if qualia _faded_ or _danced_ under the swap, the subject's introspective reports would dissociate from their experience, an implausible split — Chalmers argues that qualia should be preserved. This is a philosophical argument for organisational invariance, not empirical confirmation.
 - **[Access and phenomenal consciousness](../../videos/access_and_phenomenal_consciousness.md).** Multiple realisability is more straightforwardly defensible for access consciousness (information available for reasoning and report) than for phenomenal consciousness (what it is like). The hard problem lives precisely in this gap.
 
 ## Engineering Applications
 
 Multiple realisability is the philosophical licence for the entire programme of [consciousness engineering](../../_general/consciousness_engineering.md). Without it, projects that aim to transfer or preserve a mind in a non-biological substrate are stillborn.
 
-- **[Progressive Synthetic Neural Substrate Transfer (PSNST)](../../_general/psnst.md).** Gradual neuron-by-neuron replacement of biological tissue with functionally equivalent synthetic units, exploiting cortical reorganisation to maintain integration across the transition. The argument structure is Chalmers' fading-qualia thought experiment, executed empirically.
+- **[Progressive Synthetic Neural Substrate Transfer (PSNST)](../../_general/psnst.md).** A hypothetical design involving gradual neuron-by-neuron replacement of biological tissue with functionally equivalent synthetic units, inspired by Chalmers' fading-qualia thought experiment. It is a design proposal and analogy, not an empirical execution.
 - **[Invariant brain emulation](../../../002_profession/eightsix/invariant_brain_emulation.md).** Formalises the requirement: a substrate transformation $f : B \rightarrow S$ counts as preserving the mind iff $O(f(b)) \equiv O(b)$ for all observables $O$ in the relevant set. Multiple realisability is the hypothesis that some such $f$ exists for biological brains.
 - **[Biomimetic neuromorphics](../../../002_profession/eightsix/biomimetic_neuromorphics.md).** The engineering discipline that constructs synthetic substrates with sufficient functional fidelity (molecular, cellular, circuit, systems levels) to count as realisers of the original mental states.
 - **[Mind-uploading techniques](../taxonomy_and_metaphysics_of_mind-uploading/mind-uploading_techniques.md).** Whole-brain emulation, gradual replacement, and scan-and-copy approaches all rest implicitly on multiple realisability, but differ in which grain of functional description they take to be the relevant invariant.
@@ -57,7 +61,7 @@ Multiple realisability is the philosophical licence for the entire programme of 
 - **Kim's causal exclusion (1992, 1998).** If a mental property $M$ is realised by a physical property $P$, and $P$ already does all the causal work, then $M$ appears causally redundant — threatening either [epiphenomenalism](../the_feeling_of_life_itself/epiphenomenalism.md) or reduction. The multiply realisable mental property risks losing its causal grip.
 - **Block's "anti-functionalism".** [Ned Block](https://en.wikipedia.org/wiki/Ned_Block) (1978) argued that functionally equivalent but radically different realisers (e.g. the Chinese Nation: one billion people coordinated by radio to instantiate a brain's functional profile) seem clearly _not_ to be conscious — suggesting functional organisation alone is insufficient and multiple realisability is too permissive.
 - **Searle's biological naturalism.** [John Searle](https://en.wikipedia.org/wiki/John_Searle) holds that consciousness is causally produced by specific biological processes; functionally isomorphic but biologically dissimilar systems would lack experience. Multiple realisability is rejected for phenomenal consciousness while granted for cognition.
-- **[Strong emergence](../../videos/strong_emergence.md).** If consciousness is a strongly emergent property tied to particular physical substrates (e.g. specific quantum-biological processes, as in Penrose–Hameroff), then multiple realisability fails for phenomenal consciousness even if it holds for computation. See also [emergent properties](../../videos/emergent_properties.md).
+- **[Strong emergence](../../videos/strong_emergence.md).** Strong emergence concerns the property–base dependence and derivability relation; it does not itself entail that consciousness is tied to particular physical substrates. A separate biological-specificity claim could limit phenomenal multiple realisability, even if it holds for computation. See also [emergent properties](../../videos/emergent_properties.md).
 - **Newman problem.** A structural description satisfied by any system of sufficient cardinality is too weak to fix mental content; pure functionalism may need supplementation with intrinsic or grounding properties.
 - **Bechtel & Mundale (1999).** Argue that finer-grained neuroscience reveals far less multiple realisability than the philosophical literature assumes — pain across species shares more neural detail than Putnam claimed.
 
@@ -69,7 +73,7 @@ A useful refinement is to distinguish _what_ is multiply realisable:
 |---|---|---|---|
 | Computation (Turing equivalence) | Strong | Universal computation; [physical reservoir computing](../../social/twitter/physical_reservoir_computing.md) | Uncontroversial |
 | Access consciousness | Plausible | Distributed processing in AI; cortical reorganisation | Functionalist consensus |
-| Phenomenal consciousness | Contested | [Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md); [hemispherotomy](../sizing_up_consciousness/hemispherotomy.md) | Open — IIT yes, biological naturalism no |
+| Phenomenal consciousness | Contested | [Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md); [hemispherotomy](../sizing_up_consciousness/hemispherotomy.md) | Open — theories disagree about the relevant realiser |
 | Personal identity | Contested | [PSNST](../../_general/psnst.md) gradualism; teletransport intuitions | Depends on continuity criterion |
 
 Conflating these levels causes most of the heat in debates about whether _the_ mind can in principle be uploaded, replaced, or simulated.
@@ -81,10 +85,10 @@ Conflating these levels causes most of the heat in debates about whether _the_ m
 - [Supervenience](../taxonomy_and_metaphysics_of_mind-uploading/supervenience.md) — weaker dependence relation
 - [Philosophical zombies](../../_general/philosophical_zombies.md) — conceivability challenge to functionalism
 - [Fading qualia](../from_biological_to_artificial_consciousness/fading_qualia.md) — Chalmers' argument for organisational invariance
-- [Integrated information theory](../../videos/integrated_information_theory.md) — substrate-neutral consciousness metric
-- [Strong emergence](../../videos/strong_emergence.md) — principal threat to phenomenal multiple realisability
+- [Integrated information theory](../../videos/integrated_information_theory.md) — substrate-neutral theoretical IIT quantity/criterion
+- [Strong emergence](../../videos/strong_emergence.md) — a separate irreducibility question; substrate specificity is an additional claim
 - [Physical reservoir computing](../../social/twitter/physical_reservoir_computing.md) — empirical computational substrate independence
-- [Hemispherotomy](../sizing_up_consciousness/hemispherotomy.md) — empirical biological substrate flexibility
+- [Hemispherotomy](../sizing_up_consciousness/hemispherotomy.md) — observation relevant to, but not decisive for, substrate flexibility
 - [Consciousness engineering](../../_general/consciousness_engineering.md) — engineering programme built on this thesis
 - [PSNST](../../_general/psnst.md) — substrate-transfer protocol
 - [Invariant brain emulation](../../../002_profession/eightsix/invariant_brain_emulation.md) — formal preservation criterion
@@ -93,4 +97,4 @@ Conflating these levels causes most of the heat in debates about whether _the_ m
 - [Theory of mind](../../../003_education/kcl/02_psychological_foundations/theory_of_mind.md), [types of intelligence](../../_general/types_of_intelligence.md) — adjacent concepts
 
 > [!summary] One-line takeaway
-> Multiple realisability is the bridge between Aristotelian form, computationalist mind, and the engineering claim that a person can survive a change of substrate. Its scope across _computation_, _access_, and _phenomenal_ consciousness is what every serious theory of mind, and every honest mind-uploading proposal, must specify.
+> Multiple realisability connects Aristotelian form and computationalist theories to the engineering hypothesis that a mental property might survive a change of substrate. Its scope across _computation_, _access_, and _phenomenal_ consciousness is contested and must be specified by any serious theory of mind or mind-uploading proposal.
