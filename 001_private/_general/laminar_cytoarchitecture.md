@@ -25,7 +25,7 @@ The neocortex is organised into six horizontal layers, each with unique types of
 
 ### 3. Cortical Columns and Minicolumns
 
-Cytoarchitecture is not only laminar but also **columnar**: neurons are organised into vertical cortical columns and minicolumns that span layers II–VI and share similar response properties. Mountcastle's work proposed that these columns are fundamental functional units of the neocortex, with thalamic inputs entering mainly in layer IV and being processed vertically through supragranular and infragranular layers. Laminar cytoarchitecture thus intersects with columnar organisation, where layer-specific cell types and microcircuits implement computations within each column while maintaining parallel, repeated structure across the cortical sheet.
+Cytoarchitecture intersects with **columnar organisation**, but columns and minicolumns are a diverse and debated set of vertical anatomical or functional groupings whose dimensions and roles vary by area, species, and scale. Mountcastle's proposal arose from recordings in particular sensory cortex and should not be generalised into a universal functional unit. In a simplified canonical schema for granular sensory cortex, layer IV is commonly thalamorecipient, with supragranular and infragranular circuits participating in recurrent, area-dependent processing. See [cortical column](../../003_education/_general/cortical_column.md) for the scale and functional evidence.
 
 ### 4. Brodmann Areas and Cytoarchitectonic Parcellation
 
