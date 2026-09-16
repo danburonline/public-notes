@@ -18,16 +18,16 @@ The minicolumn is often discussed as a developmental or radial unit, but its dim
 
 The often-cited **~150,000 figure must not be treated as a census of minicolumns**. Hawkins uses approximately 150,000 as a proposal for larger cortical columns in his theory; it is not a settled anatomical count, and it cannot be multiplied by a fixed minicolumn cell count to account for the tens of billions of cortical neurons ([Hawkins et al., 2017](https://doi.org/10.3389/fncir.2017.00081)).
 
-## Canonical Microcircuit
+## Simplified Canonical Schema
 
-Within every column, information follows a broadly conserved laminar routing that repeats across virtually all neocortical areas:
+Within granular sensory cortex, a simplified canonical schema describes broad laminar tendencies:
 
-1. **Layer IV** (stellate cells) — primary thalamic input
-2. **Layer II/III** ([pyramidal neurons](../kcl/06_neuroimaging_in_mental_health/pyramidal_neurons.md)) — intracolumnar processing; output to other cortical columns
-3. **Layer V** (large pyramidal neurons) — subcortical output (brainstem, spinal cord, striatum)
-4. **Layer VI** (multiform) — feedback projection back to thalamus, closing the thalamocortical loop
+1. **Layer IV** (stellate cells) — common thalamic input
+2. **Layer II/III** ([pyramidal neurons](../kcl/06_neuroimaging_in_mental_health/pyramidal_neurons.md)) — mainly intracortical and corticocortical processing
+3. **Layer V** (large pyramidal neurons) — major subcortical output, including brainstem and spinal targets
+4. **Layer VI** (multiform) — prominent corticothalamic feedback
 
-This recurrent loop — the **canonical cortical circuit** — is modulated by [interneurons](../kcl/07_neurodevelopmental_disorders/interneurons.md): basket cells provide fast lateral inhibition that sharpens tuning and enforces winner-takes-most competition between neighbouring columns; chandelier cells gate pyramidal output at the axon initial segment.
+These are not a universal serial circuit: actual laminar routing is recurrent, parallel, and area- and species-dependent, and agranular or dysgranular cortex does not fully conform. The schema is modulated by [interneurons](../kcl/07_neurodevelopmental_disorders/interneurons.md): basket cells can provide fast lateral inhibition that sharpens tuning, while chandelier cells gate pyramidal output at the axon initial segment.
 
 See [laminar cytoarchitecture](../../001_private/_general/laminar_cytoarchitecture.md) for the full layer-by-layer cellular description.
 
@@ -43,7 +43,7 @@ See [laminar cytoarchitecture](../../001_private/_general/laminar_cytoarchitectu
 **Barrel cortex** (Woolsey & Van der Loos, 1970) — rodent primary somatosensory cortex — contains one discrete Layer IV "barrel" per facial whisker, with sharp cytoarchitectural boundaries visible in tangential sections. Each barrel column processes tactile input exclusively from its corresponding whisker.
 
 > [!note] Species caveat
-> Orientation and ocular dominance columns are absent in rodents (mouse, rat), where V1 contains no columnar organisation at the macrocolumn scale. Minicolumnar structure appears universal; macrocolumnar patterning is area- and species-dependent.
+> Orientation and ocular dominance columns are absent in rodents (mouse, rat), where V1 contains no columnar organisation at the macrocolumn scale. Vertical and minicolumn-like organisation is widespread in studied cortices, but its dimensions and functional definition vary by area, species, and method; it is not a uniform universal fact. Macrocolumnar patterning is area- and species-dependent.
 
 ## The Column Debate
 
@@ -63,11 +63,11 @@ See: [Thousand Brains Theory](../../002_profession/eightsix/thousand_brains_theo
 
 ## Biomimetic Relevance
 
-The columnar-laminar architecture is the **primary template for synthetic neural substrate design**. Engineering targets derived from column organisation:
+The columnar-laminar architecture is a useful biological reference for project- and model-dependent synthetic neural design, not a primary template. Engineering targets derived from column organisation are conditional abstractions, not fixed specifications:
 
-- **Minicolumn modularity**: a rough 50–100 µm engineering target can support massively parallel, spatially localised computation; it must not be multiplied into a 150,000-minicolumn anatomical estimate
-- **Canonical circuit replication**: the Layer IV → II/III → V → VI recurrent loop provides the minimal repeating circuit motif for engineered analogue substrates
-- **Inhibitory gating**: intracolumnar basket cell inhibition enforcing winner-takes-most dynamics must be preserved to replicate attractor states and stable representations
-- **Inter-column communication**: lateral long-range connections (Layers II/III) implement the voting mechanism that binds distributed column outputs into coherent representations
+- **Minicolumn modularity**: A project may use a rough 50–100 µm target for a minicolumn-like module, while treating dimensions and counts as area- and scale-dependent; it must not be multiplied into a 150,000-minicolumn anatomical estimate
+- **Laminar circuit motifs**: A model may implement interactions among layers IV, II/III, V, and VI as a simplified motif, depending on its biological or computational target
+- **Inhibitory gating**: A model may represent basket-cell or chandelier-cell effects when testing local competition or pyramidal-output control; no single inhibitory motif is mandatory for every abstraction
+- **Inter-column communication**: A project may model lateral long-range connections in layers II/III; Hawkins's voting mechanism remains a theory-specific proposal rather than a settled account of cortical integration
 
 See: [biomimetic neuromorphics](../../002_profession/eightsix/biomimetic_neuromorphics.md)
