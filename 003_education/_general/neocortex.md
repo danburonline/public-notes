@@ -1,5 +1,7 @@
 #core/appliedneuroscience
 
+![neocortex](_attachments/neocortex.jpg)
+
 The neocortex, also called the **neopallium** or **isocortex**, is an evolutionarily expanded component of the mammalian cerebral cortex. Its canonical eulaminate pattern is conventionally described as six layers, but cortical areas vary substantially and the cerebral cortex also includes allocortical organisations with different laminar patterns ([García-Cabezas et al., 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6500485/)). The neocortex contributes to sensory, motor, associative, and cognitive functions within distributed cortical and subcortical systems; these functions are not exclusive to it.
 
 > [!abstract] TL;DR

@@ -1,5 +1,7 @@
 #core/appliedneuroscience #core/artificialintelligence
 
+![generalisation-gradient](_attachments/generalisation-gradient.png)
+
 The generalisation gradient is the graded decrement in learned responding as a test stimulus becomes less similar to the original conditioned stimulus — the behavioural signature of similarity-based generalisation.
 
 ## Origin in Learning Theory
