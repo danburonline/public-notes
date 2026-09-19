@@ -1,5 +1,7 @@
 #core/appliedneuroscience
 
+![aerobic-anaerobic-glycolysis](_attachments/aerobic-anaerobic-glycolysis.png)
+
 ## Introduction
 
 The brain is a highly energy-**demanding organ, relying primarily on glucose metabolism.** Glycolysis is the cytosolic pathway that converts glucose to pyruvate; downstream mitochondrial pyruvate oxidation, the TCA cycle, and oxidative phosphorylation are separate stages of oxidative glucose metabolism.
