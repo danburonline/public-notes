@@ -40,3 +40,4 @@ Physics engines use half extents rather than full dimensions because:
 ## Related
 
 - [Collider types](collider_types.md) - Different collider shapes available in physics engines
+- [Frustum culling](../../../001_private/social/twitter/frustum_culling.md) - visibility test that uses cheap bounding-volume checks like these to skip rendering off-screen objects
