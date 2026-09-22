@@ -1,6 +1,6 @@
 ## AGENTS.md
 
-**Updated:** 2026-08-26
+**Updated:** 2026-09-22
 **Branch:** main
 
 ### OVERVIEW
@@ -145,6 +145,7 @@ When working with notes:
 - **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools -- CLI reflects Obsidian's current state (plugins, linter, resolved links)
 - **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running -- it triggers linter and plugin hooks automatically
 - **Searching content**: Use `obsidian search` for full-text vault search; use `rg` for pattern/regex searches across raw files
+- **Graph scope**: The parent vault remains Obsidian-first, using links, tags, backlinks and search. Do not add a parent-wide Nanograph index or treat another workspace's graph as authoritative here. Separately governed repositories own their records and any future graph; this vault is not their index.
 - **TODO tracking**: Create `TODO.md` in the vault root when actionable tasks need tracking; remove the file when no tasks remain
 - **Database views**: Use the `obsidian-bases` skill to create `.base` files for structured views (e.g., tables of notes by tag, folder, or property)
 - **Publishing boundary**: Before publishing from Obsidian, verify that `_inbox/` and every private or independently governed local checkout are excluded from the site's publish selection. Git ignores alone do not enforce publication exclusions.
