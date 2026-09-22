@@ -23,6 +23,7 @@ The parent vault remains Obsidian-first. There is no additional parent-wide Nano
 
 Organisation-owned or restricted records belong in separately controlled repositories, not this public vault.
 
+This repository contains public-source learning and publishable personal synthesis. Internal records, unpublished organisation results, private correspondence and private repository locations must not enter its content or metadata.
 
 Separately controlled repositories own their records and contribution processes. Do not copy this vault's personal taxonomy into them or link this public vault to restricted material.
 

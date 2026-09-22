@@ -5,6 +5,9 @@ _inbox/
 000_inbox/
 piecesdb.json
 
+# Keep independent local checkouts out of public history
+**/wiki/
+
 # Ignore Smart Environment folder
 .smart-env
 .sisyphus

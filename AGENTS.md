@@ -5,7 +5,7 @@
 
 ### OVERVIEW
 
-Personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
+Public, personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
 **Primary Goal**: Maximise interdisciplinary thinking through densely connected notes that bridge multiple competencies. The vault should function as a synthesis engine across all skill categories: lead, core, and fundamental. The lead tier forms a deliberate continuum. Computational philosophy makes abstract thought and pure knowledge more precise. Venture engineering turns those foundations into research, technologies, and interventions through venture building. Experimental medicine works at the most hands-on end, experimenting with living systems and humans to understand and repair biological faults. These leads draw on core disciplines including evolutionary panmemetics, [biomimetic neuromorphics](002_profession/eightsix/biomimetic_neuromorphics.md), mathematical physics, theoretical neurosurgery, applied neuroscience, artificial intelligence, software development, and interaction design. [Consciousness engineering](001_private/_general/consciousness_engineering.md) is one integrative direction emerging from their combination.
 
@@ -16,7 +16,6 @@ Notes/
 ├── _inbox/           # Staging: prompts, sketches (fully gitignored)
 ├── 001_private/      # Personal learning taxonomy: books, videos, papers, articles, social, etc.
 ├── 002_profession/   # Work: blue brain project, eightsix science, finalspark, idun, etc.
-│   └── eightsix/
 ├── 003_education/    # Formal: kings college, epfl, buckingham, etc.
 ├── 004_subsidiary/   # Side: carboncopies, courses (datacamp, three.js), Synconetics
 └── 005_public/       # Public-facing notes and site assets (Obsidian Publish)
@@ -26,12 +25,14 @@ Notes/
 
 **Privacy boundary:** `001_private/` is a personal organisational label, not a confidentiality boundary. Its tracked content belongs to the public parent Notes repository. Daniel's private meta-level planning, prompts, sketches, and provisional information belong in the gitignored `_inbox/`; credentials and organisation records belong in their own controlled systems, not this vault.
 
+**Source boundary:** Track public-source learning and publishable personal synthesis only. Do not copy internal records, unpublished organisation results, private correspondence or private repository locations into notes, attachments, metadata or commit messages.
+
 ### WHERE TO LOOK
 
 | Task                          | Location                                   | Notes                                                 |
 | ----------------------------- | ------------------------------------------ | ----------------------------------------------------- |
 | Add new concept from learning | `001_private/{source_type}/{source_name}/` | e.g., `001_private/books/the_feeling_of_life_itself/` |
-| Add work-related note         | `002_profession/{company}/`                | Match existing company folders                        |
+| Add professional learning note | `002_profession/{company}/`              | Public sources and publishable synthesis only          |
 | Public-facing note / site asset | `005_public/`                            | Publishable material and diagrams used by the README  |
 | Add course material           | `003_education/{institution}/{module}/`    | Match existing module naming                          |
 | Add Buckingham material       | `003_education/buckingham/`                | Flat exception: notes at root, files in `_attachments/` |
@@ -110,7 +111,6 @@ Tags are not mutually exclusive. Add each category that is substantively develop
 
 ```bash
 # Knowledge base, not a code project. No build or test commands.
-
 
 # Obsidian CLI -- requires Obsidian to be open
 obsidian read file="note_name"                          # Read a note by wikilink name
