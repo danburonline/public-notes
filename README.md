@@ -8,7 +8,7 @@ The notes bring together personal study, professional work, formal education, su
 
 | Area | Role |
 | --- | --- |
-| `001_private/` | Personal learning notes, grouped by source; tracked content is public despite the folder name |
+| `001_private/` | Personal learning notes, grouped by source |
 | `002_profession/` | Professional learning and synthesis |
 | `003_education/` | Formal education and course material |
 | `004_subsidiary/` | Subsidiary interests and projects |
