@@ -1,6 +1,6 @@
 ## AGENTS.md
 
-**Updated:** 2026-09-22
+**Updated:** 2026-09-23
 **Branch:** main
 
 ### OVERVIEW
@@ -140,11 +140,13 @@ Available skills for this vault:
 
 When working with notes:
 
+- **Documentation scope**: Keep `README.md` reader-facing: the repository's purpose, public contents and intellectual framework. Keep inbox routing, agent navigation instructions and publication checks in `AGENTS.md`.
 - **README discovery**: When traversing into any folder, check for `README.md` and read it -- subfolders and separately governed local checkouts often contain their own context, conventions, and instructions
 - **Embedded images**: If a note contains `![alt text](relative/path/to/image.png)` embeds, locate the image via the note's nearest `_attachments/` folder (or other relative image path) and visually examine it using `look_at` to better understand the note's content before refining or expanding
 - **Live vault operations**: Use the `obsidian-cli` skill when Obsidian is open to read, create, or search notes through the live vault rather than raw file tools -- CLI reflects Obsidian's current state (plugins, linter, resolved links)
 - **Creating notes**: Prefer `obsidian create` over writing files directly when Obsidian is running -- it triggers linter and plugin hooks automatically
-- **Searching content**: Use `obsidian search` for full-text vault search; use `rg` for pattern/regex searches across raw files
+- **Navigation and search**: Use Obsidian search, tags, backlinks and standard Markdown links to navigate the vault. Use `rg` for pattern/regex searches across raw files and file search when Obsidian is unavailable.
+- **Source verification**: Read the actual notes and their cited sources before relying on a connection. A link or graph relationship is a discovery aid, not evidence by itself.
 - **Graph scope**: The parent vault remains Obsidian-first, using links, tags, backlinks and search. Do not add a parent-wide Nanograph index or treat another workspace's graph as authoritative here. Separately governed repositories own their records and any future graph; this vault is not their index.
 - **TODO tracking**: Create `TODO.md` in the vault root when actionable tasks need tracking; remove the file when no tasks remain
 - **Database views**: Use the `obsidian-bases` skill to create `.base` files for structured views (e.g., tables of notes by tag, folder, or property)
