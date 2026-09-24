@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#core/appliedneuroscience #core/artificialintelligence
 
 ![in-silico](_attachments/in-silico.jpeg)
 
@@ -12,26 +12,26 @@ In silico complements [In vivo vs in vitro](in_vivo_vs_in_vitro.md) approaches. 
 
 - **Neural circuit simulation**: Modelling action potential propagation, synaptic transmission, and network dynamics
 - **Drug screening**: Predicting pharmacological effects on ion channels and receptors
-- **Whole brain emulation**: Investigating feasibility and computational requirements
+- **Whole brain emulation**: Investigating model feasibility and computational requirements, not demonstrating established cognitive, phenomenological, or personal-identity emulation
 
 ## Model Hierarchy
 
-Computational models vary in biological detail:
+Computational models make purposeful trade-offs among biological fidelity, computational cost and scale, and the information required by a question; this is not a universal better-or-worse ranking:
 
-- [Hodgkin-Huxley model](../../epfl/hodgkin-huxley_model.md): Biophysically detailed, models individual ion channel kinetics
-- [Leaky integrate-and-fire neurons](../../epfl/leaky_integrate-and-fire_neurons.md): Simplified, captures spike timing without channel dynamics
-- [Point neuron](../../../002_profession/bluebrain/point_neuron.md): Abstract, represents firing rate without spatial extent
+- [Hodgkin-Huxley model](../../epfl/hodgkin-huxley_model.md): Biophysically detailed, models individual ion channel kinetics at higher computational cost
+- [Leaky integrate-and-fire neurons](../../epfl/leaky_integrate-and-fire_neurons.md): Simplified, captures spike timing with passive leak and threshold/reset dynamics without detailed channel dynamics
+- [Point neuron](../../../002_profession/bluebrain/point_neuron.md): Abstract, removes spatial extent while particular models can retain spike timing and simplified membrane dynamics
 
-[NeuroML](../../../004_subsidiary/_general/neuroml.md) provides a standardised XML format for exchanging neural models across simulation platforms.
+[NeuroML](../../../004_subsidiary/_general/neuroml.md) provides a standardised representation and exchange format across simulation platforms; interoperability is a separate dimension from biological fidelity and computational cost.
 
 ## Computational Neural Models Cluster
 
-In silico approaches span multiple levels of abstraction, from biophysically detailed to abstract:
+In silico approaches span multiple levels of abstraction, from biophysically detailed to abstract. The comparison below describes common trade-offs rather than a fixed hierarchy of universally superior models:
 
 | Model                                                                                                            | Biological Detail           | Computational Cost | Use Case                 |
 | ---------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------ | ------------------------ |
 | [Hodgkin-Huxley model](../../epfl/hodgkin-huxley_model.md)                         | High (ion channel kinetics) | High               | Understanding biophysics |
-| [Leaky integrate-and-fire neurons](../../epfl/leaky_integrate-and-fire_neurons.md) | Medium (spike timing)       | Medium             | Network simulations      |
-| [Point neuron](../../../002_profession/bluebrain/point_neuron.md)                                       | Low (firing rate)           | Low                | Large-scale models       |
+| [Leaky integrate-and-fire neurons](../../epfl/leaky_integrate-and-fire_neurons.md) | Medium (spike timing and simplified membrane dynamics) | Medium             | Network simulations      |
+| [Point neuron](../../../002_profession/bluebrain/point_neuron.md)                                       | Low and model-dependent (spike timing and membrane detail) | Low                | Large-scale models       |
 
-[NeuroML](../../../004_subsidiary/_general/neuroml.md) enables interoperability between these approaches.
+[NeuroML](../../../004_subsidiary/_general/neuroml.md) enables interoperability between these approaches without resolving their fidelity-versus-cost trade-offs.

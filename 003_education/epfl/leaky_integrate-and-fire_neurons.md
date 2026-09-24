@@ -2,7 +2,9 @@
 
 ![lif](_attachments/lif.png)
 
-The [Leaky](../../001_private/books/neural_networks_from_scratch/activation_functions_overview.md#leaky-relu) Integrate-and-Fire (LIF) model is a **simplified version of a neuron used in computational neuroscience.** It captures the essential features of neuronal activity and is computationally less complex than the [Hodgkin-Huxley model](hodgkin-huxley_model.md).
+The [Leaky](../../001_private/books/neural_networks_from_scratch/activation_functions_overview.md#leaky-relu) Integrate-and-Fire (LIF) model is a **specific point-neuron model** used in computational neuroscience. It combines passive membrane leak with threshold-and-reset dynamics. Relative to the [Hodgkin-Huxley model](hodgkin-huxley_model.md), LIF usually occupies a lower-fidelity, lower-cost position on the fidelity-versus-cost spectrum; this is a purposeful trade-off, not a claim that it is universally better.
+
+LIF is one example of the [point-neuron model](../../002_profession/bluebrain/point_neuron.md) family. It is also situated in the [Computational Neural Models Cluster](../kcl/01_techniques_in_neuroscience/in_silico.md#computational-neural-models-cluster), while [NeuroML](../../004_subsidiary/_general/neuroml.md) addresses representation and exchange rather than determining a model's biological fidelity or computational cost.
 
 ## Core Concept
 
@@ -12,7 +14,9 @@ In the LIF model, a neuron is represented as a simple electrical circuit with a 
 
 The dynamics of the membrane potential $V$ in the LIF model are described by:
 
-$$ \tau*m \frac{dV}{dt} = - (V - V*{rest}) + R_m I_e $$
+$$
+\tau_m \frac{dV}{dt} = - (V - V_{\mathrm{rest}}) + R_m I_e
+$$
 
 where:
 
@@ -28,7 +32,9 @@ When $V$ reaches the threshold voltage $V_{threshold}$, the neuron fires an acti
 
 The ‘fire’ condition is represented as:
 
-$$ \text{if } V \geq V*{threshold} \text{, then } V \leftarrow V*{reset} $$
+$$
+\text{if } V \geq V_{\mathrm{threshold}}, \text{ then } V \leftarrow V_{\mathrm{reset}}
+$$
 
 > [!example] Applications
 > The LIF model is widely used in the study of neural networks and in the field of neuromorphic engineering. Its simplicity allows for the simulation of large networks of neurons, making it a powerful tool for exploring principles of neural computation.
