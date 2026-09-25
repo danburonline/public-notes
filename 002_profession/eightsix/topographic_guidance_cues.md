@@ -2,7 +2,9 @@
 
 ![guiding-cues](_attachments/guiding-cues.jpg)
 
-Topographic guidance cues are **physical features and patterns in the extracellular environment that direct cell behavior, including adhesion, migration, alignment, and differentiation** through mechanical and spatial signals.
+Topographic guidance cues are **physical features and patterns in the extracellular environment that direct cell behaviour, including adhesion, migration, alignment, and differentiation** through mechanical and spatial signals.
+
+These effects are cellular responses to physical cues under particular experimental conditions; they do not by themselves demonstrate functional tissue integration or clinical efficacy.
 
 ## Key Features
 
@@ -38,3 +40,5 @@ Topographic guidance cues are **physical features and patterns in the extracellu
 - **Lithography**: Precise patterns
 - **3D Printing**: Complex structures
 - **Etching**: Surface modifications
+
+These manufacturing and microenvironment choices can be considered alongside [bioprinting](../../003_education/kcl/05_neuroscience_in_society/bioprinting.md) and tested in controlled systems such as [human-on-a-chip systems](../../001_private/books/neural_tissue_engineering/human-on-a-chip_systems.md). These links concern fabrication and experimental design, not validation of clinical outcomes.

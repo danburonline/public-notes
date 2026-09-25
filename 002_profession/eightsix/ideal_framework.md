@@ -1,8 +1,10 @@
-#core/theoreticalneurosurgery #core/appliedneuroscience
+#lead/experimentalmedicine #core/theoreticalneurosurgery #core/appliedneuroscience
 
 The **IDEAL framework** is a structured, five-stage methodological framework for generating and evaluating evidence about surgical and interventional innovations — from first-in-human work through long-term surveillance — developed by the IDEAL Collaboration. It is not a regulatory-approval pathway; regulatory requirements remain separate and jurisdiction-specific.
 
 The framework provides a **structured approach for evaluating surgical innovations**, particularly valuable in neurosurgery and brain-computer interface (BCI) implantation. For neural grafts and devices, a Pre-IDEAL/Stage 0 phase should precede first-in-human work to reduce foreseeable FIH risks through bench studies, modelling, simulation, cadaveric work, and animal studies.
+
+Fabrication systems such as [bioprinting](../../003_education/kcl/05_neuroscience_in_society/bioprinting.md) and microfluidic experimental models such as [human-on-a-chip systems](../../001_private/books/neural_tissue_engineering/human-on-a-chip_systems.md) can contribute to preclinical preparation and bounded evidence. They do not replace scientifically justified animal studies, first-in-human evaluation, comparative assessment, or long-term surveillance within a staged pathway.
 
 **Pre-IDEAL/Stage 0 (before Stage 1)**
 
@@ -83,6 +85,7 @@ Prospective registration and standardised outcome reporting support reproducibil
 - [Neural grafts](../../001_private/videos/neural_grafts.md) — the specific intervention class that requires IDEAL-stage evaluation
 - [GMP production](gmp_production.md) — manufacturing standards relevant to translational and regulatory planning alongside IDEAL evidence generation
 - [4D bioprinting](4d_bioprinting.md) — fabrication technology whose clinical introduction would follow an IDEAL progression
+- [Topographic guidance cues](topographic_guidance_cues.md) — materials and fabrication consideration for physical microenvironment design, not an IDEAL-validated intervention
 - [Invariant brain emulation](invariant_brain_emulation.md) — mathematical framework for defining success criteria in neural substrate replacement
 
 ## Sources
