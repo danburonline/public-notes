@@ -1,4 +1,4 @@
-#core/biomimeticneuromorphics #core/appliedneuroscience #core/artificialintelligence
+#lead/computationalphilosophy #core/biomimeticneuromorphics #core/appliedneuroscience #core/artificialintelligence
 
 ![dac](_attachments/dac.png)
 
@@ -16,3 +16,7 @@ The Distributed Adaptive Control (DAC) theory is presented as a **framework for 
 - **Columnar Organisation:** Across the four layers, a columnar organisation exists that processes states of the world (exteroception), the self (interoception), and action ([proprioception](../../004_subsidiary/courses/udemy/neuroanatomy/proprioception.md)) at every level.
 - **Addressing the H4W Problem:** DAC proposes that goal-oriented action in the physical world emerges from the interplay of processes subserving the 'How, Why, What, Where, and When' (H4W) of action.
 - **Synthetic Consciousness (DACtoc) and the H5W Problem:** DAC is further extended to the Distributed Adaptive Control theory of consciousness (DACtoc). DACtoc hypothesises that consciousness is crucial for optimising action in a multi-agent world, solving the 'How, Why, What, Where, When, and Who' (H5W) problem which introduces parallelisation, reciprocity, and hidden states due to other agents. Consciousness, in this view, is an **autonomous virtualisation memory** that serialises and unifies parallel subconscious simulations to extract norms, which are then projected as value to guide action.
+
+The adaptive layer's minimisation of perceptual and behavioural prediction error can be related to the [Bayesian brain hypothesis](bayesian_brain_hypothesis.md) as a control-theoretic hypothesis, but the two are not the same claim: here, prediction is situated inside a body–environment control loop rather than treated as evidence that the brain literally calculates Bayesian posteriors.
+
+Within DACtoc, **autonomous virtualisation memory** is DAC's name for a hypothesised memory that serialises and unifies parallel simulations. It is not an established measure of phenomenal consciousness; [phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) and [consciousness engineering](../_general/consciousness_engineering.md) therefore serve as constraints on, not confirmation of, the hypothesis.

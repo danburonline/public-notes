@@ -4,6 +4,8 @@
 
 RDF and RDFS are foundational **W3C standards for representing knowledge as graphs.** RDF gives you a simple, flexible data model based on triples that can be serialised and exchanged on the Web. RDFS builds on that by providing a lightweight schema (vocabulary) layer for defining classes, properties, and hierarchies, enabling basic reasoning so that some facts can be inferred from others. Together, they let you describe resources and then add meaning that machines can use consistently across datasets.
 
+[Knowledge graphs](../../../002_profession/bluebrain/knowledge_graphs.md) use triples as a general graph pattern, while an [ontology](../../../002_profession/bluebrain/ontology_and_taxonomy.md) gives an explicit account of a domain. RDF encodes triples and RDFS adds a lightweight class/property vocabulary; neither is a full domain ontology in every sense, and neither grounds the symbols it uses.
+
 ## RDF (Resource Description Framework)
 
 - **Purpose:** Standard model for data interchange on the Web.

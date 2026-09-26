@@ -21,6 +21,8 @@ A **taxonomy** is a controlled classification that organises items into categori
 
 A taxonomy can therefore be embedded as the class hierarchy within a richer ontology. The [knowledge graphs](knowledge_graphs.md) note shows how entities and relations can be represented, while [RDF and RDFS](../../001_private/books/knowledge_graphs/rdf_vs_rdfs.md) illustrates related formal vocabulary and hierarchy mechanisms; neither formalism defines ontology in every philosophical or informal sense.
 
+An ontology can make concepts, relations, and constraints explicit, but explicit representation does not connect those symbols to the world; see the [symbol grounding problem](../../001_private/books/how_to_build_a_brain/symbol_grounding_problem.md).
+
 ## Illustrative Neuroscience Example
 
 An illustrative taxonomy might arrange **neuron → inhibitory neuron → GABAergic interneuron → parvalbumin-positive interneuron**. This is an example of hierarchical classification, not a claim about a universal cell-type schema; see [neuronal cell types](../../003_education/kcl/01_techniques_in_neuroscience/neuronal_cell_types.md) for related terminology.

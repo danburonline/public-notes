@@ -28,6 +28,10 @@
 - [Phase space and phasing rotator](../../003_education/kcl/08_advances_in_neuroscience/phase_space_and_phasing_rotator.md): Mathematical tools for analysing neural dynamics
 - [Combinatorial explosion](../../004_subsidiary/carboncopies/combinatorial_explosion.md): Computational challenges in whole brain emulation
 
+### Computational hypotheses and first-person constraints
+
+Computational hypotheses, including the [Bayesian brain hypothesis](../papers/bayesian_brain_hypothesis.md) and [distributed adaptive control](../papers/distributed_adaptive_control_theory.md), can describe prediction, control, and action. They do not by themselves show that a model is phenomenally conscious, that behavioural success preserves experience, or that a substrate transition preserves identity. [Phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) supplies first-person constraints on what such claims would have to characterise.
+
 ## Clinical and Applied
 
 - [Conscious veto](../../003_education/kcl/09_research_ethics_to_reviewing_and_critical_analysis/conscious_veto.md): Free will and the timing of conscious intervention

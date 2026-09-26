@@ -1,4 +1,4 @@
-#core/appliedneuroscience
+#lead/computationalphilosophy #core/appliedneuroscience
 
 ![phenomology](_attachments/phenomology.png)
 
@@ -53,3 +53,5 @@ The challenge of bridging first-person phenomenological description with third-p
 ## Role in Consciousness Engineering
 
 Phenomenology is the **methodological cornerstone** of [consciousness engineering](../../../001_private/_general/consciousness_engineering.md): any attempt to preserve, transfer, or synthesise conscious experience must first characterise what that experience *is* from the inside. Phenomenological rigour constrains which substrate transitions could count as identity-preserving, directly framing the design challenge of [progressive synthetic neural substrate transfer](../../../001_private/_general/psnst.md). Without a first-person account of what is being preserved, engineering criteria reduce to behavioural mimicry—the philosophical zombie problem in applied form.
+
+The [Bayesian brain hypothesis](../../../001_private/papers/bayesian_brain_hypothesis.md) and [distributed adaptive control](../../../001_private/papers/distributed_adaptive_control_theory.md) may describe expectation-updating or action selection. Fit to behaviour, a control diagram, or prediction-error minimisation does not establish the first-person structure phenomenology describes. Engineering criteria that stop there remain exposed to the behavioural-mimicry problem already named above.
