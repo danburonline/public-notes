@@ -1,37 +1,38 @@
-#fundamental/logic
+#lead/computationalphilosophy #fundamental/logic
 
-Hylopathy is a philosophical **perspective that emphasises the fundamental role of matter (or hyle) in understanding reality.**
+Hylopathy joins **matter** (*hyle*) and **affection** (*pathos*): being acted upon, suffering, or experience. It is not a synonym for materialism. The same word is used for incompatible claims about where feeling sits relative to matter.
 
-## Etymology
+## Uses
 
-The term "hylopathy" comes from the Greek words "hyle" (ὕλη), meaning matter or material, and "pathos" (πάθος), meaning suffering or affection.
+| Use | Claim |
+| --- | --- |
+| **More's hylopathy** | A finite spirit can fill matter so completely that spirit and body act on each other |
+| **Peirce's hylopathy** | Monism: mind and matter are not two substances. Materialism is one species, which he rejects |
+| **Hylopathism** | Matter is sentient |
+| **Cudworth's hylopathian atheism** | Life and mind are educed from dead matter, as its passions |
 
-## Key Features
+### Henry More
 
-- **Materialism**: Hylopathy is closely related to materialism, which posits that the material world is the primary or sole reality.
-- **Physicalism**: Hylopathic views often imply a physicalistic understanding of the world, where physical laws and properties govern all phenomena.
-- **Rejection of Dualism**: Hylopathy tends to reject dualistic views, which posit the existence of separate, non-material realms or entities.
+In the 1662 appendix to *An Antidote Against Atheism*, Henry More coins ὑλοπάθεια for a faculty of finite spirit. Spirit penetrates matter and fills its receptivity so thoroughly that another spirit can scarcely possess the same matter. The union runs both ways: spirit actuates the body, and is affected by it. *Pathos* here is that mutual affection. It is a theory of union, not a theory of dead matter.
 
-## Implications
+### Peirce
 
-- **Metaphysics**: Hylopathy can influence our understanding of the nature of reality, including the relationship between matter and consciousness.
-- **Epistemology**: Hylopathic perspectives can shape our understanding of knowledge and how we acquire it, potentially emphasizing the role of sensory experience and material observation.
-- **Philosophy of Mind**: Hylopathy can inform our understanding of the mind-body problem, potentially leading to a more materialistic or physicalistic account of consciousness.
+In "The Architecture of Theories" (1891), Charles Sanders Peirce treats hylopathy as the monism left once Cartesian dualism is refused. He then splits it:
 
-## Criticisms and Challenges
+- **Neutralism**: physical law and psychical law are independent.
+- **Materialism**: physical law is primordial; psychical law is derived.
+- **Idealism**: psychical law is primordial; physical law is derived.
 
-- **Limitations**: Critics argue that hylopathy might overlook the role of non-material aspects of reality, such as:
-  - Consciousness and subjective experience
-  - Abstract entities, like numbers or universals
-  - Spiritual or supernatural entities
-- **Reductionism**: Hylopathy can be seen as reductionist, attempting to explain complex phenomena solely in terms of material properties and interactions.
+He discards the first two. The intelligible option, for him, is objective idealism: matter is effete mind, inveterate habits becoming physical laws. To call hylopathy materialism is to keep the species he rejected.
 
-## Historical Context
+### Hylopathism
 
-- **Thales of Miletus** (c.624 – c.546 BCE): Considered one of the first Western philosophers, Thales focused on the material world and proposed that water was the fundamental substance of the universe.
-- **Democritus** (c.460 – c.370 BCE): Democritus developed a materialistic philosophy, arguing that the universe consists of atoms and void.
+Hylopathism is the neighbouring doctrine, and the one most often collapsed into panpsychism. Peirce's *Century Dictionary* glosses it as the doctrine that matter is sentient. The etymology does not force ubiquity: *hylo-* names matter as the source of feeling, not the claim that everything feels. [Hylozoism](hylozoism.md) attributes life to matter without requiring consciousness. Hylopathism attributes sentience. Neither is More's faculty of spirit, and neither is Cudworth's dead matter.
 
-## Contemporary Relevance
+### Cudworth
 
-- **Philosophy of Science**: Hylopathic perspectives continue to influence the philosophy of science, particularly in discussions around the nature of reality, the role of observation, and the limits of scientific inquiry.
-- **Metaphysics and Ontology**: Hylopathy remains relevant in contemporary debates on metaphysics and ontology, as philosophers continue to explore the nature of reality and the relationship between matter and other aspects of existence.
+Ralph Cudworth's hylopathian atheism, in *The True Intellectual System of the Universe* (1678), is the reductionist sense. He defines it as the Anaximandrian view that derives all things, including life and understanding, from dead and stupid matter, in the way of qualities and forms, generable and corruptible. *Pathos* here means that mind is only a passion of matter. He sets it against hylozoic atheism, which gives all matter a living nature while still denying it sense and consciousness.
+
+## Shared root
+
+[Hylomorphism](../../_general/hylomorphism.md), [hylozoism](hylozoism.md), hylopathy, and hylopathism share *hyle* and then diverge. Form, life, mutual affection, and sentience are not the same addition to matter.

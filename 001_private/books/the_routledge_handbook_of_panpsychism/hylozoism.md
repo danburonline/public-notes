@@ -10,6 +10,7 @@ Hylozoism is the philosophical **doctrine that all matter is alive or possesses 
 - Distinct from:
   - **Animism**: which personifies nature.
   - **Panpsychism**: which attributes consciousness or sensation to all matter.
+  - **[Hylopathism](hylopathy.md)**: which attributes sentience to matter, rather than life alone.
 - Focuses on the presence of life or vital activity in matter, not necessarily consciousness.
 
 ## Historical Context
