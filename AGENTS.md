@@ -1,6 +1,6 @@
 ## AGENTS.md
 
-**Updated:** 2026-09-23
+**Updated:** 2026-09-28
 **Branch:** main
 
 ### OVERVIEW
@@ -26,6 +26,8 @@ Notes/
 **Privacy boundary:** `001_private/` is a personal organisational label, not a confidentiality boundary. Its tracked content belongs to the public parent Notes repository. Daniel's private meta-level planning, prompts, sketches, and provisional information belong in the gitignored `_inbox/`; credentials and organisation records belong in their own controlled systems, not this vault.
 
 **Source boundary:** Track public-source learning and publishable personal synthesis only. Do not copy internal records, unpublished organisation results, private correspondence or private repository locations into notes, attachments, metadata or commit messages.
+
+**Time horizon:** Keep tracked notes as time agnostic as the subject allows. Focus on durable concepts, mechanisms, methods and well-qualified open questions rather than news, running status, reminders or short-lived recommendations. Keep dates when they are part of the subject or needed for provenance. Revise outdated notes when encountered, without adding routine review dates across the vault.
 
 ### WHERE TO LOOK
 

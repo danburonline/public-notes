@@ -1,18 +1,6 @@
 ## Public Notes
 
-This is my public, Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten): a working knowledge base for learning across disciplines, connecting them, and turning those connections into research, engineering, and new intellectual frameworks.
-
-The notes bring together personal study, professional work, formal education, subsidiary projects, and public communication. This breadth reflects my aim to become a modern-day [polymath](https://en.wikipedia.org/wiki/Polymath): to develop depth across disciplines and, more importantly, build bridges between them. **Browse the website version of this repository here: [https://danbur.online/notes](https://danbur.online/notes)**
-
-### Contents
-
-| Area | Role |
-| --- | --- |
-| `001_private/` | Personal learning notes, grouped by source |
-| `002_profession/` | Professional learning and synthesis |
-| `003_education/` | Formal education and course material |
-| `004_subsidiary/` | Subsidiary interests and projects |
-| `005_public/` | Public-facing notes and site assets |
+This is my public, Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten): a knowledge base for enduring ideas across disciplines. I use it to build bridges between fields, supporting my aim to become a modern-day [polymath](https://en.wikipedia.org/wiki/Polymath) and turn learning into research, engineering and new intellectual frameworks. **[Browse the website version](https://danbur.online/notes).**
 
 ### Vision and Mission
 
