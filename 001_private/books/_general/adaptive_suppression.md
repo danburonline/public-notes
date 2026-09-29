@@ -1,5 +1,13 @@
 #core/artificialintelligence
 
-Adaptive suppression refers to a technique or process that **dynamically adjusts or modulates the suppression or reduction of unwanted signals or noise in a system.** It involves continuously monitoring the input or environment and automatically adapting the suppression parameters or algorithms in order to enhance the desired signals while minimising the impact of interference or noise.
+In signal processing, **adaptive suppression** describes adjusting a system's parameters to reduce unwanted interference as conditions change. Here it is a descriptive label, not the name of one specific algorithm.
 
-This adaptive approach allows for more effective and efficient suppression performance, as it can adapt to changing conditions and optimise the trade-off between signal preservation and noise reduction. Adaptive suppression is commonly used in various fields, including audio processing, communication systems, image and video processing, and the brain.
+## Example: Adaptive Noise Cancellation
+
+An adaptive filter uses a reference input correlated with the unwanted noise, but ideally uncorrelated with the desired signal, to estimate the noise contaminating a recording. This estimate is subtracted from the recording; the residual output provides the error signal used to update the filter.
+
+For example, this can reduce electrical mains interference in an electrocardiogram. Performance depends on the reference and the filter's ability to track changes: cancellation is not guaranteed, and desired-signal contamination of the reference can cause distortion.
+
+## Source
+
+- Widrow et al. (1975), [*Adaptive Noise Cancelling: Principles and Applications*](https://isl.stanford.edu/~widrow/papers/j1975adaptivenoise.pdf), especially §§III–V.
