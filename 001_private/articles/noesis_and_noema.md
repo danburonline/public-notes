@@ -1,26 +1,21 @@
-#lead/computationalphilosophy #core/artificialintelligence
+#lead/computationalphilosophy
 
 ![noesis-noema](_attachments/noesis-noema.jpg)
 
-Noesis and noema are **two core Husserlian ideas in [phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md).** Noesis names the lived act of thinking, perceiving, or judgement, while noema names the intended object or content of that act. Together they offer a clear process and product distinction that helps in analysing conscious experience, from everyday reading to formal research.
+Noesis and noema are the two correlative sides of one intentional act in [Husserl](https://en.wikipedia.org/wiki/Edmund_Husserl)'s [phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md). They are not a process and its product. **Noesis** is the intending: perceiving, judging, remembering, including the way the act posits its object. **Noema** is the object as intended — the perceived as perceived, the judged as judged — not a theme extracted afterwards, and not the real thing the act happens to be about.
 
-- **Noesis**:
-  In [phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md), a branch of philosophy, Noesis refers to the act of conscious thinking or cognition. It’s the part of the mind involving thought, understanding, and self-awareness.
+## Correlation, not Production
 
-- **Noema**:
-  Noema, on the other hand, refers to the object or content of thought, perception, or a similar mental act.
+The diagram separates what is real in the stream from what is ideal. Sensuous hyle and the noesis are *reell*: colour, tone, pain, and the act that takes them up, as occurrences in the experience. This hyle is not Aristotelian matter. It is the raw sensory moment, not yet a feature of an object. The noema is ideal: *das Vermeinte*, what is meant. Apperception is not a later manufacturing step. It is the noesis taking up that sensory moment and intending an object through it. The arrow marks the correlation. It does not mean the noema is an output you walk away with.
 
-## Origin
+## What the Noema is not
 
-Both concepts were central to the philosophy of [Edmund Husserl](https://en.wikipedia.org/wiki/Edmund_Husserl), the founder of [phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md). They are also integral to the phenomenological research method.
+- **Not the real object.** The tree can burn. The noema of seeing the tree cannot. In *Ideas I*, the perceived as perceived is not identical with the transcendent thing.
+- **Not a mental product.** Extracting themes from a book is a further act, with its own noesis and its own noema. Those themes are not the noema of the reading.
+- **Not the sensation.** Sensation is hyletic. It is consciousness *of* something only as the noesis apperceives it.
 
-## Key Distinctions
+## Reading
 
-- **Noesis is the process**: it’s the act of perceiving, thinking, or understanding.
-- **Noema is the product**: it’s what is perceived, thought of, or understood.
-
-> [!Example]
-> Consider reading a book:
->
-> - The Noesis is the act of reading, understanding, and interpreting the words on the page.
-> - The content, ideas, and themes you extract from the book are the Noema.
+- **Noesis**: reading the sentence, and the way that reading posits it — as asserting, doubting, or merely entertaining.
+- **Noema**: the state of affairs as meant in that reading, the sense through which the sentence is understood.
+- Writing the themes down afterwards is a new act. Its noema is those themes as intended, not the noema of the first reading.

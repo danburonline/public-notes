@@ -16,7 +16,7 @@ Phenomenology is a branch of philosophy that **studies the structure of experien
 
 ### Intentionality
 
-Every conscious act is directed at an object—perception is always perception *of* something, thought is always thought *about* something. Husserl's intentional analysis decomposes each act into [noesis and noema](../../../001_private/articles/noesis_and_noema.md): the act of experiencing (noesis) and its intentional content or object (noema).
+Every conscious act is directed at an object—perception is always perception *of* something, thought is always thought *about* something. Husserl's intentional analysis correlates [noesis and noema](../../../001_private/articles/noesis_and_noema.md): the intending, and the object as intended.
 
 ### Epoché and Phenomenological Reduction
 
