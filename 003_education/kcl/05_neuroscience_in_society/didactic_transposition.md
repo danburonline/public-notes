@@ -1,18 +1,16 @@
-#core/evolutionarypanmemetics #core/appliedneuroscience #fundamental/communication
+#fundamental/communication
 
-![](_attachments/didactic_transposition.png)
+![From scholarly knowledge, through the noosphere, to what is taught and what is learned.](_attachments/didactic_transposition.png)
 
-Didactic Transposition refers to the **process of transforming “knowledge” into “knowable” and “taught” content.** Yves Chevallard, a French researcher in mathematics education, originally proposed it. The concept is used to explain the changes that occur when knowledge is adapted from the domain of scholars to the school context.
+Didactic transposition is Yves Chevallard's name for the **deformation of knowledge as it moves from the scholars who produce it to the classroom where it is taught.** The taught version is not a simpler copy of the scholarly one. It is a different object, and the gap is usually denied.
 
-## Stages of Didactic Transposition
+The diagram shows the chain. Chevallard's cut is the first three boxes, in two movements:
 
-Didactic Transposition typically involves two major stages:
+- **External transposition**, outside the teaching system. The noosphere — curricula, programmes, and textbooks — selects from scholarly knowledge (*savoir savant*) and designates knowledge to be taught (*savoir à enseigner*).
+- **Internal transposition**, inside the teaching system. What is actually taught (*savoir enseigné*) is necessarily other than what was designated to be taught. The lesson is not the syllabus.
 
-1. **Prima Facie Transposition**: The original knowledge (usually complex and abstract) is simplified and transformed into a format that can be taught.
-2. **Secondary Transposition**: The already transformed knowledge is further moulded to fit into specific educational contexts, considering things like the curriculum, textbooks, teaching methods, etc.
+The arrows run both ways because the fit is negotiated. Taught knowledge must look close enough to scholarly knowledge to be legitimate, and distant enough from everyday knowledge to justify the school. The fourth box, learned knowledge, is not a third stage he named. It marks a further gap: what a class comes to hold is not what was taught.
 
-> [!example]
-> Let’s take the example of the theory of relativity, a complex concept in physics:
+> [!example] Relativity
 >
-> 1. **Prima Facie Transposition**: The abstract and complex theory of relativity is transformed into a basic principle - “The laws of physics are the same for all observers in uniform motion relative to one another (principle of relativity)”. This simplified version is more understandable for students who are new to the subject.
-> 2. **Secondary Transposition**: This simplified version is then integrated into the physics curriculum in an age-appropriate manner. It might be introduced through thought experiments like the “twin paradox” for high school students. For university students, it might be taught through more formal mathematical models and more complex scenarios.
+> Scholarly knowledge is the theory as physicists use it. External transposition turns a fragment of it into a syllabus line or a textbook chapter. Internal transposition is the lesson, which is not that chapter. A school telling of the twin paradox and a university derivation are different taught objects. Neither is the theory, and what the class retains is not what was said.
