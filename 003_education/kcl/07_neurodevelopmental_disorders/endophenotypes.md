@@ -1,20 +1,19 @@
 #core/appliedneuroscience
 
-![endophenotype](_attachments/endophenotype.png)
+![Nested circles: phenotypes contain intermediate phenotypes, which contain endophenotypes. An endophenotype is a heritable intermediate phenotype associated with a disease.](_attachments/endophenotype.png)
 
-**Endophenotypes are measurable biomarkers or traits that are thought to be closer to the genetic origins of a disorder than the clinical symptoms themselves.** They serve as a bridge between the observable phenotype and the underlying genotype. They’re often used in psychiatric and neurological research to understand complex disorders like schizophrenia, bipolar disorder, and ADHD.
+An endophenotype is not a [biomarker](../06_neuroimaging_in_mental_health/biomarker_and_neuromarker.md). A biomarker can mark the current state of an illness. An endophenotype is a **heritable intermediate phenotype**: a measurable trait between genes and the clinical syndrome, present whether or not the illness is active.
 
-## Characteristics
+Gottesman and Gould (2003) gave the working criteria:
 
-- **Heritable**: [Endophenotypes](../06_neuroimaging_in_mental_health/biomarker_and_neuromarker.md#types) are genetic in nature and can be passed from parents to offspring.
-- **Associated with Illness**: They are associated with a specific disorder in the population.
-- **State-Independent**: Present in an individual regardless of whether the illness is active.
-- **Found in Non-Affected Family Members**: This may also be present in family members who do not meet the criteria for the disorder, suggesting a genetic, not environmental, cause.
-- **Specific to an Illness**: Ideally, an endophenotype should be specific to one illness or a group of related disorders.
+- Associated with the illness in the population.
+- Heritable. That is a population statistic, not a claim that the trait is genetic in nature, or that environment is excluded.
+- State-independent: present in remission, not only during an episode.
+- Co-segregates with the illness within families.
+- Found in unaffected relatives more often than in the general population.
 
-## Examples
+Presence in unaffected relatives does not prove a genetic cause. A shared family environment can produce the same pattern. The criterion is a reason to keep looking, not a demonstration.
 
-- **Cognitive Deficits**: Such as impairments in working memory or attention that are common in psychiatric disorders.
-- **Neurophysiological [Markers](../06_neuroimaging_in_mental_health/biomarker_and_neuromarker.md#biomarkers)**: Like abnormal brain wave patterns observed in EEG.
-- **Biochemical Markers**: Including variations in neurotransmitter levels.
-- **Neuroanatomical Features**: Such as differences in brain structure size or connectivity observed through MRI.
+Specificity to one diagnosis was hoped for, and mostly failed. Working-memory impairment and sensory-gating measures cut across schizophrenia, bipolar disorder, and ADHD. The useful claim is not that the trait names one disease. It is that the trait is closer to a mechanism than the syndrome is.
+
+A cognitive deficit, an EEG pattern, or an anatomical measure is a candidate endophenotype only if it meets the criteria above. A neurotransmitter level that rises in an episode and falls in remission is a state marker, not an endophenotype.
