@@ -1,13 +1,15 @@
 #fundamental/logic
 
-Vacuous truth is a term used in logic, mathematics, and computer science to refer to **statements that are considered true because they do not make any concrete or definite assertion.** More specifically, a statement is considered vacuously true if it is not applicable to any object or situation or if its conditions can never be met.
+A statement is **vacuously true** when it is true because the case that would falsify it does not arise. It is not true by saying nothing. The assertion stands. There is no counterexample.
 
-**1. Conditional Statements:** The concept of vacuous truth is most commonly encountered in the context of conditional statements of the form “if P then Q” (symbolically, P → Q). In such a statement, if P (the antecedent) is false, the statement as a whole is considered to be true, regardless of whether Q (the consequent) is true or false. This is known as “vacuously true” or “true by default.”
+## Conditionals
 
-Consider an example statement like “If pigs can fly, then 2 + 2 equals 5.” Since pigs cannot fly, the statement is considered vacuously true, despite the fact that 2 + 2 does not equal 5.
+For the material conditional "if P then Q", a false antecedent makes the conditional true, whether Q is true or false. "If pigs can fly, then 2 + 2 = 5" is true, on this convention, because pigs do not fly. It still asserts a dependence. That dependence is never tested.
 
-**2. Universal Statements:** Another context where the concept of vacuous truth is applied is universal statements involving the empty set. A universal statement of the form “for all x in S, P(x)” is considered vacuously true if the set S is empty. This is because there are no elements in S for which P(x) could potentially be false.
+This is the truth table for $\rightarrow$, where $P \rightarrow Q$ is equivalent to $\neg P \lor Q$. It does not mean that a false antecedent makes Q true. Inferring "not Q" from "not P" is [denial of the antecedent](conditional_reasoning.md), which is a different mistake.
 
-For example, consider the statement, “Every pink elephant in this room can fly.” If there are no pink elephants in the room, the statement is vacuously true.
+## Empty domains
 
-**3. Importance of Vacuous [Truth](truth_tables.md):** Understanding the concept of vacuous truth is important for formal logic and mathematical reasoning, as it helps ensure consistency and completeness in logical systems. It can seem counter-intuitive, but it allows many theorems and definitions in mathematics and computer science to be stated in a more general and elegant form.
+"Every pink elephant in this room can fly" is true if the room contains no pink elephants. A universal claim is falsified only by a counterexample, and an empty set supplies none.
+
+The convention lets a definition cover the empty case without a special clause. It does not make the claim indefinite, and it does not secure the completeness of a logical system.
