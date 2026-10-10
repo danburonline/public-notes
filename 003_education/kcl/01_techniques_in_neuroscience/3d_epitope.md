@@ -1,10 +1,9 @@
 #core/appliedneuroscience
 
-![3d-epitope](_attachments/3d-epitope.png)
+![Protein surface with coloured patches marking binding sites assembled by the fold.](_attachments/3d-epitope.png)
 
-An epitope is a **specific portion of a molecule, usually a protein or a carbohydrate, that is recognised and bound by an antibody or a T cell receptor.** A 3D epitope refers to the three-dimensional structure of the epitope, which is the spatial arrangement of the atoms that compose it.
+A 3D epitope is not an epitope that happens to have a three-dimensional structure. Every epitope has a shape. A **3D epitope**, also called a conformational or discontinuous epitope, is a binding surface assembled by the fold. The residues that form it need not be neighbours in the sequence. The coloured patches in the figure are that kind of surface.
 
-Epitopes can be **linear** (sequential amino acid residues) or **conformational** (formed by folding into a specific 3D shape). This distinction matters for antibody-based brain imaging: conformational epitopes are sensitive to fixation and processing methods, affecting reliability of immunohistochemical staining in neural tissue.
+A linear epitope is a continuous stretch of the chain. Denaturation can leave it intact and destroy a 3D epitope, which is why fixation and processing decide whether an antibody still binds in tissue.
 
-> [!warning] Experimental consideration
-> Conformational epitopes are sensitive to fixation protocols — paraformaldehyde vs methanol can alter antibody binding in immunohistochemical staining.
+The two receptors do not see the same thing. An antibody can bind the native surface. A T cell receptor binds a processed peptide held in an MHC groove, not the intact fold. Treating them as two readers of one 3D epitope mixes the native surface with the fragment presented from it.
