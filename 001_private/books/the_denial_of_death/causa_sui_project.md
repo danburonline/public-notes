@@ -1,23 +1,23 @@
-#fundamental/logic
+#lead/computationalphilosophy
 
-![causa-sui-project](_attachments/causa-sui-project.png)
+![A causa sui perpetuation project, built from morality and symbolic immortality, standing on materiality and told as a narrative.](_attachments/causa-sui-project.png)
 
-A causa sui project is a **psychological and philosophical concept describing an individual's attempt to create meaning or purpose that transcends their own finite existence.** The term _causa sui_ is Latin for "cause of itself" or "self-caused." In this context, it refers to projects or pursuits generated from within oneself to achieve a sense of immortality or lasting significance.
+A causa sui project is the attempt to be **one's own cause**, and the fact that the attempt fails. *Causa sui* means self-caused. A human being is not. Ernest Becker's claim, in *The Denial of Death* (1973), is that much of a life is organised as if one had caused oneself and could therefore outlast one's creaturely end.
 
-## Origin and Key Thinkers
+The figure calls this a perpetuation project. That names the attempt, not a success. Symbolic immortality and a moral code are what it is built from. Materiality is what it tries to rise above. Narrative is how the story is told. None of this makes the person self-caused.
 
-- **Ernest Becker**: Popularised the concept in The Denial of Death (1973).
-- **Philosophical Roots**: Noted in the works of Spinoza, Freud, and Sartre.
+## Not one idea
 
-## Psychological Purpose
+- **Spinoza**: *causa sui* is a status, not a project. A substance whose essence involves existence. For him, God alone.
+- **Becker**: the phrase names an impossible human project. Culture offers hero-systems — a work, a family, a state, a faith — through which a person tries to earn a significance death cannot cancel. The terror is not removed. It is invested in the project.
+- **Sartre**: the desire to be in-itself-for-itself is the desire to be God, a being that would found its own existence. Related, and not Becker's term.
 
-- Alleviates existential anxiety by focusing on symbolic self-worth.
-- Provides a sense of heroism, purpose, and significance.
-- Helps individuals imagine their influence or values persisting after death.
+Becker reads Freud's Oedipal and transference projects as early forms of the same refusal. Freud did not use the term.
 
-> [!example] Examples
-> 
-> - Artistic creation or scientific discovery with lasting impact.
-> - Building enduring institutions, families, or communities.
-> - Religious or spiritual beliefs promising eternal significance.
-> - Contributing to causes or movements shaping the future.
+A lasting work is one costume the project wears. It is not the definition. The work, the institution, or the creed is being asked to do what a creature cannot do.
+
+> [!example]
+>
+> - A result or a work of art treated as a personal survival.
+> - A family, a firm, or a movement meant to carry a name past a death.
+> - A faith that promises the self will not end.
