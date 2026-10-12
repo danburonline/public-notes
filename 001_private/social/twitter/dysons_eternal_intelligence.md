@@ -1,14 +1,7 @@
 #core/mathematicalphysics
 
-**Concept Origin**: The idea originates from physicist [Freeman Dyson](https://en.wikipedia.org/wiki/Freeman_Dyson), who explored the potential for intelligence to survive indefinitely in a universe that is cooling and expanding towards its [heat death](https://en.wikipedia.org/wiki/Heat_death_of_the_universe).
+Dyson's eternal intelligence is a scheme for **unbounded subjective time in a universe that keeps cooling**, not a proof that thought becomes free. Freeman Dyson (1979) assumed an open universe with no cosmological constant. Beings hibernate. Computation slows so that energy use tracks the falling temperature. On that assumption, a finite store of energy can fund infinitely many operations, because each one is done later and colder.
 
-**Core Idea**: Dyson speculated that intelligent beings could adapt to the universe’s diminishing energy resources by drastically slowing down their energy consumption. This would involve reducing the pace of computational processes and other activities to conserve energy, thereby extending their existence as the universe cools.
+This does not follow from [Landauer's limit](landauer_limit.md) going to zero. $kT\ln 2$ falls only if $T$ falls. That is the assumption, not the result. An irreversible erasure still costs whatever the temperature is at the time. Reversible computation can lower the bill. It does not by itself turn a finite store of information into infinitely many distinct thoughts.
 
-**Mechanism**: The strategy relies on the principle that energy efficiency can be significantly improved, allowing thought and computational activities to continue at a slower rate. This would enable intelligent entities to operate indefinitely, even in a universe approaching absolute zero temperature.
-
-> [!tip] Physical Basis
-> The concept exploits [Landauer's principle](landauer_limit.md) — as temperature $T \to 0$, the minimum energy per bit operation ($k T \ln 2$) approaches zero, enabling indefinite computation with vanishing energy resources. Reversible computation could further reduce energy requirements.
-
-**Significance**: Dyson’s Eternal Intelligence concept offers a speculative yet profound vision of how consciousness and intelligence might adapt to the universe’s ultimate physical limits. It raises intriguing questions about the future of intelligence, the nature of consciousness, and the universe’s fate.
-
-**Conclusion**: While purely theoretical, Dyson’s vision of eternal intelligence underscores the potential for life and intelligence to adapt to even the most challenging conditions and find ways to survive in an ever-changing universe.
+The assumption fails if the cosmological constant is positive. A de Sitter horizon has a temperature that does not fall, so hibernation cannot continue without limit. Krauss and Starkman (2000) argued that the integrated conscious lifetime of any civilisation is then finite, however long. Eternal intelligence is a strategy for Dyson's open universe. It is not a prediction about this one.
