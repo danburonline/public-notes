@@ -34,6 +34,8 @@ These groupings are interpretive neighbourhoods rather than claims that all entr
 - [Multiple realisability](../books/how_to_build_a_brain/multiple_realisability.md) — a contested thesis about the range of possible physical realisers, graded interpretively by the colour axis
 - [Hylomorphism](hylomorphism.md) — historical comparison: Aristotelian form and matter, not a direct classification as modern functionalism
 - [Philosophical zombies](philosophical_zombies.md) — conceivability challenge to functionalism
+- [Fading qualia](../books/from_biological_to_artificial_consciousness/fading_qualia.md) — a thought experiment about whether equivalent functional organisation could preserve consciousness across substrate replacement
+- [Neural blackboard architectures](../books/how_to_build_a_brain/neural_blackboard_architectures.md) — a candidate architecture for analysing functional roles such as temporary binding and information integration
 - [Higher-order theories of consciousness](../books/sizing_up_consciousness/higher-order_theories_of_consciousness.md) — a role- and representation-based comparison; higher-order theories are not thereby all functionalist
 
 ## Limits

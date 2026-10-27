@@ -30,12 +30,15 @@ Several techniques may fall under this informal umbrella:
 - **Disorders of Consciousness:** Assessing and tracking state-related neural or behavioural features in patients with conditions like coma, vegetative state, and minimally conscious state.
 - **Prognosis:** Informing estimates of recovery in patients with brain injuries or disorders of consciousness, without guaranteeing a particular outcome.
 
+The limits are also illustrated by the [philosophical zombie](../_general/philosophical_zombies.md) thought experiment: if a subject were stipulated to match all relevant physical and behavioural measurements while lacking phenomenal experience, no index of those measurements could resolve the stipulation. This is a conceptual limitation, not evidence that zombies exist.
+
 ## Limitations
 
 - "Quantitative Consciousness Index" is an informal umbrella here, not a single validated instrument.
 - The component measures estimate different targets, including responsiveness, anaesthetic depth, evoked responses, and perturbational complexity.
 - A neural proxy can provide state-discrimination evidence without proving phenomenal consciousness or personal identity and continuity.
 - Interpretation of EEG data and other quantitative measures requires specialised expertise and clinical context.
+- The [fading qualia](../books/from_biological_to_artificial_consciousness/fading_qualia.md) thought experiment raises a related philosophical question about whether preserved functional organisation would guarantee preserved experience; QCI-type measures cannot settle that question by themselves.
 
 ## Sources
 
