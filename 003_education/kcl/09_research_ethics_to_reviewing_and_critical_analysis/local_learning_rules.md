@@ -1,33 +1,27 @@
 #core/appliedneuroscience #core/artificialintelligence
 
-Local **learning rules adjust synaptic strengths based on local information at the synapse**, crucial for neural plasticity, learning, and memory.
+**Local learning rules update synaptic strength using information available at or near the synapse; this locality does not imply access to global or behavioural output error.** They are computational models of
+[synaptic plasticity](../04_biological_foundations_of_mental_health/synaptic_plasticity.md), not complete theories of learning.
 
-## Types of Local Learning Rules
+## Local learning rules
 
-### [Hebbian](../04_biological_foundations_of_mental_health/hebbian_synaptic_plasticity.md) Learning
+- **Hebbian:** [Hebbian plasticity](../04_biological_foundations_of_mental_health/hebbian_synaptic_plasticity.md) strengthens co-active connections: $\Delta w = \eta x_{\mathrm{pre}}y_{\mathrm{post}}$.
+  Correlation can form [Hebbian assemblies](../../../004_subsidiary/_general/hebbian_assemblies.md), but unbounded gain and no task error signal limit the rule.
+- **STDP:** The canonical phenomenological protocol potentiates pre-before-post spikes and depresses the reversed order.
+  Its sign and timing window are context-dependent across synapses, cells, development, neuromodulation, and protocol; it is not universal.
+- **BCM:** A sliding threshold, $\theta_M$, tracks postsynaptic activity history: $\Delta w = \eta x y(y-\theta_M)$.
+  Activity above or below it favours potentiation or depression, limiting runaway Hebbian gain; BCM is not a complete biophysical account. This connects to [homeostatic plasticity](../../../001_private/books/augmenting_cognition/activity-dependent_plasticity.md).
+- **Oja:** Normalisation limits Hebbian weight growth: $\Delta w_i = \eta y(x_i-yw_i)$.
+  For a linear neuron under suitable input, learning-rate, and convergence assumptions, weights approach the first principal component; this is not general-purpose PCA.
 
-“Cells that fire together, wire together.” Synaptic strength increases when both pre- and postsynaptic neurons are active.
+In multilayer or recurrent circuits, local activity does not reveal a synapse’s distant effect on output error.
+Eligibility traces retain a local activity mark while a delayed, often broadcast modulatory third factor gates change, $\Delta w_i \propto e_i m$: a qualified bridge to the [credit-assignment problem](../../epfl/credit_assignment_problem.md), not equivalent to exact backpropagation.
 
-- **Formula**: $Δw = η * x * y$
+Local plasticity can link repeated activity to assemblies, while delayed third-factor signals link local traces to consequences; these constraints connect biological mechanisms to event-driven [leaky integrate-and-fire neurons](../../epfl/leaky_integrate-and-fire_neurons.md) and [biomimetic neuromorphics](../../../002_profession/eightsix/biomimetic_neuromorphics.md), without assuming that biological plausibility has been solved.
 
-### Spike-Timing-Dependent Plasticity (STDP)
+## Sources
 
-Adjusts synaptic strength based on the timing of spikes. LTP occurs if the presynaptic spike precedes the postsynaptic spike, and LTD if the reverse happens.
-
-### BCM Rule
-
-Modifies synaptic strength based on postsynaptic activity and a dynamic threshold.
-
-- **Formula**: $Δw = η * y * (y - θ_M) * x$
-
-### Oja’s Rule
-
-A normalised Hebbian rule preventing runaway synaptic growth.
-
-- **Formula**: $Δw = η * (yx - w * y^2)$
-
-> [!example] Applications
->
-> - **Neural Network Models**: Key for developing and understanding artificial neural networks.
-> - **[Synaptic Plasticity](../04_biological_foundations_of_mental_health/synaptic_plasticity.md)**: Crucial for exploring synaptic changes and neural circuit adaptation.
-> - **Cognitive Functions**: Explains local synaptic changes leading to complex behaviours.
+- Hebb, D. O. (1949). *The Organization of Behavior*. [Archive](https://archive.org/details/organizationofbe00hebb).
+- Bienenstock, Cooper and Munro (1982). [BCM theory](https://doi.org/10.1523/JNEUROSCI.02-01-00032.1982).
+- Oja, E. (1982). [Oja’s rule](https://doi.org/10.1007/BF00275687).
+- Markram, Gerstner and Sjöström (2012). [STDP review](https://doi.org/10.3389/fnsyn.2012.00002); Gerstner et al. (2018). [Eligibility traces](https://doi.org/10.3389/fncir.2018.00053).
