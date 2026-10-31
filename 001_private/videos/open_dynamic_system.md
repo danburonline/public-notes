@@ -30,11 +30,17 @@ The main distinction lies in their interaction with the environment:
 
 | Feature                          | Open System                                                          | Closed System                                                                |
 | :------------------------------- | :------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
-| **Interaction with Environment** | Interacts with and is influenced by its environment.                 | Isolated from its environment.                                               |
-| **Evolution**                    | Determined by internal laws, initial state, AND external influences. | Determined solely by internal laws and initial state.                        |
-| **Examples**                     | Living cells, ecosystems, weather patterns.                          | A closed container with a fixed amount of gas, a perfectly insulated system. |
+| **Interaction with Environment** | External influence is explicitly modelled through interfaces. | No external input is included in the autonomous model. |
+| **Evolution** | Depends on internal state and external inputs. | Depends on internal state under the model's fixed laws. |
+| **Examples** | A driven neural circuit or a controlled thermal system. | An idealised autonomous oscillator. |
+
+Here “closed” means autonomous in a dynamical model. In thermodynamics, a closed system can still exchange energy, whereas an isolated system exchanges neither energy nor matter.
 
 ## Connections in the Vault
+
+- [Compositional modelling](../_general/compositional_modelling.md) — connecting outputs to inputs creates a larger system; feedback requires explicit state, timing, and well-posedness conditions.
+- [Dynamical abstraction](../_general/dynamical_abstraction.md) — reduced and detailed updates must agree across the intended input class, not only along a single trajectory.
+- [Inference, learning, and control](../_general/inference_learning_and_control.md) — observations, belief updates, and actions occupy different interfaces in an adaptive loop.
 
 - The regimes such trajectories settle into are studied in neural computation as [attractor states](../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md), where dynamics poised near the edge of chaos let small inputs reshape the attractor landscape.
 - The States/Inputs/Update/Readout components are the same vocabulary the [Neural Engineering Framework](../books/how_to_build_a_brain/principles_of_the_neural_engineering_framework.md) uses to model neural populations: representing variables through distributed activity, transforming them via update dynamics, and decoding them through readout.

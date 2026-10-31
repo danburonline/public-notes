@@ -22,4 +22,10 @@ A diffeomorphic transformation is a **special kind of mapping between two differ
 > [!example]
 >
 > - **Valid**: Rotating or smoothly stretching a 2D plane.
-> - **Not Valid**: Folding, tearing, or creating sharp creases in the plane.
+> - **Not Valid**: A fold that identifies distinct points, tearing, or creating non-smooth creases. A smooth bend of a sheet into three-dimensional space can still be a diffeomorphism onto its image.
+
+## Geometry versus dynamics
+
+Diffeomorphic manifolds have the same intrinsic dimension. A diffeomorphism need not preserve distances, volumes, or the evolution rule of a system defined on the manifold.
+
+For flows $\Phi_t$ and $\Psi_t$, a diffeomorphism $f$ gives a **smooth dynamical conjugacy** only if $f\circ\Phi_t=\Psi_t\circ f$ for the times being compared. [Dynamical abstraction](../../001_private/_general/dynamical_abstraction.md) distinguishes this invertible case from many-to-one reduction. [Invariant brain emulation](invariant_brain_emulation.md) requires explicit dynamical and observational conditions; smoothness alone cannot supply them.

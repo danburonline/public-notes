@@ -19,4 +19,10 @@ The Distributed Adaptive Control (DAC) theory is presented as a **framework for 
 
 The adaptive layer's minimisation of perceptual and behavioural prediction error can be related to the [Bayesian brain hypothesis](bayesian_brain_hypothesis.md) as a control-theoretic hypothesis, but the two are not the same claim: here, prediction is situated inside a body–environment control loop rather than treated as evidence that the brain literally calculates Bayesian posteriors.
 
+## Structural connections
+
+- [Inference, learning, and control](../_general/inference_learning_and_control.md) separates state estimation, adaptation, and action selection. Its POMDP example offers a formal comparison framework, not an identification of DAC with a Bayesian controller.
+- [Compositional modelling](../_general/compositional_modelling.md) makes the interfaces among body, controller, and environment explicit; validation of isolated layers is weaker than validation of their coupled dynamics.
+- [Credit assignment](../../003_education/epfl/credit_assignment_problem.md) concerns which earlier actions or internal components should change after an outcome. Prediction error supplies a possible learning signal, not a complete solution to that allocation problem.
+
 Within DACtoc, **autonomous virtualisation memory** is DAC's name for a hypothesised memory that serialises and unifies parallel simulations. It is not an established measure of phenomenal consciousness; [phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) and [consciousness engineering](../_general/consciousness_engineering.md) therefore serve as constraints on, not confirmation of, the hypothesis.

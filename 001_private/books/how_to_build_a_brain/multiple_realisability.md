@@ -52,9 +52,13 @@ The brain itself appears to be a multiply realising system at every scale:
 Multiple realisability is the philosophical licence for the entire programme of [consciousness engineering](../../_general/consciousness_engineering.md). Without it, projects that aim to transfer or preserve a mind in a non-biological substrate are stillborn.
 
 - **[Progressive Synthetic Neural Substrate Transfer (PSNST)](../../_general/psnst.md).** A hypothetical design involving gradual neuron-by-neuron replacement of biological tissue with functionally equivalent synthetic units, inspired by Chalmers' fading-qualia thought experiment. It is a design proposal and analogy, not an empirical execution.
-- **[Invariant brain emulation](../../../002_profession/eightsix/invariant_brain_emulation.md).** Formalises the requirement: a substrate transformation $f : B \rightarrow S$ counts as preserving the mind iff $O(f(b)) \equiv O(b)$ for all observables $O$ in the relevant set. Multiple realisability is the hypothesis that some such $f$ exists for biological brains.
+- **[Invariant brain emulation](../../../002_profession/eightsix/invariant_brain_emulation.md).** Proposes a preservation criterion using compatible dynamics and selected readouts, written $O_S\circ f=O_B$. Agreement on a chosen observable set is not an “if and only if” test of mind preservation. Multiple realisability motivates asking whether different substrates can instantiate a mental property; it does not itself require a bijection between their complete physical states.
 - **[Biomimetic neuromorphics](../../../002_profession/eightsix/biomimetic_neuromorphics.md).** The engineering discipline that constructs synthetic substrates with sufficient functional fidelity (molecular, cellular, circuit, systems levels) to count as realisers of the original mental states.
 - **[Mind-uploading techniques](../taxonomy_and_metaphysics_of_mind-uploading/mind-uploading_techniques.md).** Whole-brain emulation, gradual replacement, and scan-and-copy approaches all rest implicitly on multiple realisability, but differ in which grain of functional description they take to be the relevant invariant.
+
+## Realisation is not full-state isomorphism
+
+Two substrates might realise the same higher-level property while differing in irrelevant microscopic degrees of freedom. [Dynamical abstraction](../../_general/dynamical_abstraction.md) distinguishes maps onto a shared effective description from invertible maps between full state spaces. [Information-preserving abstraction](../../_general/information_preserving_abstraction.md) asks what a chosen description retains, but does not establish which description suffices for phenomenal consciousness.
 
 ## Criticisms and Limits
 

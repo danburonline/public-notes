@@ -7,7 +7,7 @@ Problem decomposition is the **process of breaking down a complex problem into s
 - **Reduction of Complexity:**  
   Decomposing a problem allows you to isolate and focus on individual aspects, reducing the cognitive load and making each part simpler to solve.
 - **Modularity:**  
-  Each sub-problem can be developed, tested, and optimised independently. This modularity is central to designing robust systems in fields like software engineering and project management.
+  Sub-problems can be developed and tested separately when their interfaces and dependencies are explicit. Independent optimisation is not always safe: local improvements can worsen the integrated system.
 - **Parallelism:**  
   By splitting a large problem into independent pieces, teams (or processes) can work on different parts simultaneously, accelerating overall progress.
 - **Abstraction:**  
@@ -45,7 +45,7 @@ Planning a large family dinner can be decomposed into:
 - **Menu Planning:** Decide on courses and dishes.
 - **Grocery Shopping:** Make a detailed list based on the menu.
 - **Cooking:** Break down recipes into individual steps.
-- **Setup and Decoration:** Organize seating, table settings, and ambiance.
+- **Setup and Decoration:** Organise seating, table settings, and ambience.
 
 ### Project Management
 
@@ -55,4 +55,10 @@ In constructing a building project:
   - **Design:** Architectural planning, structural engineering.
   - **Construction:** Laying the foundation, building the framework, finishing.
 - **Assign tasks within each phase:**  
-  Each phase can be scheduled and managed independently, ensuring clear milestones and better resource allocation.
+  Each phase can have clear milestones and resource allocation, while scheduling respects dependencies between design, construction, and finishing.
+
+## Decomposition needs a composition rule
+
+[Compositional modelling](../_general/compositional_modelling.md) asks how partial solutions connect and whether their meanings remain valid after integration. In software, matching types is only one condition: units, timing, failure behaviour, and assumptions also belong to the interface.
+
+This distinguishes problem decomposition from [coarse-graining](../papers/coarse_graining.md). Decomposition separates interacting parts; coarse-graining merges distinctions within a description. Both reduce cognitive or computational burden, but they perform different operations.

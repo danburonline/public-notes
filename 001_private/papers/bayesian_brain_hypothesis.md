@@ -11,6 +11,12 @@ The Bayesian brain hypothesis proposes that the **brain interprets the world usi
 - **Predictive coding:** A proposed scheme in which systems predict sensory inputs and use mismatches between predictions and signals to refine their models.
 - **Prediction error:** The difference between an expected and an incoming signal. Its role, representation, and weighting are empirical questions rather than consequences of Bayesian terminology alone.
 
+### Inference is not the whole adaptive loop
+
+[Inference, learning, and control](../_general/inference_learning_and_control.md) separates estimating a hidden state, changing model parameters, and selecting actions. A Bayesian posterior does not specify a policy without an objective and decision rule. The POMDP example in that note shows a precise way to compose inference with control without equating them.
+
+[Information-preserving abstraction](../_general/information_preserving_abstraction.md) asks when a reduced representation retains all evidence relevant to inference within a specified model. Statistical sufficiency is a mathematical condition, not evidence that a neural representation satisfies it.
+
 ### Bayesian Updating
 
 - Bayesian updating revises beliefs in light of new evidence: a **prior** is an existing belief, a **likelihood** is the evidence given the hypothesis, and a **posterior** is the belief revised by that evidence. See [Bayes' theorem](../books/essential_math_for_data_science/bayes_theorem.md) for the formal statement. This terminology describes the hypothesis at a computational level; it does not imply that neurons implement the formula.

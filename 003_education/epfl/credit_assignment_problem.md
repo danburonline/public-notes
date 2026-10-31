@@ -25,3 +25,9 @@ The credit assignment problem is a fundamental challenge in various fields, incl
 - **[Synaptic](../kcl/04_biological_foundations_of_mental_health/synaptic_plasticity.md) Plasticity:** The ability of synapses to strengthen or weaken over time, based on their activity levels. This is fundamental to learning and memory in the brain.
 - **Reward Prediction Error**: A hypothesis in neuroscience that dopamine neurons signal the difference between expected and received rewards, providing feedback that helps the brain learn from experiences.
 - **[Operant](../kcl/02_psychological_foundations/operant_learning.md) Conditioning:** A learning process through which the strength of a behaviour is modified by reinforcement or punishment.
+
+## Error signals versus allocation of updates
+
+A reward prediction error indicates that an outcome differs from expectation; it does not, by itself, identify every action, neuron, or synapse that should change. Temporal credit assignment concerns earlier events, while structural credit assignment concerns components contributing to the result. The figure illustrates the additional ambiguity introduced by delays and competing choices.
+
+[Inference, learning, and control](../../001_private/_general/inference_learning_and_control.md) locates credit assignment within adaptation, distinct from estimating the current state or executing a fixed policy. [Distributed adaptive control](../../001_private/papers/distributed_adaptive_control_theory.md) offers a related architecture in which perceptual learning, value, and action interact; a shared error-correction motif does not establish identical learning mechanisms.

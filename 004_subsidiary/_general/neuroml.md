@@ -38,6 +38,10 @@ NeuroML (Neuroscience Markup Language) is an **XML-based representation and exch
 </neuroml>
 ```
 
+## Representation versus semantics
+
+[Compositional modelling](../../001_private/_general/compositional_modelling.md) separates a model's component-and-connection description from its interpreted behaviour. A shared exchange format supports reuse, but schema validity or successful conversion does not prove that two simulators produce equivalent trajectories. Solver settings, units, supported mechanisms, and numerical tolerances require validation. [Dynamical abstraction](../../001_private/_general/dynamical_abstraction.md) provides a separate criterion for comparing models at different levels of detail.
+
 ## Applications in Brain Emulation
 
 NeuroML can support reproducibility, exchange and comparison in work on [invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md), [biomimetic neuromorphics](../../002_profession/eightsix/biomimetic_neuromorphics.md), and [ECP/PSNST](../../001_private/_general/psnst.md). A NeuroML representation of neural architecture may serve as a record for comparison or migration planning, but it cannot establish substrate equivalence, personal identity or continuity on its own, nor guarantee execution on any particular substrate.

@@ -7,7 +7,7 @@ The Neural Engineering Framework (NEF) is a **computational framework for simula
 ## Principle 1: Representation
 
 - **Neural Coding**: NEF posits that neurons represent variables through distributed patterns of activity across populations. Each neuron in the population has a unique response or tuning curve relating a neuron’s firing rate to the represented variable.
-- **Population Coding**: [Information](../../videos/integrated_information_theory.md) about a variable is not encoded in the activity of a single neuron but is distributed across a population, with each neuron contributing to a collective representation.
+- **Population Coding**: Information about a variable is not encoded in the activity of a single neuron but is distributed across a population, with each neuron contributing to a collective representation.
 - **Dimensionality and Efficiency**: The framework accounts for the high-dimensional nature of neural representations and emphasises the efficiency of coding in neural populations.
 
 ## Principle 2: Transformation
@@ -20,3 +20,11 @@ The Neural Engineering Framework (NEF) is a **computational framework for simula
 - **Temporal Representation**: NEF extends to dynamics by showing how neural circuits can embody temporal dynamics through recurrent connections.
 - **State [Variables](../essential_math_for_data_science/dependent_and_independent_variables.md)**: Neural populations can represent state variables that change over time, allowing the modelling of dynamic systems and temporal processing.
 - **Differential [Equations](../essential_math_for_data_science/three_strategies_for_solving_equations.md)**: The dynamics of the represented variables can be described by differential equations, which are implemented through the synaptic connections within the neural population.
+
+## Structural connections
+
+- **[Dynamical abstraction](../../_general/dynamical_abstraction.md):** decoding maps high-dimensional neural activity to represented variables. The engineering target is that decoded neural evolution approximates the desired variable dynamics; representation alone does not guarantee that condition.
+- **[Compositional modelling](../../_general/compositional_modelling.md):** populations and decoded connections offer explicit interfaces for composing neural computations. Synaptic filtering, finite neuron counts, and coupling affect the accuracy of the combined system.
+- **[Information-preserving abstraction](../../_general/information_preserving_abstraction.md):** a decoder is evaluated against the variables or functions it must recover, not against preservation of every detail of neural activity.
+
+[Nengo's introductory examples](https://www.nengo.ai/nengo/getting-started.html) make the representation–transformation interface concrete using ensembles, function-computing connections, and filtered probes.

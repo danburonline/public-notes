@@ -40,6 +40,9 @@ Even total observational structure does not uniquely recover the base. Actual sc
 
 ## Connections
 
+- [Structure-preserving connections](../_general/structure_preserving_connections.md) — a method for comparing concepts without treating shared diagrams or note links as proven equivalences
+- [Information-preserving abstraction](../_general/information_preserving_abstraction.md) — which questions remain answerable after distinctions are discarded
+
 - [Newman problem of the brain](../papers/newman_problem_of_the_brain.md) — structural descriptions that fail to constrain intrinsic properties
 - [Access and phenomenal consciousness](access_and_phenomenal_consciousness.md) — relational access versus qualitative character
 - [Functionalism](../_general/functionalism.md) — role-based individuation, which inverted spectra are meant to underdetermine

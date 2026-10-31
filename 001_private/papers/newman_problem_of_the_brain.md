@@ -14,3 +14,9 @@ The Newman problem of the brain, also termed in consciousness science, is a **ph
 - **Spatiotemporal Grounding**: Perception transfers external spatiotemporal relations across boundaries, anchoring neural structures to the world via sensory intersections (e.g., overlapping modalities calibrating each other).
 - **Structurally Derived Content (SDC)**: Phenomenal experiences as fully relational, individuated by positions in Q-structures; careful structure definitions (e.g., surjective homomorphisms) make the problem "disappear."
 - **Neurophenomenal Structuralism**: Framework linking specific consciousness to relational neural maps; emphasises empirical methods like representational similarity analysis (RSA) for relational measurements over intrinsic ones.
+
+## Constraint on cross-domain mappings
+
+The objection concerns unconstrained existential claims about relations; it does not make every structural model scientifically vacuous. Independently specified measurements, admissible interventions, and prediction errors can constrain a mapping and allow it to fail. A formal homomorphism alone does not establish that those constraints capture phenomenal character.
+
+[Structure-preserving connections](../_general/structure_preserving_connections.md) uses this distinction to separate useful mathematical correspondences from arbitrary relabelling. The [Yoneda critique](../videos/yoneda_lemma_and_the_inverted_spectrum_problem.md) supplies a closely related limit: a theorem about an already specified relational structure cannot recover properties that were never encoded in it.

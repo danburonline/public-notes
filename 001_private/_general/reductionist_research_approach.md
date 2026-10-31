@@ -10,11 +10,19 @@ Reductionism is a **philosophical approach in science that explains complex syst
 
 ## Limitations
 
-Reductionism faces challenges when applied to systems exhibiting [emergent properties](../videos/strong_emergence.md)—phenomena that cannot be predicted from knowledge of parts alone. Critics argue that reductionist approaches may miss:
+Reductionist methods can be inadequate when descriptions of isolated parts omit interactions that generate collective behaviour. Such [emergent properties](../videos/emergent_properties.md) do not by themselves establish strong emergence or impossibility of prediction from a sufficiently complete model. Critics argue that reductionist approaches may miss:
 
 - **Relational properties**: Interactions between components that generate novel behaviours
 - **Context-dependence**: How environmental factors shape system dynamics
 - **Downward causation**: Higher-level constraints influencing lower-level processes
+
+## Decomposition, abstraction, and reconstruction
+
+- [Problem decomposition](../people/problem_decomposition.md) separates a problem into parts; it need not imply ontological reductionism.
+- [Compositional modelling](compositional_modelling.md) asks whether models of parts **and their connections** recover the relevant whole-system behaviour.
+- [Dynamical abstraction](dynamical_abstraction.md) instead maps a detailed model to fewer distinctions while testing whether the reduced dynamics remain adequate.
+
+These are complementary methodological operations, not interchangeable claims that “the whole is just the parts”.
 
 ## Contrast with Holistic Approaches
 

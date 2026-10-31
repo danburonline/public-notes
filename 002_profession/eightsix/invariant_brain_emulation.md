@@ -1,56 +1,59 @@
-#core/biomimeticneuromorphics #core/appliedneuroscience
+#core/biomimeticneuromorphics #core/appliedneuroscience #core/mathematicalphysics
 
 ![Invariant brain emulation](_attachments/invariant-brain-emulation.jpg)
 
-Invariant brain emulation refers to the **physical realisation of a mapping $f: B \rightarrow S$**, where $B \subset \mathbb{R}^n$ denotes the state space of a reference brain's dynamical system and $S \subset \mathbb{R}^m$ is the state space of an alternative physical substrate. For all observables $O$ (such as identity, cognitive function, or behaviour), the equivalence relation $O(f(b)) \equiv O(b)$ holds for every $b \in B$.
+**Invariant brain emulation** is a proposed engineering criterion for an alternative physical substrate to preserve specified dynamics and observables of a reference brain. It is a modelling and validation target, not an established procedure or a mathematical guarantee of preserved consciousness or personal identity.
 
-The invariance criterion requires that the mapping preserves the system's functional and dynamical properties under [diffeomorphic transformation](diffeomorphic_transformation.md), such that $\frac{\partial O}{\partial t} \big|_{f(b)} = \frac{\partial O}{\partial t} \big|_{b}$ for all relevant state trajectories. This formulation explicitly excludes computational abstractions, demanding strict physical realisability and operational equivalence through substrate-invariant functional isomorphism.
+## Specify what is preserved
 
-## Core Concepts
+Let $B$ and $S$ be modelled state spaces of a reference brain and an alternative substrate. A candidate state correspondence is $f:B\to S$. For each selected measurement, define separate readouts $O_B:B\to Y$ and $O_S:S\to Y$ into a common outcome space. Observational agreement requires
 
-### Substrate Independence
+$$
+O_S\circ f=O_B.
+$$
 
-The hypothesis that **mental states depend on functional organisation, not physical material**. If two systems implement the same functional relationships, they should produce identical cognitive outputs regardless of whether the substrate is biological neurons or silicon.
+Readouts may concern task performance, reports, or physiological variables. The measurement protocol and correspondence between outcomes must be specified. Personal identity and phenomenal experience are not directly available as ordinary readout functions merely because they are preservation goals.
 
-### Functional Isomorphism
+Real experiments usually test approximate agreement over a restricted domain, with explicit tolerances. They do not establish equality for every state or every possible observable.
 
-Two systems are functionally isomorphic when there exists a **one-to-one mapping between their states** that preserves all causal relationships. This is stronger than behavioural equivalence—it requires internal state correspondence.
+## Dynamics require more than a smooth mapping
 
-### Observable Equivalence
+For reference evolution $\Phi_t$ and substrate evolution $\Psi_t$, exact time-preserving correspondence requires
 
-The practical test: for any measurement $O$ we can make (behaviour, reported experiences, physiological markers), the emulated system produces indistinguishable results from the original.
+$$
+f\circ\Phi_t=\Psi_t\circ f.
+$$
 
-## Why "Invariant"?
+This is the commuting-diagram criterion developed in [dynamical abstraction](../../001_private/_general/dynamical_abstraction.md). Together with readout agreement, it implies matching measured trajectories. For differentiable readouts and trajectories, agreement of their time derivatives follows; derivative agreement alone is not a complete preservation criterion.
 
-The term emphasises that certain properties must remain **unchanged** (invariant) under the transformation:
+A [diffeomorphic transformation](diffeomorphic_transformation.md) preserves smooth structure but does **not** by itself preserve dynamics. Smooth conjugacy additionally requires the evolution equation above. Diffeomorphic state manifolds must have the same intrinsic dimension, even if embedded in ambient spaces of different dimensions. Many-to-one reductions require a weaker notion, such as semiconjugacy, rather than a diffeomorphism.
 
-- **Identity**: The emulated system is "the same person"
-- **Cognitive function**: Memory, reasoning, perception preserved
-- **Temporal dynamics**: Real-time processing maintained
-- **Phenomenal experience**: Subjective experience (if it exists) transfers
+Because brains are [open dynamical systems](../../001_private/videos/open_dynamic_system.md), the comparison must also specify corresponding inputs, outputs, environmental coupling, and perturbations. Matching one spontaneous trajectory is weaker than matching responses across the intended operating regime.
 
-## Challenges
+## Distinguish the strengths of the claim
 
-### The Measurement Problem
+| Claim | Requirement | What it does not establish |
+|---|---|---|
+| Observational agreement | Selected readouts agree under specified conditions | Complete internal state correspondence |
+| Dynamical reduction | A possibly many-to-one mapping respects evolution | Recoverability of discarded distinctions |
+| Dynamical conjugacy | An invertible structure-preserving map respects evolution | All physical or intervention-level causal properties unless these are included in the model |
+| Consciousness or identity preservation | An adequate account of which physical and causal properties suffice, plus evidence of their preservation | Cannot be inferred solely from the preceding mathematical conditions |
 
-Which observables $O$ must be preserved? Behaviour alone may be insufficient if we care about subjective experience.
+“Functional isomorphism” must therefore specify its state variables, transitions, and intervention structure. It is not established merely by fitting an input–output relation. [Multiple realisability](../../001_private/books/how_to_build_a_brain/multiple_realisability.md) motivates asking whether different physical systems could satisfy the relevant criteria; it does not prove that a particular mapping exists.
 
-### Granularity
+## Engineering questions
 
-At what level must functional equivalence hold?
+- **Granularity:** which molecular, cellular, circuit, or system-level distinctions affect the selected outcomes? [Information-preserving abstraction](../../001_private/_general/information_preserving_abstraction.md) clarifies why adequacy depends on the question.
+- **Physical implementation:** can the substrate realise the required timing, interactions, and responses? A mathematical simulation alone does not demonstrate this, but neither does its use of conventional computing automatically rule it out. The implementation must be assessed against the stated criteria.
+- **Composition:** does a replacement remain adequate when coupled to surrounding tissue? [Compositional modelling](../../001_private/_general/compositional_modelling.md) explains why isolated matching does not guarantee closed-loop success.
+- **Validation:** how do errors accumulate over time, across repeated replacements, and under previously untested inputs?
 
-- Synaptic? (molecular interactions)
-- Neuronal? (spike patterns)
-- Circuit? (population dynamics)
-- Systems? (cognitive modules)
+[Biomimetic neuromorphics](biomimetic_neuromorphics.md) explores candidate substrates. [ECP/PSNST](../../001_private/_general/psnst.md) and [Moravec transfer](../../001_private/social/twitter/moravec_transfer.md) motivate different proposed replacement architectures. Neither architecture has demonstrated preservation of the full set of properties at issue merely by being described in invariance language.
 
-### Physical Realisability
+> [!warning] Open question
+> Preserving selected functional organisation, preserving phenomenal experience, and preserving a person's identity are distinct claims. The [Yoneda critique](../../001_private/videos/yoneda_lemma_and_the_inverted_spectrum_problem.md) gives a parallel warning: mathematical structure cannot establish properties that its definitions do not capture.
 
-The formulation demands **actual physical implementation**, not just simulation. A brain "running" on a classical computer may not satisfy the invariance criterion if timing or causal structure differs.
+## Sources and status
 
-## Engineering Realisation
-
-[Biomimetic neuromorphics](biomimetic_neuromorphics.md) is the engineering discipline tasked with satisfying the invariance criterion in practice. For [ECP](../../001_private/_general/psnst.md)'s progressive transfer, the synthetic substrate must implement — not merely simulate — equivalent dynamics, such that the temporal derivatives $\frac{\partial O}{\partial t}$ are preserved across the biological-to-synthetic boundary. This distinguishes ECP from digitisation approaches like the [Moravec transfer](../../001_private/social/twitter/moravec_transfer.md), where invariance is achieved (if at all) through external simulation rather than substrate-level equivalence.
-
-> [!warning] Open Question
-> Whether invariant brain emulation preserves consciousness remains philosophically contested. Functionalists argue yes; biological naturalists argue the substrate itself matters.
+- [Topological conjugacy](https://en.wikipedia.org/wiki/Topological_conjugacy), definitions and flows — the mathematical preservation criterion used here.
+- This note applies that criterion as a proposed engineering framework. The mathematics does not establish its biological feasibility or settle consciousness and identity claims. See [structure-preserving connections](../../001_private/_general/structure_preserving_connections.md).

@@ -16,16 +16,16 @@ Decoupling of scale is the **principle that behaviours or properties at differen
 ## When Decoupling Fails
 
 - **Critical phenomena** — near phase transitions, all scales become coupled (e.g., neuronal avalanches at criticality; turbulent energy cascades). This is where [attractor state](../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md) dynamics can reveal cross-scale dependencies.
-- **[Emergent properties](emergent_properties.md)** — when macro-level behaviour is irreducible to micro-level description, scale decoupling is definitionally impossible. See [strong emergence](strong_emergence.md) for the claim this irreducibility is genuine rather than epistemic.
-- **[Computational irreducibility](computational_irreducibility.md)** — Wolfram's principle that some systems have no shortcut: to know the macro-state, you must simulate every micro-step. Decoupling of scale is precisely the _failure_ of computational irreducibility — it describes when shortcuts _are_ available.
+- **Emergent behaviour** — collective patterns may require interactions across scales, but emergence does not itself imply failure of an effective macro-description. The stronger philosophical claim of irreducibility is a separate question.
+- **Limits of prediction** — difficulty in predicting detailed trajectories does not imply equal difficulty in predicting every aggregate observable. Conversely, failure of a particular scale separation may reflect omitted variables or memory rather than a general impossibility of prediction.
 
-Decoupling of scale is therefore best understood not as a universal law but as a **methodological gift**: when it holds, modelling simplifies dramatically; when it fails, you confront either emergence or irreducibility — the hard edges of reductionist science.
+Decoupling is therefore a conditional modelling assumption, not the formal opposite of computational irreducibility. [Dynamical abstraction](../_general/dynamical_abstraction.md) makes the practical requirement explicit: does the reduced state contain enough information to evolve consistently, and over what time horizon?
 
 ## Related Concepts
 
 - [Coarse graining](../papers/coarse_graining.md) — the modelling technique that exploits scale decoupling
 - [Degrees of freedom of the brain](../papers/degrees_of_freedom_of_the_brain.md) — why decoupling is necessary
 - [Time scales of the brain](../papers/time_scales_of_the_brain.md) — the temporal hierarchy that permits scale separation
-- [Emergent properties](emergent_properties.md) — when decoupling breaks down
-- [Computational irreducibility](computational_irreducibility.md) — the formal opposite of scale decoupling
+- [Emergent properties](emergent_properties.md) — collective organisation, which need not rule out effective descriptions
+- [Computational irreducibility](computational_irreducibility.md) — limits on predictive shortcuts, distinct from scale separation
 - [Attractor state](../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md) — cross-scale dynamics at criticality

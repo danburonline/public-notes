@@ -1,8 +1,10 @@
-#core/appliedneuroscience #core/softwaredevelopment
+#core/appliedneuroscience #core/softwaredevelopment #core/mathematicalphysics
 
 ![shannon-information](_attachments/shannon-information.png)
 
-1. **Definition**: Shannon information quantifies the amount of uncertainty or surprise in a random variable.
+**Shannon information** quantifies statistical uncertainty and surprise, rather than the meaning or phenomenal character of a message.
+
+1. **Self-information**: An outcome $x$ with probability $p(x)$ has surprise $-\log_2 p(x)$.
 2. **Entropy**: Measure of average information content in a message.
    - Formula: H(X) = -Σ p(x) log₂ p(x)
    - Units: bits (when using log₂)
@@ -16,6 +18,12 @@
 1. **Uncertainty Reduction**: Information is gained when uncertainty is reduced.
 2. **Probabilistic Nature**: Based on probabilities of events/messages.
 3. **Channel Capacity**: Maximum rate of reliable information transmission.
+
+## Information retained by a representation
+
+**Mutual information** $I(X;Y)$ measures statistical dependence; for discrete variables it can be expressed as $H(X)-H(X\mid Y)$. The figure's overlapping regions illustrate this quantity, distinct from the entropy of either variable alone.
+
+If a code $Z$ is generated only from data $X$, the data processing inequality gives $I(Y;Z)\leq I(Y;X)$ for a target $Y$. [Information-preserving abstraction](../../_general/information_preserving_abstraction.md) connects equality to task-relative sufficiency: a compressed representation can retain all information about one target while discarding information needed for another. This provides a precise bridge to [autoencoders](../../videos/autoencoder.md) and coarse-grained models without treating statistical compression as preserved consciousness.
 
 ## Relation to [Integrated Information Theory](../../videos/integrated_information_theory.md) (IIT)
 
