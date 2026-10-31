@@ -2,23 +2,29 @@
 
 ![supervenience](_attachments/supervenience.jpg)
 
-- **Definition**: A relationship between two sets of properties (supervenient and base properties) wherein any change in the supervenient properties necessitates a change in the base properties, but not necessarily vice versa.
-- **Context**: Central in discussions about the mind-body problem, ethics, and the relationship between physical and mental properties. It illustrates how higher-level phenomena depend on lower-level phenomena without being reducible to them.
-- **Example**: The mental state of experiencing joy (supervenient property) cannot change without some change in the physical state of the brain (base property). However, the brain might change in ways that do not alter the experience of joy.
+*The diagram illustrates levels of organisation, but its downward-causality arrow represents an additional claim: supervenience alone does not imply downward causation.*
+
+- **Definition**: A relationship between two sets of properties: there cannot be a difference in the supervenient properties without a difference in the base properties, but not necessarily vice versa. Equivalently, identical base properties guarantee identical supervenient properties within the scope of the claim.
+- **Context**: Central in discussions about the mind–body problem, ethics, and the relationship between physical and mental properties. Supervenience constrains how properties can vary together; it does not by itself establish reduction, irreducibility, or a causal mechanism.
+- **Example**: If mental states supervene on brain states, experiencing joy cannot change without some change in the physical state of the brain. However, the brain might change in ways that do not alter the experience of joy. This illustrates the thesis rather than establishing that the brain alone is a sufficient base.
 
 > [!example] Example: Supervenience of Mind on Brain  
-> Consider the experience of pain. Suppose you accidentally touch a hot stove and feel a sharp pain (mental state). According to supervenience, this mental state of pain cannot change unless there is a corresponding change in your brain’s physical state—such as neural activity in certain pain-related regions. If your brain were in exactly the same physical state, you could not have a different mental experience (e.g., pleasure instead of pain).
+> Suppose pain supervenes on the brain’s physical state. If you touch a hot stove and feel pain, that mental state cannot change without a corresponding physical change in the brain. An exactly identical brain state could not accompany a different pain experience within the scope of this thesis.
 >
-> However, your brain could undergo minor physical changes (like increased blood flow or minor chemical fluctuations) that do not affect the mental state of pain. Thus, while the mental state depends on the brain state, not every brain change leads to a change in the mind.)
+> The converse does not follow: a physical difference need not produce a difference in pain. Supervenience also leaves open why this relationship holds.
 
 ## Types of Supervenience
 
 ### Global Supervenience
 
 - **Definition**: A type of supervenience where the relationship holds across all possible worlds; if two worlds are identical in their base properties, they must also be identical in their supervenient properties.
-- **Example**: Moral values (supervenient properties) globally supervene on physical and social facts (base properties) across all possible scenarios.
+- **Example**: A global moral-supervenience thesis says that worlds identical in all physical and social facts must also be identical in their moral properties.
 
 ### Local Supervenience
 
-- **Definition**: Supervenience that applies to individual objects within a single world, focusing on the relationship between their properties.
-- **Example**: The sweetness of a specific piece of candy (supervenient property) locally supervenes its chemical composition (base properties).
+- **Definition**: Supervenience that compares individual objects rather than entire worlds. **Weak** individual supervenience compares objects within each possible world; **strong** individual supervenience also compares objects across possible worlds.
+- **Example**: For ideal spheres in Euclidean geometry, surface area supervenes on radius: spheres with the same radius cannot differ in surface area.
+
+## Source
+
+- [Stanford Encyclopedia of Philosophy: Supervenience](https://plato.stanford.edu/entries/supervenience/), especially §§3.3, 3.5, 3.7 and 4.1.
