@@ -1,46 +1,29 @@
-#core/mathematicalphysics
+#core/mathematicalphysics #core/softwaredevelopment
 
-An open dynamic system is a **system that interacts with its environment.** Unlike a closed system, where everything is self-contained, an open system is influenced by its surroundings and can exchange matter, energy, or information with them. A key feature is that the system's evolution is determined not just by its internal rules and initial state, but also by these external influences.
+An **open dynamical system** models an internal state evolving under external inputs and producing observable outputs. The interface is a modelling choice; outputs need not reveal the full state.
 
-## Key Concepts
+## Minimal model
 
-### Components of an Open Dynamic System
+For a deterministic discrete-time model, let $S$, $I$ and $O$ denote the state, input and output sets:
 
-- **States (S)**: The internal configurations or "ways a system can be."
-- **Inputs (I)**: What the system receives from its environment.
-- **Outputs (O)**: What the system produces and sends back to the environment.
-- **Update Function**: A rule that determines the system's next state based on its current state and input.
-- **Readout Function**: A rule that determines the system's output based on its current state.
+$$
+s_{t+1}=u(i_t,s_t),\quad o_t=r(s_t),
+\qquad u:I\times S\to S,\quad r:S\to O.
+$$
 
-### System Behaviour
+An initial state and input sequence determine a trajectory. With finite sets and a chosen initial state, this is precisely a **finite Moore machine**: a direct correspondence between dynamical and computational descriptions.
 
-The "behaviour" of an open dynamic system refers to the set of all possible trajectories or signal patterns that the system can exhibit over time, following its internal laws and interactions with the environment — and it is exactly this behaviour that [invariant brain emulation](../../002_profession/eightsix/invariant_brain_emulation.md) must preserve when mapping a brain's dynamics onto an alternative substrate.
+## Composition and use
 
-## Examples of Open Dynamic Systems
+Connecting one system's readout to another's input retains both internal states. Signal types and update timing must match; stateful composition is not simply chaining instantaneous functions. [Compositional modelling](../_general/compositional_modelling.md) formalises the wiring rules.
 
-The concept of open dynamic systems is applied across various scientific fields:
+- [Dynamical abstraction](../_general/dynamical_abstraction.md) — test whether state abstraction preserves dynamics across intended inputs, not just one trajectory.
+- [Neural Engineering Framework](../books/how_to_build_a_brain/principles_of_the_neural_engineering_framework.md) — distinguish neural activity from decoded variables; successful readout alone does not establish correct dynamics.
 
-- **Biology**: A living cell is a classic example of an open system. It takes in nutrients (input) from its environment, processes them through its metabolism (update function), and releases waste products (output).
-- **Physics**: In modelling atmospheric or ocean flows, temperature, pressure, and moisture act as external parameters that influence the system's dynamics. A billiard ball on a table with a pocket is another simple example, where the ball's trajectory can "escape" the system.
-- **Engineering**: In control theory and signal processing, systems are often designed to respond to external inputs. For instance, a thermostat receives temperature information from the environment and adjusts the heating or cooling system accordingly.
+**Scope:** this model assumes deterministic updates and state-only readout; continuous-time or stochastic dynamics need other formulations. “Autonomous” means no variable input, unlike thermodynamic “closed”, which permits energy exchange.
 
-## Open vs. Closed Systems
+## Sources
 
-The main distinction lies in their interaction with the environment:
-
-| Feature                          | Open System                                                          | Closed System                                                                |
-| :------------------------------- | :------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
-| **Interaction with Environment** | External influence is explicitly modelled through interfaces. | No external input is included in the autonomous model. |
-| **Evolution** | Depends on internal state and external inputs. | Depends on internal state under the model's fixed laws. |
-| **Examples** | A driven neural circuit or a controlled thermal system. | An idealised autonomous oscillator. |
-
-Here “closed” means autonomous in a dynamical model. In thermodynamics, a closed system can still exchange energy, whereas an isolated system exchanges neither energy nor matter.
-
-## Connections in the Vault
-
-- [Compositional modelling](../_general/compositional_modelling.md) — connecting outputs to inputs creates a larger system; feedback requires explicit state, timing, and well-posedness conditions.
-- [Dynamical abstraction](../_general/dynamical_abstraction.md) — reduced and detailed updates must agree across the intended input class, not only along a single trajectory.
-- [Inference, learning, and control](../_general/inference_learning_and_control.md) — observations, belief updates, and actions occupy different interfaces in an adaptive loop.
-
-- The regimes such trajectories settle into are studied in neural computation as [attractor states](../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md), where dynamics poised near the edge of chaos let small inputs reshape the attractor landscape.
-- The States/Inputs/Update/Readout components are the same vocabulary the [Neural Engineering Framework](../books/how_to_build_a_brain/principles_of_the_neural_engineering_framework.md) uses to model neural populations: representing variables through distributed activity, transforming them via update dynamics, and decoding them through readout.
+- Spivak, [discrete systems and Moore machines](https://arxiv.org/html/1512.00802v2#S4), Definition 2.1 and Remark 2.3.
+- Vagner, Spivak and Lerman, [wiring-diagram semantics](https://arxiv.org/html/1408.1598v2), Definition 3.1 and Proposition 4.5.
+- Nengo, [represented variables and readouts](https://www.nengo.ai/nengo/getting-started.html#usage).
