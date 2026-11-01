@@ -1,13 +1,13 @@
 ## AGENTS.md
 
-**Updated:** 2026-10-31
+**Updated:** 2026-11-01
 **Branch:** main
 
 ### OVERVIEW
 
 Public, personal Obsidian knowledge base (Zettelkasten-style). Several markdown notes covering neuroscience, consciousness, ML, software engineering, and philosophy.
 
-**Primary Goal**: Support Daniel's development as a modern-day polymath with deep expertise in category theory. Use category theory as a rigorous toolset for finding shared structures, relationships and compositional patterns across disciplines, including related ideas expressed through different concepts and terminologies. The notes should function as a synthesis engine across all skill categories: lead, core, and fundamental, rather than a collection of isolated summaries.
+**Primary Goal**: Support Daniel's development as a modern-day polymath with deep expertise in category theory. Use category theory as a rigorous toolset for finding shared structures, relationships and compositional patterns across disciplines, including related ideas expressed through different concepts and terminologies. The notes should be concise, systematic, polymathic, interdisciplinary and pragmatic: a synthesis engine across lead, core and fundamental skills, not mini-wikis or isolated summaries.
 
 The lead tier forms a deliberate continuum. Computational philosophy makes abstract thought and pure knowledge more precise. Venture engineering turns those foundations into research, technologies, and interventions through venture building. Experimental medicine works at the most hands-on end, experimenting with living systems and humans to understand and repair biological faults. These leads draw on core disciplines including evolutionary panmemetics, [biomimetic neuromorphics](002_profession/eightsix/biomimetic_neuromorphics.md), mathematical physics, theoretical neurosurgery, applied neuroscience, artificial intelligence, software development, and interaction design. [Consciousness engineering](001_private/_general/consciousness_engineering.md) is one integrative direction emerging from their combination.
 
@@ -15,7 +15,7 @@ The lead tier forms a deliberate continuum. Computational philosophy makes abstr
 
 - **Look beyond vocabulary**: Seek shared structures, mechanisms, constraints and patterns of composition, not just matching words. Different terms may describe related ideas; identical terms may mean different things in different fields.
 - **Make bridges explicit**: When a connection is substantive, explain which concepts correspond, what relationships are preserved, what insight or method transfers, and where the comparison fails. Link the relevant notes using standard Markdown links rather than adding unexplained associations.
-- **Use formalism where it earns its place**: For a categorical treatment, specify the objects, morphisms, identities and composition, and justify any claimed structure-preserving mapping. Do not force every note into category-theoretic language or treat an analogy as a proven equivalence.
+- **Use formalism where it earns its place**: For formal categorical claims, make the objects, morphisms, identities, composition and preservation conditions checkable through concise statements or links to existing explanations. Do not force every note into category-theoretic language or treat an analogy as a proven equivalence.
 - **Preserve evidence and differences**: Read the relevant notes and sources before asserting a connection. Distinguish established results, personal synthesis and speculative analogies; retain disciplinary assumptions and counterexamples rather than flattening them into a single vocabulary.
 - **Apply the method without crossing boundaries**: Use this synthesis-oriented approach for established notes and provisional thinking alike. A shared intellectual aim does not override any workspace's own instructions, access controls or publication boundaries, or authorise copying restricted material into public notes.
 
@@ -55,6 +55,13 @@ Notes/
 **Convention scope:** These conventions apply only to files owned by this public repository. Separately controlled repositories follow their own instructions and must not inherit this vault's personal taxonomy.
 
 ### CONVENTIONS
+
+#### Scope and Brevity (MANDATORY)
+
+- **Keep notes small**: aim for 100–250 words; exceed 400 only when explicitly requested. Shorter is welcome; this is not a quota.
+- **One useful idea**: retain its definition, essential mechanism or distinction, practical implication and a few meaningful interdisciplinary links. Notes are concise synthesis, not mini-wikis, surveys or tutorials.
+- **Selective rigour**: include only essential equations, assumptions and at most one short example. Link existing notes and authoritative sources for proofs, derivations and further detail rather than reproducing them. Detailed explanations can be sought from external sources or LLMs when needed.
+- **Distil when refining**: clarity and usefulness take priority over adding content. Do not multiply thin notes just to meet the limit; split only independently useful concepts. Check length before finishing.
 
 #### Note Structure (MANDATORY)
 
