@@ -1,21 +1,18 @@
 #core/appliedneuroscience
 
-Bistability in cortical neurons refers to their **ability to maintain two stable states of membrane potential or firing rates, switching between them in response to transient inputs.** This property is fundamental to various neural computations and memory functions.
+**Bistability** means that two stable activity regimes coexist under the same baseline inputs and parameters; transient perturbations can select between them. In state-space models, these are coexisting [attractors](../../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md), not necessarily two constant membrane voltages.
 
-## Mechanisms and Properties
+## Mechanism and limits
 
-The phenomenon of bistability primarily arises from the interplay of voltage-gated [ion channels](../../../003_education/kcl/01_techniques_in_neuroscience/ion_channels.md), particularly persistent sodium currents and calcium-activated potassium currents. These create positive feedback loops that can sustain depolarized states. A key feature of bistable neurons is hysteresis, where the neuron’s state depends not only on current inputs but also on its history.
+Intrinsic [ion channels](../../../003_education/kcl/01_techniques_in_neuroscience/ion_channels.md) can provide regenerative inward feedback; outward currents can oppose or terminate it. Persistent activity can also arise from recurrent synaptic feedback. Sustained firing alone does not distinguish these mechanisms.
 
-Conceptually, the two stable states can be viewed as [attractors](../../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md) in the neuron’s state space, with a separatrix dividing their basins of attraction. This attractor dynamics underlies the neuron’s ability to maintain distinct states.
+For example, rat lateral entorhinal layer III neurons **in vitro with carbachol** could be switched between persistent spiking and silence by successive excitatory stimuli. Pharmacological results implicated BK potassium channels in terminating firing, not sustaining it.
 
-[Neuromodulators](../../../003_education/kcl/04_biological_foundations_of_mental_health/neurotransmitters_vs_neuromodulators_vs_neuropeptides.md#neuromodulators) like acetylcholine and norepinephrine can significantly influence the bistable properties of neurons, affecting their computational capabilities. While individual neurons can exhibit bistability, network interactions can further stabilize or destabilize these states, leading to emergent bistable behavior at the circuit level.
+**Pragmatic test:** keep baseline stimulation and [neuromodulatory conditions](../../../003_education/kcl/04_biological_foundations_of_mental_health/neurotransmitters_vs_neuromodulators_vs_neuropeptides.md#neuromodulators) fixed, vary the preceding transient input, and test whether either regime persists after that input ends. Distinguish coexisting regimes from slow decay.
 
-## Functional Implications and Observations
+This supplies a possible history-dependent memory switch, not proof of a working-memory function in vivo.
 
-Bistability is thought to play a crucial role in working memory, decision-making, and the maintenance of persistent activity in the absence of ongoing stimulation. It has been observed in various cortical regions, including the prefrontal cortex and sensory areas, often using intracellular recordings and pharmacological manipulations.
+## Sources
 
-To study bistable dynamics, researchers employ computational models ranging from detailed [Hodgkin-Huxley](../../../003_education/epfl/hodgkin-huxley_model.md) type models with additional currents to simplified models like the FitzHugh-Nagumo model.
-
-## Related Concepts
-
-- [Attractor State](../../../003_education/kcl/08_advances_in_neuroscience/attractor_state.md) — Network-level attractor dynamics; bistability as a single-neuron precursor to circuit-level attractor states
+- Zylberberg & Strowbridge (2017), [*Mechanisms of Persistent Activity in Cortical Circuits*](https://pmc.ncbi.nlm.nih.gov/articles/PMC5995341/) — cellular versus circuit mechanisms.
+- Tahvildari et al. (2008), [*Ionic basis of ON and OFF persistent activity in layer III lateral entorhinal cortical principal neurons*](https://pubmed.ncbi.nlm.nih.gov/18256167/), abstract — the qualified ON/OFF example.
