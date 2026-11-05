@@ -1,19 +1,19 @@
 ## Public Notes
 
-This is my public, Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten): a knowledge base for enduring ideas across disciplines. I use it to build bridges between fields, supporting my aim to become a modern-day [polymath](https://en.wikipedia.org/wiki/Polymath) with deep expertise in [category theory](https://en.wikipedia.org/wiki/Category_theory), and to turn learning into research, engineering and new intellectual frameworks. **[Browse the website version](https://danbur.online/notes).**
+This is my public, Obsidian-based [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten): a knowledge base for enduring ideas across disciplines. My aim is to become a modern-day [polymath](https://en.wikipedia.org/wiki/Polymath) by connecting knowledge across fields and turning learning into research, engineering and new intellectual frameworks. **[Browse the website version](https://danbur.online/notes).**
 
-### Vision and Mission
-
-Two overarching ontological entities orient the work documented here:
-
+**Vision and Mission:** Two overarching ontological entities orient the work documented here:
 - **Vision:** synthetic consciousness
 - **Mission:** hybrid mind uploading
 
-### Intellectual Method
+### Intellectual Approaches
 
-Category theory provides a rigorous toolset for studying mathematical structures through their relationships and how those relationships compose. I aim to use that perspective to identify shared structures across disciplines, recognise related ideas expressed in different terminologies, and explore when concepts and methods can transfer between fields.
+Two complementary approaches guide my work across all three lead disciplines:
 
-The notes exist to make these connections explicit and open to scrutiny, not merely to collect facts. A useful bridge explains what corresponds, what is preserved and where the comparison breaks down; a suggestive analogy is not automatically a formal equivalence.
+- **Dialectical inquiry: a general method of thought.** I examine claims through competing explanations, objections and counterexamples, making assumptions and tensions explicit. I seek a better account without forcing every disagreement into a compromise or synthesis.
+- **Category theory: a toolset for interdisciplinary synthesis.** I investigate shared structures, relationships and patterns of composition across fields, including related ideas expressed in different terminologies. A useful bridge specifies what corresponds, what is preserved, what transfers and where the comparison fails. An analogy is not automatically a formal equivalence.
+
+Together, these support polymathy as connected expertise rather than accumulated facts. Neither replaces disciplinary knowledge or empirical evidence.
 
 ### Skill Architecture
 
@@ -28,6 +28,8 @@ Lead skills are the highest level of synthesis. These three leads form a continu
 - #lead/computationalphilosophy
 - #lead/ventureengineering
 - #lead/experimentalmedicine
+
+Both approaches operate throughout this continuum: computational philosophy clarifies concepts, venture engineering develops technologies and ventures, and experimental medicine investigates living systems and interventions. Evidence and practical constraints feed back into theories and designs.
 
 #### 2. Core
 
