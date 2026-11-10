@@ -1,32 +1,23 @@
 #lead/computationalphilosophy #core/appliedneuroscience #core/artificialintelligence
 
-![p-zombie](_attachments/p-zombie.png)
+![A person and a stipulated zombie both report pain, but only the person feels it.](_attachments/p-zombie.png)
 
-A **philosophical zombie** (or p-zombie) is a hypothetical being used in a philosophical argument made prominent by David Chalmers in 1996. It is stipulated to be physically and behaviourally identical to a human while entirely lacking conscious experience (qualia). The stipulation is a claim about philosophical conceivability, not an empirical report that such beings exist.
+A **philosophical zombie** (p-zombie) is a hypothetical physical and behavioural duplicate of a conscious person that lacks **phenomenal experience**: it reports pain but feels nothing. This stipulation is not evidence that zombies exist.
 
-- **Physically identical:** Same neurons, brain states, and bodily processes as a conscious human.
-- **Behaviourally indistinguishable:** Responds to stimuli, reports feelings, and acts appropriately—but has **no subjective experience**.
-- Key concept: a proposed separation between physical facts and phenomenal facts, used to challenge some forms of **physicalism**.
+## Argument and objections
 
-## Purpose of Zombie Arguments
+Chalmers' zombie argument challenges **physicalism**:
 
-- **Critique physicalism:** Argue that a complete physical duplicate without experience is conceivable, and that this would put pressure on views identifying phenomenal consciousness with physical facts. Whether conceivability establishes metaphysical possibility is disputed.
-- **Explore Mind-Body Problem:** Relationship between brain states and subjective experience.
-- **Test Theories of [Consciousness](../books/how_to_build_a_brain/multiple_realisability.md#implications-in-consciousness-research):** Can any theory account for zombies’ apparent absence?
+1. A world physically identical to ours but without experience is ideally conceivable.
+2. Such conceivability entails metaphysical possibility.
+3. If such a world is possible, physical facts do not necessitate consciousness; physicalism is false.
 
-## Criticisms of Zombie Arguments
+The disputed steps are whether the scenario is genuinely conceivable and whether conceivability establishes possibility. Physicalists may deny its coherence, or argue that distinct concepts need not pick out distinct properties.
 
-- **Logical or metaphysical incompatibility:** Physicalists typically deny that a physical duplicate could differ in phenomenal properties; critics therefore reject the zombie description or the inference from conceivability to possibility.
-- **Conceivability is not detectability:** By stipulation, a p-zombie has no physical or behavioural difference for an empirical test to detect. This does not show that actual humans or artificial systems can be observationally classified as zombies.
-- **Ambiguity of “consciousness”:** Different definitions of phenomenal experience, access, and report can lead to different conclusions.
+## Empirical boundary
 
-## Relevance to Applied Neuroscience
+**Conceivability is not detectability.** A stipulated physical duplicate matches neural measurements and verbal reports; no physical or behavioural test could distinguish it from its conscious counterpart. This does not undermine empirical consciousness research: it constrains what this thought experiment can establish.
 
-- **Consciousness vs. Behaviour:** Studying neural correlates of behaviour vs. experience.
-- **Brain-Computer Interfaces:** Can we create artificial consciousness or detect it in others? This question is central to approaches like [Progressive Synthetic Neural Substrate Transfer](psnst.md).
-- **Ethical Implications:** If zombies are possible, should we treat them differently?
-- **[Naturalisation of phenomenology](../articles/naturalisation_of_phenomenology.md):** Bridging first-person phenomenological methods with third-person neuroscience may offer tools to distinguish genuine consciousness from zombie-like processing.
+[Naturalised phenomenology](../articles/naturalisation_of_phenomenology.md) can relate reported experience to neural processes, not detect zombies as defined. For AI assessment or hypothetical [PSNST](psnst.md), substrates differ rather than being physically identical: inferring experience from functional performance requires explicit theoretical assumptions. [Fading qualia](../books/from_biological_to_artificial_consciousness/fading_qualia.md) examines that inference during gradual substrate replacement.
 
-The zombie argument therefore marks a conceptual limit on what behaviour and physical measurements could establish under its own stipulation. It does not provide evidence that such beings occur, nor does it by itself identify a test for phenomenal consciousness.
-
-See also [fading qualia](../books/from_biological_to_artificial_consciousness/fading_qualia.md), which considers a different thought experiment about experience during gradual substrate replacement.
+**Sources:** [Chalmers](https://consc.net/zombies-on-the-web/); [Stanford Encyclopedia of Philosophy, §§2–5](https://plato.stanford.edu/entries/zombies/).
