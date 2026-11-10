@@ -92,3 +92,4 @@ While [Biomimetics](biomimetics.md) in tissue engineering focuses on ECM mimicry
 - [Chimeroids](../../001_private/courses/_general/chimeroids.md) — Multi-donor synthetic neural tissue
 - [Neural correlate of consciousness](../../001_private/books/the_feeling_of_life_itself/neural_correlate_of_consciousness.md) — What the substrate must ultimately support
 - [Multiple realisability](../../001_private/books/how_to_build_a_brain/multiple_realisability.md) — Philosophical foundation for substrate independence
+- [Continual learning](../../001_private/_general/continual_learning.md): the machine-learning form of the same stability-plasticity problem
