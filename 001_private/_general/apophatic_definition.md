@@ -1,27 +1,23 @@
 #fundamental/logic
 
-Apophatic definition (also called _negative definition_ or _via negativa_) describes something by stating what it is not, rather than what it is. It is commonly used in philosophy, theology, and discussions about concepts that are difficult or impossible to define positively.
+**Apophatic definition** characterises something by stating what it is **not**, contrasting with **cataphatic** (affirmative) description. It is associated with *via negativa*, especially in theology.
 
-## Why Use Apophatic Definitions?
+## Use and limits
 
-- **Transcendence:** Useful for describing things considered beyond human comprehension (e.g., God, consciousness).
-- **Clarity:** Helps avoid misleading or overly simplistic positive definitions.
-- **Philosophical Rigour:** Allows for the elimination of incorrect or inadequate attributes.
+Negation can expose misleading descriptions, but **exclusion is not automatically identification**. For ordinary conceptual analysis:
 
-## Apophatic Definition vs. Cataphatic Definition
+- Specify the domain and justify each exclusion.
+- Ask which possibilities remain.
+- Treat the result as partial unless it determines exactly what counts.
 
-| Apophatic (Negative)  | Cataphatic (Positive)  |
-| --------------------- | ---------------------- |
-| Defines by negation   | Defines by affirmation |
-| Says what X is not    | Says what X is         |
-| Example: "Not finite" | Example: "Infinite"    |
+Negative wording alone adds no explanatory force; an affirmative and a negative expression may convey the same content.
 
-> [!example] Apophatic Definition Example: [Consciousness](../books/sizing_up_consciousness/levels_of_cognitive_complexity.md#self-consciousness)
->
-> - Consciousness is **not** unconsciousness.
-> - Consciousness is **not** a physical object.
-> - Consciousness is **not** reducible to brain activity alone.
-> - Consciousness is **not** something that can be directly observed from the outside.
-> - Consciousness is **not** a simple collection of behaviors.
->
-> This illustrates how an apophatic definition clarifies a concept by stating what it is not, rather than what it is.
+In Pseudo-Dionysius’ theology, the aim goes beyond narrowing alternatives: both affirmations and negations are ultimately transcended because neither adequately captures God. This theological commitment is not a general rule of logic.
+
+## Application to consciousness
+
+Calling consciousness “not reducible to brain activity” is a disputed metaphysical claim, not a neutral clarification. [Philosophical zombies](philosophical_zombies.md) sharpen this dispute by stipulating physical duplicates of conscious people without experience; whether such duplicates are possible requires argument. The negative wording supplies no independent reason to reject a physical explanation.
+
+**Practical rule:** use justified negatives to challenge inadequate accounts, not to substitute for an explanation.
+
+**Sources:** [SEP: Pseudo-Dionysius, §§3.4, 4.2](https://plato.stanford.edu/entries/pseudo-dionysius-areopagite/); [SEP: Zombies, §2](https://plato.stanford.edu/entries/zombies/).
