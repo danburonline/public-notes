@@ -1,29 +1,27 @@
-#core/interactiondesign #fundamental/logic
+#lead/computationalphilosophy #fundamental/logic
 
-Reductionism is a **philosophical approach in science that explains complex systems or phenomena by breaking them down into simpler and more fundamental components** and understanding them through the study of these individual parts.
+**Reductionism** seeks to explain higher-level phenomena through lower-level constituents, mechanisms or theories. Analysing parts does not by itself establish what exists or which explanations are sufficient.
 
 ## Types of Reductionism
 
-1. **Ontological reductionism**: Higher-level entities are nothing more than their constituent parts (e.g., minds are just brain states)
-2. **Methodological reductionism**: The best way to study complex systems is by analysing their components
-3. **Epistemic reductionism**: Knowledge of higher-level phenomena can be derived from lower-level descriptions
+1. **Ontological reductionism:** higher-level entities consist entirely of lower-level constituents and their interactions.
+2. **Methodological reductionism:** prioritise component analysis and lower-level mechanisms when investigating a system.
+3. **Epistemic reductionism:** higher-level knowledge can be reduced to lower-level accounts, through theoretical derivation or reductive explanation.
 
-## Limitations
+None automatically establishes the others. The best research strategy depends on the question and system.
 
-Reductionist methods can be inadequate when descriptions of isolated parts omit interactions that generate collective behaviour. Such [emergent properties](../videos/emergent_properties.md) do not by themselves establish strong emergence or impossibility of prediction from a sufficiently complete model. Critics argue that reductionist approaches may miss:
+## Decomposition, Abstraction, and Reconstruction
 
-- **Relational properties**: Interactions between components that generate novel behaviours
-- **Context-dependence**: How environmental factors shape system dynamics
-- **Downward causation**: Higher-level constraints influencing lower-level processes
+[Problem decomposition](../people/problem_decomposition.md) separates tasks; [compositional modelling](compositional_modelling.md) tests whether parts **and their connections** recover whole-system behaviour. [Dynamical abstraction](dynamical_abstraction.md) instead removes distinctions while preserving specified dynamics.
 
-## Decomposition, abstraction, and reconstruction
+**Predictive adequacy:** a parts-based model must reproduce selected whole-system behaviours within stated tolerances, under specified inputs, environmental conditions and time horizons. Matching isolated components is insufficient if coupling changes the result.
 
-- [Problem decomposition](../people/problem_decomposition.md) separates a problem into parts; it need not imply ontological reductionism.
-- [Compositional modelling](compositional_modelling.md) asks whether models of parts **and their connections** recover the relevant whole-system behaviour.
-- [Dynamical abstraction](dynamical_abstraction.md) instead maps a detailed model to fewer distinctions while testing whether the reduced dynamics remain adequate.
+[Emergent properties](../videos/emergent_properties.md) can expose missing interactions without proving that lower-level explanation is impossible.
 
-These are complementary methodological operations, not interchangeable claims that “the whole is just the parts”.
+## Perspectives on Experience
 
-## Contrast with Holistic Approaches
+[Phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) studies structures of first-person experience, not simply “wholes rather than parts”. First-person description and third-person mechanism concern different perspectives, not necessarily competing decomposition strategies. [Naturalisation of phenomenology](../articles/naturalisation_of_phenomenology.md) explores their coordination; this does not establish that either account reduces to the other.
 
-[Phenomenology](../../003_education/kcl/03_mental_health_in_the_community/phenomenology.md) offers an alternative methodology that studies phenomena as unified wholes rather than decomposed parts. The [Naturalisation of phenomenology](../articles/naturalisation_of_phenomenology.md) represents an attempt to bridge reductionist neuroscience with holistic first-person methods, acknowledging that subjective experience may require both perspectives for complete understanding.
+## Sources
+
+- Stanford Encyclopedia of Philosophy: [Reductionism in biology](https://plato.stanford.edu/entries/reduction-biology/#Intr) (§1); [Phenomenology](https://plato.stanford.edu/entries/phenomenology/) (§§1–2).
